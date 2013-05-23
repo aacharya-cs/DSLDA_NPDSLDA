@@ -1,0 +1,82 @@
+
+************************************************************************
+* LARANK : Online solver for multiclass Support Vector Machines.       *
+* (see Bordes et al., "Solving MultiClass Support Vector Machines with *
+* LaRank" published in Proceedings of ICML'07, for more details)       *  
+************************************************************************
+
+
+
+** LICENSE **:
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation;
+
+
+
+** COMPILATION **: 
+
+This library has been implemented in C++. Simply typing make should
+generate the la_rank_learn and la_rank_classify binaries.
+
+
+
+** USAGE **: 
+
+The C++ library implements the kernel cache and the basic operations. 
+Two additional programs, la_rank_learn and la_rank_classify can be 
+used to run experiments. la_rank_learn learns and stores models for multiclass 
+classification with LaRank. la_rank_classify uses a model learned 
+with LaRank to make predictions.
+
+Typing la-rank_learn and/or la_rank_classify with no argument should
+producethe following helps.
+
+
+LA_RANK_LEARN: learns models for multiclass classification with the 'LaRank algorithm'.
+
+Usage: la_rank_learn [options] training_set_file model_file
+options:
+-c cost : set the parameter C (default 1)
+-e tau : threshold determining tau-violating pairs of coordinates (default 1e-4)
+-t kernel function (default 0):
+        0 linear : K(X,X')=X*X'
+        1 polynomial : K(X,X')=(g*X*X'+c0)^d
+        2 rbf : K(X,X')=exp(-g*||X-X'||^2)
+-g gamma : coefficient for polynomial and rbf kernels (default 1)
+-d degree of polynomial kernel (default 2)
+-b c0 coefficient for polynomial kernel (default 0)
+-k cache size : in MB (default 64)
+-m mode : set the learning mode (default 0)
+         0: online learning
+         1: batch learning (stopping criteria: duality gap < C)
+-v verbosity degree : display informations every v % of the training set size (default 10)
+
+
+LA_RANK_CLASSIFY: uses models learned with the 'LaRank algorithm' for multiclass classification to make prediction.
+
+Usage: la_rank_classify [options] training_set_file testing_set_file model_file
+options:
+-t kernel function (default 0):
+        0 linear : K(X,X')=X*X'
+        1 polynomial : K(X,X')=(g*X*X'+c0)^d
+        2 rbf : K(X,X')=exp(-g*||X-X'||^2)
+-g gamma : coefficent for polynomial and rbf kernels (default 1)
+-d degree of polynomial kernel (default 2)
+-b c0 coefficient for polynomial kernel (default 0)
+
+
+
+** DATA FILE FORMAT **
+
+The programs uses the so called LibSVM/SVMlight/SVMstruct data
+format. Each example is represented by a line in the following format:
+<line>    = <target> <feature>:<value> ... <feature>:<value> 
+<target>  = <int>
+<feature> = <integer> 
+<value>   = <float>
+
+
+
+** Copyright (C) 2008- Antoine Bordes **
