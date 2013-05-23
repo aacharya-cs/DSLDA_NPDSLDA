@@ -1,0 +1,478 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 19th international symposium on Physical design
+General Chairs: 	Prashant Saxena 	Synopsys
+Program Chairs: 	Yao-Wen Chang 	National Taiwan University
+Publication of:
+· Conference
+ISPD '10 International Symposium on Physical Design
+San Francisco, CA, USA — March 14 - 17, 2010
+ACM New York, NY, USA ©2010
+	
+Proceedings of the 19th international symposium on Physical design 	Published by ACM 2010 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 185
+· Downloads (12 Months): 1,423
+· Citation Count: 45
+
+
+	
+Tools and Resources
+
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to tabbed view
+
+Abstract | Source Materials | Authors | References | Cited By | Index Terms | Publication | Reviews | Comments | Table of Contents
+top of pageABSTRACT
+
+On behalf of the organizing committee for the 2010 ACM International Symposium on Physical Design (ISPD), we are delighted to welcome you to San Francisco, California for the symposium, being held from March 14th to March 17th, 2010. Like its eighteen predecessors, the 2010 ISPD provides a premier forum to bring out emerging challenges, present cutting-edge research results, exchange implementation experiences, identify future research directions, and record advances in theoretical and empirical techniques for problems related to the physical design of VLSI and other analogous systems (such as bio-chips). Furthermore, the 2010 ISPD is co-located with the ACM International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems (TAU), in an effort to further our attempts to collaborate with related events for higher impact on the electronic design automation (EDA) community.
+
+This year we received more than 70 submissions from all over the world. After a rigorous blind review process that culminated in a full-day face-to-face meeting of the entire technical program committee, only 22 regular papers were selected for inclusion. In addition, the program is further enriched with one keynote speech and thirteen invited talks presented by distinguished researchers in both industry and academia. The scope of these talks covers all aspects of physical design---from front-end logic and physical synthesis to back-end yield optimization and design for manufacturing, from VLSI circuitry to biological systems, from digital design to analog methodologies, from on-chip optimization to beyond-die design, and from 2D synthesis to 3D integration. As a highlight of ISPD's focus on emerging applications in non-traditional domains, we are very fortunate in having Dr. Louis Scheffer from the Howard Hughes Medical Institute at Janelia Farm to address the physical design of biological systems. Continuing the forwardlooking theme, this keynote talk will be followed by an invited session on modern physical design challenges featuring several distinguished researchers from leading EDA vendors and a research institution. This session addresses topics in physical design flows, design planning, manufacturing, and automotive electronics. Following the successful discussions from last year, an invited session on Monday afternoon will continue the deep dive into analog design automation, with talks on the algorithmic, tool, and platform perspectives. An invited session on Tuesday morning will focus on timely research topics related to 3D ICs. Additionally, there are invited talks on chip- and package-level routing and on the impact of local interconnects in microprocessors. Since 2005, ISPD has become a crucial driving force for pushing research advancements in placement, global routing, and clock network synthesis, by holding highly competitive contests in these topics and by releasing large-scale real-world benchmark suites. This year's highperformance clock network synthesis contest continues this successful tradition and has attracted a large number of participants from all over the world. The results of this contest will be announced by the ISPD Contest Chair, along with the release of new benchmarks for clock synthesis.
+
+top of pageSOURCE MATERIALS
+FRONT MATTER
+PDFPDF  (cd label, copyright, welcome, contents, organization, sponsors)
+BACK MATTER
+PDFPDF  (author index)
+
+top of pageAUTHORS
+
+General Chairs
+
+
+    Author image not provided 	 Prashant Saxena
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1988-2012
+    Publication count	38
+    Citation Count	68
+    Available for download	17
+    Downloads (6 Weeks)	58
+    Downloads (12 Months)	298
+    View colleagues of Prashant Saxena
+Program Chairs
+
+
+    Author image not provided 	 Yao-Wen Chang
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1993-2011
+    Publication count	140
+    Citation Count	835
+    Available for download	113
+    Downloads (6 Weeks)	332
+    Downloads (12 Months)	2,213
+    View colleagues of Yao-Wen Chang
+
+top of pageREFERENCES
+References are not available
+top of pageCITED BY
+Citings are not available
+top of pageINDEX TERMS
+Index Terms are not available
+top of pagePUBLICATION
+Title 	ISPD '10 International Symposium on Physical Design
+	San Francisco, CA, USA — March 14 - 17, 2010
+Pages	210
+Sponsors 	SIGDA ACM Special Interest Group on Design Automation
+In-Cooperations 	IEEE CAS
+Publisher	ACM New York, NY, USA
+ISBN	978-1-60558-920-6
+Order Number	478105
+Conference 	ISPDInternational Symposium on Physical Design ISPD logo
+Paper Acceptance Rate 22 of 70 submissions, 31%
+Overall Acceptance Rate 148 of 430 submissions, 34%
+	
+Year 	Submitted 	Accepted 	Rate
+ISPD '06 	72 	25 	35%
+ISPD '07 	65 	22 	34%
+ISPD '08 	60 	20 	33%
+ISPD '09 	60 	21 	35%
+ISPD '10 	70 	22 	31%
+ISPD '11 	43 	18 	42%
+ISPD '12 	60 	20 	33%
+Overall 	430 	148 	34%
+top of pageREVIEWS
+
+Reviews are not available for this item
+Computing Reviews logo
+
+    Access critical reviews of computing literature.
+    Become a reviewer for Computing Reviews
+
+top of pageCOMMENTS
+
+Be the first to comment To Post a comment please sign in or create a free Web account
+top of pageTable of Contents
+Proceedings of the 19th international symposium on Physical design
+Table of Contents
+previousprevious proceeding |next proceeding next
+	Physical design of biological systems
+	Louis K. Scheffer
+	Pages: 1-1
+	doi>10.1145/1735023.1735024
+	Full text: PdfPdf
+	
+
+It may seem premature to worry about the design of of living systems when we do not yet fully understand their operation. However, the path to understanding is clear, and design will inevitably follow. It's not too early to think about how this might ...
+expand
+	SESSION: Modern physical design challenges
+	
+	Going with the flow: bridging the gap between theory and practice in physical design
+	Patrick Groeneveld
+	Pages: 3-3
+	doi>10.1145/1735023.1735026
+	Full text: PdfPdf
+	
+
+A practical Physical Design flow is an intricate chain of many algorithms. Assorted placers and routers are interspersed with incremental logical synthesis algorithms that patch up timing. The overall goal is to address a plethora of design objectives ...
+expand
+	Design planning trends and challenges
+	Neeraj Kaul
+	Pages: 5-5
+	doi>10.1145/1735023.1735027
+	Full text: PdfPdf
+	
+
+Design planning is an integral part of Physical Design Process for technology nodes of 65nm and below. As technology nodes shrink and designs get larger, design planning and design feasibility studies are rapidly becoming a bottleneck in physical design ...
+expand
+	What makes a design difficult to route
+	Charles J. Alpert, Zhuo Li, Michael D. Moffitt, Gi-Joon Nam, Jarrod A. Roy, Gustavo Tellez
+	Pages: 7-12
+	doi>10.1145/1735023.1735028
+	Full text: PdfPdf
+	
+
+Traditionally, the goal of physical synthesis has been to produce a physical realization of the input netlist that meets its timing constraints with minimum area. However, design routability has emerged from a secondary objective to perhaps the primary ...
+expand
+	Physical design challenges beyond the 22nm node
+	Sani R. Nassif, Kevin J. Nowka
+	Pages: 13-14
+	doi>10.1145/1735023.1735029
+	Full text: PdfPdf
+	
+
+Producing working chips in current (32nm) and forthcoming CMOS technologies feels a lot like trying to create an intricate oil painting using a broom! After all, we are using light with a wavelength of 193nm to create shapes less than a tenth of a wavelength ...
+expand
+	Challenges and opportunities in optimization of automotive electronics
+	Serge Leef
+	Pages: 15-15
+	doi>10.1145/1735023.1735030
+	Full text: PdfPdf
+	
+
+Modern vehicles are complex, distributed compute and control systems. The number of compute nodes is growing rapidly. While historically each node/function was designed by independent teams in isolated silos, the complex interplay of 60+ computers communicating ...
+expand
+	SESSION: Advances in routing
+	
+	Thinking outside of the chip
+	John Park
+	Pages: 17-17
+	doi>10.1145/1735023.1735032
+	Full text: PdfPdf
+	
+
+Before a chip ships in volume, PCB design is often a bottleneck. The PCB is a significant cost element of the final product, which drives major time and effort spent on cost reduction. To achieve these savings, the PCB designer must minimize the number ...
+expand
+	B-escape: a simultaneous escape routing algorithm based on boundary routing
+	Lijuan Luo, Tan Yan, Qiang Ma, Martin D.F. Wong, Toshiyuki Shibuya
+	Pages: 19-25
+	doi>10.1145/1735023.1735033
+	Full text: PdfPdf
+	
+
+Simultaneous escape routing on dense circuit boards is a very challenging task and great amount of manual effort is still needed in order to achieve high routability. In this paper, we present a new simultaneous escape routing algorithm which is based ...
+expand
+	FOARS: FLUTE based obstacle-avoiding rectilinear steiner tree construction
+	Gaurav Ajwani, Chris Chu, Wai-Kei Mak
+	Pages: 27-34
+	doi>10.1145/1735023.1735034
+	Full text: PdfPdf
+	
+
+Obstacle-avoiding rectilinear Steiner minimal tree (OARSMT) construction is becoming one of the most sought after problems in modern design flow. In this paper we present FOARS, an algorithm to route a multi-terminal net in the presence of obstacles. ...
+expand
+	Completing high-quality global routes
+	Jin Hu, Jarrod A. Roy, Igor L. Markov
+	Pages: 35-41
+	doi>10.1145/1735023.1735035
+	Full text: PdfPdf
+	
+
+To ensure chip manufacturability, all routes must be completed without violations. Furthermore, the chip's power consumption and performance are determined by the length of its routed wires. Therefore, our work focuses on minimizing wirelength. Our key ...
+expand
+	SESSION: Analog design automation
+	
+	Analog layout synthesis: what's missing?
+	Rob A. Rutenbar
+	Pages: 43-43
+	doi>10.1145/1735023.1735037
+	Full text: PdfPdf
+	
+
+In the first decade of the twenty first century, the first generation of analog synthesis tools -- for sizing and for physical design -- moved from academic research projects, to startups, to integration on various standard platforms. In this talk I'll ...
+expand
+	Design platform for electrical and physical co-design of analog circuits
+	Mar Hershenson
+	Pages: 45-45
+	doi>10.1145/1735023.1735038
+	Full text: PdfPdf
+	
+
+Although there exists a large amount of work in the field of automated design of analog integrated circuits [1], most of the work focuses on either the electrical design or on the physical design of such circuits. These two steps remain as two distinct ...
+expand
+	Automatic generation of hierarchical placement rules for analog integrated circuits
+	Michael Eick, Martin Strasser, Helmut E. Graeb, Ulf Schlichtmann
+	Pages: 47-54
+	doi>10.1145/1735023.1735039
+	Full text: PdfPdf
+	
+
+This paper presents a new method to automatically generate hierarchical placement rules, which are crucial for a successful analog placement. The netlist, a library of building blocks and a symmetry analysis are the basis to determine a constraint requirement ...
+expand
+	SESSION: Physical design for 3D
+	
+	Adding a new dimension to physical design
+	Sachin S. Sapatnekar
+	Pages: 55-55
+	doi>10.1145/1735023.1735041
+	Full text: PdfPdf
+	
+
+Three-dimensional (3D) technologies have the potential to provide major benefits to integrated circuit design. An advanced 3D chip consists of multiple tiers of two-dimensional (2D) circuitry, stacked vertically over each other, with very small intertier ...
+expand
+	Physical design implementation for 3D IC: methodology and tools
+	Vassilios Gerousis
+	Pages: 57-57
+	doi>10.1145/1735023.1735042
+	Full text: PdfPdf
+	
+
+3D IC extends interconnect technology across multiple chips, multiple domains (digital, custom/RF, memory) and multiple technology nodes. In addition to the heterogeneous system integration, 3D IC offers multiple types of configuration such as 3D IC ...
+expand
+	Efficient design practices for thermal management of a TSV based 3D IC system
+	Zongwu Tang
+	Pages: 59-59
+	doi>10.1145/1735023.1735043
+	Full text: PdfPdf
+	
+
+Peak temperature, local hotspots, and thermal gradients became critical issues with higher localized current densities resulting from the combination of higher performance and further device miniaturization. 3D vertical integration utilizing VIA first/VIA ...
+expand
+	An analytical placer for mixed-size 3D placement
+	Jason Cong, Guojie Luo
+	Pages: 61-66
+	doi>10.1145/1735023.1735044
+	Full text: PdfPdf
+	
+
+Existing 3D placement techniques are mainly used for standard-cell circuits, while mixed-size placement is needed to support high-level functional units and intellectual property (IP) blocks. In this paper we present an analytical 3D placement method ...
+expand
+	SESSION: Physical synthesis
+	
+	Logical and physical restructuring of fan-in trees
+	Hua Xiang, Haoxing Ren, Louise Trevillyan, Lakshmi Reddy, Ruchir Puri, Minsik Cho
+	Pages: 67-74
+	doi>10.1145/1735023.1735046
+	Full text: PdfPdf
+	
+
+A symmetric-function fan-in tree (SFFT) is a fanout-free cone of logic that computes a symmetric function, so that all of the leaf nets in its support set are commutative. Such trees are frequently found in designs, especially when the design originated ...
+expand
+	Ultra-fast interconnect driven cell cloning for minimizing critical path delay
+	Zhuo Li, David A. Papa, Charles J. Alpert, Shiyan Hu, Weiping Shi, Cliff Sze, Ying Zhou
+	Pages: 75-82
+	doi>10.1145/1735023.1735047
+	Full text: PdfPdf
+	
+
+In a complete physical synthesis flow, optimization transforms, that can improve the timing on critical paths that are already well-optimized by a series of powerful transforms (timing driven placement, buffering and gate sizing) are invaluable. Finding ...
+expand
+	ITOP: integrating timing optimization within placement
+	Natarajan Viswanathan, Gi-Joon Nam, Jarrod A. Roy, Zhuo Li, Charles J. Alpert, Shyam Ramji, Chris Chu
+	Pages: 83-90
+	doi>10.1145/1735023.1735048
+	Full text: PdfPdf
+	
+
+Timing-driven placement is a critical step in nanometer-scale physical synthesis. To improve design timing on a global scale, net-weight based global timing-driven placement is a commonly used technique. This paper shows that such an approach can improve ...
+expand
+	Physical synthesis of bus matrix for high bandwidth low power on-chip communications
+	Renshen Wang, Evangeline F.Y. Young, Ronald Graham, Chung-Kuan Cheng
+	Pages: 91-96
+	doi>10.1145/1735023.1735049
+	Full text: PdfPdf
+	
+
+As the thermal wall becomes the dominant factor limiting VLSI circuit performance, and the interconnect wires become the primary power consumer, power efficiency of on-chip data throughput is nowadays a critical target for SoC designers. Under this trend, ...
+expand
+	SESSION: Design for manufacturing
+	
+	Dummy fill optimization for enhanced manufacturability
+	Yaoguang Wei, Sachin S. Sapatnekar
+	Pages: 97-104
+	doi>10.1145/1735023.1735051
+	Full text: PdfPdf
+	
+
+This paper presents a router that minimizes the amount of dummy fill necessary to satisfy the requirements for chemical-mechanical polishing (CMP). The algorithm uses a greedy strategy and effective cost functions to control the maximal effective pattern ...
+expand
+	Density gradient minimization with coupling-constrained dummy fill for CMP control
+	Huang-Yu Chen, Szu-Jui Chou, Yao-Wen Chang
+	Pages: 105-111
+	doi>10.1145/1735023.1735052
+	Full text: PdfPdf
+	
+
+In the nanometer IC design, dummy fill is often performed to improve layout pattern uniformity and the post-CMP quality. However, filling dummies might greatly increase interconnect coupling capacitance and thus circuit delay, and might also lead to ...
+expand
+	Total sensitivity based dfm optimization of standard library cells
+	Yongchan Ban, Savithri Sundareswaran, David Z. Pan
+	Pages: 113-120
+	doi>10.1145/1735023.1735053
+	Full text: PdfPdf
+	
+
+Standard cells are fundamental circuit building blocks designed at very early design stages. Nanometer standard cells are prone to lithography proximity and process variations. How to design robust cells under variations plays a crucial role in the overall ...
+expand
+	A matching based decomposer for double patterning lithography
+	Yue Xu, Chris Chu
+	Pages: 121-126
+	doi>10.1145/1735023.1735054
+	Full text: PdfPdf
+	
+
+Double Patterning Lithography (DPL) is one of the few hopeful candidate solutions for the lithography for CMOS process beyond 45nm. DPL assigns the patterns less than a certain distance from each other on each layer onto two masks instead of one ...
+expand
+	SESSION: Advances in clock tree designs and ISPD'10 clock synthesis contest
+	
+	Skew management of NBTI impacted gated clock trees
+	Ashutosh Chakraborty, David Z. Pan
+	Pages: 127-133
+	doi>10.1145/1735023.1735056
+	Full text: PdfPdf
+	
+
+NBTI (Negative Bias Temperature Instability) has emerged as the dominant failure mechanism for PMOS in nanometer IC designs. However, its impact on one of the most important components of modern IC design - the clock tree - has not been researched enough. ...
+expand
+	Accurate clock mesh sizing via sequential quadraticprogramming
+	Venkata Rajesh Mekala, Yifang Liu, Xiaoji Ye, Jiang Hu, Peng Li
+	Pages: 135-142
+	doi>10.1145/1735023.1735057
+	Full text: PdfPdf
+	
+
+Clock mesh is widely used in microprocessor designs for achieving low clock skew and high variation tolerance. Clock mesh optimization is a very difficult problem because it has highly-connected structure and requires accurate delay models which are ...
+expand
+	ISPD 2010 high performance clock network synthesis contest: benchmark suite and results
+	C. N. Sze
+	Pages: 143-143
+	doi>10.1145/1735023.1735058
+	Full text: PdfPdf
+	
+
+In the talk, the details of ISPD 2010 high performance clock network synthesis contest will be introduced. Compared to first clock network synthesis contest in 2009, the rules have been revised to better reflect the real problems from the industry. Instead ...
+expand
+	SESSION: Performance and reliability optimization
+	
+	Impact of local interconnects on timing and power in a high performance microprocessor
+	Rupesh S. Shelar, Marek Patyra
+	Pages: 145-152
+	doi>10.1145/1735023.1735060
+	Full text: PdfPdf
+	
+
+In nanometer technologies, even local interconnects are believed to cause major impact on timing, power, repeaters, and routability in VLSI circuits. Although empirical studies exist, there is little comprehensive work that explores the impact of local ...
+expand
+	Interconnect power and delay optimization by dynamic programming in gridded design rules
+	Konstantin Moiseev, Avinoam Kolodny, Shmuel Wimer
+	Pages: 153-160
+	doi>10.1145/1735023.1735061
+	Full text: PdfPdf
+	
+
+The lithography used for 32 nanometers and smaller VLSI process technologies restricts the admissible interconnect widths and spaces to a small set of discrete values with some interdependencies, so that traditional interconnect sizing by continuous-variable ...
+expand
+	Performance study of VeSFET-based, high-density regular circuits
+	Yi-Wei Lin, Malgorzata Marek-Sadowska, Wojciech Maly
+	Pages: 161-168
+	doi>10.1145/1735023.1735062
+	Full text: PdfPdf
+	
+
+In this paper, we study circuits implemented using high-density arrays composed of Vertical Slit Field Effect Transistors. This layout style could dramatically increase transistor density and therefore reduce fabrication cost. However, its geometrical ...
+expand
+	A statistical framework for designing on-chip thermal sensing infrastructure in nano-scale systems
+	Yufu Zhang, Bing Shi, Ankur Srivastava
+	Pages: 169-176
+	doi>10.1145/1735023.1735063
+	Full text: PdfPdf
+	
+
+Thermal/power issues have become increasingly important with more and more transistors being put on a single chip. Many dynamic thermal/power management techniques have been proposed to address such issues but they all heavily depend on accurate knowledge ...
+expand
+	Optimal wiring topology for electromigration avoidance considering multiple layers and obstacles
+	Iris H.-R. Jiang, Hua-Yu Chang, Chih-Long Chang
+	Pages: 177-184
+	doi>10.1145/1735023.1735064
+	Full text: PdfPdf
+	
+
+Due to excessive current densities, electromigration may trigger a permanent open- or short-circuit failure in signal wires or power networks in analog or mixed-signal circuits. As the feature size keeps shrinking, this effect becomes a key reliability ...
+expand
+	SESSION: Clustering and biochip placement & routing
+	
+	SafeChoice: a novel clustering algorithm for wirelength-driven placement
+	Jackey Z. Yan, Chris Chu, Wai-Kei Mak
+	Pages: 185-192
+	doi>10.1145/1735023.1735066
+	Full text: PdfPdf
+	
+
+This paper presents SafeChoice (SC), a novel clustering algorithm for wirelength-driven placement. Unlike all previous approaches, SC is proposed based on a fundamental theorem, safe condition which guarantees that clustering would not degrade ...
+expand
+	Droplet-routing-aware module placement for cross-referencing biochips
+	Zigang Xiao, Evangeline F.Y. Young
+	Pages: 193-199
+	doi>10.1145/1735023.1735067
+	Full text: PdfPdf
+	
+
+Digital Microfluidic Biochip (DMFB) is a revolutionary technology for performing lab-on-a-chip experiments. Comparing to traditional direct-addressing design of DMFB, Cross-Referencing Biochip is a flexible design which not only helps to reduce pin number ...
+expand
+	A two-stage ILP-based droplet routing algorithm for pin-constrained digital microfluidic biochips
+	Tsung-Wei Huang, Tsung-Yi Ho
+	Pages: 201-208
+	doi>10.1145/1735023.1735068
+	Full text: PdfPdf
+	
+
+With the increasing design complexities, the design of pin-constrained digital microfluidic biochips (PDMFBs) is of practical importance for the emerging marketplace. However, the solution of current pin-count aware technique is inevitably limited by ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

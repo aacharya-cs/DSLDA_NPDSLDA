@@ -1,0 +1,10 @@
+bicycle
+bus
+car
+cat
+cow
+dog
+horse
+motorbike
+sheep
+train

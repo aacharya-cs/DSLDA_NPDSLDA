@@ -1,0 +1,5156 @@
+experiment
+text xml queri
+measur
+perform
+queri languag
+xml retriev
+xpath
+
+databas
+design
+experiment
+inform retriev
+perform
+queri languag
+region algebra
+retriev model
+structur document
+theori
+verif
+xml
+
+contextu
+data model
+design
+dewei
+experiment
+languag
+manag
+measur
+organ structur
+perform
+perform evalu
+re weight
+retriev model
+semi structur data
+structur indic
+structur document
+tree
+xml
+
+concurr
+decentr coordin
+dsgt
+global correct
+measur
+partial rollback
+peer peer commun
+perform
+reliabl
+transact process
+
+data integr system
+manag
+nonnumer algorithm
+peer peer system
+relat databas
+theori
+
+algorithm
+dht network
+distribut applic
+inform filter
+perform
+publish subscrib paradigm
+string attribut queri dht
+
+aspect orient program
+databas trigger
+domain specif architectur
+knowledg manag
+notif servic
+publish subscrib
+user profil alert servic
+
+action rule
+data mine
+design
+human factor
+inform visual
+interact data explor
+manag
+miscellan
+pattern
+visual data mine
+
+algorithm
+heterogen databas
+manag
+semant correspond
+statist model
+user feedback
+valu map
+
+algorithm
+experiment
+faq retriev
+index method
+linguist process
+measur
+perform
+question answer
+question beyond factoid
+retriev model
+
+algorithm
+experiment
+faq retriev
+
+inform retriev
+languag model
+measur
+
+algorithm
+cluster label
+collect build syllabi
+design
+experiment
+inform search retriev
+pathwai
+queri split
+step stone
+suffix tree cluster
+
+access control
+data outsourc
+secur
+third parti architectur
+xml
+
+access control
+data confidenti
+legal aspect
+consent principl
+secur
+secur integr protect
+xml access control
+xml relationship
+
+access control
+express
+fine grain access control
+inform filter
+perform
+perform evalu
+rule function
+secur
+xml databas
+
+algorithm
+bioinformat
+biologi genet
+design
+index
+index method
+perform
+search process
+sequenc databas
+suffix tree
+tree
+
+algorithm
+hough transform
+imag signatur
+inform storag retriev
+metric tree
+perform
+
+algorithm
+design
+distribut databas
+queri process
+sensor network
+spatio tempor index
+
+domain specif search
+experiment
+focus crawl
+inform filter
+measur
+perform
+qualiti health search
+retriev model
+
+design
+experiment
+geograph rank
+geograph scope
+index method
+locat base web search
+manag
+retriev model
+search process
+spatial index
+textual index
+
+cluster
+design
+experiment
+inform filter
+junk filter
+person resolut
+person search
+
+algorithm
+design
+load shed
+perform
+queri process
+stream join
+
+algorithm
+cube stream
+data cube
+data mine
+data stream
+manag
+olap
+
+algorithm
+distribut databas
+perform
+queri process
+sensor network
+spatiotempor region queri process
+
+classif
+design
+experiment
+machin learn
+multi label
+perform
+statist
+statist learn
+structur
+uncertainti
+
+algorithm
+cluster
+data cluster
+data dimension
+data mine
+design
+experiment
+perform
+space partit
+
+algorithm
+linguist process
+semant web
+structur base inform
+word sens disambigu
+
+design
+distribut continu queri process
+distribut databas
+distribut stream queri engin
+perform
+self tune
+
+algorithm
+cach strategi
+data mine
+design
+experiment
+queri
+xml
+
+data stream
+distribut databas
+perform
+queri optim
+queri process
+
+algorithm
+databas
+dataguid
+design
+perform
+queri process
+structur join
+xml
+xpath
+
+label scheme
+perform
+queri
+queri process
+redund
+xml
+
+algorithm
+cosin seri
+data stream
+design
+manag
+perform
+queri optim
+queri process
+structur join
+xml
+
+algorithm
+databas select
+design
+experiment
+heterogen databas
+languag pars understand
+mediat
+natur languag queri
+ontolog
+
+ad structur document
+algorithm
+content analysi index
+experiment
+inform search retriev
+keyword search
+perform
+queri specif summar
+steiner tree
+user survei
+
+databas manag
+equat logic
+function queri languag
+languag
+olap
+theori
+type system
+
+algorithm
+data outsourc
+digit signatur
+integr authent
+scheme
+secur
+secur integr protect
+signatur aggreg
+
+adapt sampl
+aggreg queri
+algorithm
+hierarch web site
+retriev model
+
+algorithm
+chain effect
+cluster
+context
+databas
+design
+experiment
+sql
+
+human factor
+join
+languag
+logic independ
+queri infer
+queri languag
+relat databas
+sql
+
+accuraci
+algorithm
+dissemin
+latenc
+local cover
+locat depend data
+manag
+perform
+spatial databas gi
+
+algorithm
+continu
+increment evalu
+materi view
+perform
+queri
+queri process
+view
+view mainten
+xml
+xpath
+
+algorithm
+data mine
+dimension space
+skylin
+
+algorithm
+automat semant prune
+biomed ontolog
+data mine
+design
+experiment
+inform filter
+knowledg acquisit
+medlin
+mesh
+queri formul
+retriev model
+search process
+swanson
+text mine
+theori
+uml
+
+access control
+manag
+perform
+queri rewrit
+secur
+secur view
+secur integr protect
+xml
+
+associ rule
+data mine
+fixpoint oper
+languag
+queri languag
+queri optimis
+theori
+
+algorithm
+colloc
+inform storag retriev
+sequenti pattern
+text mine
+theori
+
+algorithm
+cluster
+condit random
+dedupl
+field
+perform
+record linkag
+
+data aggreg
+design
+distribut databas
+local rout tree
+perform
+sensor databas
+
+algorithm
+experiment
+inform search retriev
+latent semant classif
+latent semant index
+partial squar
+perform
+text classif
+
+distribut system
+inform network
+measur
+parallel search cluster network
+peer peer network
+perform
+perform evalu
+rank keyword search
+search process
+
+algorithm
+design
+impress mine
+impress base view
+inform search retriev
+paraphras
+queri expans
+question answer
+
+abstract method
+automat thesauru construct
+experiment
+measur
+statist relationship determin
+thesaurus
+
+adapt search
+algorithm
+cluster
+experiment
+human factor
+inform filter
+intellig analysi
+ir
+knowledg acquisit
+perform
+search process
+user model
+
+algorithm
+content analysi index
+familiar
+person
+web search
+
+algorithm
+corpu structur
+document expans
+inform retriev
+languag model
+pseudo feedback
+retriev model
+smooth
+
+algorithm
+commun
+experiment
+graph cluster
+name entiti
+
+algorithm
+experiment
+keyphras extract
+logist regress
+miscellan
+text process
+verif
+web page process
+
+algorithm
+binari tree
+increment data deliveri
+multi resolut visual
+perform
+theori
+time seri data manag
+time seri represent
+tree
+
+algorithm
+automat classif
+cluster
+concept hierarchi
+document classif
+inform filter
+inform retriev
+manual classif
+text analysi
+
+algorithm
+data mine
+design
+document keyphras
+document metadata
+keyphras extract
+languag pars understand
+perform
+text analysi
+text mine
+
+access control
+data encrypt
+kei assign
+secur
+
+algorithm
+associ rule mine
+automat queri structur
+data mine
+experiment
+index term co occurr
+inform retriev model
+perform evalu
+queri formul
+retriev model
+theori
+weight
+
+algorithm
+hidden markov model
+passag retriev
+retriev model
+
+algorithm
+experiment
+inform search retriev
+relev feedback
+structur featur
+xml retriev
+
+algorithm
+cluster
+frequent word sequenc
+perform
+text document
+web search
+
+experiment
+predic logic
+probabl theori
+schema subschema
+schema match
+splmap
+theori
+
+algorithm
+content structur featur
+experiment
+machin learn
+miscellan
+paramet learn
+perform
+rank algorithm
+summaris
+xml document
+
+algorithm
+collabor filter
+inform filter
+perform
+trust
+
+cluster
+earth mover' distanc
+experiment
+similar measur
+theori
+
+algorithm
+design
+human factor
+inform browser
+mall displai
+navig
+proxi
+slice tree
+thumbnail
+vip algorithm
+web brows
+web page adapt
+
+algorithm
+genet program
+inform retriev
+measur
+retriev model
+search process
+term weight
+
+experiment
+inform search retriev
+languag model
+measur
+content inform
+perform
+prior
+web retriev
+
+algorithm
+experiment
+measur
+paramet learn
+pool
+rankboost
+retriev model
+xml retriev evalu
+
+algorithm
+data structur
+index
+inform storag retriev
+perform
+search engin
+static score
+
+algorithm
+perform
+prefer queri
+queri optim
+queri process
+
+commun base web inform servic
+digit refer
+experiment
+expert find
+expertis model
+inform retriev
+inform system
+languag model
+measur
+search process
+user profil alert servic
+
+experiment
+perform
+perform evalu
+textual databas
+
+experiment
+inform search retriev
+perform
+
+algorithm
+experiment
+queri formul
+search process
+
+algorithm
+autom question answer
+experiment
+internet
+queri formul
+search process
+world wide web
+
+algorithm
+experiment
+linguist process
+uniform resourc locat
+webpag classif
+
+algorithm
+cluster
+data stream mine
+inform search retriev
+
+algorithm
+experiment
+graph mine
+index method
+inform extract
+linguist process
+secur
+text mine
+
+collect document distanc
+document qualiti
+experiment
+inform search retriev
+prior probabl
+web retriev
+
+ad hoc network
+algorithm
+cooper cach
+design
+queri formul
+retriev model
+similar search
+
+content base imag retriev
+experiment
+genet program
+measur
+queri formul
+search process
+
+algorithm
+experiment
+
+log linear model
+natur languag process
+text categor
+
+algorithm
+distribut cluster
+distribut databas
+manag
+perform
+uncertain data
+
+algorithm
+arrai
+data cube represent
+evalu methodolog
+experiment
+homogen criterion
+mca
+olap
+perform
+
+algorithm
+biologi genet
+experiment
+famili correl
+gene ontolog
+graph base similar
+measur
+similar measur
+
+algorithm
+content structur
+experiment
+retriev model
+search process
+topic hierarchi
+websit mine
+
+algorithm
+associ rule
+data mine
+frequent pattern
+manag
+memori constraint
+
+context
+design
+inform search retriev
+intranet search
+manag
+
+algorithm
+data mine
+distribut data mine
+distribut databas
+manag
+perform
+privaci
+scalar product
+secur
+secur integr protect
+
+algorithm
+detect
+experiment
+insid threat
+misus
+secur
+unauthor access
+
+algorithm
+databas secur
+hypercliqu pattern
+miscellan
+privaci preserv data mine
+secur
+semi supervis learn
+
+algorithm
+cluster
+experiment
+gram text represent
+perform
+similar measur
+text analysi
+text cluster
+text mine
+text process
+
+algorithm
+experiment
+gradient descent
+hyperlink
+learn
+match measur
+miscellan
+neural network
+similar measur
+term weight
+
+document collect
+empir model
+inform extract
+machin learn
+maximum entropi markov model
+name entiti recognit
+statist model
+text analysi
+text mine
+
+decis support
+design
+econom
+intellig agent
+knowledg manag
+logist
+manag
+reliabl
+risk manag
+valu inform
+
+accur retriev
+algorithm
+connection neural net
+experiment
+machin learn
+measur
+mine effect drug
+precis
+select process
+
+algorithm
+email reput
+experiment
+graph theori
+mailrank
+measur
+person
+secur integr protect
+spam
+
+algorithm
+data extract
+data record align
+experiment
+miscellan
+perform
+visual featur
+
+algorithm
+databas manag
+inform storag retriev
+interconnect semant
+keyword search
+xml
+
+algorithm
+experiment
+index
+index method
+modifi pr 252 fer sequenc
+perform
+queri process
+tree pattern queri
+xml
+
+algorithm
+context
+design
+experiment
+inform integr
+keyword search
+queri process
+sql
+
+algorithm
+content analysi index
+context languag model
+experiment
+inform extract
+languag model
+name entiti extract
+relat extract
+
+algorithm
+data mine
+design
+dynam pattern
+experiment
+web access motif
+web usag mine
+
+algorithm
+data mine
+design
+spatio tempor databas
+
+algorithm
+commod map
+design
+inform retriev
+inform storag retriev
+knowledg manag
+manag
+spend analysi
+unstructur data
+
+algorithm
+collabor filter
+commerc
+miscellan
+product featur
+recommend system
+web retail
+
+automat speech recognit
+call center
+content analysi index
+languag
+manag
+miscellan
+
+algorithm
+definit search
+experiment
+expert find
+human factor
+inform extract
+intranet search
+metadata extract
+miscellan
+search process
+
+algorithm
+applic
+experiment
+inform retriev
+learn
+machin learn
+perform
+search process
+text classif
+
+algorithm
+classif
+experiment
+genet program
+inform search retriev
+measur
+perform
+text process
+
+algorithm
+collabor filter
+experiment
+human factor
+inform filter
+item base approach
+knowledg acquisit
+perform
+time weight
+
+algorithm
+inform search retriev
+lazi updat
+move object databas
+perform
+tpr tree
+
+algorithm
+dynam xml
+label scheme
+perform
+quaternari
+queri process
+updat
+
+algorithm
+chang detect
+chang manag
+design
+experiment
+relat databas
+xml
+
+algorithm
+experiment
+inform flow
+inform search retriev
+statist translat
+text reus
+theori
+
+algorithm
+dictionari
+experiment
+inform retriev
+languag
+linguist process
+queri formul
+relev feedback
+retriev model
+text analysi
+word sens disambigu
+wordnet
+
+algorithm
+knn distanc estim
+perform
+queri process
+revers nearest neighbour
+
+algorithm
+fulltext search
+index cascad
+partit index
+perform
+search process
+
+experiment
+miscellan
+check
+pattern detect
+sequenti pattern
+
+biomedicin
+classif research
+document
+expert profil
+knowledg manag
+manag
+natur languag text
+public
+relat system
+represent
+research manag
+research trend
+semant analysi
+semant network
+thesauru
+
+algorithm
+categor
+classif
+implement
+inform search retriev
+librari
+tag
+taxonomi
+
+cluster document select
+experiment
+inform filter
+qualiti measur
+taxonomi develop
+text analysi
+text categor
+
+algorithm
+block jacobi
+distribut search engin
+iter aggreg disaggreg
+pagerank
+perform
+search process
+
+algorithm
+data share
+distribut ir
+p2p
+perform
+reliabl
+search process
+similar search
+
+algorithm
+content analysi index
+design
+graph reachabl label
+perform
+
+algorithm
+comput discret structur
+data map
+data model
+exra
+extend ra
+feder interoper ra
+fira
+languag
+olap
+pivot
+queri languag
+unpivot
+
+algorithm
+databas applic
+experiment
+measur
+object recognit
+privaci preserv video share
+statist infer
+unlabel sampl
+video content privaci
+
+algorithm
+classifi design evalu
+experiment
+inform filter
+linguist process
+opinion mine
+polar detect
+search process
+semant orient
+sentiment classif
+text analysi
+text classif
+
+algorithm
+apprais theori
+experiment
+inform filter
+linguist process
+opinion mine
+review classif
+sentiment analysi
+shallow pars
+text analysi
+text classif
+
+corpora
+experiment
+genr
+retriev model
+text classif
+
+algorithm
+cluster
+distribut databas
+distribut system
+experiment
+inform network
+measur
+overlai network
+peer peer system
+perform
+perform evalu
+queri process
+queri rout
+rang queri
+search process
+world
+
+algorithm
+bitmap index
+dynam program
+experiment
+index method
+perform
+queri process
+theori
+
+algorithm
+cardin estim
+design
+experiment
+queri process
+relat databas
+
+averag precis
+evalu
+experiment
+measur
+perform evalu
+precis
+theori
+
+algorithm
+cluster
+experiment
+manifold learn
+perform
+pseudo relev feedback
+regular
+retriev model
+
+algorithm
+evalu
+experiment
+inform retriev
+measur
+perform evalu
+test collect
+
+experiment
+inform flow
+languag model
+perform
+queri expans
+retriev model
+term relationship
+
+algorithm
+associ rule
+data mine
+experiment
+interact queri expans
+perform
+queri formul
+relev feedback
+theori
+user feedback
+web search
+
+algorithm
+experiment
+inform search retriev
+pseudo relev feedback
+queri expans
+random walk
+semi supervis learn
+
+experiment
+inform search retriev
+languag
+manag
+queri evalu
+queri satisfi
+system
+tree pattern queri
+tree structur data
+xml
+
+algorithm
+perform
+queri process
+relat databas
+
+design methodolog
+languag
+parameter pattern
+perform
+queri evalu
+
+cluster
+duplic detect
+measur
+novelti
+perform
+search effect
+select process
+
+algorithm
+experiment
+inform pattern
+name entiti
+novelti detect
+queri formul
+retriev model
+
+algorithm
+cluster
+document set retriev
+experiment
+inform retriev
+search process
+
+experiment
+human factor
+imag index
+index method
+photograph index
+standard
+theori
+weight scheme
+
+algorithm
+brows
+commun applic
+content analysi index
+design
+experiment
+facet classif
+facet navig
+hiearchi construct
+measur
+multifacet hierarchi
+
+algorithm
+file organ
+index method
+invert file
+invert index
+organ structur
+perform
+search engin
+search process
+
+algorithm
+data structur
+evalu
+experiment
+index
+inform storag retriev
+perform
+twig join
+xml
+
+algorithm
+comput complex
+experiment
+
+inconsist
+queri languag
+queri rewrit
+theori
+
+design
+index method
+index techniqu
+manag
+secur
+secur integr protect
+wireless data broadcast
+
+inform retriev context
+retriev model
+theori
+vector space model
+
+content analysi
+context
+contextu search
+inform search retriev
+search person
+semant network
+theori
+web inform retriev
+
+algorithm
+implicit feedback
+interact retriev
+person search
+relev feedback
+retriev model
+search process
+user model
+
+
+notag
+
+notag
+
+notag
+
+experiment
+text xml queri
+measur
+perform
+queri languag
+xml retriev
+xpath
+
+databas
+design
+experiment
+inform retriev
+perform
+queri languag
+region algebra
+retriev model
+structur document
+theori
+verif
+xml
+
+contextu
+data model
+design
+dewei
+experiment
+languag
+manag
+measur
+organ structur
+perform
+perform evalu
+re weight
+retriev model
+semi structur data
+structur indic
+structur document
+tree
+xml
+
+concurr
+decentr coordin
+dsgt
+global correct
+measur
+partial rollback
+peer peer commun
+perform
+reliabl
+transact process
+
+data integr system
+manag
+nonnumer algorithm
+peer peer system
+relat databas
+theori
+
+algorithm
+dht network
+distribut applic
+inform filter
+perform
+publish subscrib paradigm
+string attribut queri dht
+
+aspect orient program
+databas trigger
+domain specif architectur
+knowledg manag
+notif servic
+publish subscrib
+user profil alert servic
+
+action rule
+data mine
+design
+human factor
+inform visual
+interact data explor
+manag
+miscellan
+pattern
+visual data mine
+
+algorithm
+heterogen databas
+manag
+semant correspond
+statist model
+user feedback
+valu map
+
+algorithm
+experiment
+faq retriev
+index method
+linguist process
+measur
+perform
+question answer
+question beyond factoid
+retriev model
+
+algorithm
+experiment
+faq retriev
+
+inform retriev
+languag model
+measur
+
+algorithm
+cluster label
+collect build syllabi
+design
+experiment
+inform search retriev
+pathwai
+queri split
+step stone
+suffix tree cluster
+
+access control
+data outsourc
+secur
+third parti architectur
+xml
+
+access control
+data confidenti
+legal aspect
+consent principl
+secur
+secur integr protect
+xml access control
+xml relationship
+
+access control
+express
+fine grain access control
+inform filter
+perform
+perform evalu
+rule function
+secur
+xml databas
+
+algorithm
+bioinformat
+biologi genet
+design
+index
+index method
+perform
+search process
+sequenc databas
+suffix tree
+tree
+
+algorithm
+hough transform
+imag signatur
+inform storag retriev
+metric tree
+perform
+
+algorithm
+design
+distribut databas
+queri process
+sensor network
+spatio tempor index
+
+domain specif search
+experiment
+focus crawl
+inform filter
+measur
+perform
+qualiti health search
+retriev model
+
+design
+experiment
+geograph rank
+geograph scope
+index method
+locat base web search
+manag
+retriev model
+search process
+spatial index
+textual index
+
+cluster
+design
+experiment
+inform filter
+junk filter
+person resolut
+person search
+
+algorithm
+design
+load shed
+perform
+queri process
+stream join
+
+algorithm
+cube stream
+data cube
+data mine
+data stream
+manag
+olap
+
+algorithm
+distribut databas
+perform
+queri process
+sensor network
+spatiotempor region queri process
+
+classif
+design
+experiment
+machin learn
+multi label
+perform
+statist
+statist learn
+structur
+uncertainti
+
+algorithm
+cluster
+data cluster
+data dimension
+data mine
+design
+experiment
+perform
+space partit
+
+algorithm
+linguist process
+semant web
+structur base inform
+word sens disambigu
+
+design
+distribut continu queri process
+distribut databas
+distribut stream queri engin
+perform
+self tune
+
+algorithm
+cach strategi
+data mine
+design
+experiment
+queri
+xml
+
+data stream
+distribut databas
+perform
+queri optim
+queri process
+
+algorithm
+databas
+dataguid
+design
+perform
+queri process
+structur join
+xml
+xpath
+
+label scheme
+perform
+queri
+queri process
+redund
+xml
+
+algorithm
+cosin seri
+data stream
+design
+manag
+perform
+queri optim
+queri process
+structur join
+xml
+
+algorithm
+databas select
+design
+experiment
+heterogen databas
+languag pars understand
+mediat
+natur languag queri
+ontolog
+
+ad structur document
+algorithm
+content analysi index
+experiment
+inform search retriev
+keyword search
+perform
+queri specif summar
+steiner tree
+user survei
+
+databas manag
+equat logic
+function queri languag
+languag
+olap
+theori
+type system
+
+algorithm
+data outsourc
+digit signatur
+integr authent
+scheme
+secur
+secur integr protect
+signatur aggreg
+
+adapt sampl
+aggreg queri
+algorithm
+hierarch web site
+retriev model
+
+algorithm
+chain effect
+cluster
+context
+databas
+design
+experiment
+sql
+
+human factor
+join
+languag
+logic independ
+queri infer
+queri languag
+relat databas
+sql
+
+accuraci
+algorithm
+dissemin
+latenc
+local cover
+locat depend data
+manag
+perform
+spatial databas gi
+
+algorithm
+continu
+increment evalu
+materi view
+perform
+queri
+queri process
+view
+view mainten
+xml
+xpath
+
+algorithm
+data mine
+dimension space
+skylin
+
+algorithm
+automat semant prune
+biomed ontolog
+data mine
+design
+experiment
+inform filter
+knowledg acquisit
+medlin
+mesh
+queri formul
+retriev model
+search process
+swanson
+text mine
+theori
+uml
+
+access control
+manag
+perform
+queri rewrit
+secur
+secur view
+secur integr protect
+xml
+
+associ rule
+data mine
+fixpoint oper
+languag
+queri languag
+queri optimis
+theori
+
+algorithm
+colloc
+inform storag retriev
+sequenti pattern
+text mine
+theori
+
+algorithm
+cluster
+condit random
+dedupl
+field
+perform
+record linkag
+
+data aggreg
+design
+distribut databas
+local rout tree
+perform
+sensor databas
+
+algorithm
+experiment
+inform search retriev
+latent semant classif
+latent semant index
+partial squar
+perform
+text classif
+
+distribut system
+inform network
+measur
+parallel search cluster network
+peer peer network
+perform
+perform evalu
+rank keyword search
+search process
+
+algorithm
+design
+impress mine
+impress base view
+inform search retriev
+paraphras
+queri expans
+question answer
+
+abstract method
+automat thesauru construct
+experiment
+measur
+statist relationship determin
+thesaurus
+
+adapt search
+algorithm
+cluster
+experiment
+human factor
+inform filter
+intellig analysi
+ir
+knowledg acquisit
+perform
+search process
+user model
+
+algorithm
+content analysi index
+familiar
+person
+web search
+
+algorithm
+corpu structur
+document expans
+inform retriev
+languag model
+pseudo feedback
+retriev model
+smooth
+
+algorithm
+commun
+experiment
+graph cluster
+name entiti
+
+algorithm
+experiment
+keyphras extract
+logist regress
+miscellan
+text process
+verif
+web page process
+
+algorithm
+binari tree
+increment data deliveri
+multi resolut visual
+perform
+theori
+time seri data manag
+time seri represent
+tree
+
+algorithm
+automat classif
+cluster
+concept hierarchi
+document classif
+inform filter
+inform retriev
+manual classif
+text analysi
+
+algorithm
+data mine
+design
+document keyphras
+document metadata
+keyphras extract
+languag pars understand
+perform
+text analysi
+text mine
+
+access control
+data encrypt
+kei assign
+secur
+
+algorithm
+associ rule mine
+automat queri structur
+data mine
+experiment
+index term co occurr
+inform retriev model
+perform evalu
+queri formul
+retriev model
+theori
+weight
+
+algorithm
+hidden markov model
+passag retriev
+retriev model
+
+algorithm
+experiment
+inform search retriev
+relev feedback
+structur featur
+xml retriev
+
+algorithm
+cluster
+frequent word sequenc
+perform
+text document
+web search
+
+experiment
+predic logic
+probabl theori
+schema subschema
+schema match
+splmap
+theori
+
+algorithm
+content structur featur
+experiment
+machin learn
+miscellan
+paramet learn
+perform
+rank algorithm
+summaris
+xml document
+
+algorithm
+collabor filter
+inform filter
+perform
+trust
+
+cluster
+earth mover' distanc
+experiment
+similar measur
+theori
+
+algorithm
+design
+human factor
+inform browser
+mall displai
+navig
+proxi
+slice tree
+thumbnail
+vip algorithm
+web brows
+web page adapt
+
+algorithm
+genet program
+inform retriev
+measur
+retriev model
+search process
+term weight
+
+experiment
+inform search retriev
+languag model
+measur
+content inform
+perform
+prior
+web retriev
+
+algorithm
+experiment
+measur
+paramet learn
+pool
+rankboost
+retriev model
+xml retriev evalu
+
+algorithm
+data structur
+index
+inform storag retriev
+perform
+search engin
+static score
+
+algorithm
+perform
+prefer queri
+queri optim
+queri process
+
+commun base web inform servic
+digit refer
+experiment
+expert find
+expertis model
+inform retriev
+inform system
+languag model
+measur
+search process
+user profil alert servic
+
+experiment
+perform
+perform evalu
+textual databas
+
+experiment
+inform search retriev
+perform
+
+algorithm
+experiment
+queri formul
+search process
+
+algorithm
+autom question answer
+experiment
+internet
+queri formul
+search process
+world wide web
+
+algorithm
+experiment
+linguist process
+uniform resourc locat
+webpag classif
+
+algorithm
+cluster
+data stream mine
+inform search retriev
+
+algorithm
+experiment
+graph mine
+index method
+inform extract
+linguist process
+secur
+text mine
+
+collect document distanc
+document qualiti
+experiment
+inform search retriev
+prior probabl
+web retriev
+
+ad hoc network
+algorithm
+cooper cach
+design
+queri formul
+retriev model
+similar search
+
+content base imag retriev
+experiment
+genet program
+measur
+queri formul
+search process
+
+algorithm
+experiment
+
+log linear model
+natur languag process
+text categor
+
+algorithm
+distribut cluster
+distribut databas
+manag
+perform
+uncertain data
+
+algorithm
+arrai
+data cube represent
+evalu methodolog
+experiment
+homogen criterion
+mca
+olap
+perform
+
+algorithm
+biologi genet
+experiment
+famili correl
+gene ontolog
+graph base similar
+measur
+similar measur
+
+algorithm
+content structur
+experiment
+retriev model
+search process
+topic hierarchi
+websit mine
+
+algorithm
+associ rule
+data mine
+frequent pattern
+manag
+memori constraint
+
+context
+design
+inform search retriev
+intranet search
+manag
+
+algorithm
+data mine
+distribut data mine
+distribut databas
+manag
+perform
+privaci
+scalar product
+secur
+secur integr protect
+
+algorithm
+detect
+experiment
+insid threat
+misus
+secur
+unauthor access
+
+algorithm
+databas secur
+hypercliqu pattern
+miscellan
+privaci preserv data mine
+secur
+semi supervis learn
+
+algorithm
+cluster
+experiment
+gram text represent
+perform
+similar measur
+text analysi
+text cluster
+text mine
+text process
+
+algorithm
+experiment
+gradient descent
+hyperlink
+learn
+match measur
+miscellan
+neural network
+similar measur
+term weight
+
+document collect
+empir model
+inform extract
+machin learn
+maximum entropi markov model
+name entiti recognit
+statist model
+text analysi
+text mine
+
+decis support
+design
+econom
+intellig agent
+knowledg manag
+logist
+manag
+reliabl
+risk manag
+valu inform
+
+accur retriev
+algorithm
+connection neural net
+experiment
+machin learn
+measur
+mine effect drug
+precis
+select process
+
+algorithm
+email reput
+experiment
+graph theori
+mailrank
+measur
+person
+secur integr protect
+spam
+
+algorithm
+data extract
+data record align
+experiment
+miscellan
+perform
+visual featur
+
+algorithm
+databas manag
+inform storag retriev
+interconnect semant
+keyword search
+xml
+
+algorithm
+experiment
+index
+index method
+modifi pr 252 fer sequenc
+perform
+queri process
+tree pattern queri
+xml
+
+algorithm
+context
+design
+experiment
+inform integr
+keyword search
+queri process
+sql
+
+algorithm
+content analysi index
+context languag model
+experiment
+inform extract
+languag model
+name entiti extract
+relat extract
+
+algorithm
+data mine
+design
+dynam pattern
+experiment
+web access motif
+web usag mine
+
+algorithm
+data mine
+design
+spatio tempor databas
+
+algorithm
+commod map
+design
+inform retriev
+inform storag retriev
+knowledg manag
+manag
+spend analysi
+unstructur data
+
+algorithm
+collabor filter
+commerc
+miscellan
+product featur
+recommend system
+web retail
+
+automat speech recognit
+call center
+content analysi index
+languag
+manag
+miscellan
+
+algorithm
+definit search
+experiment
+expert find
+human factor
+inform extract
+intranet search
+metadata extract
+miscellan
+search process
+
+algorithm
+applic
+experiment
+inform retriev
+learn
+machin learn
+perform
+search process
+text classif
+
+algorithm
+classif
+experiment
+genet program
+inform search retriev
+measur
+perform
+text process
+
+algorithm
+collabor filter
+experiment
+human factor
+inform filter
+item base approach
+knowledg acquisit
+perform
+time weight
+
+algorithm
+inform search retriev
+lazi updat
+move object databas
+perform
+tpr tree
+
+algorithm
+dynam xml
+label scheme
+perform
+quaternari
+queri process
+updat
+
+algorithm
+chang detect
+chang manag
+design
+experiment
+relat databas
+xml
+
+algorithm
+experiment
+inform flow
+inform search retriev
+statist translat
+text reus
+theori
+
+algorithm
+dictionari
+experiment
+inform retriev
+languag
+linguist process
+queri formul
+relev feedback
+retriev model
+text analysi
+word sens disambigu
+wordnet
+
+algorithm
+knn distanc estim
+perform
+queri process
+revers nearest neighbour
+
+algorithm
+fulltext search
+index cascad
+partit index
+perform
+search process
+
+experiment
+miscellan
+check
+pattern detect
+sequenti pattern
+
+biomedicin
+classif research
+document
+expert profil
+knowledg manag
+manag
+natur languag text
+public
+relat system
+represent
+research manag
+research trend
+semant analysi
+semant network
+thesauru
+
+algorithm
+categor
+classif
+implement
+inform search retriev
+librari
+tag
+taxonomi
+
+cluster document select
+experiment
+inform filter
+qualiti measur
+taxonomi develop
+text analysi
+text categor
+
+algorithm
+block jacobi
+distribut search engin
+iter aggreg disaggreg
+pagerank
+perform
+search process
+
+algorithm
+data share
+distribut ir
+p2p
+perform
+reliabl
+search process
+similar search
+
+algorithm
+content analysi index
+design
+graph reachabl label
+perform
+
+algorithm
+comput discret structur
+data map
+data model
+exra
+extend ra
+feder interoper ra
+fira
+languag
+olap
+pivot
+queri languag
+unpivot
+
+algorithm
+databas applic
+experiment
+measur
+object recognit
+privaci preserv video share
+statist infer
+unlabel sampl
+video content privaci
+
+algorithm
+classifi design evalu
+experiment
+inform filter
+linguist process
+opinion mine
+polar detect
+search process
+semant orient
+sentiment classif
+text analysi
+text classif
+
+algorithm
+apprais theori
+experiment
+inform filter
+linguist process
+opinion mine
+review classif
+sentiment analysi
+shallow pars
+text analysi
+text classif
+
+corpora
+experiment
+genr
+retriev model
+text classif
+
+algorithm
+cluster
+distribut databas
+distribut system
+experiment
+inform network
+measur
+overlai network
+peer peer system
+perform
+perform evalu
+queri process
+queri rout
+rang queri
+search process
+world
+
+algorithm
+bitmap index
+dynam program
+experiment
+index method
+perform
+queri process
+theori
+
+algorithm
+cardin estim
+design
+experiment
+queri process
+relat databas
+
+averag precis
+evalu
+experiment
+measur
+perform evalu
+precis
+theori
+
+algorithm
+cluster
+experiment
+manifold learn
+perform
+pseudo relev feedback
+regular
+retriev model
+
+algorithm
+evalu
+experiment
+inform retriev
+measur
+perform evalu
+test collect
+
+experiment
+inform flow
+languag model
+perform
+queri expans
+retriev model
+term relationship
+
+algorithm
+associ rule
+data mine
+experiment
+interact queri expans
+perform
+queri formul
+relev feedback
+theori
+user feedback
+web search
+
+algorithm
+experiment
+inform search retriev
+pseudo relev feedback
+queri expans
+random walk
+semi supervis learn
+
+experiment
+inform search retriev
+languag
+manag
+queri evalu
+queri satisfi
+system
+tree pattern queri
+tree structur data
+xml
+
+algorithm
+perform
+queri process
+relat databas
+
+design methodolog
+languag
+parameter pattern
+perform
+queri evalu
+
+cluster
+duplic detect
+measur
+novelti
+perform
+search effect
+select process
+
+algorithm
+experiment
+inform pattern
+name entiti
+novelti detect
+queri formul
+retriev model
+
+algorithm
+cluster
+document set retriev
+experiment
+inform retriev
+search process
+
+experiment
+human factor
+imag index
+index method
+photograph index
+standard
+theori
+weight scheme
+
+algorithm
+brows
+commun applic
+content analysi index
+design
+experiment
+facet classif
+facet navig
+hiearchi construct
+measur
+multifacet hierarchi
+
+algorithm
+file organ
+index method
+invert file
+invert index
+organ structur
+perform
+search engin
+search process
+
+algorithm
+data structur
+evalu
+experiment
+index
+inform storag retriev
+perform
+twig join
+xml
+
+algorithm
+comput complex
+experiment
+
+inconsist
+queri languag
+queri rewrit
+theori
+
+design
+index method
+index techniqu
+manag
+secur
+secur integr protect
+wireless data broadcast
+
+inform retriev context
+retriev model
+theori
+vector space model
+
+content analysi
+context
+contextu search
+inform search retriev
+search person
+semant network
+theori
+web inform retriev
+
+algorithm
+implicit feedback
+interact retriev
+person search
+relev feedback
+retriev model
+search process
+user model
+
+
+algorithm
+cluster
+data clean
+data mine
+entiti resolut
+
+experiment
+internet
+scientif comput
+social issu
+technolog singular
+theori
+
+algorithm
+data mine
+design
+human factor
+inform filter
+manag
+perform
+secur
+semant network
+
+algorithm
+queri process
+queri rewrit
+similar predic
+theori
+
+algorithm
+design
+experiment
+inform storag retriev
+perform
+spatio tempor similar search
+top queri process
+
+algorithm
+biologi genet
+index
+object represent
+protein structur similar
+wavelet
+
+algorithm
+dynam program
+experiment
+inform storag retriev
+statist model
+suffix tree
+
+algorithm
+data mine
+experiment
+review mine
+summar
+text analysi
+
+algorithm
+concept learn
+experiment
+induct
+languag pars understand
+miscellan
+regress
+text sentiment analysi
+util
+
+algorithm
+data mine
+experiment
+onlin commun
+time sensit cluster
+weblog
+
+blog
+blogospher
+data mine
+econom
+experiment
+singular valu decomposit
+inform filter
+measur
+singular valu ecomposit
+trend analysi
+
+effect measur
+evalu
+inform search retriev
+measur
+
+inex
+measur
+perform evalu
+relev
+standard
+statist test
+xml evalu
+
+embed comparison
+evalu
+experiment
+measur
+perform evalu
+
+averag precis
+bpref
+evalu
+experiment
+incomplet judgment
+measur
+perform evalu
+sampl
+theori
+
+algorithm
+approxim algorithm
+data stream
+import semant
+load shed
+manag
+perform
+queri process
+slide window join
+
+algorithm
+data stream
+databas applic
+dimens reduct
+kernel method
+manag
+stream cluster
+stream mine
+theori
+
+algorithm
+classif
+data mine
+join
+manag
+na 239 ve bayesian model
+perform
+stream data
+
+algorithm
+biolog databas
+biologi genet
+data mine
+experiment
+filter associ
+knowledg manag
+
+algorithm
+correl
+data mine
+massiv data set
+statist comput
+
+algorithm
+data mine
+rfid
+workflow induct
+
+algorithm
+design
+distribut ir
+distribut system
+experiment
+inform filter
+kei co occurr
+miscellan
+peer peer inform system
+queri rout
+select process
+
+experiment
+index prune
+index method
+inform retriev
+kl diverg
+perform
+textual databas
+
+algorithm
+experiment
+file organ
+index compress
+index method
+perform
+perform evalu
+search process
+text index
+web queri
+
+3d object classif
+algorithm
+data mine
+manag
+string kernel
+
+algorithm
+experiment
+featur select
+inform search retriev
+measur
+queri effici
+search engin
+text classif
+wand
+
+algorithm
+classif
+classifi design evalu
+data mine
+experiment
+inform search retriev
+lazi algorithm
+
+algorithm
+classifi design evalu
+inform filter
+neighbor
+perform
+rainbow
+svm
+web page classif
+
+algorithm
+experiment
+inform pattern
+name entiti
+novelti detect
+queri formul
+retriev model
+
+algorithm
+cluster
+experiment
+human factor
+markov chain
+miscellan
+social network analysi
+text data mine
+
+algorithm
+experiment
+inform search retriev
+web page nois remov
+web templat extract
+
+algorithm
+classif
+comput semant
+experiment
+languag pars understand
+languag
+linguist process
+semant relat
+svm
+text analysi
+
+commun
+design
+human factor
+inform search retriev
+person
+snippet
+web search
+
+algorithm
+desktop summar
+experiment
+inform search retriev
+linguist process
+person web search
+relev feedback
+user profil
+web base servic
+
+evalu
+experiment
+human factor
+implicit feedback
+relev feedback
+
+algorithm
+altern optimin
+discount cumul gain
+experiment
+gradient boost
+inform search retriev
+squar regress
+machin learn
+miscellan
+quadrat program
+queri depend
+queri document featur
+queri specif featur
+regular
+relev
+relev judgment
+retriev function
+risk minim
+theori
+www search
+
+algorithm
+design
+distribut algorithm
+distribut databas
+experiment
+perform
+power awar
+queri process
+sensor network
+
+algorithm
+data stream
+manag
+queri process
+similar search
+wavelet synops
+
+data stream
+data stream manag system
+languag
+queri languag
+
+algorithm
+cluster shape distanc
+cluster
+experiment
+mean subsequ cluster
+meaningless
+measur
+retriev model
+
+algorithm
+cluster
+concept learn
+hierarch cluster
+increment cluster
+text cluster
+
+algorithm
+ami
+cluster
+lisr
+scale
+weight coverag densiti
+
+algorithm
+experiment
+imag search
+inform search retriev
+rank
+web object
+web base servic
+
+data fusion
+experiment
+expert find
+expert search
+expertis model
+inform retriev
+measur
+rank
+search process
+user profil alert servic
+vote
+
+algorithm
+bayesian statist
+human factor
+implicit feedback
+inform filter
+inform retriev
+relev feedback
+user model
+
+algorithm
+client server architectur
+monoton function
+perform
+queri process
+skylin
+
+algorithm
+design
+dimension index
+perform
+queri process
+skylin queri
+
+algorithm
+distribut data structur
+distribut data summari
+experiment
+index multidimension data
+p2p
+pdm
+perform
+qtree
+queri process
+relax skylin
+tree
+
+algorithm
+data mine
+experiment
+graph analysi
+
+experiment
+languag
+manag
+partial tree pattern queri
+queri contain
+queri languag
+system
+tree structur data
+
+algorithm
+data mine
+depth code
+embed list
+frequent pattern
+prufer sequenc
+tree mine
+
+accuraci
+algorithm
+data extract
+experiment
+human factor
+inform filter
+knowledg acquisit
+measur
+metric
+semant similar
+taxonomi
+
+algorithm
+experiment
+inform search retriev
+latent semant index
+local sensit hash
+
+algorithm
+concept hierarchi
+concept propag
+experiment
+human factor
+index method
+mine keyword similar
+
+access control
+algorithm
+cach
+collect level secur
+design
+document level secur
+enterpris search
+experiment
+file system
+
+measur
+perform
+scalabl
+secur
+secur model
+theori
+
+algorithm
+data mine
+languag
+matrix
+queri languag
+sql
+udf
+vector
+
+algorithm
+argument structur
+collabor
+graphic user interfac
+groupwar
+human factor
+intellig analysi
+knowledg manag
+knowledg represent
+manag
+offic autom
+sensemak
+workflow manag
+
+agil workflow
+distribut databas
+groupwar
+human factor
+inform search retriev
+manag
+perform
+proactiv inform deliveri
+process orient knowledg manag
+web base interact
+workflow manag
+
+algorithm
+data mine
+dimens reduct
+linear discrimin analysi
+model select
+regular
+
+algorithm
+document rank
+document readabl
+document scope cohes
+inform filter
+retriev model
+search process
+select process
+
+algorithm
+content link rank
+experiment
+hypertext retriev model
+probabilist relev propag
+retriev model
+web inform retriev
+
+algorithm
+condit random field
+context base retriev
+experiment
+maximum entropi
+retriev model
+
+algorithm
+experiment
+queri formul
+queri perform predict
+rank robust
+theori
+
+algorithm
+attribut weight assign
+design
+commerc
+experiment
+human factor
+queri result rank
+web base servic
+
+effect measur
+evalu
+experiment
+inform search retriev
+optimis
+rank
+score
+
+algorithm
+corpu size
+estim
+experiment
+inform search retriev
+measur
+random sampl
+
+algorithm
+biomedicin
+concept frequenc
+experiment
+languag pars understand
+measur
+perform
+text analysi
+text summar
+
+algorithm
+conflict resolut
+contradict databas
+document
+scientif databas
+updat distanc
+
+algorithm
+experiment
+keyword search
+perform
+queri specif summar
+search process
+steiner tree
+user survei
+
+algorithm
+annot
+miscellan
+proven
+relat databas
+theori
+view updat
+
+algorithm
+materi view
+queri optim
+queri process
+restructur view
+
+algorithm
+block request sequenc
+sequenc
+perform
+queri process
+
+accuraci estim
+activ learn
+algorithm
+content analysi index
+experiment
+learnabl
+learn
+measur
+perform
+practic text classif
+
+algorithm
+classifi design evalu
+document represent
+experiment
+gram model
+multigram model
+perform
+text classif
+text process
+
+experiment
+machin learn
+miscellan
+navig queri classif
+
+algorithm
+cluster
+data manifold structur
+document re rank
+inform retriev
+label propag
+languag
+
+activ detect
+cluster
+experiment
+inform filter
+massiv multiplay onlin role plai game
+mmorpg
+perform evalu
+theori
+virtual world
+
+complex measur
+decis tree
+design
+distanc metric
+domain knowledg
+human factor
+minimum descript length
+perform
+perform measur
+post process
+visual displai
+
+algorithm
+buffer
+cach oblivi
+measur
+nest loop join
+perform
+queri process
+recurs cluster
+recurs partit
+relat databas
+
+access method
+algorithm
+contain queri
+hti
+invert file
+perform
+tri
+
+algorithm
+imprecis data
+join
+perform
+system
+uncertainti manag
+
+algorithm
+associ rule mine
+data mine
+design
+integ program
+optim
+privaci
+rivaci preserv data mine
+sensit itemset hide
+
+algorithm
+data mine
+privaci mine
+
+algorithm
+embed
+experiment
+ham space
+inform search retriev
+
+algorithm
+block classif model
+block function
+content featur
+featur select
+inform filter
+layout featur
+select process
+web page block
+
+algorithm
+cluster
+exploit link structur
+inform search retriev
+reliabl
+theori
+
+experiment
+measur
+perform
+perform evalu
+relev feedback
+retriev model
+structur
+xml retriev
+
+algorithm
+data mine
+hypercliqu pattern
+text categor
+
+algorithm
+compress
+continu queri
+data stream
+databas applic
+manag
+move object
+perform
+trajectori
+
+algorithm
+design
+perform
+queri optim
+queri process
+twig queri
+xml
+
+access method
+algorithm
+approxim similar search
+perform
+revers nearest neighbor
+
+algorithm
+logic design
+theori
+
+experiment
+inform retriev
+languag model
+perform
+queri formul
+term depend
+
+algorithm
+collabor filter
+evalu
+inform filter
+mine evolv stream
+perform
+recommend system
+reliabl
+user issu
+
+algorithm
+design
+focus web crawl
+inform system applic
+modular classifi
+onlin databas
+
+experiment
+featur select
+measur
+miscellan
+text classif
+
+algorithm
+expans
+experiment
+inform retriev
+languag model
+markov chain
+perform
+retriev model
+theori
+
+algorithm
+correl
+experiment
+inform search retriev
+keyword search
+perform
+stream
+
+algorithm
+data mine
+densiti diverg
+manag
+subspac cluster
+
+baselin
+enterpris email retriev
+experiment
+googl desktop
+indri
+measur
+perform evalu
+
+algorithm
+cluster
+data mine
+dimension reduct
+dynam time warp
+experiment
+segment
+time seri represent model
+
+algorithm
+data mine
+max frequent itemset
+miscellan
+
+algorithm
+estim
+experiment
+gener
+inform search retriev
+sensit
+theori
+
+algorithm
+align score
+experiment
+inform search retriev
+nois filter
+parallel corpu
+perform
+theori
+
+algorithm
+miscellan
+
+algorithm
+clir
+confid estim
+experiment
+perform
+queri formul
+retriev model
+theori
+
+algorithm
+design
+inform retriev
+knowledg manag
+ontolog
+queri formul
+relat databas
+retriev model
+search process
+semant queri
+semant relev
+
+data model
+design
+epc
+manag
+pervas comput
+rfid
+schema subschema
+sensor
+
+algorithm
+biologi genet
+cluster ensembl
+design
+em
+experiment
+gene cluster annot
+gene cluster identif
+measur
+perform
+reliabl
+summar
+text mine
+
+content analysi index
+design
+farsi
+inform retriev
+languag
+perform
+persian
+stemmer
+
+algorithm
+content analysi index
+content base retriev
+digit librari
+experiment
+fmri
+function brain imag
+inform search retriev
+invert file
+latent semant index
+measur
+perform
+reliabl
+tfidf
+
+algorithm
+associ rule
+data mine
+heterogen databas
+measur
+ontolog match
+semant web
+
+algorithm
+data stream share
+disjunct predic
+inform filter
+perform
+predic evalu
+predic match
+
+algorithm
+continu queri
+data manag
+databas manag
+perform
+queri optim
+stream
+
+cluster
+experiment
+measur
+queri cluster
+queri formul
+queri log analysi
+semant similar
+time seri
+web search
+web base servic
+
+algorithm
+biologi genet
+data mine
+experiment
+heterogen data
+microarrai analysi
+subspac cluster
+
+nearest neighbor
+algorithm
+classif
+databas applic
+distribut databas
+experiment
+privaci
+secur
+
+measur
+parallel queri process
+perform
+perform analysi
+search engin
+search process
+workload character
+
+algorithm
+data stream
+design
+multi queri optim
+persist queri
+queri process
+slide window
+
+algorithm
+cluster
+design
+experiment
+multi task
+text align
+text analysi
+text segment
+weight mutual inform
+
+design
+perform
+probabilist data model
+queri process
+xml
+
+algorithm
+data mine
+manag
+progress
+sequenti pattern
+
+data privaci
+databas applic
+miscellan
+secur multi parti comput
+secur
+
+document context
+experiment
+model
+perform
+relev feedback
+
+algorithm
+domest
+experiment
+human factor
+inform intent
+interact style
+natur languag
+weak label
+
+algorithm
+anchor extract
+experiment
+pseudo anchor
+pseudo url
+retriev model
+search process
+vertic search
+
+algorithm
+design
+experiment
+queri formul
+queri log
+rank
+relev feedback
+search engin
+search process
+
+algorithm
+queri taxonomi
+web search
+web base interact
+
+algorithm
+measur
+miscellan
+pagerank
+web archiv search
+web dynam
+web graph
+
+inform retriev context
+retriev model
+theori
+
+document represent
+experiment
+inform filter
+measur
+name entiti
+perform
+perform evalu
+stori link detect
+topic detect track
+
+algorithm
+data stream
+kernel densiti estim
+nonparametr statist
+perform
+
+cranfield evalu model
+experiment
+incomplet judgment
+measur
+perform evalu
+rank effect
+retriev effect
+trec
+
+algorithm
+data mine
+design
+experiment
+interlac period
+stationari time seri
+period
+pre process
+time seri
+time seri analysi
+
+algorithm
+graphic user interfac
+human factor
+inform retriev
+inform search retriev
+summar
+
+agent
+danc video
+design
+document
+hypertext hypermedia
+languag
+manag
+mpeg 7 md
+multimedia applic
+perform art
+video annot
+
+algorithm
+collect select
+content analysi index
+document model
+document partit
+
+algorithm
+cascad rectangl
+design
+human factor
+interact style
+manag
+perform
+time seri data visual
+treemap
+view algorithm
+
+algorithm
+chines calligraph charact
+dimension index
+imag databas
+perform
+
+cluster
+context base model
+document cluster
+experiment
+perform
+
+
+algorithm
+inform search retriev
+languag
+theori
+
+algorithm
+experiment
+languag
+partial path pattern queri
+queri evalu
+queri languag
+queri process
+tree structur data
+
+algorithm
+cvlca
+inform retriev
+inform search retriev
+lca
+vlca
+xml keyword search
+
+design
+inform extract
+manag
+miscellan
+semant web
+wikipedia
+
+algorithm
+cluster
+conceptu cluster
+descript logic
+evolutionari algorithm
+genet program
+measur
+metric learn
+random optim
+unsupervis learn
+
+algorithm
+knowledg acquisit
+ontolog engin
+ontolog modul extract
+represent languag
+
+algorithm
+artifici intellig
+onlin search engin
+question answer
+retriev model
+
+algorithm
+design
+document analysi
+document summar
+experiment
+perform
+support vector regress
+
+algorithm
+content analysi index
+experiment
+extract
+inform search retriev
+lightweight text analysi
+natur languag process
+question answer
+web inform retriev
+
+algorithm
+increment index
+inform search retriev
+invert indic
+perform
+search engin
+
+algorithm
+data migrat
+data transform
+experiment
+heterogen databas
+map discoveri
+schema map
+schema match
+
+algorithm
+call section segment
+classif
+contact center analyt
+design
+experiment
+inform system applic
+natur languag process
+speech analyt
+text mine
+
+activ learn
+algorithm
+concept learn
+experiment
+imbalanc data
+induct
+miscellan
+support vector machin
+
+algorithm
+bibliograph data
+classifi design evalu
+design
+dewei decim classif
+experiment
+hierarch classif
+human factor
+interact classif
+measur
+perform
+taxonomi reconstruct
+text analysi
+trim machin
+
+algorithm
+cluster
+multi type
+perform
+relat
+
+algorithm
+experiment
+hit
+link base rank
+measur
+retriev perform
+salsa
+search process
+select process
+web search
+
+algorithm
+block class
+block import
+experiment
+inform search retriev
+page segment
+
+algorithm
+experiment
+inform search retriev
+queri log analysi
+re find
+repeat queri
+theori
+user model
+web retriev
+
+balloon model
+continu evolut
+design
+gi
+histor movement
+move object databas
+predict movement
+spatial databas gi
+spatio tempor data model
+
+data model
+languag
+queri languag
+sql
+tempor queri languag
+
+algorithm
+boolean represent
+correl analysi
+data mine
+data adapt
+perform
+theori
+time seri stream
+
+algorithm
+data mine
+design
+digit human
+experiment
+frequent close itemset
+graphic user interfac
+human factor
+measur
+gram
+text mine
+user interfac
+
+brows
+experiment
+measur
+ontolog evalu
+perform
+perform evalu
+user studi
+wikipedia
+
+algorithm
+document text edit
+experiment
+keyword extract
+semant annot
+text analysi
+wikipedia
+word sens disambigu
+
+algorithm
+articl qualiti
+author
+collabor author
+experiment
+miscellan
+peer review
+web base servic
+wikipedia
+
+algorithm
+experiment
+featur select
+inform search retriev
+markov random field model
+paramet estim
+theori
+
+experiment
+paramet sensit
+perform
+queri term reweigh
+relev feedback
+retriev model
+
+experiment
+geometri inform retriev
+human factor
+implicit relev feedback
+relev feedback
+retriev model
+search process
+theori
+
+algorithm
+concurr
+distribut databas
+parallel databas
+parallel linkag
+perform
+record linkag
+
+algorithm
+bayesian network
+duplic detect
+experiment
+heterogen databas
+standard
+xml
+
+data clean
+data integr
+experiment
+measur
+miscellan
+similar queri
+
+blog
+classif
+email
+experiment
+filter
+inform filter
+perform
+perform evalu
+secur
+sm
+spam
+standard
+
+algorithm
+distribut inform retriev
+experiment
+inform search retriev
+result merg
+
+algorithm
+experiment
+measur
+perform
+perform evalu
+queri formul
+select process
+text classif
+text summar
+
+experiment
+expert find
+expert search inform retriev
+expertis model
+inform search retriev
+perform
+queri expans
+topic drift
+user profil alert servic
+
+algorithm
+cross languag inform retriev
+design
+experiment
+markov chain
+queri expans
+queri translat
+random walk
+retriev model
+theori
+
+algorithm
+multimedia retriev
+perform
+probabilist local feedback
+queri expans
+retriev model
+theori
+
+algorithm
+distanc materi
+experiment
+optim rout queri
+perform
+queri process
+rout queri evalu
+
+algorithm
+data integr
+experiment
+languag
+regular path queri
+semistructur data
+theori
+
+design
+distribut system
+experiment
+nearest neighbor queri
+perform
+wireless sensor network
+
+algorithm
+classif
+domain adapt
+experiment
+featur select
+logist regress
+semi supervis learn
+statist
+text analysi
+
+algorithm
+cluster
+experiment
+inform extract
+learn
+measur
+natur languag process
+perform
+relat learn
+unsupervis relat identif
+
+algorithm
+cluster
+databas summari
+distribut cluster
+distribut databas
+experiment
+human factor
+perform
+relat databas
+tree align
+
+experiment
+index method
+search process
+semant compon
+
+algorithm
+automat annot
+content analysi index
+imag index retriev
+latent semant index
+multimedia fusion
+
+algorithm
+data mine
+design
+experiment
+inform retriev
+queri expans
+queri formul
+search process
+thesauri
+wikipedia
+
+databas applic
+olap
+perform
+text mine
+
+algorithm
+attribut hierarchi
+data cube
+design
+olap
+perform
+queri process
+relat databas
+
+algorithm
+data wareh
+design
+multi dimension select estim
+perform
+queri process
+relat databas
+
+algorithm
+class attribut extract
+content analysi index
+experiment
+inform search retriev
+knowledg acquisit
+learn
+natur languag process
+queri log
+textual data sourc
+
+algorithm
+conceptu index
+experiment
+imag index
+index method
+inter media index
+linguist process
+measur
+multilingu text index
+theori
+
+experiment
+inform search retriev
+languag
+name entiti recognit
+perform
+relationship recognit
+semant search
+
+activ flood
+activ centric collabor
+design
+experiment
+graphic user interfac
+human factor
+knowledg worker
+priorit
+rank
+support vector machin
+
+algorithm
+experiment
+inform search retriev
+ontolog user profil
+search person
+user context
+
+algorithm
+cluster
+design
+experiment
+increment crawler
+refresh polici
+sampl
+web search engin
+web base servic
+
+experiment
+inform search retriev
+pagerank
+perform
+symmetr neg matrix factoris
+theori
+
+algorithm
+classif
+experiment
+inform filter
+perform
+queri bias web page summar
+rank
+support vector machin
+
+algorithm
+experiment
+graph
+index method
+perform
+search process
+shortest path
+social network
+theori
+
+data represent
+design
+graph databas
+heterogen databas
+inform retriev
+inform search retriev
+inform storag
+perform
+queri perform
+social network
+
+algorithm
+design
+heterogen interrel entiti
+index method
+multipl type
+search
+search process
+shine
+
+algorithm
+knowledg represent formal method
+theori
+uncertainti fuzzi probabilist reason
+
+algorithm
+distanc metric
+measur
+miscellan
+queri consolid
+queri redund
+
+algorithm
+cluster
+dens subgraph
+commerc
+experiment
+network
+parametr flow
+pareto optim
+spars cut
+sponsor search
+theori
+vector valu optim
+
+bootstrap
+experiment
+hypothesi test
+inform search retriev
+permut
+random
+sign
+statist signific
+student' test
+wilcoxon
+
+averag precis
+experiment
+incomplet judgment
+measur
+perform evalu
+relev judgment
+theori
+
+evalu
+experiment
+
+hypothesi test
+inform retriev
+measur
+perform evalu
+test collect
+
+algorithm
+design
+function
+graph network
+hash
+hash tabl represent
+kei set
+
+minim
+perfect
+perform
+theori
+
+design
+distribut applic
+peer peer
+perform
+placement strategi
+search process
+web cach
+
+algorithm
+design
+experiment
+parent child edg
+relat databas
+tree unawar rdbm
+twig queri evalu
+xml
+
+algorithm
+content analysi index
+experiment
+inform search retriev
+knowledg acquisit
+learn
+name entiti
+natur languag process
+queri log
+unstructur text
+weakli supervis inform extract
+
+algorithm
+content syndic
+context
+contextu
+contextu shortcut
+entiti detect
+
+inform extract
+
+design
+experiment
+question answer
+term comparison
+text analysi
+type system
+
+algorithm
+complex phrase
+design
+dictionari
+dictionari phrase
+experiment
+feedback
+inform retriev
+linguist process
+noun phrase
+proper noun
+queri formul
+simpl phrase
+verif
+
+adapt filter
+design
+experiment
+inform filter
+measur
+name entiti
+perform
+relev feedback
+retriev model
+select process
+
+algorithm
+content analysi index
+expert find
+inform search retriev
+languag model
+ne retriev
+perform
+proxim kernel
+
+algorithm
+dimension reduct
+document represent index
+featur evalu select
+index method
+perform
+regular local preserv index
+theori
+
+dynam text collect
+experiment
+garbag collect
+index mainten
+inform filter
+inform retriev
+line index
+perform
+perform evalu
+search process
+
+experiment
+index compress
+main memori
+perform
+perform evalu
+ram
+random access
+
+algorithm
+document structur
+dynam index prune
+experiment
+hybrid index structur
+perform
+perform evalu
+search process
+term proxim
+top
+
+algorithm
+close itemset
+data mine
+gener
+redund associ rule
+
+algorithm
+anomali detect
+data mine
+distanc base outlier
+perform
+
+adapt memori util
+algorithm
+cluster
+data mine
+data stream
+grid base cluster
+
+algorithm
+anomali detect
+data mine
+data stream
+distanc base outlier
+perform
+
+algorithm
+automat new organ
+cluster
+design
+experiment
+global optim
+incid thread
+inform network
+manag
+measur
+perform
+simul anneal
+thread rule
+
+algorithm
+blog retriev
+experiment
+inform retriev
+opinion retriev
+perform
+retriev model
+select process
+text analysi
+trec
+
+human factor
+measur
+proxim search
+queri log analysi
+user studi
+web search
+web base servic
+
+design
+experiment
+focus crawl
+inform extract
+queri formul
+queri
+search process
+
+inform search retriev
+languag model
+measur
+rank function
+relev likelihood
+theori
+
+design
+experiment
+human factor
+index build
+index method
+interact style
+interact
+perform
+queri expans
+queri formul
+search process
+synset
+thesaurus
+wikipedia
+wordnet
+
+algorithm
+content analysi index
+experiment
+kernel method
+learn
+machin learn
+text classif
+theori
+
+analog
+design
+entiti relationship model
+languag
+metaphor
+schema subschema
+standard
+
+algorithm
+cohes
+commun
+compon
+document collect
+edg connect
+experiment
+graph
+hypergraph
+imag segment
+inform search retriev
+perform
+theori
+
+cluster
+evalu
+experiment
+inform retriev
+measur
+perform evalu
+test collect
+
+abstract method
+algorithm
+commun
+featur evalu select
+human factor
+index method
+messag classif
+newsgroup
+social network
+theori
+
+algorithm
+experiment
+expert find
+expertis model
+inform search retriev
+knowledg manag
+perform
+
+algorithm
+dewei encod
+experiment
+predic
+perform
+queri process
+tjfast
+twig join
+xml
+
+algorithm
+content analysi index
+data mine
+design
+evalu
+experiment
+genr identif
+inform filter
+machin learn
+metadata extract
+perform
+select process
+summar
+task base inform retriev
+text categor
+text classif
+
+combin evid
+context
+experiment
+measur
+perform
+perform evalu
+relev feedback
+structur
+xml retriev
+
+cluster
+featur select
+inform search retriev
+perform
+
+abstract method
+blog
+comment
+experiment
+inform filter
+requt
+sentenc select
+
+algorithm
+perform
+web base servic
+
+algorithm
+experiment
+inform search retriev
+anonym
+measur
+privaci
+queri log analysi
+
+branch multivers data
+comparison
+index structur
+index method
+perform
+perform analysi
+theori
+
+algorithm
+design
+experiment
+inform search retriev
+link analysi
+question answer portal
+
+experiment
+human factor
+queri expans
+queri formul
+queri potenti
+queri relax
+search process
+user interact
+
+algorithm
+bayesian network
+data mine
+ensembl method
+experiment
+fusion method
+knowledg acquisit
+perform
+reliabl
+sampl method
+
+algorithm
+concept tree
+design
+distribut system
+experiment
+keyword co occurr
+p2p ir
+peer cluster
+perform
+search process
+
+algorithm
+invert file
+parallel distribut comput
+perform
+search process
+
+coordin view
+design
+human factor
+inform visual
+interact graph visual
+social network
+user interfac
+
+design
+inform filter
+junk email
+manag
+measur
+similar detect
+word correl
+
+autonom particip
+distribut databas
+econom
+imposit
+manag
+particip satisfact
+payment
+perform
+queri alloc
+queri process
+
+algorithm
+design
+
+perform
+
+databas schema valid
+queri liveli
+schema subschema
+verif
+
+algorithm
+content analysi index
+inform search retriev
+lexic acquisit
+list expans
+measur
+miscellan
+perform
+system softwar
+type system
+
+algorithm
+associ rule
+data mine
+data stream
+frequent itemset
+perform
+
+databas applic
+measur
+perform
+probabilist correl
+record similar
+
+algorithm
+blog rank
+econom
+experiment
+inform filter
+network summar
+opinion leader
+
+algorithm
+applic
+content analysi index
+dimension reduct
+experiment
+inform retriev
+learn
+metric learn
+rank
+semi supervis learn
+
+algorithm
+content analysi index
+experiment
+inform retriev
+natur languag process
+opinion mine
+perform
+sentiment classif
+
+algorithm
+compress
+index method
+invert file
+perform
+
+algorithm
+cach
+effici
+experiment
+invert list
+perform
+perform evalu
+search engin
+
+algorithm
+difficult queri
+languag model
+neg feedback
+retriev model
+
+algorithm
+automat imag annot
+experiment
+measur
+probabilist latent semat analysi
+retriev model
+translat model
+
+algorithm
+data redund
+languag model
+languag
+perform
+question answer
+select process
+support vector machin
+
+algorithm
+experiment
+inform retriev
+languag model
+perform
+search process
+social annot
+
+algorithm
+inform search retriev
+keyword
+lca
+search
+xml
+
+algorithm
+inform search retriev
+link analysi
+page import
+pagerank
+perform
+search engin
+tempor inform
+
+algorithm
+entiti graph
+entiti retriev
+retriev model
+wikipedia
+
+algorithm
+databas applic
+digit librari
+experiment
+inform search retriev
+learn
+name disambigu
+semi supervis cluster
+social network analysi
+
+algorithm
+analysi algorithm complex
+bias quantil
+data structur
+stream algorithm
+
+algorithm
+chines input
+experiment
+languag model
+perform
+pinyin
+segment base hidden markov model
+
+algorithm
+heterogen databas
+manag
+mathemat logic
+probabilist databas
+queri process
+theori
+
+

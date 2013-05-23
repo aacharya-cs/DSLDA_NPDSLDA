@@ -1,0 +1,11 @@
+setup (K: 20; C: 10.000; fold: 0; ell: 1.00; dual-opt: 1; alpha: 1; svm_alg: 2; maxIt: 10): accuracy 0.500
+setup (K: 20; C: 10.000; fold: 0; ell: 1.00; dual-opt: 1; alpha: 1; svm_alg: 2; maxIt: 10): accuracy 0.500
+setup (K: 20; C: 10.000; fold: 0; ell: 1.00; dual-opt: 1; alpha: 1; svm_alg: 2; maxIt: 10): accuracy 0.500
+setup (K: 20; C: 10.000; fold: 0; ell: 1.00; dual-opt: 1; alpha: 1; svm_alg: 2; maxIt: 10): accuracy 1.000
+setup (K: 20; C: 10.000; fold: 0; ell: 1.00; dual-opt: 1; alpha: 1; svm_alg: 2; maxIt: 10): accuracy 0.500
+setup (K: 20; C: 10.000; fold: 0; ell: 1.00; dual-opt: 1; alpha: 1; svm_alg: 2; maxIt: 10): accuracy 1.000
+setup (K: 20; C: 10.000; fold: 0; ell: 1.00; dual-opt: 1; alpha: 1; svm_alg: 2; maxIt: 10): accuracy 0.045
+setup (K: 40; C: 10.000; fold: 0; ell: 1.00; dual-opt: 1; alpha: 1; svm_alg: 2; maxIt: 10): accuracy 0.045
+setup (K: 40; C: 10.000; fold: 0; ell: 1.00; dual-opt: 1; alpha: 1; svm_alg: 2; maxIt: 10): accuracy 0.045
+setup (K: 40; C: 10.000; fold: 0; ell: 1.00; dual-opt: 1; alpha: 1; svm_alg: 2; maxIt: 10): accuracy 0.045
+setup (K: 20; C: 100.000; fold: 0; ell: 1.00; dual-opt: 1; alpha: 1; svm_alg: 2; maxIt: 10): accuracy 0.273

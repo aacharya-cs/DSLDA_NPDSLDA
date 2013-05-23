@@ -1,0 +1,6 @@
+MCMacc: 0.2332
+svmacc: 0.52964
+DSDA-MTL multiacc: 59.2885 F: 55.5744
+DSDA-OSST multiacc: 56.1265 F: 52.659
+DSDA-NSLT1 multiacc: 51.7787 F: NaN
+DSLDA multiacc: 58.8933 F: 55.9202

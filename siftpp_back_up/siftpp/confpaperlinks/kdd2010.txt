@@ -1,0 +1,1469 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining
+General Chairs: 	Bharat Rao 	Siemens
+	Balaji Krishnapuram 	Siemens
+Program Chairs: 	Andrew Tomkins 	Google Inc.
+	Qiang Yang 	Hong Kong University of Science and Technology
+	
+Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining 	Published by ACM 2010 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 2,170
+· Downloads (12 Months): 24,242
+· Citation Count: 314
+
+Publication of:
+· Conference
+KDD '10 The 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+Washington DC, DC, USA — July 25 - 28, 2010
+ACM New York, NY, USA ©2010
+
+	
+Tools and Resources
+
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+    Upcoming Conference:
+        KDD '12
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Source Materials	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining
+Table of Contents
+previousprevious proceeding |next proceeding next
+	Data mining in the online services industry
+	Qi Lu
+	Pages: 1-2
+	doi>10.1145/1835804.1835805
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+The online services industry is a rapidly growing industry with a worldwide online ad market projected to grow from $48 billion in 2011 to $67 billion in 2013, of which 47% will come from display advertising and 53% from search advertising. Online Services ...
+expand
+	Data winnowing
+	Yoav Freund
+	Pages: 3-4
+	doi>10.1145/1835804.1835806
+	Full text: PDFPDF
+	
+
+Massive quantities of digital data are being collected in every aspect of modern life. Examples include Personal photos and videos, biological and medical images and recordings from sensor arrays. To transform these massive data streams into useful information ...
+expand
+	The quantification of advertising: (+ lessons from building businesses based on large scale data mining)
+	Konrad Feldman
+	Pages: 5-6
+	doi>10.1145/1835804.1835807
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+As electronic communication, media and commerce increasingly permeate every aspect of modern life, real-time personalization of consumer experience through data-mining becomes practical. Effective classification, prediction and change modeling of consumer ...
+expand
+	SESSION: IG track 1: advertising, transportation
+	Ying Li
+	
+	Evaluating online ad campaigns in a pipeline: causal models at scale
+	David Chan, Rong Ge, Ori Gershony, Tim Hesterberg, Diane Lambert
+	Pages: 7-16
+	doi>10.1145/1835804.1835809
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Display ads proliferate on the web, but are they effective? Or are they irrelevant in light of all the other advertising that people see? We describe a way to answer these questions, quickly and accurately, without randomized experiments, surveys, focus ...
+expand
+	Overlapping experiment infrastructure: more, better, faster experimentation
+	Diane Tang, Ashish Agarwal, Deirdre O'Brien, Mike Meyer
+	Pages: 17-26
+	doi>10.1145/1835804.1835810
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+At Google, experimentation is practically a mantra; we evaluate almost every change that potentially affects what our users experience. Such changes include not only obvious user-visible changes such as modifications to a user interface, but also more ...
+expand
+	Exploitation and exploration in a performance based contextual advertising system
+	Wei Li, Xuerui Wang, Ruofei Zhang, Ying Cui, Jianchang Mao, Rong Jin
+	Pages: 27-36
+	doi>10.1145/1835804.1835811
+	Full text: PDFPDF
+	
+
+The dynamic marketplace in online advertising calls for ranking systems that are optimized to consistently promote and capitalize better performing ads. The streaming nature of online data inevitably makes an advertising system choose between maximizing ...
+expand
+	MineFleet®: an overview of a widely adopted distributed vehicle performance data mining system
+	Hillol Kargupta, Kakali Sarkar, Michael Gilligan
+	Pages: 37-46
+	doi>10.1145/1835804.1835812
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+This paper describes the MineFleet distributed vehicle performance data mining system designed for commercial fleets. MineFleet analyzes high throughput data streams onboard the vehicle, generates the analytics, sends those to the remote server over ...
+expand
+	Multiple kernel learning for heterogeneous anomaly detection: algorithm and aviation safety case study
+	Santanu Das, Bryan L. Matthews, Ashok N. Srivastava, Nikunj C. Oza
+	Pages: 47-56
+	doi>10.1145/1835804.1835813
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+The world-wide aviation system is one of the most complex dynamical systems ever developed and is generating data at an extremely rapid rate. Most modern commercial aircraft record several hundred flight parameters including information from the guidance, ...
+expand
+	SESSION: IG track 2: business processes
+	Ted Senator
+	
+	Discovery of significant emerging trends
+	Saurabh Goorha, Lyle Ungar
+	Pages: 57-64
+	doi>10.1145/1835804.1835815
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+We describe a system that monitors social and mainstream media to determine shifts in what people are thinking about a product or company. We process over 100,000 news articles, blog posts, review sites, and tweets a day for mentions of items (e.g., ...
+expand
+	Data mining to predict and prevent errors in health insurance claims processing
+	Mohit Kumar, Rayid Ghani, Zhu-Song Mei
+	Pages: 65-74
+	doi>10.1145/1835804.1835816
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Health insurance costs across the world have increased alarmingly in recent years. A major cause of this increase are payment errors made by the insurance companies while processing claims. These errors often result in extra administrative effort to ...
+expand
+	Optimizing debt collections using constrained reinforcement learning
+	Naoki Abe, Prem Melville, Cezar Pendus, Chandan K. Reddy, David L. Jensen, Vince P. Thomas, James J. Bennett, Gary F. Anderson, Brent R. Cooley, Melissa Kowalczyk, Mark Domick, Timothy Gardinier
+	Pages: 75-84
+	doi>10.1145/1835804.1835817
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+The problem of optimally managing the collections process by taxation authorities is one of prime importance, not only for the revenue it brings but also as a means to administer a fair taxing system. The analogous problem of debt collections management ...
+expand
+	Detecting abnormal coupled sequences and sequence changes in group-based manipulative trading behaviors
+	Longbing Cao, Yuming Ou, Philip S. Yu, Gang Wei
+	Pages: 85-94
+	doi>10.1145/1835804.1835818
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In capital market surveillance, an emerging trend is that a group of hidden manipulators collaborate with each other to manipulate three trading sequences: buy-orders, sell-orders and trades, through carefully arranging their prices, volumes and time, ...
+expand
+	SESSION: IG track 3: software vulnerability, disaster prediction and recovery
+	Ying Li
+	
+	Automatic malware categorization using cluster ensemble
+	Yanfang Ye, Tao Li, Yong Chen, Qingshan Jiang
+	Pages: 95-104
+	doi>10.1145/1835804.1835820
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In this paper, resting on the analysis of instruction frequency and function-based instruction sequences, we develop an Automatic Malware Categorization System (AMCS) for automatically grouping malware samples into families that share some common characteristics ...
+expand
+	Beyond heuristics: learning to classify vulnerabilities and predict exploits
+	Mehran Bozorgi, Lawrence K. Saul, Stefan Savage, Geoffrey M. Voelker
+	Pages: 105-114
+	doi>10.1145/1835804.1835821
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+The security demands on modern system administration are enormous and getting worse. Chief among these demands, administrators must monitor the continual ongoing disclosure of software vulnerabilities that have the potential to compromise their systems ...
+expand
+	Diagnosing memory leaks using graph mining on heap dumps
+	Evan K. Maxwell, Godmar Back, Naren Ramakrishnan
+	Pages: 115-124
+	doi>10.1145/1835804.1835822
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Memory leaks are caused by software programs that prevent the reclamation of memory that is no longer in use. They can cause significant slowdowns, exhaustion of available storage space and, eventually, application crashes. Detecting memory leaks is ...
+expand
+	Using data mining techniques to address critical information exchange needs in disaster affected public-private networks
+	Li Zheng, Chao Shen, Liang Tang, Tao Li, Steve Luis, Shu-Ching Chen, Vagelis Hristidis
+	Pages: 125-134
+	doi>10.1145/1835804.1835823
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Crisis Management and Disaster Recovery have gained immense importance in the wake of recent man and nature inflicted calamities. A critical problem in a crisis situation is how to efficiently discover, collect, organize, search and disseminate real-time ...
+expand
+	Tropical cyclone event sequence similarity search via dimensionality reduction and metric learning
+	Shen-Shyang Ho, Wenqing Tang, W. Timothy Liu
+	Pages: 135-144
+	doi>10.1145/1835804.1835824
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+The Earth Observing System Data and Information System (EOSDIS) is a comprehensive data and information system which archives, manages, and distributes Earth science data from the EOS spacecrafts. One non-existent capability in the EOSDIS is the retrieval ...
+expand
+	SESSION: IG track 4: systems and infrastructure, medical
+	Ted Senator
+	
+	Malstone: towards a benchmark for analytics on large data clouds
+	Collin Bennett, Robert L. Grossman, David Locke, Jonathan Seidman, Steve Vejcik
+	Pages: 145-152
+	doi>10.1145/1835804.1835826
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Developing data mining algorithms that are suitable for cloud computing platforms is currently an active area of research, as is developing cloud computing platforms appropriate for data mining. Currently, the most common benchmark for cloud computing ...
+expand
+	TIARA: a visual exploratory text analytic system
+	Furu Wei, Shixia Liu, Yangqiu Song, Shimei Pan, Michelle X. Zhou, Weihong Qian, Lei Shi, Li Tan, Qiang Zhang
+	Pages: 153-162
+	doi>10.1145/1835804.1835827
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In this paper, we present a novel exploratory visual analytic system called TIARA (Text Insight via Automated Responsive Analytics), which combines text analytics and interactive visualization to help users explore and analyze large collections of text. ...
+expand
+	Metric forensics: a multi-level approach for mining volatile graphs
+	Keith Henderson, Tina Eliassi-Rad, Christos Faloutsos, Leman Akoglu, Lei Li, Koji Maruhashi, B. Aditya Prakash, Hanghang Tong
+	Pages: 163-172
+	doi>10.1145/1835804.1835828
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Advances in data collection and storage capacity have made it increasingly possible to collect highly volatile graph data for analysis. Existing graph analysis techniques are not appropriate for such data, especially in cases where streaming or near-real-time ...
+expand
+	Active learning for biomedical citation screening
+	Byron C. Wallace, Kevin Small, Carla E. Brodley, Thomas A. Trikalinos
+	Pages: 173-182
+	doi>10.1145/1835804.1835829
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Active learning (AL) is an increasingly popular strategy for mitigating the amount of labeled data required to train classifiers, thereby reducing annotator effort. We describe a real-world, deployed application of AL to the problem of biomedical citation ...
+expand
+	An integrated machine learning approach to stroke prediction
+	Aditya Khosla, Yu Cao, Cliff Chiung-Yu Lin, Hsu-Kuang Chiu, Junling Hu, Honglak Lee
+	Pages: 183-192
+	doi>10.1145/1835804.1835830
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Stroke is the third leading cause of death and the principal cause of serious long-term disability in the United States. Accurate prediction of stroke is highly valuable for early intervention and treatment. In this study, we compare the Cox proportional ...
+expand
+	Medical coding classification by leveraging inter-code relationships
+	Yan Yan, Glenn Fung, Jennifer G. Dy, Romer Rosales
+	Pages: 193-202
+	doi>10.1145/1835804.1835831
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Medical coding or classification is the process of transforming information contained in patient medical records into standard predefined medical codes. There are several worldwide accepted medical coding conventions associated with diagnoses and medical ...
+expand
+	SESSION: Research track 1: link and click prediction
+	Hui Xiong
+	
+	Mining advisor-advisee relationships from research publication networks
+	Chi Wang, Jiawei Han, Yuntao Jia, Jie Tang, Duo Zhang, Yintao Yu, Jingyi Guo
+	Pages: 203-212
+	doi>10.1145/1835804.1835833
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Information network contains abundant knowledge about relationships among people or entities. Unfortunately, such kind of knowledge is often hidden in a network where different kinds of relationships are not explicitly categorized. For example, in a ...
+expand
+	Estimating rates of rare events with multiple hierarchies through scalable log-linear models
+	Deepak Agarwal, Rahul Agrawal, Rajiv Khanna, Nagaraj Kota
+	Pages: 213-222
+	doi>10.1145/1835804.1835834
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+We consider the problem of estimating rates of rare events for high dimensional, multivariate categorical data where several dimensions are hierarchical. Such problems are routine in several data mining applications including computational advertising, ...
+expand
+	User browsing models: relevance versus examination
+	Ramakrishnan Srikant, Sugato Basu, Ni Wang, Daryl Pregibon
+	Pages: 223-232
+	doi>10.1145/1835804.1835835
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+There has been considerable work on user browsing models for search engine results, both organic and sponsored. The click-through rate (CTR) of a result is the product of the probability of examination (will the user look at the result) times the perceived ...
+expand
+	Suggesting friends using the implicit social graph
+	Maayan Roth, Assaf Ben-David, David Deutscher, Guy Flysher, Ilan Horn, Ari Leichtberg, Naty Leiser, Yossi Matias, Ron Merom
+	Pages: 233-242
+	doi>10.1145/1835804.1835836
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Although users of online communication tools rarely categorize their contacts into groups such as "family", "co-workers", or "jogging buddies", they nonetheless implicitly cluster contacts, by virtue of their interactions with them, forming implicit ...
+expand
+	New perspectives and methods in link prediction
+	Ryan N. Lichtenwalter, Jake T. Lussier, Nitesh V. Chawla
+	Pages: 243-252
+	doi>10.1145/1835804.1835837
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+This paper examines important factors for link prediction in networks and provides a general, high-performance framework for the prediction task. Link prediction in sparse networks presents a significant challenge due to the inherent disproportion of ...
+expand
+	SESSION: Research track 2: frequent itemsets
+	Goethals Bart
+	
+	UP-Growth: an efficient algorithm for high utility itemset mining
+	Vincent S. Tseng, Cheng-Wei Wu, Bai-En Shie, Philip S. Yu
+	Pages: 253-262
+	doi>10.1145/1835804.1835839
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Mining high utility itemsets from a transactional database refers to the discovery of itemsets with high utility like profits. Although a number of relevant approaches have been proposed in recent years, they incur the problem of producing a large number ...
+expand
+	Frequent regular itemset mining
+	Salvatore Ruggieri
+	Pages: 263-272
+	doi>10.1145/1835804.1835840
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Concise representations of frequent itemsets sacrifice readability and direct interpretability by a data analyst of the concise patterns extracted. In this paper, we introduce an extension of itemsets, called regular, with an immediate semantics and ...
+expand
+	Mining uncertain data with probabilistic guarantees
+	Liwen Sun, Reynold Cheng, David W. Cheung, Jiefeng Cheng
+	Pages: 273-282
+	doi>10.1145/1835804.1835841
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Data uncertainty is inherent in applications such as sensor monitoring systems, location-based services, and biological databases. To manage this vast amount of imprecise information, probabilistic databases have been recently developed. In this paper, ...
+expand
+	Mining top-k frequent items in a data stream with flexible sliding windows
+	Hoang Thanh Lam, Toon Calders
+	Pages: 283-292
+	doi>10.1145/1835804.1835842
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+We study the problem of finding the k most frequent items in a stream of items for the recently proposed max-frequency measure. Based on the properties of an item, the max-frequency of an item is counted over a sliding window of which the length ...
+expand
+	Probably the best itemsets
+	Nikolaj Tatti
+	Pages: 293-302
+	doi>10.1145/1835804.1835843
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+One of the main current challenges in itemset mining is to discover a small set of high-quality itemsets. In this paper we propose a new and general approach for measuring the quality of itemsets. The method is solidly founded in Bayesian statistics ...
+expand
+	SESSION: Research track 3: feature selection
+	Alexandru Niculescu-Mizil
+	
+	Grafting-light: fast, incremental feature selection and structure learning of Markov random fields
+	Jun Zhu, Ni Lao, Eric P. Xing
+	Pages: 303-312
+	doi>10.1145/1835804.1835845
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Feature selection is an important task in order to achieve better generalizability in high dimensional learning, and structure learning of Markov random fields (MRFs) can automatically discover the inherent structures underlying complex data. Both problems ...
+expand
+	A scalable two-stage approach for a class of dimensionality reduction techniques
+	Liang Sun, Betul Ceran, Jieping Ye
+	Pages: 313-322
+	doi>10.1145/1835804.1835846
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Dimensionality reduction plays an important role in many data mining applications involving high-dimensional data. Many existing dimensionality reduction techniques can be formulated as a generalized eigenvalue problem, which does not scale to large-size ...
+expand
+	An efficient algorithm for a class of fused lasso problems
+	Jun Liu, Lei Yuan, Jieping Ye
+	Pages: 323-332
+	doi>10.1145/1835804.1835847
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+The fused Lasso penalty enforces sparsity in both the coefficients and their successive differences, which is desirable for applications with features ordered in some meaningful way. The resulting problem is, however, challenging to solve, as the fused ...
+expand
+	Unsupervised feature selection for multi-cluster data
+	Deng Cai, Chiyuan Zhang, Xiaofei He
+	Pages: 333-342
+	doi>10.1145/1835804.1835848
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In many data analysis tasks, one is often confronted with very high dimensional data. Feature selection techniques are designed to find the relevant feature subset of the original features which can facilitate clustering, classification and retrieval. ...
+expand
+	Feature selection for support vector regression using probabilistic prediction
+	Jian-Bo Yang, Chong-Jin Ong
+	Pages: 343-352
+	doi>10.1145/1835804.1835849
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+This paper presents a novel wrapper-based feature selection method for Support Vector Regression (SVR) using its probabilistic predictions. The method computes the importance of a feature by aggregating the difference, over the feature space, of the ...
+expand
+	SESSION: Research track 4: privacy-sensitive algorithms for learning, publishing, and social networks
+	Dou Shen
+	
+	Versatile publishing for privacy preservation
+	Xin Jin, Mingyang Zhang, Nan Zhang, Gautam Das
+	Pages: 353-362
+	doi>10.1145/1835804.1835851
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Motivated by the insufficiency of the existing quasi-identifier/sensitive-attribute (QI-SA) framework on modeling real-world privacy requirements for data publishing, we propose a novel versatile publishing scheme with which privacy requirements can ...
+expand
+	Privacy-preserving outsourcing support vector machines with random transformation
+	Keng-Pei Lin, Ming-Syan Chen
+	Pages: 363-372
+	doi>10.1145/1835804.1835852
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Outsourcing the training of support vector machines (SVM) to external service providers benefits the data owner who is not familiar with the techniques of the SVM or has limited computing resources. In outsourcing, the data privacy is a critical issue ...
+expand
+	On the quality of inferring interests from social neighbors
+	Zhen Wen, Ching-Yung Lin
+	Pages: 373-382
+	doi>10.1145/1835804.1835853
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+This paper intends to provide some insights of a scientific problem: how likely one's interests can be inferred from his/her social connections -- friends, friends' friends, 3-degree friends, etc? Is "Birds of a Feather Flocks Together" a norm? We do ...
+expand
+	DUST: a generalized notion of similarity between uncertain time series
+	Smruti R. Sarangi, Karin Murthy
+	Pages: 383-392
+	doi>10.1145/1835804.1835854
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Large-scale sensor deployments and an increased use of privacy-preserving transformations have led to an increasing interest in mining uncertain time series data. Traditional distance measures such as Euclidean distance or dynamic time warping are not ...
+expand
+	Cold start link prediction
+	Vincent Leroy, B. Barla Cambazoglu, Francesco Bonchi
+	Pages: 393-402
+	doi>10.1145/1835804.1835855
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In the traditional link prediction problem, a snapshot of a social network is used as a starting point to predict, by means of graph-theoretic measures, the links that are likely to appear in the future. In this paper, we introduce cold start link ...
+expand
+	SESSION: Research track 5: classification models and tools
+	Gregory Piatetsky
+	
+	Learning with cost intervals
+	Xu-Ying Liu, Zhi-Hua Zhou
+	Pages: 403-412
+	doi>10.1145/1835804.1835857
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Existing cost-sensitive learning methods require that the unequal misclassification costs should be given as precise values. In many real-world applications, however, it is generally difficult to have a precise cost value since the user maybe only knows ...
+expand
+	The new iris data: modular data generators
+	Iris Adä, Michael R. Berthold
+	Pages: 413-422
+	doi>10.1145/1835804.1835858
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In this paper we introduce a modular, highly flexible, open-source environment for data generation. Using an existing graphical data flow tool, the user can combine various types of modules for numeric and categorical data generators. Additional functionality ...
+expand
+	Why label when you can search?: alternatives to active learning for applying human resources to build classification models under extreme class imbalance
+	Josh Attenberg, Foster Provost
+	Pages: 423-432
+	doi>10.1145/1835804.1835859
+	Full text: PDFPDF
+	
+
+This paper analyses alternative techniques for deploying low-cost human resources for data acquisition for classifier induction in domains exhibiting extreme class imbalance - where traditional labeling strategies, such as active learning, can be ineffective. ...
+expand
+	SESSION: Research track 6: bioinformatics
+	Jieping Ye
+	
+	Discovering significant relaxed order-preserving submatrices
+	Qiong Fang, Wilfred Ng, Jianlin Feng
+	Pages: 433-442
+	doi>10.1145/1835804.1835861
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Mining order-preserving submatrix (OPSM) patterns has received much attention from researchers, since in many scientific applications, such as those involving gene expression data, it is natural to express the data in a matrix and also important to find ...
+expand
+	Topic dynamics: an alternative model of bursts in streams of topics
+	Dan He, D. Stott Parker
+	Pages: 443-452
+	doi>10.1145/1835804.1835862
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+For some time there has been increasing interest in the problem of monitoring the occurrence of topics in a stream of events, such as a stream of news articles. This has led to different models of bursts in these streams, i.e., periods of elevated ...
+expand
+	Extracting temporal signatures for comprehending systems biology models
+	Naren Sundaravaradan, K.S.M. Tozammel Hossain, Vandana Sreedharan, Douglas J. Slotta, John Paul C. Vergara, Lenwood S. Heath, Naren Ramakrishnan
+	Pages: 453-462
+	doi>10.1145/1835804.1835863
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Systems biology has made massive strides in recent years, with capabilities to model complex systems including cell division, stress response, energy metabolism, and signaling pathways. Concomitant with their improved modeling capabilities, however, ...
+expand
+	Negative correlations in collaboration: concepts and algorithms
+	Jinyan Li, Qian Liu, Tao Zeng
+	Pages: 463-472
+	doi>10.1145/1835804.1835864
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+This paper studies efficient mining of negative correlations that pace in collaboration. A collaborating negative correlation is a negative correlation between two sets of variables rather than traditionally between a pair of variables. It signifies ...
+expand
+	SESSION: Research track 7: privacy-sensitive mining
+	Martin Ester
+	
+	k-Support anonymity based on pseudo taxonomy for outsourcing of frequent itemset mining
+	Chih-Hua Tai, Philip S. Yu, Ming-Syan Chen
+	Pages: 473-482
+	doi>10.1145/1835804.1835866
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+For any outsourcing service, privacy is a major concern. This paper focuses on outsourcing frequent itemset mining and examines the issue on how to protect privacy against the case where the attackers have precise knowledge on the supports of some items. ...
+expand
+	Collusion-resistant privacy-preserving data mining
+	Bin Yang, Hiroshi Nakagawa, Issei Sato, Jun Sakuma
+	Pages: 483-492
+	doi>10.1145/1835804.1835867
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Recent research in privacy-preserving data mining (PPDM) has become increasingly popular due to the wide application of data mining and the increased concern regarding the protection of private and personal information. Lately, numerous methods of privacy-preserving ...
+expand
+	Data mining with differential privacy
+	Arik Friedman, Assaf Schuster
+	Pages: 493-502
+	doi>10.1145/1835804.1835868
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+We consider the problem of data mining with formal privacy guarantees, given a data access interface based on the differential privacy framework. Differential privacy requires that computations be insensitive to changes in any particular individual's ...
+expand
+	Discovering frequent patterns in sensitive data
+	Raghav Bhaskar, Srivatsan Laxman, Adam Smith, Abhradeep Thakurta
+	Pages: 503-512
+	doi>10.1145/1835804.1835869
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Discovering frequent patterns from data is a popular exploratory technique in datamining. However, if the data are sensitive (e.g., patient health records, user behavior records) releasing information about significant patterns or trends carries ...
+expand
+	SESSION: Research track 8: graph algorithms
+	Tina Eliassi-Rad
+	
+	Fast nearest-neighbor search in disk-resident graphs
+	Purnamrita Sarkar, Andrew W. Moore
+	Pages: 513-522
+	doi>10.1145/1835804.1835871
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Link prediction, personalized graph search, fraud detection, and many such graph mining problems revolve around the computation of the most "similar" k nodes to a given query node. One widely used class of similarity measures is based on random ...
+expand
+	Balanced allocation with succinct representation
+	Saeed Alaei, Ravi Kumar, Azarakhsh Malekian, Erik Vee
+	Pages: 523-532
+	doi>10.1145/1835804.1835872
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Motivated by applications in guaranteed delivery in computational advertising, we consider the general problem of balanced allocation in a bipartite supply-demand setting. Our formulation captures the notion of deviation from being balanced by a convex ...
+expand
+	Neighbor query friendly compression of social networks
+	Hossein Maserrat, Jian Pei
+	Pages: 533-542
+	doi>10.1145/1835804.1835873
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Compressing social networks can substantially facilitate mining and advanced analysis of large social networks. Preferably, social networks should be compressed in a way that they still can be queried efficiently without decompression. Arguably, neighbor ...
+expand
+	Parallel SimRank computation on large graphs with iterative aggregation
+	Guoming He, Haijun Feng, Cuiping Li, Hong Chen
+	Pages: 543-552
+	doi>10.1145/1835804.1835874
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Recently there has been a lot of interest in graph-based analysis. One of the most important aspects of graph-based analysis is to measure similarity between nodes in a graph. SimRank is a simple and influential measure of this kind, based on a solid ...
+expand
+	Dynamics of conversations
+	Ravi Kumar, Mohammad Mahdian, Mary McGlohon
+	Pages: 553-562
+	doi>10.1145/1835804.1835875
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+How do online conversations build? Is there a common model that human communication follows? In this work we explore these questions in detail. We analyze the structure of conversations in three different social datasets, namely, Usenet groups, Yahoo! ...
+expand
+	SESSION: Research track 9: clustering
+	Murat Dundar
+	
+	Flexible constrained spectral clustering
+	Xiang Wang, Ian Davidson
+	Pages: 563-572
+	doi>10.1145/1835804.1835877
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Constrained clustering has been well-studied for algorithms like K-means and hierarchical agglomerative clustering. However, how to encode constraints into spectral clustering remains a developing area. In this paper, we propose a flexible and generalized ...
+expand
+	A hierarchical information theoretic technique for the discovery of non linear alternative clusterings
+	Xuan-Hong Dang, James Bailey
+	Pages: 573-582
+	doi>10.1145/1835804.1835878
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Discovery of alternative clusterings is an important method for exploring complex datasets. It provides the capability for the user to view clustering behaviour from different perspectives and thus explore new hypotheses. However, current algorithms ...
+expand
+	Clustering by synchronization
+	Christian Böhm, Claudia Plant, Junming Shao, Qinli Yang
+	Pages: 583-592
+	doi>10.1145/1835804.1835879
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Synchronization is a powerful basic concept in nature regulating a large variety of complex processes ranging from the metabolism in the cell to social behavior in groups of individuals. Therefore, synchronization phenomena have been extensively studied ...
+expand
+	Unifying dependent clustering and disparate clustering for non-homogeneous data
+	M. Shahriar Hossain, Satish Tadepalli, Layne T. Watson, Ian Davidson, Richard F. Helm, Naren Ramakrishnan
+	Pages: 593-602
+	doi>10.1145/1835804.1835880
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Modern data mining settings involve a combination of attribute-valued descriptors over entities as well as specified relationships between these entities. We present an approach to cluster such non-homogeneous datasets by using the relationships to impose ...
+expand
+	SESSION: Research track 10: graph mining and classification
+	Jian Pei
+	
+	Fast euclidean minimum spanning tree: algorithm, analysis, and applications
+	William B. March, Parikshit Ram, Alexander G. Gray
+	Pages: 603-612
+	doi>10.1145/1835804.1835882
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+The Euclidean Minimum Spanning Tree problem has applications in a wide range of fields, and many efficient algorithms have been developed to solve it. We present a new, fast, general EMST algorithm, motivated by the clustering and analysis of astronomical ...
+expand
+	Mining program workflow from interleaved traces
+	Jian-Guang Lou, Qiang Fu, Shengqi Yang, Jiang Li, Bin Wu
+	Pages: 613-622
+	doi>10.1145/1835804.1835883
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Successful software maintenance is becoming increasingly critical due to the increasing dependence of our society and economy on software systems. One key problem of software maintenance is the difficulty in understanding the evolving software systems. ...
+expand
+	Connecting the dots between news articles
+	Dafna Shahaf, Carlos Guestrin
+	Pages: 623-632
+	doi>10.1145/1835804.1835884
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+The process of extracting useful knowledge from large datasets has become one of the most pressing problems in today's society. The problem spans entire sectors, from scientists to intelligence analysts and web users, all of whom are constantly struggling ...
+expand
+	Discovering frequent subgraphs over uncertain graph databases under probabilistic semantics
+	Zhaonian Zou, Hong Gao, Jianzhong Li
+	Pages: 633-642
+	doi>10.1145/1835804.1835885
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Frequent subgraph mining has been extensively studied on certain graph data. However, uncertainties are inherently accompanied with graph data in practice, and there is very few work on mining uncertain graph data. This paper investigates frequent subgraph ...
+expand
+	Boosting with structure information in the functional space: an application to graph classification
+	Hongliang Fei, Jun Huan
+	Pages: 643-652
+	doi>10.1145/1835804.1835886
+	Full text: PDFPDF
+	
+
+Boosting is a very successful classification algorithm that produces a linear combination of "weak" classifiers (a.k.a. base learners) to obtain high quality classification models. In this paper we propose a new boosting algorithm where base learners ...
+expand
+	SESSION: Research track 11: topic modeling
+	Gabor Melli
+	
+	Discriminative topic modeling based on manifold learning
+	Seungil Huh, Stephen E. Fienberg
+	Pages: 653-662
+	doi>10.1145/1835804.1835888
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Topic modeling has been popularly used for data analysis in various domains including text documents. Previous topic models, such as probabilistic Latent Semantic Analysis (pLSA) and Latent Dirichlet Allocation (LDA), have shown impressive success in ...
+expand
+	Online multiscale dynamic topic models
+	Tomoharu Iwata, Takeshi Yamada, Yasushi Sakurai, Naonori Ueda
+	Pages: 663-672
+	doi>10.1145/1835804.1835889
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+We propose an online topic model for sequentially analyzing the time evolution of topics in document collections. Topics naturally evolve with multiple timescales. For example, some words may be used consistently over one hundred years, while other words ...
+expand
+	Topic models with power-law using Pitman-Yor process
+	Issei Sato, Hiroshi Nakagawa
+	Pages: 673-682
+	doi>10.1145/1835804.1835890
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+One important approach for knowledge discovery and data mining is to estimate unobserved variables because latent variables can indicate hidden specific properties of observed data. The latent factor model assumes that each item in a record has a latent ...
+expand
+	The topic-perspective model for social tagging systems
+	Caimei Lu, Xiaohua Hu, Xin Chen, Jung-Ran Park, TingTing He, Zhoujun Li
+	Pages: 683-692
+	doi>10.1145/1835804.1835891
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In this paper, we propose a new probabilistic generative model, called Topic-Perspective Model, for simulating the generation process of social annotations. Different from other generative models, in our model, the tag generation process is separated ...
+expand
+	SESSION: Research track 12: algorithms for recommendations
+	Yehuda Koren
+	
+	Combining predictions for accurate recommender systems
+	Michael Jahrer, Andreas Töscher, Robert Legenstein
+	Pages: 693-702
+	doi>10.1145/1835804.1835893
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+We analyze the application of ensemble learning to recommender systems on the Netflix Prize dataset. For our analysis we use a set of diverse state-of-the-art collaborative filtering (CF) algorithms, which include: SVD, Neighborhood Based Approaches, ...
+expand
+	Fast online learning through offline initialization for time-sensitive recommendation
+	Deepak Agarwal, Bee-Chung Chen, Pradheep Elango
+	Pages: 703-712
+	doi>10.1145/1835804.1835894
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Recommender problems with large and dynamic item pools are ubiquitous in web applications like content optimization, online advertising and web search. Despite the availability of rich item meta-data, excess heterogeneity at the item level often requires ...
+expand
+	Training and testing of recommender systems on data missing not at random
+	Harald Steck
+	Pages: 713-722
+	doi>10.1145/1835804.1835895
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Users typically rate only a small fraction of all available items. We show that the absence of ratings carries useful information for improving the top-k hit rate concerning all items, a natural accuracy measure for recommendations. As to test recommender ...
+expand
+	Temporal recommendation on graphs via long- and short-term preference fusion
+	Liang Xiang, Quan Yuan, Shiwan Zhao, Li Chen, Xiatian Zhang, Qing Yang, Jimeng Sun
+	Pages: 723-732
+	doi>10.1145/1835804.1835896
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Accurately capturing user preferences over time is a great practical challenge in recommender systems. Simple correlation over time is typically not meaningful, since users change their preferences due to different external events. User behavior can ...
+expand
+	Generative models for ticket resolution in expert networks
+	Gengxin Miao, Louise E. Moser, Xifeng Yan, Shu Tao, Yi Chen, Nikos Anerousis
+	Pages: 733-742
+	doi>10.1145/1835804.1835897
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Ticket resolution is a critical, yet challenging, aspect of the delivery of IT services. A large service provider needs to handle, on a daily basis, thousands of tickets that report various types of problems. Many of those tickets bounce among multiple ...
+expand
+	SESSION: Research track 13: text analysis
+	Dou Shen
+	
+	Learning to combine discriminative classifiers: confidence based
+	Chi-Hoon Lee
+	Pages: 743-752
+	doi>10.1145/1835804.1835899
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Much of research in data mining and machine learning has led to numerous practical applications. Spam filtering, fraud detection, and user query-intent analysis has relied heavily on machine learned classifiers, and resulted in improvements in robust ...
+expand
+	Mining positive and negative patterns for relevance feature discovery
+	Yuefeng Li, Abdulmohsen Algarni, Ning Zhong
+	Pages: 753-762
+	doi>10.1145/1835804.1835900
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+It is a big challenge to guarantee the quality of discovered relevance features in text documents for describing user preferences because of the large number of terms, patterns, and noise. Most existing popular text mining and classification methods ...
+expand
+	Document clustering via dirichlet process mixture model with feature selection
+	Guan Yu, Ruizhang Huang, Zhaojun Wang
+	Pages: 763-772
+	doi>10.1145/1835804.1835901
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+One essential issue of document clustering is to estimate the appropriate number of clusters for a document collection to which documents should be partitioned. In this paper, we propose a novel approach, namely DPMFS, to address this issue. The proposed ...
+expand
+	Semantic relation extraction with kernels over typed dependency trees
+	Frank Reichartz, Hannes Korte, Gerhard Paass
+	Pages: 773-782
+	doi>10.1145/1835804.1835902
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+An important step for understanding the semantic content of text is the extraction of semantic relations between entities in natural language documents. Automatic extraction techniques have to be able to identify different versions of the same relation ...
+expand
+	Latent aspect rating analysis on review text data: a rating regression approach
+	Hongning Wang, Yue Lu, Chengxiang Zhai
+	Pages: 783-792
+	doi>10.1145/1835804.1835903
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In this paper, we define and study a new opinionated text data analysis problem called Latent Aspect Rating Analysis (LARA), which aims at analyzing opinions expressed about an entity in an online review at the level of topical aspects to discover each ...
+expand
+	SESSION: Research track 14: social classification and clustering
+	Jian Pei
+	
+	Semi-supervised feature selection for graph classification
+	Xiangnan Kong, Philip S. Yu
+	Pages: 793-802
+	doi>10.1145/1835804.1835905
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+The problem of graph classification has attracted great interest in the last decade. Current research on graph classification assumes the existence of large amounts of labeled training graphs. However, in many applications, the labels of graph data are ...
+expand
+	Modeling relational events via latent classes
+	Christopher DuBois, Padhraic Smyth
+	Pages: 803-812
+	doi>10.1145/1835804.1835906
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Many social networks can be characterized by a sequence of dyadic interactions between individuals. Techniques for analyzing such events are of increasing interest. In this paper, we describe a generative model for dyadic events, where each event arises ...
+expand
+	On community outliers and their efficient detection in information networks
+	Jing Gao, Feng Liang, Wei Fan, Chi Wang, Yizhou Sun, Jiawei Han
+	Pages: 813-822
+	doi>10.1145/1835804.1835907
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Linked or networked data are ubiquitous in many applications. Examples include web data or hypertext documents connected via hyperlinks, social networks or user profiles connected via friend links, co-authorship and citation information, blog data, movie ...
+expand
+	Redefining class definitions using constraint-based clustering: an application to remote sensing of the earth's surface
+	Dan R. Preston, Carla E. Brodley, Roni Khardon, Damien Sulla-Menashe, Mark Friedl
+	Pages: 823-832
+	doi>10.1145/1835804.1835908
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Two aspects are crucial when constructing any real world supervised classification task: the set of classes whose distinction might be useful for the domain expert, and the set of classifications that can actually be distinguished by the data. Often ...
+expand
+	SESSION: Research track 15: classification algorithms and analyses
+	Zhi-Hua Zhou
+	
+	Large linear classification when data cannot fit in memory
+	Hsiang-Fu Yu, Cho-Jui Hsieh, Kai-Wei Chang, Chih-Jen Lin
+	Pages: 833-842
+	doi>10.1145/1835804.1835910
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Recent advances in linear classification have shown that for applications such as document classification, the training can be extremely efficient. However, most of the existing training methods are designed by assuming that data can be stored in the ...
+expand
+	Class-specific error bounds for ensemble classifiers
+	Ryan J. Prenger, Tracy D. Lemmond, Kush R. Varshney, Barry Y. Chen, William G. Hanley
+	Pages: 843-852
+	doi>10.1145/1835804.1835911
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+The generalization error, or probability of misclassification, of ensemble classifiers has been shown to be bounded above by a function of the mean correlation between the constituent (i.e., base) classifiers and their average strength. This bound suggests ...
+expand
+	Designing efficient cascaded classifiers: tradeoff between accuracy and cost
+	Vikas C. Raykar, Balaji Krishnapuram, Shipeng Yu
+	Pages: 853-860
+	doi>10.1145/1835804.1835912
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+We propose a method to train a cascade of classifiers by simultaneously optimizing all its stages. The approach relies on the idea of optimizing soft cascades. In particular, instead of optimizing a deterministic hard cascade, we optimize a stochastic ...
+expand
+	Direct mining of discriminative patterns for classifying uncertain data
+	Chuancong Gao, Jianyong Wang
+	Pages: 861-870
+	doi>10.1145/1835804.1835913
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Classification is one of the most essential tasks in data mining. Unlike other methods, associative classification tries to find all the frequent patterns existing in the input categorical data satisfying a user-specified minimum support and/or other ...
+expand
+	Ensemble pruning via individual contribution ordering
+	Zhenyu Lu, Xindong Wu, Xingquan Zhu, Josh Bongard
+	Pages: 871-880
+	doi>10.1145/1835804.1835914
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+An ensemble is a set of learned models that make decisions collectively. Although an ensemble is usually more accurate than a single learner, existing ensemble methods often tend to construct unnecessarily large ensembles, which increases the memory ...
+expand
+	SESSION: Research track 16: recommendations: user models and mobility
+	Claudia Perlich
+	
+	Fast query execution for retrieval models based on path-constrained random walks
+	Ni Lao, William W. Cohen
+	Pages: 881-888
+	doi>10.1145/1835804.1835916
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Many recommendation and retrieval tasks can be represented as proximity queries on a labeled directed graph, with typed nodes representing documents, terms, and metadata, and labeled edges representing the relationships between them. Recent work has ...
+expand
+	Trust network inference for online rating data using generative models
+	Freddy Chong Tat Chua, Ee-Peng Lim
+	Pages: 889-898
+	doi>10.1145/1835804.1835917
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In an online rating system, raters assign ratings to objects contributed by other users. In addition, raters can develop trust and distrust on object contributors depending on a few rating and trust related factors. Previous study has shown that ratings ...
+expand
+	An energy-efficient mobile recommender system
+	Yong Ge, Hui Xiong, Alexander Tuzhilin, Keli Xiao, Marco Gruteser, Michael Pazzani
+	Pages: 899-908
+	doi>10.1145/1835804.1835918
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+The increasing availability of large-scale location traces creates unprecedent opportunities to change the paradigm for knowledge discovery in transportation systems. A particularly promising area is to extract energy-efficient transportation patterns ...
+expand
+	Mixture models for learning low-dimensional roles in high-dimensional data
+	Manas Somaiya, Christopher Jermaine, Sanjay Ranka
+	Pages: 909-918
+	doi>10.1145/1835804.1835919
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Archived data often describe entities that participate in multiple roles. Each of these roles may influence various aspects of the data. For example, a register transaction collected at a retail store may have been initiated by a person who is a woman, ...
+expand
+	Towards mobility-based clustering
+	Siyuan Liu, Yunhuai Liu, Lionel M. Ni, Jianping Fan, Minglu Li
+	Pages: 919-928
+	doi>10.1145/1835804.1835920
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Identifying hot spots of moving vehicles in an urban area is essential to many smart city applications. The practical research on hot spots in smart city presents many unique features, such as highly mobile environments, supremely limited size of sample ...
+expand
+	SESSION: Research track 17: social network analysis
+	Brian D. Davison
+	
+	PET: a statistical model for popular events tracking in social communities
+	Cindy Xide Lin, Bo Zhao, Qiaozhu Mei, Jiawei Han
+	Pages: 929-938
+	doi>10.1145/1835804.1835922
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+User generated information in online communities has been characterized with the mixture of a text stream and a network structure both changing over time. A good example is a web-blogging community with the daily blog posts and a social network of bloggers. ...
+expand
+	The community-search problem and how to plan a successful cocktail party
+	Mauro Sozio, Aristides Gionis
+	Pages: 939-948
+	doi>10.1145/1835804.1835923
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+A lot of research in graph mining has been devoted in the discovery of communities. Most of the work has focused in the scenario where communities need to be discovered with only reference to the input graph. However, for many interesting applications ...
+expand
+	Growing a tree in the forest: constructing folksonomies by integrating structured metadata
+	Anon Plangprasopchok, Kristina Lerman, Lise Getoor
+	Pages: 949-958
+	doi>10.1145/1835804.1835924
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Many social Web sites allow users to annotate the content with descriptive metadata, such as tags, and more recently to organize content hierarchically. These types of structured metadata provide valuable evidence for learning how a community organizes ...
+expand
+	A probabilistic model for personalized tag prediction
+	Dawei Yin, Zhenzhen Xue, Liangjie Hong, Brian D. Davison
+	Pages: 959-968
+	doi>10.1145/1835804.1835925
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Social tagging systems have become increasingly popular for sharing and organizing web resources. Tag prediction is a common feature of social tagging systems. Social tagging by nature is an incremental process, meaning that once a user has saved a web ...
+expand
+	BioSnowball: automated population of Wikis
+	Xiaojiang Liu, Zaiqing Nie, Nenghai Yu, Ji-Rong Wen
+	Pages: 969-978
+	doi>10.1145/1835804.1835926
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Internet users regularly have the need to find biographies and facts of people of interest. Wikipedia has become the first stop for celebrity biographies and facts. However, Wikipedia can only provide information for celebrities because of its neutral ...
+expand
+	SESSION: Research track 18: ranking and multi-label learning
+	Hang Li
+	
+	Combined regression and ranking
+	D. Sculley
+	Pages: 979-988
+	doi>10.1145/1835804.1835928
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Many real-world data mining tasks require the achievement of two distinct goals when applied to unseen data: first, to induce an accurate preference ranking, and second to give good regression performance. In this paper, we give an efficient ...
+expand
+	Mass estimation and its applications
+	Kai Ming Ting, Guang-Tong Zhou, Fei Tony Liu, James Swee Chuan Tan
+	Pages: 989-998
+	doi>10.1145/1835804.1835929
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+This paper introduces mass estimation--a base modelling mechanism in data mining. It provides the theoretical basis of mass and an efficient method to estimate mass. We show that it solves problems very effectively in tasks such as information retrieval, ...
+expand
+	Multi-label learning by exploiting label dependency
+	Min-Ling Zhang, Kun Zhang
+	Pages: 999-1008
+	doi>10.1145/1835804.1835930
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In multi-label learning, each training example is associated with a set of labels and the task is to predict the proper label set for the unseen example. Due to the tremendous (exponential) number of possible label sets, the task of learning from multi-label ...
+expand
+	DivRank: the interplay of prestige and diversity in information networks
+	Qiaozhu Mei, Jian Guo, Dragomir Radev
+	Pages: 1009-1018
+	doi>10.1145/1835804.1835931
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Information networks are widely used to characterize the relationships between data items such as text documents. Many important retrieval and mining tasks rely on ranking the data items based on their centrality or prestige in the network. Beyond prestige, ...
+expand
+	SESSION: Research track 19: propagation in social networks
+	Jiawei Han
+	
+	Inferring networks of diffusion and influence
+	Manuel Gomez Rodriguez, Jure Leskovec, Andreas Krause
+	Pages: 1019-1028
+	doi>10.1145/1835804.1835933
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Information diffusion and virus propagation are fundamental processes talking place in networks. While it is often possible to directly observe when nodes become infected, observing individual transmissions (i.e., who infects whom or who influences whom) ...
+expand
+	Scalable influence maximization for prevalent viral marketing in large-scale social networks
+	Wei Chen, Chi Wang, Yajun Wang
+	Pages: 1029-1038
+	doi>10.1145/1835804.1835934
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Influence maximization, defined by Kempe, Kleinberg, and Tardos (2003), is the problem of finding a small set of seed nodes in a social network that maximizes the spread of influence under certain influence cascade models. The scalability of influence ...
+expand
+	Community-based greedy algorithm for mining top-K influential nodes in mobile social networks
+	Yu Wang, Gao Cong, Guojie Song, Kunqing Xie
+	Pages: 1039-1048
+	doi>10.1145/1835804.1835935
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+With the proliferation of mobile devices and wireless technologies, mobile social network systems are increasingly available. A mobile social network plays an essential role as the spread of information and influence in the form of "word-of-mouth". It ...
+expand
+	Social action tracking via noise tolerant time-varying factor graphs
+	Chenhao Tan, Jie Tang, Jimeng Sun, Quan Lin, Fengjiao Wang
+	Pages: 1049-1058
+	doi>10.1145/1835804.1835936
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+It is well known that users' behaviors (actions) in a social network are influenced by various factors such as personal interests, social influence, and global trends. However, few publications systematically study how social actions evolve in a dynamic ...
+expand
+	Finding effectors in social networks
+	Theodoros Lappas, Evimaria Terzi, Dimitrios Gunopulos, Heikki Mannila
+	Pages: 1059-1068
+	doi>10.1145/1835804.1835937
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Assume a network (V,E) where a subset of the nodes in V are active. We consider the problem of selecting a set of k active nodes that best explain the observed activation state, under a given information-propagation model. ...
+expand
+	SESSION: Research track 20: evolving and spatial data
+	Hui Xiong
+	
+	GLS-SOD: a generalized local statistical approach for spatial outlier detection
+	Feng Chen, Chang-Tien Lu, Arnold P. Boedihardjo
+	Pages: 1069-1078
+	doi>10.1145/1835804.1835939
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Local based approach is a major category of methods for spatial outlier detection (SOD). Currently, there is a lack of systematic analysis on the statistical properties of this framework. For example, most methods assume identical and independent ...
+expand
+	Evolutionary hierarchical dirichlet processes for multiple correlated time-varying corpora
+	Jianwen Zhang, Yangqiu Song, Changshui Zhang, Shixia Liu
+	Pages: 1079-1088
+	doi>10.1145/1835804.1835940
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Mining cluster evolution from multiple correlated time-varying text corpora is important in exploratory text analytics. In this paper, we propose an approach called evolutionary hierarchical Dirichlet processes (EvoHDP) to discover interesting cluster ...
+expand
+	Online discovery and maintenance of time series motifs
+	Abdullah Mueen, Eamonn Keogh
+	Pages: 1089-1098
+	doi>10.1145/1835804.1835941
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+The detection of repeated subsequences, time series motifs, is a problem which has been shown to have great utility for several higher-level data mining algorithms, including classification, clustering, segmentation, forecasting, and rule discovery. ...
+expand
+	Mining periodic behaviors for moving objects
+	Zhenhui Li, Bolin Ding, Jiawei Han, Roland Kays, Peter Nye
+	Pages: 1099-1108
+	doi>10.1145/1835804.1835942
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Periodicity is a frequently happening phenomenon for moving objects. Finding periodic behaviors is essential to understanding object movements. However, periodic behaviors could be complicated, involving multiple interleaving periods, partial time span, ...
+expand
+	SESSION: Research track 21: KDD methodology
+	Gregory Piatetsky
+	
+	An efficient causal discovery algorithm for linear models
+	Zhenxing Wang, Laiwan Chan
+	Pages: 1109-1118
+	doi>10.1145/1835804.1835944
+	Full text: PDFPDF
+	
+
+Bayesian network learning algorithms have been widely used for causal discovery since the pioneer work [13,18]. Among all existing algorithms, three-phase dependency analysis algorithm (TPDA) [5] is the most efficient one in the sense that it has polynomial-time ...
+expand
+	Compressed fisher linear discriminant analysis: classification of randomly projected data
+	Robert J. Durrant, Ata Kaban
+	Pages: 1119-1128
+	doi>10.1145/1835804.1835945
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+We consider random projections in conjunction with classification, specifically the analysis of Fisher's Linear Discriminant (FLD) classifier in randomly projected data spaces. Unlike previous analyses of other classifiers in this setting, we avoid the ...
+expand
+	Scalable similarity search with optimized kernel hashing
+	Junfeng He, Wei Liu, Shih-Fu Chang
+	Pages: 1129-1138
+	doi>10.1145/1835804.1835946
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Scalable similarity search is the core of many large scale learning or data mining applications. Recently, many research results demonstrate that one promising approach is creating compact and efficient hash codes that preserve data similarity. By efficient, ...
+expand
+	Semi-supervised sparse metric learning using alternating linearization optimization
+	Wei Liu, Shiqian Ma, Dacheng Tao, Jianzhuang Liu, Peng Liu
+	Pages: 1139-1148
+	doi>10.1145/1835804.1835947
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In plenty of scenarios, data can be represented as vectors and then mathematically abstracted as points in a Euclidean space. Because a great number of machine learning and data mining applications need proximity measures over data, a simple and universal ...
+expand
+	Universal multi-dimensional scaling
+	Arvind Agarwal, Jeff M. Phillips, Suresh Venkatasubramanian
+	Pages: 1149-1158
+	doi>10.1145/1835804.1835948
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In this paper, we propose a unified algorithmic framework for solving many known variants of MDS. Our algorithm is a simple iterative scheme with guaranteed convergence, and is modular; by changing the internals of a single subroutine in the algorithm, ...
+expand
+	SESSION: Research track 22: transfer and multi-task learning
+	Philip Yu
+	
+	Unsupervised transfer classification: application to text categorization
+	Tianbao Yang, Rong Jin, Anil K. Jain, Yang Zhou, Wei Tong
+	Pages: 1159-1168
+	doi>10.1145/1835804.1835950
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+We study the problem of building the classification model for a target class in the absence of any labeled training example for that class. To address this difficult learning problem, we extend the idea of transfer learning by assuming that the following ...
+expand
+	Nonnegative shared subspace learning and its application to social media retrieval
+	Sunil Kumar Gupta, Dinh Phung, Brett Adams, Truyen Tran, Svetha Venkatesh
+	Pages: 1169-1178
+	doi>10.1145/1835804.1835951
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Although tagging has become increasingly popular in online image and video sharing systems, tags are known to be noisy, ambiguous, incomplete and subjective. These factors can seriously affect the precision of a social tag-based web retrieval system. ...
+expand
+	Learning incoherent sparse and low-rank patterns from multiple tasks
+	Jianhui Chen, Ji Liu, Jieping Ye
+	Pages: 1179-1188
+	doi>10.1145/1835804.1835952
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+We consider the problem of learning incoherent sparse and low-rank patterns from multiple tasks. Our approach is based on a linear multi-task learning formulation, in which the sparse and low-rank patterns are induced by a cardinality regularization ...
+expand
+	Multi-task learning for boosting with application to web search ranking
+	Olivier Chapelle, Pannagadatta Shivaswamy, Srinivas Vadrevu, Kilian Weinberger, Ya Zhang, Belle Tseng
+	Pages: 1189-1198
+	doi>10.1145/1835804.1835953
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In this paper we propose a novel algorithm for multi-task learning with boosted decision trees. We learn several different learning tasks with a joint model, explicitly addressing the specifics of each learning task with task-specific parameters and ...
+expand
+	Transfer metric learning by learning task relationships
+	Yu Zhang, Dit-Yan Yeung
+	Pages: 1199-1208
+	doi>10.1145/1835804.1835954
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Distance metric learning plays a very crucial role in many data mining algorithms because the performance of an algorithm relies heavily on choosing a good metric. However, the labeled data available in many applications is scarce and hence the metrics ...
+expand
+	PANEL SESSION: Panel
+	
+	The next generation of transportation systems,greenhouse emissions, and data mining
+	Hillol Kargupta, Joao Gama, Wei Fan
+	Pages: 1209-1212
+	doi>10.1145/1835804.1835956
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+	SESSION: Tutorials
+	
+	New developments in the theory of clustering
+	Suresh Venkatasubramanian, Sergei Vassilvitskii
+	Article No.: 1
+	doi>10.1145/1866286.1866288
+	Full text: MovMov
+	
+	Temporal pattern mining in symbolic time point and time interval data
+	Fabian Moerchen
+	Article No.: 2
+	doi>10.1145/1866286.1866289
+	Full text: MovMov
+	
+	Learning through exploration
+	John Langford, Alina Beygelzimer
+	Article No.: 3
+	doi>10.1145/1866286.1866290
+	Full text: MovMov
+	
+	Geometric tools for graph mining of large social and information networks
+	Michael Mahoney
+	Article No.: 4
+	doi>10.1145/1866286.1866291
+	Full text: MovMov
+	
+	Mining heterogeneous information networks
+	Jiawei Han
+	Article No.: 5
+	doi>10.1145/1866286.1866292
+	Full text: MovMov
+	
+	Recommender problems for web applications
+	Bee-Chung Chen, Deepak Agarwal
+	Article No.: 7
+	doi>10.1145/1866286.1866294
+	Full text: MovMov
+	
+	Indexing and mining time sequences
+	Lei Li, Christos Faloutsos
+	Article No.: 8
+	doi>10.1145/1866286.1866295
+	Full text: MovMov
+	
+	SESSION: Data Mining Case Studies Sessions
+	
+	Mining medical data to improve patient outcomes
+	R Bharat Rao
+	Article No.: 1
+	doi>10.1145/1866814.1866816
+	Full text: MovMov
+	
+	Modeling with networked data
+	Françoise Fogelman Soulié
+	Article No.: 2
+	doi>10.1145/1866814.1866817
+	Full text: MovMov
+	
+	Discovering precursors to aviation safety incidents: from massive data to actionable information
+	Ashok N. Srivastava
+	Article No.: 3
+	doi>10.1145/1866814.1866818
+	Full text: MovMov
+	
+	Text mining to fast-track deserving disability applicants
+	John Elder
+	Article No.: 4
+	doi>10.1145/1866814.1866819
+	Full text: MovMov
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	KDD logo
+	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

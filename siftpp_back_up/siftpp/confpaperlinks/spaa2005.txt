@@ -1,0 +1,440 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the seventeenth annual ACM symposium on Parallelism in algorithms and architectures
+General Chairs: 	Phil Gibbons 	Intel Research
+Program Chairs: 	Paul Spirakis 	Research and Academic Computer Technology Institute, Greece
+Publication of:
+· Conference
+SPAA 05 17th ACM Symposium on Parallelism in Algorithms and Architectures 2005
+Las Vegas, NV, USA — July 18 - 20, 2005
+ACM New York, NY, USA ©2005
+	
+Proceedings of the seventeenth annual ACM symposium on Parallelism in algorithms and architectures 	Published by ACM 2005 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 175
+· Downloads (12 Months): 829
+· Citation Count: 271
+
+
+	
+Tools and Resources
+
+    Buy this Proceeding in Print
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+    Upcoming Conference:
+        SPAA '12
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Source Materials	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the seventeenth annual ACM symposium on Parallelism in algorithms and architectures
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Queuing and scheduling
+	
+	Randomized qeue management for DiffServ
+	Nir Andelman
+	Pages: 1 - 10
+	doi>10.1145/1073970.1073972
+	Full text: PdfPdf
+	
+
+We focus on the online problem of queue management in networks providing differentiated services. As in DiffServ, packets are divided into two priority groups. Low priority packets are assigned the value of 1 and high priority packets are assigned the ...
+expand
+	Randomization does not reduce the average delay in parallel packet switches
+	Hagit Attiya, David Hay
+	Pages: 11 - 20
+	doi>10.1145/1073970.1073973
+	Full text: PdfPdf
+	
+
+Switching cells in parallel is a common approach to build switches with very high external line rate and a large number of ports. A prime example is the parallel packet switch (in short, PPS) in which a demultiplexing algorithm sends cells, arriving ...
+expand
+	Dynamic circular work-stealing deque
+	David Chase, Yossi Lev
+	Pages: 21 - 28
+	doi>10.1145/1073970.1073974
+	Full text: PdfPdf
+	
+
+The non-blocking work-stealing algorithm of Arora, Blumofe, and Plaxton (henceforth ABP work-stealing) is on its way to becoming the multiprocessor load balancing technology of choice in both industry and academia. This highly efficient scheme ...
+expand
+	Lexicographic QoS scheduling for parallel I/O
+	Ajay Gulati, Peter Varman
+	Pages: 29 - 38
+	doi>10.1145/1073970.1073975
+	Full text: PdfPdf
+	
+
+High-end shared storage systems serving multiple independent workloads must assure that concurrently executing clients will receive a fair or agreed-upon share of system I/O resources. In a parallel I/O system an application makes requests for specific ...
+expand
+	SESSION: Joint session
+	
+	Coloring unstructured radio networks
+	Thomas Moscibroda, Rogert Wattenhofer
+	Pages: 39 - 48
+	doi>10.1145/1073970.1073977
+	Full text: PdfPdf
+	
+
+During and immediately after their deployment, ad hoc and sensor networks lack an efficient communication scheme rendering even the most basic network coordination problems difficult. Before any reasonable communication can take place, nodes must come ...
+expand
+	Name independent routing for growth bounded networks
+	Ittai Abraham, Dahlia Malkhi
+	Pages: 49 - 55
+	doi>10.1145/1073970.1073978
+	Full text: PdfPdf
+	
+
+A weighted undirected network is Δ growth-bounded if the number of nodes at distance 2r around any given node is at most Δ times the number of nodes at distance r around the node. Given a weighted undirected network with arbitrary ...
+expand
+	SESSION: Scheduling
+	
+	Windows scheduling of arbitrary length jobs on parallel machines
+	Amotz Bar-Noy, Richard E. Ladner, Tami Tamir, Tammy VanDeGrift
+	Pages: 56 - 65
+	doi>10.1145/1073970.1073980
+	Full text: PdfPdf
+	
+
+The generalized windows scheduling problem for n jobs on multiple machines is defined as follows: Given is a sequence, I =\ang(w1, l1),(w2, l 2),...,(wn, ...
+expand
+	Parallel scheduling of complex dags under uncertainty
+	Grzegorz Malewicz
+	Pages: 66 - 75
+	doi>10.1145/1073970.1073981
+	Full text: PdfPdf
+	
+
+This paper introduces a parallel scheduling problem where a directed acyclic graph modeling t tasks and their dependencies needs to be executed on n unreliable workers. Worker i executes task j correctly with probability pi,j. ...
+expand
+	On distributed smooth scheduling
+	Ami Litman, Shiri Moran-Schein
+	Pages: 76 - 85
+	doi>10.1145/1073970.1073982
+	Full text: PdfPdf
+	
+
+This paper studies evenly distributed sets of natural numbers and their applications to scheduling in a distributed environment. Such sets, called smooth sets, have the property that their quantity within each interval is proportional to the ...
+expand
+	Scheduling malleable tasks with precedence constraints
+	Klaus Jansen, Hu Zhang
+	Pages: 86 - 95
+	doi>10.1145/1073970.1073983
+	Full text: PdfPdf
+	
+
+In this paper we propose an approximation algorithm for scheduling malleable tasks with precedence constraints. Based on an interesting model for malleable tasks with continuous processor allotments by Prasanna and Musicus [22, 23, 24], we define two ...
+expand
+	SESSION: Sensor networks and ad hoc networks
+	
+	An adaptive power conservation scheme for heterogeneous wireless sensor networks with node redeployment
+	Ioannis Chatzigiannakis, Athanasios Kinalis, Sotiris Nikoletseas
+	Pages: 96 - 105
+	doi>10.1145/1073970.1073985
+	Full text: PdfPdf
+	
+
+We introduce a new modelling assumption in wireless sensor networks, that of node redeployment (addition of sensor devices during the protocol evolution) and we extend the modelling assumption of heterogeneity (having sensor devices of ...
+expand
+	Irrigating ad hoc networks in constant time
+	D. Dubhashi, C. Johansson, O. Häggström, A. Panconesi, M. Sozio
+	Pages: 106 - 115
+	doi>10.1145/1073970.1073986
+	Full text: PdfPdf
+	
+
+We propose very simple randomized algorithms to compute sparse overlay networks for geometric random graphs modelling wireless communication networks. The algorithms generate in constant time a sparse overlay network that, with high probability, is connected ...
+expand
+	Constant density spanners for wireless ad-hoc networks
+	Kishore Kothapalli, Christian Scheideler, Melih Onus, Andrea Richa
+	Pages: 116 - 125
+	doi>10.1145/1073970.1073987
+	Full text: PdfPdf
+	
+
+An important problem for wireless ad hoc networks has been to design overlay networks that allow time- and energy-efficient routing. Many local-control strategies for maintaining such overlay networks have already been suggested, but most of them ...
+expand
+	SESSION: Peer-to-peer networks
+	
+	The expansion and mixing time of skip graphs with applications
+	James Aspnes, Udi Wieder
+	Pages: 126 - 134
+	doi>10.1145/1073970.1073989
+	Full text: PdfPdf
+	
+
+We prove that with high probability a skip graph contains a 4-regular expander as a subgraph, and estimate the quality of the expansion via simulations. As a consequence skip graphs contain a large connected component even after an adversarial deletion ...
+expand
+	Decentralized algorithms using both local and random probes for P2P load balancing
+	Krishnaram Kenthapadi, Gurmeet Singh Manku
+	Pages: 135 - 144
+	doi>10.1145/1073970.1073990
+	Full text: PdfPdf
+	
+
+We study randomized algorithms for placing a sequence of n nodes on a circle with unit perimeter. Nodes divide the circle into disjoint arcs. We desire that a newly-arrived node (which is oblivious of its index in the sequence) choose its position ...
+expand
+	Fast construction of overlay networks
+	Dana Angluin, James Aspnes, Jiang Chen, Yinghua Wu, Yitong Yin
+	Pages: 145 - 154
+	doi>10.1145/1073970.1073991
+	Full text: PdfPdf
+	
+
+An asynchronous algorithm is described for rapidly constructing an overlay network in a peer-to-peer system where all nodes can in principle communicate with each other directly through an underlying network, but each participating node initially has ...
+expand
+	Peer-to-peer networks based on random transformations of connected regular undirected graphs
+	Peter Mahlmann, Christian Schindelhauer
+	Pages: 155 - 164
+	doi>10.1145/1073970.1073992
+	Full text: PdfPdf
+	
+
+We present k-Flipper, a graph transformation algorithm that transforms regular undirected graphs. Given a path of k+2 edges it interchanges the end vertices of the path. By definition this operation preserves regularity and connectivity. ...
+expand
+	SESSION: Parallel and quantum algorithms
+	
+	Processor efficient parallel matching
+	Piotr Sankowski
+	Pages: 165 - 170
+	doi>10.1145/1073970.1073994
+	Full text: PdfPdf
+	
+
+In this paper we consider the problem of finding perfect matchings in parallel. We present a RNC algorithm with optimal work in respect to sequential algorithms, i.e., it uses O(nω) processors.Our algorithm is based on an RNC algorithm ...
+expand
+	Parallelizing time with polynomial circuits
+	Ryan Williams
+	Pages: 171 - 175
+	doi>10.1145/1073970.1073995
+	Full text: PdfPdf
+	
+
+We study the relatively old problem of asymptotically reducing the runtime of serial computations with polynomial size Boolean circuits. To the best of our knowledge, no progress on this problem has been formally reported in the literature for general ...
+expand
+	Finding effective support-tree preconditioners
+	Bruce M. Maggs, Gary L. Miller, Ojas Parekh, R. Ravi, Shan Leung Maverick Woo
+	Pages: 176 - 185
+	doi>10.1145/1073970.1073996
+	Full text: PdfPdf
+	
+
+In 1995, Gremban, Miller, and Zagha introduced support-tree preconditioners and a parallel algorithm called support-tree conjugate gradient (STCG) for solving linear systems of the form Ax = b, where A is an n x n Laplacian ...
+expand
+	Is partial quantum search of a database any easier?
+	Lov K. Grover, Jaikumar Radhakrishnan
+	Pages: 186 - 194
+	doi>10.1145/1073970.1073997
+	Full text: PdfPdf
+	
+
+We consider the partial database search problem where given a quantum database f : {0,1}n→{0,1} such that f(x) =1 for a unique x ∈ {0,1}n, we are required to determine only the first ...
+expand
+	SESSION: Game theory
+	
+	A truthful mechanism for the non-utilitarian minimum radius spanning tree problem
+	Guido Proietti, Peter Widmayer
+	Pages: 195 - 202
+	doi>10.1145/1073970.1073999
+	Full text: PdfPdf
+	
+
+Let a communication network be modelled by a graph G=(V,E) of n nodes and m edges. Classic communication operations among nodes in the graph (e.g., broadcasting, multicasting, gossiping, etc.) usually take place on ...
+expand
+	Selfish routing with incomplete information
+	Martin Gairing, Burkhard Monien, Karsten Tiemann
+	Pages: 203 - 212
+	doi>10.1145/1073970.1074000
+	Full text: PdfPdf
+	
+
+In his seminal work Harsanyi [13] introduced an elegant approach to study non-cooperative games with incomplete information where the players are uncertain about some parameters. To model such games he introduced the Harsanyi transformation, ...
+expand
+	SESSION: Brief announcements
+	
+	A segmented parallel-prefix VLSI circuit with small delays for small segments
+	Bradley C. Kuszmaul
+	Pages: 213 - 213
+	doi>10.1145/1073970.1074002
+	Full text: PdfPdf
+	
+
+I present a VLSI circuit for segmented parallel prefix with gate delay O(log S) and wire delay.
+expand
+	A forward planning situated protocol for data propagation in wireless sensor networks based on swarm intelligence techniques
+	Ioannis Chatzigiannakis, Sotiris Nikoletseas
+	Pages: 214 - 214
+	doi>10.1145/1073970.1074003
+	Full text: PdfPdf
+	
+
+Wireless sensor networks are comprised of a vast number of ultra-small fully autonomous computing, communication and sensing devices, with very restricted energy and computing capabilities, which co-operate to accomplish a large sensing task. Such ...
+expand
+	Autonomous virtual mobile nodes
+	Shlomi Dolev, Seth Gilbert, Elad Schiller, Alex Shvartsman, Jennifer Welch
+	Pages: 215 - 215
+	doi>10.1145/1073970.1074004
+	Full text: PdfPdf
+	
+	A space lower bound for name-independent compact routing in trees
+	Kofi A. Laing, Rajmohan Rajaraman
+	Pages: 216 - 216
+	doi>10.1145/1073970.1074005
+	Full text: PdfPdf
+	
+	On competitive online read-many parallel disks scheduling
+	Rahul Shah, Peter J. Varman, Jeffrey Scott Vitter
+	Pages: 217 - 217
+	doi>10.1145/1073970.1074006
+	Full text: PdfPdf
+	
+
+We consider the natural extension of the single disk caching problem to parallel disk I/O model. We close the existing gap between lower and upper bounds and achieve optimal competitive ratio of O(√D) when lookahead is more than the ...
+expand
+	SESSION: Algorithms and data structures
+	
+	Weighted distributed hash tables
+	Christian Schindelhauer, Gunnar Schomaker
+	Pages: 218 - 227
+	doi>10.1145/1073970.1074008
+	Full text: PdfPdf
+	
+
+We present two methods for weighted consistent hashing also known as weighted distributed hash tables. The first method, called Linear Method, combines the standard consistent hasing introduced by Karger et al. [9] with a linear weighted distance ...
+expand
+	Concurrent cache-oblivious b-trees
+	Michael A. Bender, Jeremy T. Fineman, Seth Gilbert, Bradley C. Kuszmaul
+	Pages: 228 - 237
+	doi>10.1145/1073970.1074009
+	Full text: PdfPdf
+	
+
+This paper presents concurrent cache-oblivious (CO) B-trees. We extend the cache-oblivious model to a parallel or distributed setting and present three concurrent CO B-trees. Our first data structure is a concurrent lock-based exponential CO B-tree. ...
+expand
+	Admission control to minimize rejections and online set cover with repetitions
+	Noga Alon, Yossi Azar, Shai Gutner
+	Pages: 238 - 244
+	doi>10.1145/1073970.1074010
+	Full text: PdfPdf
+	
+
+We study the admission control problem in general networks. Communication requests arrive over time, and the online algorithm accepts or rejects each request while maintaining the capacity limitations of the network. The admission control problem ...
+expand
+	Efficient algorithms for verifying memory consistency
+	Chaiyasit Manovit, Sudheendra Hangal
+	Pages: 245 - 252
+	doi>10.1145/1073970.1074011
+	Full text: PdfPdf
+	
+
+One approach in verifying the correctness of a multiprocessor system is to show that its execution results comply with the memory consistency model it is meant to implement. It has been shown in prior work, however, that accurately verifying such compliance ...
+expand
+	SESSION: Joint session
+	
+	Using elimination to implement scalable and lock-free FIFO queues
+	Mark Moir, Daniel Nussbaum, Ori Shalev, Nir Shavit
+	Pages: 253 - 262
+	doi>10.1145/1073970.1074013
+	Full text: PdfPdf
+	
+
+This paper shows for the first time that elimination, a scaling technique formerly applied only to counters and LIFO structures, can be applied to FIFO data structures, specifically, to linearizable FIFO queues. We show how to transform existing nonscalable ...
+expand
+	Collaborate with strangers to find own preferences
+	Baruch Awerbuch, Yossi Azar, Zvi Lotker, Boaz Patt-Shamir, Mark R. Tuttle
+	Pages: 263 - 269
+	doi>10.1145/1073970.1074014
+	Full text: PdfPdf
+	
+
+We consider a model with n players and m objects. Each player has a "preference vector" of length m that models his grade for each object. The grades are unknown to the players. A player can learn his grade for an object by probing ...
+expand
+	SESSION: Miscellaneous
+	
+	Dynamic page migration with stochastic requests
+	Marcin Bienkowski
+	Pages: 270 - 278
+	doi>10.1145/1073970.1074016
+	Full text: PdfPdf
+	
+
+The page migration problem is one of subproblems of data management in networks. It occurs in a distributed network of processors sharing one indivisible memory page of size D. During runtime, the processors access a unit of data from the page, ...
+expand
+	Broadcasting on networks of workstations
+	Samir Khuller, Yoo-Ah Kim, Yung-Chun Justin Wan
+	Pages: 279 - 288
+	doi>10.1145/1073970.1074017
+	Full text: PdfPdf
+	
+
+Broadcasting and multicasting are fundamental operations. In this work we develop algorithms for performing broadcast and multicast in clusters of workstations. In this model, sending a message from one machine to another machine in the same cluster ...
+expand
+	Traffic engineering of management flows by link augmentations on confluent trees
+	Randeep Bhatia, Nicole Immorlica, Tracy Kimbrel, Vahab S. Mirrokni, Seffi Naor, Baruch Schieber
+	Pages: 289 - 298
+	doi>10.1145/1073970.1074018
+	Full text: PdfPdf
+	
+
+Service providers rely on the management systems housed in their Network Operations Centers (NOCs) to remotely operate, monitor and provision their data networks. Lately there has been a tremendous increase in management traffic due to the growing complexity ...
+expand
+	Value-maximizing deadline scheduling and its application to animation rendering
+	Eric Anderson, Dirk Beyer, Kamalika Chaudhuri, Terence Kelly, Norman Salazar, Cipriano Santos, Ram Swaminathan, Robert Tarjan, Janet Wiener, Yunhong Zhou
+	Pages: 299 - 308
+	doi>10.1145/1073970.1074019
+	Full text: PdfPdf
+	
+
+We describe a new class of utility-maximization scheduling problem with precedence constraints, the disconnected staged scheduling problem (DSSP). DSSP is a nonpreemptive multiprocessor deadline scheduling problem that arises in several commercially-important ...
+expand
+	SESSION: Radio networks
+	
+	Radio communication in random graphs: extended abstract
+	Robert Elsässer, Leszek Gasieniec
+	Pages: 309 - 315
+	doi>10.1145/1073970.1074021
+	Full text: PdfPdf
+	
+
+One of the most frequently studied problems in the context of information dissemination in communication networks is the broadcasting problem. We propose here several time efficient, centralized as well as fully distributed procedures for the broadcasting ...
+expand
+	Oblivious routing on geometric networks
+	Costas Busch, Malik Magdon-Ismail, Jing Xi
+	Pages: 316 - 324
+	doi>10.1145/1073970.1074022
+	Full text: PdfPdf
+	
+
+We study oblivious routing in which the packet paths are constructed independently of each other. We give a simple oblivious routing algorithm for geometric networks in which the nodes are embedded in the Euclidean plane. In our algorithm, a packet path ...
+expand
+	Adversarial contention resolution for simple channels
+	Michael A. Bender, Martin Farach-Colton, Simai He, Bradley C. Kuszmaul, Charles E. Leiserson
+	Pages: 325 - 332
+	doi>10.1145/1073970.1074023
+	Full text: PdfPdf
+	
+
+This paper analyzes the worst-case performance of randomized backoff on simple multiple-access channels. Most previous analysis of backoff has assumed a statistical arrival model.For batched arrivals, in which all n packets arrive at time ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

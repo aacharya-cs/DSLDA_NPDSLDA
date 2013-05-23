@@ -1,0 +1,1055 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 20th symposium on Great lakes symposium on VLSI
+General Chairs: 	R. Iris Bahar 	Brown University, USA
+	Fabrizio Lombardi 	Northeastern University, USA
+Program Chairs: 	David Atienza 	EPFL, Switzerland
+	Erik Brunvand 	University of Utah, USA
+	
+Proceedings of the 20th symposium on Great lakes symposium on VLSI 	Published by ACM 2010 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 405
+· Downloads (12 Months): 3,354
+· Citation Count: 33
+
+Publication of:
+· Conference
+GLSVLSI '10 Great Lakes Symposium on VLSI 2010
+Providence, RI, USA — May 16 - 18, 2010
+ACM New York, NY, USA ©2010
+
+	
+Tools and Resources
+
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+    Upcoming Conference:
+        GLSVLSI'12
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to tabbed view
+
+Abstract | Source Materials | Authors | References | Cited By | Index Terms | Publication | Reviews | Comments | Table of Contents
+top of pageABSTRACT
+
+Welcome to the 20th edition of the Great Lakes Symposium on VLSI (GLSVLSI) 2010 held in Providence, Rhode Island. Since its inception in 1991 in Kalamazoo, GLSVLSI has become a premier venue for the dissemination of manuscripts of the highest quality in all areas as related to VLSI. This year GLSVLSI is in the "Ivy League" itself as it is hosted on the beautiful campus of Brown University. We are confident that you will enjoy the surrounding sites as well as the program over the three days of activity.
+
+As for the technical meeting, GLSVLSI2010 was a resounding success: 165 papers were submitted, of which 50 papers were accepted for oral presentation at the symposium (a 30% acceptance rate). With poster papers, a total of 87 papers will be presented at the symposium and published in the proceedings. The final technical program consists of 30 full presentations and 20 short presentation in 12 oral sessions and 37 posters in 2 poster sessions. Differently from previous venues, the technical program of GLSVLSI2010 has three parallel sessions to allow longer presentations and discussions; a total of 10 normal sessions covering topics such as VLSI circuits, testing CAD, low power and emerging technologies/post-CMOS have been included.
+
+The recipients of the Best Paper Award this year are Marisha Rawlins and Ann Gordon-Ross for the manuscript "Lightweight Runtime Control Flow Analysis for Adaptive Loop Caching"; congratulations on this resounding accomplishment.
+
+GLSVLSI 2010 starts off Sunday afternoon, May 16th, with an exciting line up of invited speakers on a broad range of issues related to VLSI design, including NoC-based reconfigurable systems, microprocessor power impacts, and neurosensor arrays for implantable brain communication. The Sunday talks are free for all registered attendees of the conference. On Monday, our keynote speaker is Ron Weiss (MIT) who will be presenting some of his latest research in synthetic biology. Finally, on Tuesday, the technical program includes an invited special session on "System Level Power Management Algorithms and Optimization Methodologies".
+
+top of pageSOURCE MATERIALS
+FRONT MATTER
+PDFPDF  (title page, copyright, welcome, contents, organizing committee, steering committee, program committee, sponsor)
+BACK MATTER
+PDFPDF  (tutorial, author index)
+
+top of pageAUTHORS
+
+General Chairs
+
+
+    Author image not provided 	 R. Iris Bahar
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	2008-2011
+    Publication count	11
+    Citation Count	5
+    Available for download	6
+    Downloads (6 Weeks)	26
+    Downloads (12 Months)	233
+    View colleagues of R. Iris Bahar
+
+
+    Author image not provided 	 Fabrizio Lombardi
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1984-2011
+    Publication count	214
+    Citation Count	394
+    Available for download	35
+    Downloads (6 Weeks)	111
+    Downloads (12 Months)	697
+    View colleagues of Fabrizio Lombardi
+Program Chairs
+
+
+    Author image not provided 	 David Atienza
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	2003-2012
+    Publication count	84
+    Citation Count	307
+    Available for download	47
+    Downloads (6 Weeks)	182
+    Downloads (12 Months)	1,566
+    View colleagues of David Atienza
+
+
+    Author image not provided 	 Erik Brunvand
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1992-2012
+    Publication count	39
+    Citation Count	71
+    Available for download	10
+    Downloads (6 Weeks)	52
+    Downloads (12 Months)	285
+    View colleagues of Erik Brunvand
+
+top of pageREFERENCES
+References are not available
+top of pageCITED BY
+Citings are not available
+top of pageINDEX TERMS
+Index Terms are not available
+top of pagePUBLICATION
+Title 	GLSVLSI '10 Great Lakes Symposium on VLSI 2010
+	Providence, RI, USA — May 16 - 18, 2010
+Pages	478
+Sponsors 	SIGDA ACM Special Interest Group on Design Automation
+In-Cooperations 	IEEE CASS
+	IEEE CEDA
+Publisher	ACM New York, NY, USA
+ISBN	978-1-4503-0012-4
+Order Number	477108
+Conference 	GLSVLSIGreat Lakes Symposium on VLSI GLSVLSI logo
+Paper Acceptance Rate 50 of 165 submissions, 30%
+Overall Acceptance Rate 444 of 1,494 submissions, 30%
+	
+Year 	Submitted 	Accepted 	Rate
+GLSVLSI '06 	219 	82 	37%
+GLSVLSI '07 	324 	68 	21%
+GLSVLSI '08 	220 	54 	25%
+GLSVLSI '09 	215 	62 	29%
+GLSVLSI '10 	165 	50 	30%
+GLSVLSI '11 	207 	57 	28%
+GLSVLSI '12 	144 	71 	49%
+Overall 	1,494 	444 	30%
+top of pageREVIEWS
+
+Reviews are not available for this item
+Computing Reviews logo
+
+    Access critical reviews of computing literature.
+    Become a reviewer for Computing Reviews
+
+top of pageCOMMENTS
+
+Be the first to comment To Post a comment please sign in or create a free Web account
+top of pageTable of Contents
+Proceedings of the 20th symposium on Great lakes symposium on VLSI
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Invited speaker 1
+	Donatella Sciuto
+	
+	A novel design framework for the design of reconfigurable systems based on NoCs
+	Vincenzo Rana, Donatella Sciuto
+	Pages: 1-2
+	doi>10.1145/1785481.1785483
+	Full text: PdfPdf
+	
+
+In the last years, the embedded systems market is considerably grown, even though techniques and methodologies for the design of embedded systems, both from the hardware and the software point of view, have not been able to fully support this growth. ...
+expand
+	SESSION: CAD I
+	Mondira Pant
+	
+	A new physical routing approach for robust bundled signaling on NoC links
+	Mohammad Reza Kakoee, Igor Loi, Luca Benini
+	Pages: 3-8
+	doi>10.1145/1785481.1785485
+	Full text: PdfPdf
+	
+
+Tightly matched signal propagation and strong crosstalk protection are key requirements for next-generation NoC links featuring GALS synchronization and low-swing signaling. In this paper, we present a new methodology for NoC global link routing which ...
+expand
+	Bus via reduction based on floorplan revising
+	Ou He, Sheqin Dong, Jinian Bian, Sotoshi Goto, Chung-Kuan Cheng
+	Pages: 9-14
+	doi>10.1145/1785481.1785486
+	Full text: PdfPdf
+	
+
+As a global interconnection, bus is critical for chip performance in deep submicron technology. Reducing bus routing vias will facilitate the lithography and give bus routing a higher yield and also a higher performance. In this paper, we present a floorplan ...
+expand
+	Timing-driven variation-aware nonuniform clock mesh synthesis
+	Ameer Abdelhadi, Ran Ginosar, Avinoam Kolodny, Eby G. Friedman
+	Pages: 15-20
+	doi>10.1145/1785481.1785487
+	Full text: PdfPdf
+	
+
+Clock skew variations adversely affect timing margins, limiting performance, reducing yield, and may also lead to functional faults. Non-tree clock distribution networks, such as meshes and crosslinks, are employed to reduce skew and also to mitigate ...
+expand
+	Scaling power/ground solvers on multi-core with memory bandwidth awareness
+	Jin Shi, Yici Cai
+	Pages: 21-26
+	doi>10.1145/1785481.1785488
+	Full text: PdfPdf
+	
+
+The power/ground solvers have to solve circuits with millions of nodes, and are generally assumed as processor-bounded in former study. In this paper, we focused on micro-architectural level of power/ground solvers on multi-core and identified insufficient ...
+expand
+	Bus-pin-aware bus-driven floorplanning
+	Bo-Shiun Wu, Tsung-Yi Ho
+	Pages: 27-32
+	doi>10.1145/1785481.1785489
+	Full text: PdfPdf
+	
+
+As the number of buses increase substantially in multi-core SoC designs, the bus planning problem has become the dominant factor in determining the performance and power consumption of SoC designs. To cope with the bus planning problem, it is desirable ...
+expand
+	SESSION: VLSI circuits I
+	Emre Salman
+	
+	8Gb/s capacitive low power and high speed 4-PWAM transceiver design
+	Young Bok Kim, Yong-Bin Kim, Fabrizio Lombardi
+	Pages: 33-38
+	doi>10.1145/1785481.1785491
+	Full text: PdfPdf
+	
+
+In this paper, capacitive 4-PWAM transmitter architectures and circuits are proposed and its performances are analyzed with random jitter and PVT variation comparing with other works. A novel technique is proposed to reduce power and to increase speed ...
+expand
+	A low power, variable resolution two-step flash ADC
+	Mahesh Kumar Adimulam, Krishna Kumar Movva, Sreehari Veeramachaneni, N. Moorthy Muthukrishnan, M. B. Srinivas
+	Pages: 39-44
+	doi>10.1145/1785481.1785492
+	Full text: PdfPdf
+	
+
+In this paper, a new low power and configurable resolution two step flash ADC is proposed. Comparators of conventional flash ADC are replaced with CMOS inverters whose threshold can be varied dynamically. A novel peak-detector circuit is employed to ...
+expand
+	A low-offset high-speed double-tail dual-rail dynamic latched comparator
+	HeungJun Jeon, Yong-Bin Kim
+	Pages: 45-48
+	doi>10.1145/1785481.1785493
+	Full text: PdfPdf
+	
+
+This paper presents a new dynamic latched comparator which shows lower input-referred latch offset voltage and higher load drivability than the conventional dynamic latched comparators. With two additional inverters inserted between the input- and output-stage ...
+expand
+	Via configurable three-input lookup-tables for structured ASICs
+	Yu-Chen Chen, Hou-Yu Pang, Kuen-Wen Lin, Rung-Bin Lin, Hui-Hsiang Tung, Shih-Chieh Su
+	Pages: 49-54
+	doi>10.1145/1785481.1785494
+	Full text: PdfPdf
+	
+
+In this article we study layout and circuit implementations of 3-input lookup table (3-LUT) for via configurable structured ASIC. We present a new 3-LUT circuit and several layout designs. We also propose a method to improve the delay of any logic function ...
+expand
+	Variation tolerant 9T SRAM cell design
+	Sreeharsha Tavva, Dhireesha Kudithipudi
+	Pages: 55-60
+	doi>10.1145/1785481.1785495
+	Full text: PdfPdf
+	
+
+Nanoscale SRAM memory design has become increasingly challenging due to the reducing noise margins and increased sensitivity to threshold voltage variations. These issues oppose our ability to achieve stable bitcells and acceptable performance while ...
+expand
+	SESSION: Testing I
+	Rui Tang
+	
+	Stochastic computational models for accurate reliability evaluation of logic circuits
+	Hao Chen, Jie Han
+	Pages: 61-66
+	doi>10.1145/1785481.1785497
+	Full text: PdfPdf
+	
+
+As reliability becomes a major concern with the continuous scaling of CMOS technology, several computational methodologies have been developed for the reliability evaluation of logic circuits. Previous accurate analytical approaches, however, have a ...
+expand
+	A multi-level approach to reduce the impact of NBTI on processor functional units
+	Taniya Siddiqua, Sudhanva Gurumurthi
+	Pages: 67-72
+	doi>10.1145/1785481.1785498
+	Full text: PdfPdf
+	
+
+NBTI is one of the most important silicon reliability problems facing processor designers today. The impact of NBTI can be mitigated at both the circuit and microarchitecture levels. In this paper, we propose a multi-level optimization approach, combining ...
+expand
+	Graph theoretic approach for scan cell reordering to minimize peak shift power
+	Jaynarayan T. Tudu, Erik Larsson, Virendra Singh, Hideo Fujiwara
+	Pages: 73-78
+	doi>10.1145/1785481.1785499
+	Full text: PdfPdf
+	
+
+Scan circuit testing generally causes excessive switching activity compared to normal circuit operation. This excessive switching activity causes high peak and average power consumption. Higher peak power causes, supply voltage droop and excessive heat ...
+expand
+	Gating internal nodes to reduce power during scan shift
+	Dheepakkumaran Jayaraman, Rajamani Sethuram, Spyros Tragoudas
+	Pages: 79-84
+	doi>10.1145/1785481.1785500
+	Full text: PdfPdf
+	
+
+It is a common practice to gate a limited number of scan cells in order to reduce overall switching activity during shift, thereby, reducing the circuit's dynamic power consumption. In this paper, we propose a novel approach to reduce overall shift power ...
+expand
+	Software adaptation in quality sensitive applications to deal with hardware variability
+	Aashish Pant, Puneet Gupta, Mihaela van der Schaar
+	Pages: 85-90
+	doi>10.1145/1785481.1785501
+	Full text: PdfPdf
+	
+
+In this work, we propose a method to reduce the impact of process variations by adapting the application's algorithm at the software layer. We introduce the concept of hardware signatures as the measured post manufacturing hardware characteristics that ...
+expand
+	POSTER SESSION: Poster session I
+	Enrico Macii, David Atienza
+	
+	Write activity reduction on flash main memory via smart victim cache
+	Liang Shi, Chun Jason Xue, Jingtong Hu, Wei-Che Tseng, Xuehai Zhou, Edwin H.-M. Sha
+	Pages: 91-94
+	doi>10.1145/1785481.1785503
+	Full text: PdfPdf
+	
+
+Flash Memory is a desirable candidate for main memory replacement in embedded systems due to its low leakage power consumption, higher density and non-volatility characteristics. There are two challenges in applying flash memory as main memory. First, ...
+expand
+	Aging effects of leakage optimizations for caches
+	Andrea Calimera, Mirko Loghi, Enrico Macii, Massimo Poncino
+	Pages: 95-98
+	doi>10.1145/1785481.1785504
+	Full text: PdfPdf
+	
+
+Besides static power consumption, sub-90nm devices have to account for NBTI effects, which are one of the major concerns about system reliability. Some of the factors that regulate power consumption also impact NBTI-induced aging effects; however, to ...
+expand
+	Thermal-aware floorplanning exploration for 3D multi-core architectures
+	David Cuesta, Jose Ayala, Jose Hidalgo, Massimo Poncino, Andrea Acquaviva, Enrico Macii
+	Pages: 99-102
+	doi>10.1145/1785481.1785505
+	Full text: PdfPdf
+	
+
+Thermal effects are becoming increasingly important in today's sub-micron technologies. Thermal issues affect the performance, the reliability and the cooling costs of integrated systems. High peak temperatures are of major concern in modern 3D designs, ...
+expand
+	A mask double patterning technique using litho simulation by wavelet transform
+	Rance Rodrigues, Sandip Kundu
+	Pages: 103-106
+	doi>10.1145/1785481.1785506
+	Full text: PdfPdf
+	
+
+Optical Lithography is a key to semiconductor device scaling. As technology continues to scale, the fundamental limits of lithography are pushed to an extreme. Today 193nm light is used to print features in 45nm technology node. As the minimum feature ...
+expand
+	An effective approach for large scale floorplanning
+	Ameya R. Agnihotri, Satoshi Ono, Patrick H. Madden
+	Pages: 107-110
+	doi>10.1145/1785481.1785507
+	Full text: PdfPdf
+	
+
+Floorplacement" has attracted attention, as a placement formula- tion for designs with thousands or millions of soft macro blocks. In this paper, we investigate the "standard block" approach, where soft blocks are shaped to have uniform height, rather ...
+expand
+	A novel resource sharing model and high-level synthesis for delay variability-tolerant datapaths
+	Keisuke Inoue, Mineo Kaneko
+	Pages: 111-114
+	doi>10.1145/1785481.1785508
+	Full text: PdfPdf
+	
+
+Considering the timing uncertainty/variation of control signals and a clock signal to components, this paper proposes a novel resource sharing model which overcomes the risks of malfunctions caused by the timing problems. control timings, and proposes ...
+expand
+	A revisit to voltage partitioning problem
+	Tao Lin, Sheqin Dong, Bei Yu, Song Chen, Satoshi Goto
+	Pages: 115-118
+	doi>10.1145/1785481.1785509
+	Full text: PdfPdf
+	
+
+We revisit voltage partitioning problem when the mapped voltages of functional units are predetermined. If energy consumption is estimated by formulation E=CV2,a published work claimed this problem was NP-hard. We clarify that it is polynomial ...
+expand
+	Resource-constrained timing-driven link insertion for critical delay reduction
+	Jin-Tai Yan, Zhi-Wei Chen
+	Pages: 119-122
+	doi>10.1145/1785481.1785510
+	Full text: PdfPdf
+	
+
+For timing-driven or yield-driven designs, non-tree routing has become more and more popular and additional loops provide the redundant paths to protect against the effect of the open defects. Based on the assumption of a single wiring open in a signal ...
+expand
+	Boolean satisfiability on a graphics processor
+	Kanupriya Gulati, Sunil P. Khatri
+	Pages: 123-126
+	doi>10.1145/1785481.1785511
+	Full text: PdfPdf
+	
+
+Boolean Satisfiability (SAT) is a core NP-complete problem. Several heuristic software and hardware approaches have been proposed to solve this problem. In this paper we present a Boolean satisfiablity approach with a new GPU-enhanced variable ordering ...
+expand
+	Pattern grading for testing critical paths considering power supply noise and crosstalk using a layout-aware quality metric
+	Junxia Ma, Jeremy Lee, Mohammad Tehranipoor, Nisar Ahmed, Patrick Girard
+	Pages: 127-130
+	doi>10.1145/1785481.1785512
+	Full text: PdfPdf
+	
+
+Power supply noise and crosstalk are considered as the two major noise sources that negatively impact signal integrity in digital integrated circuits. In this paper, we propose a novel quality metric to evaluate path-delay fault test patterns in terms ...
+expand
+	Improving the testability and reliability of sequential circuits with invariant logic
+	Nuno Alves, Kundan Nepal, Jennifer Dworak, R. Iris Bahar
+	Pages: 131-134
+	doi>10.1145/1785481.1785513
+	Full text: PdfPdf
+	
+
+In this paper, we propose the use of logic implications to enhance online error detection capabilities and to improve the testing efficiency of an integrated circuit. These logic implications are implemented in hardware and help to verify that expected ...
+expand
+	Deterministic broadside test generation for transition path delay faults
+	Bo Yao, Irith Pomeranz, Sudhakar M. Reddy
+	Pages: 135-138
+	doi>10.1145/1785481.1785514
+	Full text: PdfPdf
+	
+
+A deterministic broadside test generation procedure is proposed for transition path delay faults. Under this fault model, a path delay fault is detected if and only if all the individual transition faults along the path are detected by the same test. ...
+expand
+	A delay measurement method using a shrinking clock signal
+	Jae Wook Lee, Ji Hwan Chun, Jacob A. Abraham
+	Pages: 139-142
+	doi>10.1145/1785481.1785515
+	Full text: PdfPdf
+	
+
+This paper describes a delay measurement method using a shrinking clock signal. The shrinking clock is generated from an AND operation on two clock signals having slightly different periods, which are provided by an external tester. Instead of measuring ...
+expand
+	Energy-efficient redundant execution for chip multiprocessors
+	Pramod Subramanyan, Virendra Singh, Kewal K. Saluja, Erik Larsson
+	Pages: 143-146
+	doi>10.1145/1785481.1785516
+	Full text: PdfPdf
+	
+
+Relentless CMOS scaling coupled with lower design tolerances is making ICs increasingly susceptible to wear-out related permanent faults and transient faults, necessitating on-chip fault tolerance in future chip microprocessors (CMPs). In this paper, ...
+expand
+	On-die sensors for measuring process and environmental variations in integrated circuits
+	Kanak Agarwal
+	Pages: 147-150
+	doi>10.1145/1785481.1785517
+	Full text: PdfPdf
+	
+
+We present compact on-die variation monitoring circuits for measuring process and environmental fluctuations in product chips. The process characterization structure can be used to isolate process induced systematic and random variation in NFET and PFET ...
+expand
+	Cost aware fault tolerant logic synthesis in presence of soft errors
+	Xin He, Afshin Abdollahi
+	Pages: 151-154
+	doi>10.1145/1785481.1785518
+	Full text: PdfPdf
+	
+
+With the emergence of sub-100 nanometers, soft error failure rates (SER) due to Single-event Upsets (SEU) from particle strikes become unacceptable for combinational logic circuits. Triple modular redundancy (TMR) is applied to improve the reliability ...
+expand
+	Design of embedded MRAM macros for memory-in-logic applications
+	Sumanta Chaudhuri, Weisheng Zhao, Jacques-Olivier Klein, Claude Chappert, Pascale Mazoyer
+	Pages: 155-158
+	doi>10.1145/1785481.1785519
+	Full text: PdfPdf
+	
+
+In this article we present a design method for integrating non-volatile MRAM memory cells into standard CMOS design. The emphasis is on standard cell based flow for general purpose logic and automatic generation or MRAM macros suitable for the applications. ...
+expand
+	Topology impact on the room temperature performance of THz-range ballistic deflection transistors
+	Vikas K. Kaushal, Ignacio Iñiguez-de-la-Torre, Martin Margala
+	Pages: 159-162
+	doi>10.1145/1785481.1785520
+	Full text: PdfPdf
+	
+
+In this paper, the Ballistic Deflection Transistor (BDT) is reviewed for variations in performance of the device with respect to geometry modifications like change in gate length, side branch angle and permittivity. Experimental study is done for different ...
+expand
+	Performance assessment of analog circuits with carbon nanotube FET (CNFET)
+	Janardhanan S. Ajit, Yong-Bin Kim, Minsu Choi
+	Pages: 163-166
+	doi>10.1145/1785481.1785521
+	Full text: PdfPdf
+	
+
+Carbon Nanotube FET technology is a new promising technology for high speed digital applications. This paper investigates optimizing analog circuits architecture to take advantage of this technology in mixed mode ICs. It was found through simulations ...
+expand
+	Read-out schemes for a CNTFET-based crossbar memory
+	Sheng Lin, Yong-Bin Kim, Fabrizio Lombardi
+	Pages: 167-170
+	doi>10.1145/1785481.1785522
+	Full text: PdfPdf
+	
+
+This paper investigates read-out schemes for a crossbar memory using CNTFET-based elements as cross-points. Two read-out schemes are presented in this paper; the first scheme biases the selected junction and measures the current flowing from the junction ...
+expand
+	SESSION: Invited speaker 2
+	Iris Bahar
+	
+	Synthetic biology: from modules to systems
+	Ron Weiss
+	Pages: 171-172
+	doi>10.1145/1785481.1785524
+	Full text: PdfPdf
+	
+
+Synthetic biology is revolutionizing how we conceptualize and approach the engineering of biological systems. Recent advances in the field are allowing us to expand beyond the construction and analysis of small gene networks towards the implementation ...
+expand
+	SESSION: CAD II
+	Sandip Kundu
+	
+	Dominant critical gate identification for power and yield optimization in logic circuits
+	Mihir Choudhury, Masoud Rostami, Kartik Mohanram
+	Pages: 173-178
+	doi>10.1145/1785481.1785526
+	Full text: PdfPdf
+	
+
+With increasing process variations, low-VT swapping is an effective technique that can be used to improve timing yield without having to modify a design following placement and routing. Gate criticality, defined as the probability that a gate ...
+expand
+	Logic synthesis for low power using clock gating and rewiring
+	Tak-Kei Lam, Steve Yang, Wai-Chung Tang, Yu-Liang Wu
+	Pages: 179-184
+	doi>10.1145/1785481.1785527
+	Full text: PdfPdf
+	
+
+Traditionally, clock gating for power saving is mainly done at Register Transistor Level (RTL), while in a lower logical level some synthesis techniques, e.g. Observability Don't Care (ODC) can also be used to provide more power savings. In this paper, ...
+expand
+	Dynamically resizable binary decision diagrams
+	Stergios Stergiou, Jawahar Jain
+	Pages: 185-190
+	doi>10.1145/1785481.1785528
+	Full text: PdfPdf
+	
+
+We present the architecture of a new Ordered Binary Decision Diagram library that is designed from the ground up to be space efficient. The main novelty lies in the library's node structure, which is modified at run-time to closely follow the variations ...
+expand
+	Fast instruction cache modeling for approximate timed HW/SW co-simulation
+	Juan Castillo, Hector Posadas, Eugenio Villar, Marcos Martinez
+	Pages: 191-196
+	doi>10.1145/1785481.1785529
+	Full text: PdfPdf
+	
+
+Approximate timed co-simulation has been proposed as a fast solution for system modeling in early design steps. This co-simulation technique enables the simulation of systems at speeds close to functional execution, while considering timing effects. ...
+expand
+	Clock skew reduction by self-compensating manufacturing variability with on-chip sensors
+	Shinya Abe, Ken-ichi Shinkai, Masanori Hashimoto, Takao Onoye
+	Pages: 197-202
+	doi>10.1145/1785481.1785530
+	Full text: PdfPdf
+	
+
+This paper presents a self-compensation scheme of manufacturing variability for clock skew reduction. In the proposed scheme, a CDN with embedded variability sensors tunes variable clock drivers for canceling the clock skew induced by manufacturing variability. ...
+expand
+	SESSION: Low power I
+	Ayse K. Coskun
+	
+	Online convex optimization-based algorithm for thermal management of MPSoCs
+	Francesco Zanini, David Atienza, Giovanni De Micheli, Stephen P. Boyd
+	Pages: 203-208
+	doi>10.1145/1785481.1785532
+	Full text: PdfPdf
+	
+
+Meeting the temperature constraints and reducing the hot-spots are critical for achieving reliable and efficient operation of complex multi-core systems. The goal of thermal management is to meet maximum operating temperature constraints, while tracking ...
+expand
+	Overscaling-friendly timing speculation architectures
+	John Sartori, Rakesh Kumar
+	Pages: 209-214
+	doi>10.1145/1785481.1785533
+	Full text: PdfPdf
+	
+
+Processors have traditionally been designed for the worst-case, resulting in designs that have high yields, but are expensive in terms of area and power. Better-than-worst-case (BTWC) design approaches based on timing speculation (TS) have recently gained ...
+expand
+	A model to exploit power-performance efficiency in superscalar processors via structure resizing
+	Omer Khan, Sandip Kundu
+	Pages: 215-220
+	doi>10.1145/1785481.1785534
+	Full text: PdfPdf
+	
+
+Power consumption has become a major cause of concern spanning from data centers to handheld devices. Traditionally, improvement in power-performance efficiency of a modern superscalar processor came from technology scaling. However, that is no longer ...
+expand
+	Thermal-aware compilation for system-on-chip processing architectures
+	Mohamed M. Sabry, José L. Ayala, David Atienza
+	Pages: 221-226
+	doi>10.1145/1785481.1785535
+	Full text: PdfPdf
+	
+
+The development of compiler-based mechanisms to reduce the percentage of hotspots and optimize the thermal profile of large register files has become an important issue. Thermal hotspots have been known to cause severe reliability issues, while the thermal ...
+expand
+	A linear statistical analysis for full-chip leakage power with spatial correlation
+	Ruijing Shen, Sheldon X.-D. Tan, Jinjun Xiong
+	Pages: 227-232
+	doi>10.1145/1785481.1785536
+	Full text: PdfPdf
+	
+
+In this paper, we present an approved linear-time algorithm for statistical leakage analysis in the present of any spatial correlation condition (strong or weak). The new algorithm adopts a new set of uncorrelated variables over virtual grids to represent ...
+expand
+	SESSION: VLSI design and post-CMOS technology
+	Smita Krishnaswamy
+	
+	Semi-analytical model for schottky-barrier carbon nanotube and graphene nanoribbon transistors
+	Xuebei Yang, Gianluca Fiori, Giuseppe Iannaccone, Kartik Mohanram
+	Pages: 233-238
+	doi>10.1145/1785481.1785538
+	Full text: PdfPdf
+	
+
+This paper describes a physics-based semi-analytical model for Schottky-barrier carbon nanotube (CNT) and graphene nanoribbon (GNR) transistors. The model includes the treatment of (i) both tunneling and thermionic currents, (ii) ambipolar conduction, ...
+expand
+	Lightweight runtime control flow analysis for adaptive loop caching
+	Marisha Rawlins, Ann Gordon-Ross
+	Pages: 239-244
+	doi>10.1145/1785481.1785539
+	Full text: PdfPdf
+	
+
+Loop caches provide an effective method for decreasing memory hierarchy energy consumption by storing frequently executed code in a more energy efficient structure than the level one cache. However, due to code structure restrictions and/or costly design ...
+expand
+	Low power nanoscale buffer management for network on chip routers
+	Suman K. Mandal, Ron Denton, Saraju P. Mohanty, Rabi N. Mahapatra
+	Pages: 245-250
+	doi>10.1145/1785481.1785540
+	Full text: PdfPdf
+	
+
+Network-on-Chip (NoC) is an on-chip communication solution in the future system-on-a-chip (SoC) necessitating high performance operation with low power dissipation. We present a novel dynamic power management technique for low power NoC router buffers ...
+expand
+	TURBONFS: turbo nand flash search
+	Shruti Vyas, Aswin Sreedhar, Sandip Kundu
+	Pages: 251-256
+	doi>10.1145/1785481.1785541
+	Full text: PdfPdf
+	
+
+NAND flash memories are popular due to their density and lower cost. However, due to serial access, NAND flash memories have slow read and write speeds. As the flash sizes increase to 64GB and beyond, searches through flash memories become painfully ...
+expand
+	Write buffer-oriented energy reduction in the L1 data cache of two-level caches for the embedded system
+	Soontae Kim, Jongmin Lee
+	Pages: 257-262
+	doi>10.1145/1785481.1785542
+	Full text: PdfPdf
+	
+
+In resource-constrained embedded systems, on-chip cache memories play an important role in both performance and energy consumption points of view. In contrast with read operations, little effort has been made to write operations though write energy consumption ...
+expand
+	SESSION: Emerging technology
+	Baris Taskin
+	
+	Graphene tunneling FET and its applications in low-power circuit design
+	Xuebei Yang, Jyotsna Chauhan, Jing Guo, Kartik Mohanram
+	Pages: 263-268
+	doi>10.1145/1785481.1785544
+	Full text: PdfPdf
+	
+
+Graphene nanoribbon tunneling FETs (GNR TFETs) are promising devices for post-CMOS low-power applications because of the low subthreshold swing, high I_on/I_off, and potential for large scale processing and fabrication.This paper combines atomistic quantum ...
+expand
+	Scalable identification of threshold logic functions
+	Ashok kumar Palaniswamy, Manoj kumar Goparaju, Spyros Tragoudas
+	Pages: 269-274
+	doi>10.1145/1785481.1785545
+	Full text: PdfPdf
+	
+
+This paper presents a scalable method to determine that a Boolean function is a threshold logic function. When the number of inputs of the function increases, identifying a threshold logic function is a laborious task. It is shown experimentally that ...
+expand
+	Manufacturing yield of QCA circuits by synthesized DNA self-assembled templates
+	Xiaojun Ma, Masoud Hashempour, Lei Wang, Fabrizio Lombardi
+	Pages: 275-280
+	doi>10.1145/1785481.1785546
+	Full text: PdfPdf
+	
+
+DNA self-assembly has been proposed as a promising "bottomup" manufacturing technique to supersede photolithography at nanometer scale. This paper discusses the application of DNA self-assembly for manufacturing templates of QCA circuits. Using a synthesis ...
+expand
+	Numerical queue solution of thermal noise-induced soft errors in subthreshold CMOS devices
+	Pooya Jannaty, Florian C. Sabou, R. Iris Bahar, Joseph Mundy, William R. Patterson, Alexander Zaslavsky
+	Pages: 281-286
+	doi>10.1145/1785481.1785547
+	Full text: PdfPdf
+	
+
+Power consumption requirements drive CMOS scaling to ever lower supply voltages, reducing the stability margin with respect to thermal noise and raising the probability for thermally-induced soft errors. Given the long time scale of noise-induced soft ...
+expand
+	Design considerations for variation tolerant multilevel CMOS/Nano memristor memory
+	Harika Manem, Garrett S. Rose, Xiaoli He, Wei Wang
+	Pages: 287-292
+	doi>10.1145/1785481.1785548
+	Full text: PdfPdf
+	
+
+With technology migration into nano and molecular scales several hybrid CMOS/nano logic and memory architectures have been proposed thus far that aim to achieve high device density with low power consumption. The discovery of the memristor has further ...
+expand
+	SESSION: Special session I: system-level SoC design
+	Yong-Bin Kim
+	
+	An integrated thermal estimation framework for industrial embedded platforms
+	Andrea Acquaviva, Andrea Calimera, Alberto Macii, Massimo Poncino, Enrico Macii, Matteo Giaconia, Claudio Parrella
+	Pages: 293-298
+	doi>10.1145/1785481.1785550
+	Full text: PdfPdf
+	
+
+Next generation industrial embedded platforms require the development of complex power and thermal management solutions. Indeed, an increasingly fine and intrusive thermal control is required because of temperature impact on leakage and reliability. ...
+expand
+	Power-efficient, reliable microprocessor architectures: modeling and design methods
+	Pradip Bose, Alper Buyuktosunoglu, Chen-Yong Cher, John A. Darringer, Meeta S. Gupta, Hendrik Hamann, Hans Jacobson, Prabhakar N. Kudva, Eren Kursun, Niti Madan, Indira Nair, Jude A. Rivers, Jeonghee Shin, Alan J. Weger, Victor Zyuban
+	Pages: 299-304
+	doi>10.1145/1785481.1785551
+	Full text: PdfPdf
+	
+
+Next generation system designs are challenged by multiple "walls": among them, the inter-related impediments offered by power dissipation limits and reliability are particularly difficult ones that all current chip/system design teams are grappling with. ...
+expand
+	Performance and energy trade-offs analysis of L2 on-chip cache architectures for embedded MPSoCs
+	Mohamed M. Sabry, Martino Ruggiero, Pablo G. Del Valle
+	Pages: 305-310
+	doi>10.1145/1785481.1785552
+	Full text: PdfPdf
+	
+
+On-chip memory organization is one of the most important aspects that can influence the overall system behavior in multi-processor systems. Following the trend set by high-performance processors, high-end embedded cores are moving from single-level on ...
+expand
+	A virtual platform environment for exploring power, thermal and reliability management control strategies in high-performance multicores
+	Andrea Bartolini, Matteo Cacciari, Andrea Tilli, Luca Benini, Matthias Gries
+	Pages: 311-316
+	doi>10.1145/1785481.1785553
+	Full text: PdfPdf
+	
+
+The use of high-end multicore processors today can incur high power density with significant variability in spatial and temporal usage of resources by workloads. This situation leads to power and temperature hotspots, which in turn may lead to non-uniform ...
+expand
+	Challenges and methodologies for efficient power budgeting across the die
+	Pinkesh J. Shah, Yoni Aizik, Muhammad Mhameed, Gila Kamhi
+	Pages: 317-322
+	doi>10.1145/1785481.1785554
+	Full text: PdfPdf
+	
+
+To provide higher performance by staying within a constant power budget is challenging. Today, operational cost and specifically energy cost constitute a large portion of an organization's Total Cost of Ownership (TCO), so it is crucial that microprocessor ...
+expand
+	SESSION: VLSI design
+	Jose L. Ayala
+	
+	A DOE-ILP assisted conjugate-gradient based power and stability optimization in High-K Nano-CMOS SRAM
+	Garima Thakral, Saraju P. Mohanty, Dhruva Ghai, Dhiraj K. Pradhan
+	Pages: 323-328
+	doi>10.1145/1785481.1785556
+	Full text: PdfPdf
+	
+
+In this paper, a novel design flow is presented for power minimization of nano-CMOS SRAM (static random access memory) circuits, while maintaining their performance. A 32nm high-K/metalgate SRAM is used as an example circuit. The baseline SRAM circuit ...
+expand
+	Line width optimization for interdigitated power/ground networks
+	Renatas Jakushokas, Eby G. Friedman
+	Pages: 329-334
+	doi>10.1145/1785481.1785557
+	Full text: PdfPdf
+	
+
+Higher operating frequencies have increased the importance of inductance in power and ground networks. The effective inductance of the power and ground network can be reduced with an interdigitated structure. A closed-form solution for determining the ...
+expand
+	Thermal-aware voltage droop compensation for multi-core architectures
+	Jia Zhao, Basab Datta, Wayne Burleson, Russell Tessier
+	Pages: 335-340
+	doi>10.1145/1785481.1785558
+	Full text: PdfPdf
+	
+
+As the rated performance of microprocessors increases, voltage droop emergencies become a significant problem. In this paper, two new techniques to combat voltage droop emergencies are explored. First, a direct connection between temperature and processor ...
+expand
+	Analysis and mitigation of NBTI-impact on PVT variability in repeated global interconnect performance
+	Basab Datta, Wayne Burleson
+	Pages: 341-346
+	doi>10.1145/1785481.1785559
+	Full text: PdfPdf
+	
+
+Repeated interconnects remain the design choice for high-performance global communication due to their clearly defined performance metrics and smooth amalgamation to the VLSI CAD flow. Simultaneous variability in process-voltage-temperature (PVT) causes ...
+expand
+	Collaborative voltage scaling with online STA and variable-latency datapath
+	Tay-Jyi Lin, Pi-Cheng Hsiao, Chi-Hung Lin, Shu-Chang Kuo, Chou-Kun Lin, Yu-Ting Kuo, Chih-Wei Liu, Yuan-Hua Chu
+	Pages: 347-352
+	doi>10.1145/1785481.1785560
+	Full text: PdfPdf
+	
+
+This paper presents an event-driven adaptive voltage scaling (AVS) system, where a vanguard collaborates with a rearguard to find a minimal supply voltage. While the vanguard is responsible for the slack cycle time estimation, the rearguard allows voltage ...
+expand
+	POSTER SESSION: Poster session II
+	Erik Brunvand
+	
+	AOP-based high-level power estimation in SystemC
+	Feng Liu, Qingping Tan, Xiaoyu Song, Naeem Abbasi
+	Pages: 353-356
+	doi>10.1145/1785481.1785562
+	Full text: PdfPdf
+	
+
+The paper presents a novel high-level power modeling and estimation framework. The approach is based on a synergic integration of aspect-oriented programming(AOP) and SystemC. Macro module modeling and power estimation are harnessed. A case study demonstrates ...
+expand
+	A novel crosstalk quantitative approach for simultaneously reducing power, noise, and delay based on bus-invert encoding schemes
+	Shanq-Jang Ruan, Tsang-Chi Kan, Jih-Chieh Hsu
+	Pages: 357-360
+	doi>10.1145/1785481.1785563
+	Full text: PdfPdf
+	
+
+As the process technology advances, not only capacitive but also inductive effect is considered for bus encoding. However, most existing coding techniques only consider power or delay reduction based on either the RC or RLC model. This is due to the ...
+expand
+	The challenges of implementing fine-grained power gating
+	Anja Niedermeier, Kjetil Svarstad, Frank Bouwens, Jos Hulzink, Jos Huisken
+	Pages: 361-364
+	doi>10.1145/1785481.1785564
+	Full text: PdfPdf
+	
+
+Power consumption in digital systems, especially in portable devices, is a crucial design factor. Due to downscaling of technology, dynamic switching power is not the only relevant source of power consumption anymore as power dissipation caused by leakage ...
+expand
+	Performance and energy efficient cache migrationapproach for thermal management in embedded systems
+	Raid Ayoub, Alex Orailoglu
+	Pages: 365-368
+	doi>10.1145/1785481.1785565
+	Full text: PdfPdf
+	
+
+In this paper we propose an approach for performance and power aware warm start for the data cache during core level migration events that originate from overheating. We utilize the concept of reuse in the references to eliminate unnecessary information ...
+expand
+	Performance enhancement of subthreshold circuits using substrate biasing and charge-boosting buffers
+	Sumanth Amarchinta, Dhireesha Kudithipudi
+	Pages: 369-372
+	doi>10.1145/1785481.1785566
+	Full text: PdfPdf
+	
+
+Subthreshold circuits are ideal for ultra low power applications. However, they suffer from low operating speeds. By improving the speed of subthreshold circuits their application spectrum can be expanded. In this paper, two existing biasing methods ...
+expand
+	Reliability analysis of power gated SRAM under combined effects of NBTI and PBTI in nano-scale CMOS
+	Anuj Pushkarna, Hamid Mahmoodi
+	Pages: 373-376
+	doi>10.1145/1785481.1785567
+	Full text: PdfPdf
+	
+
+Transistor aging effects (NBTI and PBTI) impact the reliability of SRAM in nano-scale CMOS technologies. In this research, the combined effect of NBTI and PBTI on power gated SRAM is analyzed. Optimal source biasing in the standby mode is presented as ...
+expand
+	On-chip point-of-load voltage regulator for distributed power supplies
+	Selcuk Kose, Eby G. Friedman
+	Pages: 377-380
+	doi>10.1145/1785481.1785568
+	Full text: PdfPdf
+	
+
+An ultra-low area, current efficient voltage regulator appropriate for distributed point-of-load voltage regulation in high performance integrated circuits (ICs) is described in this paper. The proposed voltage regulator is a hybrid combination of a ...
+expand
+	VLSI implementation of a non-linear feedback shift register for high-speed cryptography applications
+	Pey-Chang Kent Lin, Sunil P. Khatri
+	Pages: 381-384
+	doi>10.1145/1785481.1785569
+	Full text: PdfPdf
+	
+
+For secure high data-rate communications, fast key generation algorithms are crucial. In this paper, we present a VLSI implementation of a Non-Linear Feedback Shift Register (NLFSR) for cryptography applications. Unlike existing cryptographic key generation ...
+expand
+	Out-of-order issue logic using sorting networks
+	Siddhesh S. Mhambrey, Lawrence T. Clark, Satendra Kumar Maurya, Krzysztof S. Berezowski
+	Pages: 385-388
+	doi>10.1145/1785481.1785570
+	Full text: PdfPdf
+	
+
+A fundamental property of superscalar architectures is the execution of multiple instructions per cycle. To accomplish this, the issue logic selects and prioritizes the instructions whose operands will be ready in the next cycle, using wakeup, select ...
+expand
+	On-chip power supply noise and its implications on timing
+	Lars J. Svensson, Johnny Pihl, Daniel A. Andersson, Per Larsson-Edefors
+	Pages: 389-392
+	doi>10.1145/1785481.1785571
+	Full text: PdfPdf
+	
+
+We address two problems of assessing the influence of power- supply variations on timing analysis. We present a method to assign a supply-dependent hold margin; and we describe a method to accurately characterize logic gates for the sen- sitivity of ...
+expand
+	Characteristics of MS-CMOS logic in sub-32nm technologies
+	Kagan Irez, Jiaping Hu, Charles A. Zukowski
+	Pages: 393-396
+	doi>10.1145/1785481.1785572
+	Full text: PdfPdf
+	
+
+This paper explores the characteristics of Monotonic-Static CMOS and its potential applications in gate leakage reduction in a hypothetical 22nm Bulk-Si technology with significant gate leakage currents. Using test circuits consisting of NAND and NOR ...
+expand
+	A self-adaptive scheduler for asymmetric multi-cores
+	Omer Khan, Sandip Kundu
+	Pages: 397-400
+	doi>10.1145/1785481.1785573
+	Full text: PdfPdf
+	
+
+Asymmetric chip multiprocessors are imminent in the multi-core era primarily due their potential for power-performance efficiency. In order for software to fully realize this potential, the scheduling of threads to cores must be automated to adapt to ...
+expand
+	Context-aware TLB preloading for interference reduction in embedded multi-tasked systems
+	Ilya Chukhman, Peter Petrov
+	Pages: 401-404
+	doi>10.1145/1785481.1785574
+	Full text: PdfPdf
+	
+
+Rapid system responsiveness and execution time predictability are of significant importance for a large class of real-time embedded systems. Multi-tasking leads to interference in the shared processor resources such as caches and TLBs, which in turn ...
+expand
+	Design of self correcting radiation hardened digital circuits using decoupled ground bus
+	Sohan Purohit, Sai Rahul Chalamalasetti, Martin Margala
+	Pages: 405-408
+	doi>10.1145/1785481.1785575
+	Full text: PdfPdf
+	
+
+With shrinking device sizes, modern digital circuits are becoming increasingly susceptible to transient errors due to charged particle strikes on the sensitive nodes of the circuit. In this paper we present a simple technique to implement self correcting, ...
+expand
+	A novel multi-objective instruction synthesis flow for application-specific instruction set processors
+	Hai Lin, Yunsi Fei
+	Pages: 409-412
+	doi>10.1145/1785481.1785576
+	Full text: PdfPdf
+	
+
+Application-Specific Instruction set Processor (ASIP) has become an increasingly popular platform for embedded systems. Traditional ASIP synthesis flows mainly target performance improvement, with other design metrics not being addressed appropriately. ...
+expand
+	Electromagnetic interaction of on-chip antennas and CMOS metal layers for wireless IC interconnects
+	Ankit More, Baris Taskin
+	Pages: 413-416
+	doi>10.1145/1785481.1785577
+	Full text: PdfPdf
+	
+
+The electromagnetic interaction of on-chip antennas and metal interconnects modeled in a 250 nm complementary metal-oxide semiconductor (CMOS) technology is investigated. A finite element method (FEM) based 3-D full-wave solver is used to perform the ...
+expand
+	SESSION: CAD III
+	Kundan Nepal
+	
+	Ordered escape routing via routability-driven pin assignment
+	Jin-Tai Yan, Chung-Wei Ke, Zhi-Wei Chen
+	Pages: 417-422
+	doi>10.1145/1785481.1785579
+	Full text: PdfPdf
+	
+
+For board-level routing, ordered escape routing is a key problem. In this paper, based on the optimality of hierarchical bubble sorting, the process of assigning routability-driven pins is done for single-layer routing. Furthermore, an efficient routing ...
+expand
+	Temperature-constrained fixed-outline floorplanning for die-stacking system-in-package design
+	De-Yu Liu, Wai-Kei Mak, Ting-Chi Wang
+	Pages: 423-428
+	doi>10.1145/1785481.1785580
+	Full text: PdfPdf
+	
+
+In this paper, we study a floorplanning problem for die-stacking System-in-Package (SiP) design in which the wire bonding method is used to connect signals between different dies. We present an approach which sequentially determines a floorplan for each ...
+expand
+	Performance-constrained template-driven retargeting for analog and RF layouts
+	Zheng Liu, Lihong Zhang
+	Pages: 429-434
+	doi>10.1145/1785481.1785581
+	Full text: PdfPdf
+	
+
+Performance of analog and RF integrated circuits is highly sensitive to layout parasitics. This paper presents a complete template-driven algorithm that automatically conducts performance-constrained parasitic-aware retargeting and optimization for analog ...
+expand
+	Wirelength-driven force-directed 3D FPGA placement
+	Wentao Sui, Sheqin Dong, Jinian Bian
+	Pages: 435-440
+	doi>10.1145/1785481.1785582
+	Full text: PdfPdf
+	
+
+In this paper, a wirelength-driven force-directed three-dimension (3-D) Field Programmable Gate Arrays (FPGA) placement algorithm (3D-WFP) is presented. The algorithm is composed of three stages: Overlap permitted force-directed 2-D placement, legalization ...
+expand
+	A novel droplet routing algorithm for digital microfluidic biochips
+	Pranab Roy, Hafizur Rahaman, Parthasarathi Dasgupta
+	Pages: 441-446
+	doi>10.1145/1785481.1785583
+	Full text: PdfPdf
+	
+
+One of the recent areas of research interest is the use of microfluidics for building up biochips, the digital microfluidic biochips (DMFB). This paper deals with a challenging problem related to the design of DMFB. Specifically the design problem considered ...
+expand
+	SESSION: VLSI circuits II
+	Saraju P. Mohanty
+	
+	Methodology to achieve higher tolerance to delay variations in synchronous circuits
+	Emre Salman, Eby G. Friedman
+	Pages: 447-452
+	doi>10.1145/1785481.1785585
+	Full text: PdfPdf
+	
+
+A methodology is proposed for designing robust circuits exhibiting higher tolerance to process and environmental variations. This higher tolerance is achieved by exploiting the interdependence between the setup and hold times, reducing the delay uncertainty ...
+expand
+	Circuit-level NBTI macro-models for collaborative reliability monitoring
+	Basab Datta, Wayne Burleson
+	Pages: 453-458
+	doi>10.1145/1785481.1785586
+	Full text: PdfPdf
+	
+
+The increasing significance of Negative Bias Temperature Instability (NBTI) induced device-reliability degradation presents a compelling reason to perform efficient circuit-level reliability tracking. We propose a novel collaborative monitoring frame-work ...
+expand
+	Low-power side-channel attack-resistant asynchronous S-box design for AES cryptosystems
+	Jun Wu, Yong-Bin Kim, Minsu Choi
+	Pages: 459-464
+	doi>10.1145/1785481.1785587
+	Full text: PdfPdf
+	
+
+In this work, a novel asynchronous combinational S-Box (substitution box) design for AES (Advanced Encryption Standard) cryptosystems is proposed and validated. The S-Box is considered as the most critical component in AES crypto-circuits since it consumes ...
+expand
+	Enhancing debugging of multiple missing control errors in reversible logic
+	Jean Christoph Jung, Stefan Frehse, Robert Wille, Rolf Drechsler
+	Pages: 465-470
+	doi>10.1145/1785481.1785588
+	Full text: PdfPdf
+	
+
+Researchers are looking for alternatives to overcome the upcoming limits of conventional hardware technologies. Reversible logic thereby established itself as a promising direction so that several methods for synthesis, verification, and testing of reversible ...
+expand
+	Algorithm and hardware complexity reduction techniques for k-best sphere decoders
+	Nariman Moezzi-Madani, Thorlindur Thorolfsson, William Rhett Davis
+	Pages: 471-476
+	doi>10.1145/1785481.1785589
+	Full text: PdfPdf
+	
+
+MIMO (Multi-Input Multi-Output) technology is garnering more interest in new wireless communication standards. In this work, we introduce three techniques to reduce the power consumption of MIMO detectors and increase their data rate. We decrease the ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

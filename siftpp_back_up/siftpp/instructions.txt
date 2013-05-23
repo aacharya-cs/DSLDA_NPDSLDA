@@ -1,0 +1,29 @@
+
+
+all the utilities are here:
+****************************************************************
+
+for sift feature extraction
+    
+1. run converttoPGM.m first to convert all images from .jpg to .pgm files (the code additionally removes all the .jpg files)
+2. run the following to write the path links of the files to "filepaths.txt":
+find /lusr/u/ayan/MLDisk/LabelMeData/Images/spatial_envelope_256x256_static_8outdoorcategories/ -type f -iname "*.pgm" > filepaths.txt
+
+****************************************************************
+
+3. run extractSIFT_from_all.sh to extract SIFT features -- exact command "extractSIFT_from_all.sh filepaths.txt" , do a chmod 777 * before running this command to enable access of the .sh file
+
+run gmeansMultipleTimes.m to run 4 and 5 multiple times
+4. run QuantizeSIFT(p) with p representing the fraction of data to be sampled for clustering
+5. run gmeans for clustering -- command --
+./gmeans /lusr/u/ayan/MLDisk/LabelMeData/gmeans_files/LabelMe -a e -c 200 -O /lusr/u/ayan/MLDisk/LabelMeData/gmeans_files/LabelMe_results_200
+
+6. run genclustercenters.m
+7. run genannotations.m
+8. run genBOW.m
+
+****************************************************************
+
+9. run split_train_test.m to split the dataset into training and test set
+10. run prep_ayahoo.m to generate training and test set for transfer learning
+

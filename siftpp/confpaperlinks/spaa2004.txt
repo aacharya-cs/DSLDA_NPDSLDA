@@ -1,0 +1,527 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the sixteenth annual ACM symposium on Parallelism in algorithms and architectures
+General Chairs: 	Phil Gibbons 	Intel Research
+Program Chairs: 	Micah Adler 	University of Massachusetts
+Publication of:
+· Conference
+SPAA 04 16th ACM Symposium on Parallelism in Algorithms and Architectures 2004
+Barcelona, Spain — June 27 - 30, 2004
+ACM New York, NY, USA ©2004
+	
+Proceedings of the sixteenth annual ACM symposium on Parallelism in algorithms and architectures 	Published by ACM 2004 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 157
+· Downloads (12 Months): 880
+· Citation Count: 330
+
+
+	
+Tools and Resources
+
+    Buy this Proceeding in Print
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+    Upcoming Conference:
+        SPAA '12
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to tabbed view
+
+Abstract | Source Materials | Authors | References | Cited By | Index Terms | Publication | Reviews | Comments | Table of Contents
+top of pageABSTRACT
+
+The papers in this volume were presented at the 16th Annual ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), held June 27-30, 2004 in Barcelona, Spain. The conference was sponsored by the ACM Special Interest Groups on Algorithms and Computation Theory (SIGACT) and Computer Architecture (SIGARCH) and organized in cooperation with the European Association for Theoretical Computer Science. The Departament de Matemàtica Aplicada 4 (Applied Mathematics Department 4) at the Universitat Politécnica de Catalunya (Technical University of Catalonia) provided local support. Financial support was provided by Intel Corporation, the Departament de Matemàtica Aplicada 4, the Universitat Politécnica de Catalunya, and the Ministry of Science and Technology (MCYT), Spain.The thirty-five technical presentations that appeared at the conference were selected by the Program Committee during the Program Committee meeting that took place in Amherst, Massachusetts, March 13-14, 2004. The committee made its decisions based on perceived quality and originality, as well as appropriateness to the theme of the Symposium. The mix of selected papers reflects the unique nature of SPAA in bringing together the theory and practice of parallel computing, and in defining "parallel" very broadly to encompass any computational "device" that can perform multiple operations or tasks simultaneously. The technical papers in this volume are to be considered preliminary versions, and authors are generally expected to publish polished and complete versions in archival scientific journals.In addition to the technical presentations, this volume includes five brief communications presented at the SPAA Revue. These communications were selected either from abstracts submitted to be considered as brief communications for the Revue or from extended abstracts submitted to be considered for either a technical presentation, or a brief communication. The Committee's decisions were based on the perceived interest of these contributions, with the goal that they serve as bases for further significant advances in parallelism in computing. Extended versions of the SPAA Revue papers may be published later in other conferences or journals.
+
+top of pageSOURCE MATERIALS
+FRONT MATTER
+PDFPDF  (cover, title page, copyright, preface, contents, committee, reviewers)
+BACK MATTER
+PDFPDF  (author index)
+
+top of pageAUTHORS
+
+General Chairs
+
+
+    Phil Gibbons 	Phil Gibbons
+
+    homepage
+    phillip.b.gibbonsatintel.com
+    	
+    Bibliometrics: publication history
+    Publication years	1986-2012
+    Publication count	114
+    Citation Count	2,265
+    Available for download	81
+    Downloads (6 Weeks)	544
+    Downloads (12 Months)	3,884
+    View colleagues of Phil Gibbons
+Program Chairs
+
+
+    Author image not provided 	 Micah Adler
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1994-2012
+    Publication count	61
+    Citation Count	403
+    Available for download	31
+    Downloads (6 Weeks)	85
+    Downloads (12 Months)	648
+    View colleagues of Micah Adler
+
+top of pageREFERENCES
+References are not available
+top of pageCITED BY
+Citings are not available
+top of pageINDEX TERMS
+Index Terms are not available
+top of pagePUBLICATION
+Title 	SPAA 04 16th ACM Symposium on Parallelism in Algorithms and Architectures 2004
+	Barcelona, Spain — June 27 - 30, 2004
+Pages	322
+Sponsors 	SIGACT ACM Special Interest Group on Algorithms and Computation Theory
+	SIGARCH ACM Special Interest Group on Computer Architecture
+	ACM Association for Computing Machinery
+Publisher	ACM New York, NY, USA
+ISBN	1-58113-840-7
+Order Number	417040
+Conference 	SPAAACM Symposium on Parallel Algorithms and Architectures SPAA logo
+Overall Acceptance Rate 514 of 1,522 submissions, 34%
+	
+Year 	Submitted 	Accepted 	Rate
+SPAA '95 	101 	31 	31%
+SPAA '96 	106 	39 	37%
+SPAA '97 	97 	32 	33%
+SPAA '98 	84 	30 	36%
+SPAA '99 	90 	26 	29%
+SPAA '00 	45 	24 	53%
+SPAA '01 	93 	34 	37%
+SPAA '03 	106 	38 	36%
+SPAA '05 	100 	36 	36%
+SPAA '06 	102 	46 	45%
+SPAA '07 	130 	37 	28%
+SPAA '08 	128 	36 	28%
+SPAA '09 	114 	35 	31%
+SPAA '10 	110 	35 	32%
+SPAA '11 	116 	35 	30%
+Overall 	1,522 	514 	34%
+top of pageREVIEWS
+
+Reviews are not available for this item
+Computing Reviews logo
+
+    Access critical reviews of computing literature.
+    Become a reviewer for Computing Reviews
+
+top of pageCOMMENTS
+
+Be the first to comment To Post a comment please sign in or create a free Web account
+top of pageTable of Contents
+Proceedings of the sixteenth annual ACM symposium on Parallelism in algorithms and architectures
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Routing 1
+	
+	On delivery times in packet networks under adversarial traffic
+	Adi Rosén, Michael S. Tsirkin
+	Pages: 1 - 10
+	doi>10.1145/1007912.1007914
+	Full text: PdfPdf
+	
+
+We consider packet networks and make use of the "adversarial queuing theory" model [10]. We are interested in the question of guaranteeing that all packets are actually delivered to destination, and of having an upper bound on the delivery times of all ...
+expand
+	Adaptive channel queue routing on k-ary n-cubes
+	Arjun Singh, William J. Dally, Amit K. Gupta, Brian Towles
+	Pages: 11 - 19
+	doi>10.1145/1007912.1007915
+	Full text: PdfPdf
+	
+
+This paper introduces a new adaptive method, Channel Queue Routing (CQR), for load-balanced routing on k-ary n-cube interconnection networks. CQR estimates global congestion in the network from its channel queues while relying on the implicit network ...
+expand
+	Compact name-independent routing with minimum stretch
+	Ittai Abraham, Cyril Gavoille, Dahlia Malkhi, Noam Nisan, Mikkel Thorup
+	Pages: 20 - 24
+	doi>10.1145/1007912.1007916
+	Full text: PdfPdf
+	
+
+Given a weighted undirected network with arbitrary node names, we present a compact routing scheme, using a Õ(√n) space routing table at each node, and routing along paths of stretch 3, that is, at most thrice as long as the ...
+expand
+	SESSION: Peer-To-peer systems
+	
+	Object location in realistic networks
+	Kirsten Hildrum, Robert Krauthgamer, John Kubiatowicz
+	Pages: 25 - 35
+	doi>10.1145/1007912.1007918
+	Full text: PdfPdf
+	
+
+We devise an object location scheme that achieves a guaranteed low stretch in a wider and more realistic class of networks than previous schemes. The distinctive feature of our scheme is that it is inherently adaptive to the underlying topology. ...
+expand
+	Simple efficient load balancing algorithms for peer-to-peer systems
+	David R. Karger, Matthias Ruhl
+	Pages: 36 - 43
+	doi>10.1145/1007912.1007919
+	Full text: PdfPdf
+	
+
+Load balancing is a critical issue for the efficient operation of peer-to-peer networks. We give two new load-balancing protocols whose provable performance guarantees are within a constant factor of optimal. Our protocols refine the consistent hashing ...
+expand
+	Consistent and compact data management in distributed storage systems
+	Baruch Awerbuch, Christian Scheideler
+	Pages: 44 - 53
+	doi>10.1145/1007912.1007920
+	Full text: PdfPdf
+	
+
+In this paper we consider the problem of maintaining a consistent mapping of a virtual object space to a set of memory modules, i.e. the object space can be decomposed into a set of ranges where every module is responsible for exactly one range. A module ...
+expand
+	Geometric generalizations of the power of two choices
+	John W. Byers, Jeffrey Considine, Michael Mitzenmacher
+	Pages: 54 - 63
+	doi>10.1145/1007912.1007921
+	Full text: PdfPdf
+	
+
+A well-known paradigm for load balancing in parallel and distributed systems is the "power of two choices," whereby an item is stored at the less loaded of two (or more) random alternative servers. We investigate the power of two choices in natural settings ...
+expand
+	SESSION: Caching I
+	
+	Fighting against two adversaries: page migration in dynamic networks
+	Marcin Bienkowski, Miroslaw Korzeniowski, Friedhelm Meyer auf der Heide
+	Pages: 64 - 73
+	doi>10.1145/1007912.1007923
+	Full text: PdfPdf
+	
+
+Page migration is one of the fundamental subproblems in the framework of data management in networks. It occurs in a distributed network of processors sharing one indivisible memory page of size D, which is stored in one of the processors. During ...
+expand
+	Online hierarchical cooperative caching
+	Xiaozhou Li, C. Greg Plaxton, Mitul Tiwari, Arun Venkataramani
+	Pages: 74 - 83
+	doi>10.1145/1007912.1007924
+	Full text: PdfPdf
+	
+
+We address a hierarchical generalization of the well-known disk paging problem. In the hierarchical cooperative caching problem, a set of n machines residing in an ultrametric space cooperate with one another to satisfy a sequence of read requests ...
+expand
+	New results on web caching with request reordering
+	Susanne Albers
+	Pages: 84 - 92
+	doi>10.1145/1007912.1007925
+	Full text: PdfPdf
+	
+
+We study web caching with request reordering. The goal is to maintain a cache of web documents so that a sequence of requests can be served at low cost. To improve cache hit rates, a limited reordering of requests is allowed. Feder et al. [6], who recently ...
+expand
+	SESSION: Routing II
+	
+	Packet-mode policies for input-queued switches
+	Dan Guez, Alex Kesselman, Adi Rosén
+	Pages: 93 - 102
+	doi>10.1145/1007912.1007927
+	Full text: PdfPdf
+	
+
+This paper considers the problem of packet-mode scheduling of input queued switches. Packets have variable lengths, and are divided into cells of unit length. Each packet arrives to the switch with a given deadline by which it must traverse the switch. ...
+expand
+	Parallelism versus memory allocation in pipelined router forwarding engines
+	Fan Chung, Ronald Graham, George Varghese
+	Pages: 103 - 111
+	doi>10.1145/1007912.1007928
+	Full text: PdfPdf
+	
+
+A crucial problem that needs to be solved is the allocation of memory to processors in a pipeline. Ideally, the processor memories should be totally separate (i.e., one port memories) in order to minimize contention; however, this minimizes memory sharing. ...
+expand
+	Lower bounds for graph embeddings and combinatorial preconditioners
+	Gary L. Miller, Peter C. Richter
+	Pages: 112 - 119
+	doi>10.1145/1007912.1007929
+	Full text: PdfPdf
+	
+
+Given a general graph G, a fundamental problem is to find a spanning tree H that best approximates G by some measure. Often this measure is some combination of the congestion and dilation of an embedding of G into H. ...
+expand
+	SESSION: Algorithms
+	
+	Balanced graph partitioning
+	Konstantin Andreev, Harald Räcke
+	Pages: 120 - 124
+	doi>10.1145/1007912.1007931
+	Full text: PdfPdf
+	
+
+In this paper we consider the problem of (k, υ)-balanced graph partitioning - dividing the vertices of a graph into k almost equal size components (each of size less than υ • n<over>k) so ...
+expand
+	Bi-criteria algorithm for scheduling jobs on cluster platforms
+	Pierre-François Dutot, Lionel Eyraud, Grégory Mounié, Denis Trystram
+	Pages: 125 - 132
+	doi>10.1145/1007912.1007932
+	Full text: PdfPdf
+	
+
+We describe in this paper a new method for building an efficient algorithm for scheduling jobs in a cluster. Jobs are considered as parallel tasks (PT) which can be scheduled on any number of processors. The main feature is to consider two criteria that ...
+expand
+	On-the-fly maintenance of series-parallel relationships in fork-join multithreaded programs
+	Michael A. Bender, Jeremy T. Fineman, Seth Gilbert, Charles E. Leiserson
+	Pages: 133 - 144
+	doi>10.1145/1007912.1007933
+	Full text: PdfPdf
+	
+
+A key capability of data-race detectors is to determine whether one thread executes logically in parallel with another or whether the threads must operate in series. This paper provides two algorithms, one serial and one parallel, to maintain series-parallel ...
+expand
+	An NC algorithm for finding a maximal acyclic set in a graph
+	Aaron Windsor
+	Pages: 145 - 150
+	doi>10.1145/1007912.1007934
+	Full text: PdfPdf
+	
+
+An acyclic set in an undirected graph G = (V,E) is a set A ⊆ V(G) such that the induced graph on A is acyclic. A maximal acyclic set (MAS) has the further property that no vertex can be added to it without ...
+expand
+	SESSION: Networks I
+	
+	Scheduling against an adversarial network
+	Stefano Leonardi, Alberto Marchetti-Spaccamela, Friedhelm Meyer auf der Heide
+	Pages: 151 - 159
+	doi>10.1145/1007912.1007936
+	Full text: PdfPdf
+	
+
+Using idle times of the processors is a well-known approach to run coarse grained parallel algorithms for extremely complex problems. We present on-line algorithms for scheduling the processes of a parallel application that is known off-line on a dynamic ...
+expand
+	On achieving optimized capacity utilization in application overlay networks with multiple competing sessions
+	Yi Cui, Baochun Li, Klara Nahrstedt
+	Pages: 160 - 169
+	doi>10.1145/1007912.1007937
+	Full text: PdfPdf
+	
+
+In this paper, we examine the problem of large-volume data dissemination via overlay networks. A natural way to maximize the throughput of an overlay multicast session is to split the traffic and feed them into multiple trees. While in single-tree solutions, ...
+expand
+	Pagoda: a dynamic overlay network for routing, data management, and multicasting
+	Ankur Bhargava, Kishore Kothapalli, Chris Riley, Christian Scheideler, Mark Thober
+	Pages: 170 - 179
+	doi>10.1145/1007912.1007938
+	Full text: PdfPdf
+	
+
+The tremendous growth of public interest in peer-to-peer systems in recent years has initiated a lot of research work on how to design efficient and robust overlay networks for these systems. While a large collection of scalable peer-to-peer overlay ...
+expand
+	SESSION: Algorithmic game theory
+	
+	Sharing the cost of multicast transmissions in wireless networks
+	Vittorio Bilè, Chiara Di Francescomarino, Michele Flammini, Giovanna Melideo
+	Pages: 180 - 187
+	doi>10.1145/1007912.1007940
+	Full text: PdfPdf
+	
+
+In this paper we consider the problem of sharing the costs of multicast transmissions in ad hoc wireless networks. Assuming that the receiving users are selfish, we provide strategy- proof mechanisms that are either optimally budget balanced or efficient ...
+expand
+	Selfish load balancing and atomic congestion games
+	Subhash Suri, Csaba D. Tóth, Yunhong Zhou
+	Pages: 188 - 195
+	doi>10.1145/1007912.1007941
+	Full text: PdfPdf
+	
+
+We revisit a classical load balancing problem in the modern context of decentralized systems and self-interested clients. In particular, there is a set of clients, each of whom must choose a server from a permissible set. Each client selfishly wants ...
+expand
+	How to route and tax selfish unsplittable traffic
+	Vincenzo Auletta, Roberto De Prisco, Paolo Penna, Pino Persiano
+	Pages: 196 - 205
+	doi>10.1145/1007912.1007942
+	Full text: PdfPdf
+	
+
+We study the problem of assigning unsplittable traffic to a set of m links so to minimize the maximum link congestion (i.e., the makespan). We consider the case of selfish agents owning pieces of the traffic. In particular, we introduce ...
+expand
+	SESSION: Shared memory and architecture
+	
+	A scalable lock-free stack algorithm
+	Danny Hendler, Nir Shavit, Lena Yerushalmi
+	Pages: 206 - 215
+	doi>10.1145/1007912.1007944
+	Full text: PdfPdf
+	
+
+The literature describes two high performance concurrent stack algorithms based on combining funnels and elimination trees. Unfortunately, the funnels are linearizable but blocking, and the elimination trees are non-blocking but not linearizable. Neither ...
+expand
+	DCAS is not a silver bullet for nonblocking algorithm design
+	Simon Doherty, David L. Detlefs, Lindsay Groves, Christine H. Flood, Victor Luchangco, Paul A. Martin, Mark Moir, Nir Shavit, Guy L. Steele, Jr.
+	Pages: 216 - 224
+	doi>10.1145/1007912.1007945
+	Full text: PdfPdf
+	
+
+Despite years of research, the design of efficient nonblocking algorithms remains difficult. A key reason is that current shared-memory multiprocessor architectures support only single-location synchronisation primitives such as compare-and-swap (CAS) ...
+expand
+	Efficient orchestration of sub-word parallelism in media processors
+	John Oliver, Venkatesh Akella, Frederic Chong
+	Pages: 225 - 234
+	doi>10.1145/1007912.1007946
+	Full text: PdfPdf
+	
+
+Communication and multimedia applications with increased data rates and enhanced functionality continuously raise the bar for the computational requirements of future microprocessors. In order to meet these computational demands it is necessary to exploit ...
+expand
+	SESSION: Caching II
+	
+	Effectively sharing a cache among threads
+	Guy E. Blelloch, Phillip B. Gibbons
+	Pages: 235 - 244
+	doi>10.1145/1007912.1007948
+	Full text: PdfPdf
+	
+
+We compare the number of cache misses M1 for running a computation on a single processor with cache size C1 to the total number of misses Mp for the same computation when using p processors ...
+expand
+	Cache-oblivious shortest paths in graphs using buffer heap
+	Rezaul Alam Chowdhury, Vijaya Ramachandran
+	Pages: 245 - 254
+	doi>10.1145/1007912.1007949
+	Full text: PdfPdf
+	
+
+We present the Buffer Heap (BH), a cache-oblivious priority queue that supports Delete-Min, Delete, and Decrease-Key operations in O(1overB log2 NoverB) amortized block transfers ...
+expand
+	Online algorithms for prefetching and caching on parallel disks
+	Rahul Shah, Peter J. Varman, Jeffrey Scott Vitter
+	Pages: 255 - 264
+	doi>10.1145/1007912.1007950
+	Full text: PdfPdf
+	
+
+Parallel disks provide a cost effective way of speeding up I/Os in applications that work with large amounts of data. The main challenge is to achieve as much parallelism as possible, using prefetching to avoid bottlenecks in disk access. Efficient algorithms ...
+expand
+	SESSION: SPAA revue
+	
+	Improved combination of online algorithms for acceptance and rejection
+	David P. Bunde, Yishay Mansour
+	Pages: 265 - 266
+	doi>10.1145/1007912.1007952
+	Full text: PdfPdf
+	
+
+Given two admission control algorithms that are cA-accept-competitive and cR-reject-competitive respectively, we give two ways to make an algorithm that is simultaneously O(cA)-accept-competitive ...
+expand
+	Time complexity of practical parallel steiner point insertion algorithms
+	Daniel A. Spielman, Shang-Hua Teng, Alper Üngör
+	Pages: 267 - 268
+	doi>10.1145/1007912.1007953
+	Full text: PdfPdf
+	
+
+An effective method in practice to compute quality Delaunay triangulations is to apply parallel refinements that insert Steiner points whose prestars in the triangulation do not overlap. We show that these algorithms can be implemented in O(log ...
+expand
+	The inherent queuing delay of parallel packet switches
+	Hagit Attiya, David Hay
+	Pages: 269 - 270
+	doi>10.1145/1007912.1007954
+	Full text: PdfPdf
+	
+
+The parallel packet switch (PPS) is extensively used as the core of contemporary commercial switches. This paper investigates the inherent queuing delay and delay jitter introduced by the PPS's demultiplexing algorithm, relative to an optimal ...
+expand
+	Efficient search in unstructured peer-to-peer networks
+	Vicent Cholvi, Pascal Felber, Ernst Biersack
+	Pages: 271 - 272
+	doi>10.1145/1007912.1007955
+	Full text: PdfPdf
+	
+	The potential in energy efficiency of a speculative chip-multiprocessor
+	Yuu Tanaka, Toshinori Sato, Takenori Koushiro
+	Pages: 273 - 274
+	doi>10.1145/1007912.1007956
+	Full text: PdfPdf
+	
+
+While lower supply voltage is effective for energy reduction, it suffers performance loss. To mitigate the loss, we propose to execute only the part, which does not have any influence on execution speed, with low-speed and low-voltage. We are investigating ...
+expand
+	SESSION: Networks II
+	
+	Online algorithms for network design
+	Adam Meyerson
+	Pages: 275 - 280
+	doi>10.1145/1007912.1007958
+	Full text: PdfPdf
+	
+
+This paper presents the first polylogarithmic-competitive online algorithms for two-metric network design problems. These problems arise naturally in the design of computer networks (wired and wireless) as well as many other applications. In most cases ...
+expand
+	Expansion properties of (secure) wireless networks
+	Alessandro Panconesi, Jaikumar Radhakrishnan
+	Pages: 281 - 285
+	doi>10.1145/1007912.1007959
+	Full text: PdfPdf
+	
+
+We show that some topologies arising naturally in the context of wireless networking are low-degree, expander graphs.
+expand
+	The effect of faults on network expansion
+	Amitabha Bagchi, Ankur Bhargava, Amitabh Chaudhary, David Eppstein, Christian Scheideler
+	Pages: 286 - 293
+	doi>10.1145/1007912.1007960
+	Full text: PdfPdf
+	
+
+In this paper we study the problem of how resilient networks are to node faults. Specifically, we investigate the question of how many faults a network can sustain so that it still contains a large (i.e. linear-sized) connected component that still has ...
+expand
+	SESSION: Distributed computation
+	
+	Dynamic analysis of the arrow distributed protocol
+	Fabian Kuhn, Rogert Wattenhofer
+	Pages: 294 - 301
+	doi>10.1145/1007912.1007962
+	Full text: PdfPdf
+	
+
+Arrow is a prominent distributed protocol which globally orders requests initiated by the nodes in a distributed system. In this paper we present a dynamic analysis of the Arrow protocol. We prove that Arrow is O(log D)-competitive, where ...
+expand
+	Optimal early stopping uniform consensus in synchronous systems with process omission failures
+	Philippe Raïpin Parvédy, Michel Raynal
+	Pages: 302 - 310
+	doi>10.1145/1007912.1007963
+	Full text: PdfPdf
+	
+
+Consensus is a central problem of fault-tolerant distributed computing that, in the context of synchronous distributed systems, has received a lot of attention in the crash failure model and in the Byzantine failure model. This paper considers synchronous ...
+expand
+	Writing-all deterministically and optimally using a non-trivial number of asynchronous processors
+	Dariusz R. Kowalski, Alexander A. Shvartsman
+	Pages: 311 - 320
+	doi>10.1145/1007912.1007964
+	Full text: PdfPdf
+	
+
+The problem of performing n tasks on p asynchronous or undependable processors is a basic problem in distributed computing. This paper considers an abstraction of this problem called Write-All: using p processors write 1's into ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

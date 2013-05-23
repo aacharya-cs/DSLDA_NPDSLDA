@@ -1,0 +1,480 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the nineteenth annual ACM symposium on Parallel algorithms and architectures
+General Chairs: 	Phillip B. Gibbons 	Intel Research, USA
+Program Chairs: 	Christian Scheideler 	Technische Universität München, Germany
+Publication of:
+· Conference
+SPAA 07 19th ACM Symposium on Parallelism in Algorithms and Architectures (co-located with FCRC 2007)
+San Diego, CA, USA — June 09 - 11, 2007
+ACM New York, NY, USA ©2007
+	
+Proceedings of the nineteenth annual ACM symposium on Parallel algorithms and architectures 	Published by ACM 2007 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 334
+· Downloads (12 Months): 1,650
+· Citation Count: 321
+
+
+	
+Tools and Resources
+
+    Buy this Proceeding in Print
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+    Upcoming Conference:
+        SPAA '12
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Source Materials	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the nineteenth annual ACM symposium on Parallel algorithms and architectures
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Network theory
+	
+	Universal augmentation schemes for network navigability: overcoming the √n-barrier
+	Pierre Fraigniaud, Cyril Gavoille, Adrian Kosowski, Emmanuelle Lebhar, Zvi Lotker
+	Pages: 1 - 7
+	doi>10.1145/1248377.1248379
+	Full text: PdfPdf
+	
+
+Augmented graphs were introduced for the purpose of analyzing the "six degrees of separation between individuals" observed experimentally by the sociologist Standley Milgram in the 60's. Formally, an augmented graph is a pair (G,φ) where ...
+expand
+	On triangulation of simple networks
+	Robert Krauthgamer
+	Pages: 8 - 15
+	doi>10.1145/1248377.1248380
+	Full text: PdfPdf
+	
+
+Network triangulation is a method for estimating distances betweennodes in the network, by letting every node measure its distanceto a few beacon nodes, and deducing the distance between every two nodes x,y by using their measurements to their ...
+expand
+	Strong-diameter decompositions of minor free graphs
+	Ittai Abraham, Cyril Gavoille, Dahlia Malkhi, Udi Wieder
+	Pages: 16 - 24
+	doi>10.1145/1248377.1248381
+	Full text: PdfPdf
+	
+
+We provide the first sparse covers and probabilistic partitions for graphs excluding a fixed minor that have strong diameter bounds; i.e. each set of the cover/partition has a small diameter as an induced sub-graph. Using these results we provide ...
+expand
+	SESSION: Scheduling
+	
+	Approximation algorithms for multiprocessor scheduling under uncertainty
+	Guolong Lin, Rajmohan Rajaraman
+	Pages: 25 - 34
+	doi>10.1145/1248377.1248383
+	Full text: PdfPdf
+	
+
+Motivated by applications in grid computing and project management, we study multiprocessor scheduling in scenarios where there is uncertainty in the successful execution of jobs when assigned to processors. We consider the problem of multiprocessor ...
+expand
+	Scheduling DAGs on asynchronous processors
+	Michael A. Bender, Cynthia A. Phillips
+	Pages: 35 - 45
+	doi>10.1145/1248377.1248384
+	Full text: PdfPdf
+	
+
+This paper addresses the problem of scheduling a DAG of unit-length tasks on asynchronous processors, that is, processors having different and changing speeds. The objective is to minimize the makespan, that is, the time to ...
+expand
+	Scheduling to minimize gaps and power consumption
+	Erik D. Demaine, Mohammad Ghodsi, Mohammad Taghi Hajiaghayi, Amin S. Sayedi-Roshkhar, Morteza Zadimoghaddam
+	Pages: 46 - 54
+	doi>10.1145/1248377.1248385
+	Full text: PdfPdf
+	
+
+This paper considers scheduling tasks while minimizing the power consumption of one or more processors, each of which can go to sleep at a fixed cost α. There are two natural versions of this problem, both considered extensively in recent work: ...
+expand
+	SESSION: Brief announcements I: parallel and multicore systems
+	
+	Feasibility study of MPI implementation on the heterogeneous multi-core cell BE™ architecture
+	Arun Kumar, Naresh Jayam, Ashok Srinivasan, Ganapathy Senthilkumar, Pallav K. Baruah, Shakti Kapoor, Murali Krishna, Raghunath Sarma
+	Pages: 55 - 56
+	doi>10.1145/1248377.1248387
+	Full text: PdfPdf
+	
+
+The Cell Broadband Engine™ is a new heterogeneous multi-core processor from IBM, Sony, and Toshiba. It contains eight co-processors, called Synergistic Processing Elements (SPEs), which operate directly on distinct 256 KB local stores, and also ...
+expand
+	Evaluating synchronization techniques for light-weight multithreaded/multicore architectures
+	Srinivas Sridharan, Arun Rodrigues, Peter Kogge
+	Pages: 57 - 58
+	doi>10.1145/1248377.1248388
+	Full text: PdfPdf
+	
+	Towards soft optimization techniques for parallel cognitive applications
+	Woongki Baek, JaeWoong Chung, Chi Cao Minh, Christos Kozyrakis, Kunle Olukotun
+	Pages: 59 - 60
+	doi>10.1145/1248377.1248389
+	Full text: PdfPdf
+	
+	SESSION: Cache-oblivious/cache-aware algorithms
+	
+	Optimal sparse matrix dense vector multiplication in the I/O-model
+	Michael A. Bender, Gerth Stølting Brodal, Rolf Fagerberg, Riko Jacob, Elias Vicari
+	Pages: 61 - 70
+	doi>10.1145/1248377.1248391
+	Full text: PdfPdf
+	
+
+We analyze the problem of sparse-matrix dense-vector multiplication (SpMV) in the I/O-model. The task of SpMV is to compute y := Ax, where A is a sparse N x N matrix and x and y are vectors. Here, sparsity ...
+expand
+	The cache-oblivious gaussian elimination paradigm: theoretical framework, parallelization and experimental evaluation
+	Rezaul Alam Chowdhury, Vijaya Ramachandran
+	Pages: 71 - 80
+	doi>10.1145/1248377.1248392
+	Full text: PdfPdf
+	
+
+The Gaussian Elimination Paradigm (GEP) was introduced by the authors in [6] to represent the triply-nested loop computation that occurs in several important algorithms including Gaussian elimination without pivoting and Floyd-Warshall's all-pairs shortest ...
+expand
+	Cache-oblivious streaming B-trees
+	Michael A. Bender, Martin Farach-Colton, Jeremy T. Fineman, Yonatan R. Fogel, Bradley C. Kuszmaul, Jelani Nelson
+	Pages: 81 - 92
+	doi>10.1145/1248377.1248393
+	Full text: PdfPdf
+	
+
+A streaming B-tree is a dictionary that efficiently implements insertions and range queries. We present two cache-oblivious streaming B-trees, the shuttle tree, and the cache-oblivious lookahead array (COLA). ...
+expand
+	An experimental comparison of cache-oblivious and cache-conscious programs
+	Kamen Yotov, Tom Roeder, Keshav Pingali, John Gunnels, Fred Gustavson
+	Pages: 93 - 104
+	doi>10.1145/1248377.1248394
+	Full text: PdfPdf
+	
+
+Cache-oblivious algorithms have been advanced as a way of circumventing some of the difficulties of optimizing applications to take advantage of the memory hierarchy of modern microprocessors. These algorithms are based on the divide-and-conquer paradigm ...
+expand
+	SESSION: Multicore architectures and algorithms
+	
+	Scheduling threads for constructive cache sharing on CMPs
+	Shimin Chen, Phillip B. Gibbons, Michael Kozuch, Vasileios Liaskovitis, Anastassia Ailamaki, Guy E. Blelloch, Babak Falsafi, Limor Fix, Nikos Hardavellas, Todd C. Mowry, Chris Wilkerson
+	Pages: 105 - 115
+	doi>10.1145/1248377.1248396
+	Full text: PdfPdf
+	
+
+In chip multiprocessors (CMPs), limiting the number of offchip cache misses is crucial for good performance. Many multithreaded programs provide opportunities for constructive cache sharing, in which concurrently scheduled threads share a largely ...
+expand
+	Supermatrix out-of-order scheduling of matrix operations for SMP and multi-core architectures
+	Ernie Chan, Enrique S. Quintana-Orti, Gregorio Quintana-Orti, Robert van de Geijn
+	Pages: 116 - 125
+	doi>10.1145/1248377.1248397
+	Full text: PdfPdf
+	
+
+We discuss the high-performance parallel implementation and execution of dense linear algebra matrix operations on SMP architectures, with an eye towards multi-core processors with many cores. We argue that traditional implementations, as those incorporated ...
+expand
+	Proximity-aware directory-based coherence for multi-core processor architectures
+	Jeffery A. Brown, Rakesh Kumar, Dean Tullsen
+	Pages: 126 - 134
+	doi>10.1145/1248377.1248398
+	Full text: PdfPdf
+	
+
+As the number of cores increases on chip multiprocessors, coherence is fast becoming a central issue for multi-core performance. This is exacerbated by the fact that interconnection speeds are not scaling well with technology. This paper describes mechanisms ...
+expand
+	A parallel dynamic programming algorithm on a multi-core architecture
+	Guangming Tan, Ninghui Sun, Guang R. Gao
+	Pages: 135 - 144
+	doi>10.1145/1248377.1248399
+	Full text: PdfPdf
+	
+
+Dynamic programming is an efficient technique to solve combinatorial search and optimization problem. There have been many parallel dynamic programming algorithms. The purpose of this paper is to study a family of dynamic programming algorithm where ...
+expand
+	SESSION: Distributed network algorithms
+	
+	Tight bounds for distributed selection
+	Fabian Kuhn, Thomas Locher, Rogert Wattenhofer
+	Pages: 145 - 153
+	doi>10.1145/1248377.1248401
+	Full text: PdfPdf
+	
+
+We revisit the problem of distributed k-selection where, given a general connected graph of diameter D consisting of n nodes in which each node holds a numeric element, the goal is to determine the kth smallest ...
+expand
+	Local MST computation with short advice
+	Pierre Fraigniaud, Amos Korman, Emmanuelle Lebhar
+	Pages: 154 - 160
+	doi>10.1145/1248377.1248402
+	Full text: PdfPdf
+	
+
+We use the recently introduced advising scheme framework for measuring the difficulty of locally distributively computing a Minimum Spanning Tree (MST). An (m,t)-advising scheme for a distributed problem P is a way, for every ...
+expand
+	Distributed approximation of capacitated dominating sets
+	Fabian Kuhn, Thomas Moscibroda
+	Pages: 161 - 170
+	doi>10.1145/1248377.1248403
+	Full text: PdfPdf
+	
+
+We study local, distributed algorithms for the capacitated minimum dominating set (CapMDS) problem, which arises in various distributed network applications. Given a network graph G = (V,E), and a capacity cap(v) ∈ N ...
+expand
+	SESSION: Packing, coloring and load balancing
+	
+	Packing to angles and sectors
+	Piotr Berman, Jieun Jeong, Shiva Prasad Kasiviswanathan, Bhuvan Urgaonkar
+	Pages: 171 - 180
+	doi>10.1145/1248377.1248405
+	Full text: PdfPdf
+	
+
+Motivated by the widespread proliferation of wireless networks employing directional antennas, we study some capacitated covering problems arising in these networks. Geometrically, the area covered by a directional antenna with parameters α,ρ,r ...
+expand
+	Conflict-free coloring for rectangle ranges using O(n.382) colors
+	Deepak Ajwani, Khaled Elbassioni, Sathish Govindarajan, Saurabh Ray
+	Pages: 181 - 187
+	doi>10.1145/1248377.1248406
+	Full text: PdfPdf
+	
+
+Given a set of points P ⊆ R2, a conflict-free coloring of P w.r.t. rectangle ranges is an assignment of colors to points of P, such that each non-empty axis-parallel rectangle T in the plane contains ...
+expand
+	Balanced allocations with heterogenous bins
+	Udi Wieder
+	Pages: 188 - 193
+	doi>10.1145/1248377.1248407
+	Full text: PdfPdf
+	
+
+Balls-into-bins processes are a useful and common abstraction for many load-balancing related problems. A well known paradigm for load balancing in distributed or parallel servers is the "multiple choice paradigm" where an item (ball) is put in the less ...
+expand
+	SESSION: Brief announcements II: diverse algorithms
+	
+	Weakening the online adversary just enough to get optimal conflict-free colorings for intervals
+	Amotz Bar-Noy, Panagiotis Cheilaris, Svetlana Olonetsky, Shakhar Smorodinsky
+	Pages: 194 - 195
+	doi>10.1145/1248377.1248409
+	Full text: PdfPdf
+	
+	On the truthfulness and the approximation for scheduling selfish tasks
+	Eric Angel, Evripidis Bampis, Fanny Pascual, Alex-Ariel Tchetgnia
+	Pages: 196 - 197
+	doi>10.1145/1248377.1248410
+	Full text: PdfPdf
+	
+	Optimal bit-reversal using vector permutations
+	Anton Lokhmotov, Alan Mycroft
+	Pages: 198 - 199
+	doi>10.1145/1248377.1248411
+	Full text: PdfPdf
+	
+
+We have developed a bit-reversal algorithm (BRAVO) using vector permute operations, which is optimal in the number of permutations, and its cache-optimal version (COBRAVO). Our implementation on PowerMac G5 shows 2-4.5 fold improvement for small data ...
+expand
+	SESSION: Concurrent programming
+	
+	The notion of a timed register and its application to indulgent synchronization
+	Michel Raynal, Gadi Taubenfeld
+	Pages: 200 - 209
+	doi>10.1145/1248377.1248413
+	Full text: PdfPdf
+	
+
+A new type of shared object, called timed register, is proposed and used to design indulgent timing-based algorithms. A timed register generalizes the notion of an atomic register as follows: if a process invokes two consecutive operations on ...
+expand
+	Nonblocking transactions without indirection using alert-on-update
+	Michael F. Spear, Arrvindh Shriraman, Luke Dalessandro, Sandhya Dwarkadas, Michael L. Scott
+	Pages: 210 - 220
+	doi>10.1145/1248377.1248414
+	Full text: PdfPdf
+	
+
+Nonblocking implementations of software transactional memory (STM) typically impose an extra level of indirection when accessing an object; some researchers have claimed that the cost of this indirection outweighs the semantic advantages of nonblocking ...
+expand
+	Time-based transactional memory with scalable time bases
+	Torvald Riegel, Christof Fetzer, Pascal Felber
+	Pages: 221 - 228
+	doi>10.1145/1248377.1248415
+	Full text: PdfPdf
+	
+
+Time-based transactional memories use time to reason about the consistency of data accessed by transactions and about the order in which transactions commit. They avoid the large read overhead of transactional memories that always check consistency when ...
+expand
+	Deadlock-free scheduling of X10 computations with bounded resources
+	Shivali Agarwal, Rajkishore Barik, Dan Bonachea, Vivek Sarkar, Rudrapatna K. Shyamasundar, Katherine Yelick
+	Pages: 229 - 240
+	doi>10.1145/1248377.1248416
+	Full text: PdfPdf
+	
+
+In this paper,we address the problem of guaranteeing the absence of physical deadlock in the execution of a parallel program using the async, finish, atomic, and place constructs from the X10 language. First, ...
+expand
+	SESSION: Algorithms for wireless networks
+	
+	Online frequency allocation in cellular networks
+	Joseph Wun-Tat Chan, Francis Y. L. Chin, Deshi Ye, Yong Zhang
+	Pages: 241 - 249
+	doi>10.1145/1248377.1248418
+	Full text: PdfPdf
+	
+
+Given a mobile telephone network, whose geographical coverage area is divided into cells, phone calls are serviced by assigning frequencies to them, so that no two calls emanating from the same or neighboring cells are assigned the same frequency. Assuming ...
+expand
+	Energy efficient randomised communication in unknown AdHoc networks
+	Petra Berenbrink, Zengjian Hu, Colin Cooper
+	Pages: 250 - 259
+	doi>10.1145/1248377.1248419
+	Full text: PdfPdf
+	
+
+This paper studies broadcasting and gossiping algorithms in random and general AdHoc networks. Our goal is not only to minimise the broadcasting and gossiping time, but also to minimise the energy consumption, which is measured in terms of the ...
+expand
+	Local strategies for maintaining a chain of relay stations between an explorer and a base station
+	Miroslaw Dynia, Jaroslaw Kutylowski, Friedhelm Meyer auf der Heide, Jonas Schrieb
+	Pages: 260 - 269
+	doi>10.1145/1248377.1248420
+	Full text: PdfPdf
+	
+
+We discuss strategies for maintaining connectivity in a system consisting of a stationary base station and a mobile explorer. For this purpose we introduce the concept of mobile relay stations, which form a chain between the base station and the explorer ...
+expand
+	SESSION: Latency and makespan
+	
+	Maximizing total upload in latency-sensitive P2P applications
+	John R. Douceur, Jay R. Lorch, Thomas Moscibroda
+	Pages: 270 - 279
+	doi>10.1145/1248377.1248422
+	Full text: PdfPdf
+	
+
+Motivated by an application in distributed gaming, we define and study the latency-constrained total upload maximization problem. In this problem, a peer-to-peer overlay network is modeled as a complete graph and each node vi ...
+expand
+	Bi-objective scheduling algorithms for optimizing makespan and reliability on heterogeneous systems
+	Jack J. Dongarra, Emmanuel Jeannot, Erik Saule, Zhiao Shi
+	Pages: 280 - 288
+	doi>10.1145/1248377.1248423
+	Full text: PdfPdf
+	
+
+We tackle the problem of scheduling task graphs onto a heterogeneous set of machines, where each processor has a probability of failure governed by an exponential law. The goal is to design algorithms that optimize both makespan and reliability. First, ...
+expand
+	Speed scaling on parallel processors
+	Susanne Albers, Fabian Müller, Swen Schmelzer
+	Pages: 289 - 298
+	doi>10.1145/1248377.1248424
+	Full text: PdfPdf
+	
+
+In this paper we investigate algorithmic instruments leading to low powerconsumption in computing devices. While previous work on energy-efficient algorithms has mostly focused on single processor environments, in this paper we investigate multi-processor ...
+expand
+	SESSION: Brief announcements III: parallel computing
+	
+	Cilk provides the "best overall productivity" for high performance computing: (and won the HPC challenge award to prove it)
+	Bradley C. Kuszmaul
+	Pages: 299 - 300
+	doi>10.1145/1248377.1248426
+	Full text: PdfPdf
+	
+
+My entry won award for "Best Overall Productivity" in the 2006 HPC Challenge Class 2 (productivity) competition. I used the Cilk multithreaded programming language [1] to implement all six of the benchmarks, including LU decomposition with partial pivoting, ...
+expand
+	PRAM-on-chip: first commitment to silicon
+	Xingzhi Wen, Uzi Vishkin
+	Pages: 301 - 302
+	doi>10.1145/1248377.1248427
+	Full text: PdfPdf
+	
+	Transactional memory and the birthday paradox
+	Craig Zilles, Ravi Rajwar
+	Pages: 303 - 304
+	doi>10.1145/1248377.1248428
+	Full text: PdfPdf
+	
+
+Many word-based Software TransactionalMemory systems (STMs) have been proposed using tagless ownership tables, where read and write permissions are granted at the granularity of all addresses that map to a given ownership table entry. This optimization ...
+expand
+	SESSION: Online algorithms and games
+	
+	Rate vs. buffer size: greedy information gathering on the line
+	Adi Rosén, Gabriel Scalosub
+	Pages: 305 - 314
+	doi>10.1145/1248377.1248430
+	Full text: PdfPdf
+	
+
+We consider packet networks with limited buffer space at the nodes, and are interested in the question of maximizing the number of packets that arrive to destination rather than being dropped due to full buffers. We initiate a more refined analysis of ...
+expand
+	Online collaborative filtering with nearly optimal dynamic regret
+	Baruch Awerbuch, Thomas P. Hayes
+	Pages: 315 - 319
+	doi>10.1145/1248377.1248431
+	Full text: PdfPdf
+	
+
+We consider a model for sequential online decision-making by many diverse agents. On each day, each agent makes a decision, and pays a penalty if it is a mistake. Obviously, it would be good for agents to avoid repeating the same mistakes made by other ...
+expand
+	Truthful unsplittable flow for large capacity networks
+	Yossi Azar, Iftah Gamzu, Shai Gutner
+	Pages: 320 - 329
+	doi>10.1145/1248377.1248432
+	Full text: PdfPdf
+	
+
+The unsplittable flow problem is one of the most extensively studied optimization problems in the field of networking. An instance of it consists of an edge capacitated graph and a set of connection requests, each of which is associated with source ...
+expand
+	On the convergence of multicast games in directed networks
+	Angelo Fanelli, Michele Flammini, Luca Moscardelli
+	Pages: 330 - 338
+	doi>10.1145/1248377.1248433
+	Full text: PdfPdf
+	
+
+We investigate the convergence of the price of anarchy after a limited number of moves in the classical multicast communication game when the underlying communication networks is directed. Namely, a subset of nodes of the network are interested in receiving ...
+expand
+	SESSION: Algorithms and architectures
+	
+	Sparse parallel Delaunay mesh refinement
+	Benoît Hudson, Gary L. Miller, Todd Phillips
+	Pages: 339 - 347
+	doi>10.1145/1248377.1248435
+	Full text: PdfPdf
+	
+
+The authors recently introduced the technique of sparse mesh refinement to produce the first near-optimal sequential time bounds of O(n lg L/s+m) for inputs in any fixed dimension with piecewiselinear constraining (PLC) ...
+expand
+	Using SIMD registers and instructions to enable instruction-level parallelism in sorting algorithms
+	Timothy Furtak, José Nelson Amaral, Robert Niewiadomski
+	Pages: 348 - 357
+	doi>10.1145/1248377.1248436
+	Full text: PdfPdf
+	
+
+Most contemporary processors offer some version of Single Instruction Multiple Data (SIMD) machinery - vector registers and instructions to manipulate data stored in such registers. The central idea of this paper is to use these SIMD resources to improve ...
+expand
+	A tight bound on online buffer management for two-port shared-memory switches
+	Koji Kobayashi, Shuichi Miyazaki, Yasuo Okabe
+	Pages: 358 - 364
+	doi>10.1145/1248377.1248437
+	Full text: PdfPdf
+	
+
+The online buffer management problem formulates the problem of queueing policies of network switches supporting QoS (Quality of Service) guarantee. For this problem, several models are considered. In this paper, we focus on shared memory switches with ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

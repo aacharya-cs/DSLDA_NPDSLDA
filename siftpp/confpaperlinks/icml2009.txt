@@ -1,0 +1,1594 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 26th Annual International Conference on Machine Learning
+General Chairs: 	Andrea Danyluk 	Williams College
+Program Chairs: 	Léon Bottou 	NEC Laboratories America
+	Michael Littman 	Rutgers University
+Publication of:
+· Conference
+ICML '09 The 26th Annual International Conference on Machine Learning held in conjunction with the 2007 International Conference on Inductive Logic Programming
+Montreal, QC, Canada — June 14 - 18, 2009
+ACM New York, NY, USA ©2009
+	
+	Published by ACM 2009 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 1,135
+· Downloads (12 Months): 9,037
+· Citation Count: 697
+
+
+	
+Tools and Resources
+
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Source Materials	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the 26th Annual International Conference on Machine Learning
+Table of Contents
+previousprevious proceeding |no next proceeding
+	Archipelago: nonparametric Bayesian semi-supervised learning
+	Ryan Prescott Adams, Zoubin Ghahramani
+	Pages: 1-8
+	doi>10.1145/1553374.1553375
+	Full text: PDFPDF
+	
+
+Semi-supervised learning (SSL), is classification where additional unlabeled data can be used to improve accuracy. Generative approaches are appealing in this situation, as a model of the data's probability density can assist in identifying clusters. ...
+expand
+	Tractable nonparametric Bayesian inference in Poisson processes with Gaussian process intensities
+	Ryan Prescott Adams, Iain Murray, David J. C. MacKay
+	Pages: 9-16
+	doi>10.1145/1553374.1553376
+	Full text: PDFPDF
+	
+
+The inhomogeneous Poisson process is a point process that has varying intensity across its domain (usually time or space). For nonparametric Bayesian modeling, the Gaussian process is a useful way to place a prior distribution on this intensity. The ...
+expand
+	Route kernels for trees
+	Fabio Aiolli, Giovanni Da San Martino, Alessandro Sperduti
+	Pages: 17-24
+	doi>10.1145/1553374.1553377
+	Full text: PDFPDF
+	
+
+Almost all tree kernels proposed in the literature match substructures without taking into account their relative positioning with respect to one another. In this paper, we propose a novel family of kernels which explicitly focus on this type of information. ...
+expand
+	Incorporating domain knowledge into topic modeling via Dirichlet Forest priors
+	David Andrzejewski, Xiaojin Zhu, Mark Craven
+	Pages: 25-32
+	doi>10.1145/1553374.1553378
+	Full text: PDFPDF
+	
+
+Users of topic modeling methods often have knowledge about the composition of words that should have high or low probability in various topics. We incorporate such domain knowledge using a novel Dirichlet Forest prior in a Latent Dirichlet Allocation ...
+expand
+	Grammatical inference as a principal component analysis problem
+	Raphaël Bailly, François Denis, Liva Ralaivola
+	Pages: 33-40
+	doi>10.1145/1553374.1553379
+	Full text: PDFPDF
+	
+
+One of the main problems in probabilistic grammatical inference consists in inferring a stochastic language, i.e. a probability distribution, in some class of probabilistic models, from a sample of strings independently drawn according to a fixed unknown ...
+expand
+	Curriculum learning
+	Yoshua Bengio, Jérôme Louradour, Ronan Collobert, Jason Weston
+	Pages: 41-48
+	doi>10.1145/1553374.1553380
+	Full text: PDFPDF
+	
+
+Humans and animals learn much better when the examples are not randomly presented but organized in a meaningful order which illustrates gradually more concepts, and gradually more complex ones. Here, we formalize such training strategies in the context ...
+expand
+	Importance weighted active learning
+	Alina Beygelzimer, Sanjoy Dasgupta, John Langford
+	Pages: 49-56
+	doi>10.1145/1553374.1553381
+	Full text: PDFPDF
+	
+
+We present a practical and statistically consistent scheme for actively learning binary classifiers under general loss functions. Our algorithm uses importance weighting to correct sampling bias, and by controlling the variance, we are able to give rigorous ...
+expand
+	Split variational inference
+	Guillaume Bouchard, Onno Zoeter
+	Pages: 57-64
+	doi>10.1145/1553374.1553382
+	Full text: PDFPDF
+	
+
+We propose a deterministic method to evaluate the integral of a positive function based on soft-binning functions that smoothly cut the integral into smaller integrals that are easier to approximate. In combination with mean-field approximations for ...
+expand
+	Predictive representations for policy gradient in POMDPs
+	Abdeslam Boularias, Brahim Chaib-draa
+	Pages: 65-72
+	doi>10.1145/1553374.1553383
+	Full text: PDFPDF
+	
+
+We consider the problem of estimating the policy gradient in Partially Observable Markov Decision Processes (POMDPs) with a special class of policies that are based on Predictive State Representations (PSRs). We compare PSR policies to Finite-State Controllers ...
+expand
+	Online feature elicitation in interactive optimization
+	Craig Boutilier, Kevin Regan, Paolo Viappiani
+	Pages: 73-80
+	doi>10.1145/1553374.1553384
+	Full text: PDFPDF
+	
+
+Most models of utility elicitation in decision support and interactive optimization assume a predefined set of "catalog" features over which user preferences are expressed. However, users may differ in the features over which they are most comfortable ...
+expand
+	Spectral clustering based on the graph p-Laplacian
+	Thomas Bühler, Matthias Hein
+	Pages: 81-88
+	doi>10.1145/1553374.1553385
+	Full text: PDFPDF
+	
+
+We present a generalized version of spectral clustering using the graph p-Laplacian, a nonlinear generalization of the standard graph Laplacian. We show that the second eigenvector of the graph p-Laplacian interpolates between a relaxation ...
+expand
+	Active learning for directed exploration of complex systems
+	Michael C. Burl, Esther Wang
+	Pages: 89-96
+	doi>10.1145/1553374.1553386
+	Full text: PDFPDF
+	
+
+Physics-based simulation codes are widely used in science and engineering to model complex systems that would be infeasible to study otherwise. Such codes provide the highest-fidelity representation of system behavior, but are often so slow to run that ...
+expand
+	Optimized expected information gain for nonlinear dynamical systems
+	Alberto Giovanni Busetto, Cheng Soon Ong, Joachim M. Buhmann
+	Pages: 97-104
+	doi>10.1145/1553374.1553387
+	Full text: PDFPDF
+	
+
+This paper addresses the problem of active model selection for nonlinear dynamical systems. We propose a novel learning approach that selects the most informative subset of time-dependent variables for the purpose of Bayesian model inference. The model ...
+expand
+	Probabilistic dyadic data analysis with local and global consistency
+	Deng Cai, Xuanhui Wang, Xiaofei He
+	Pages: 105-112
+	doi>10.1145/1553374.1553388
+	Full text: PDFPDF
+	
+
+Dyadic data arises in many real world applications such as social network analysis and information retrieval. In order to discover the underlying or hidden structure in the dyadic data, many topic modeling techniques were proposed. The typical algorithms ...
+expand
+	Structure learning of Bayesian networks using constraints
+	Cassio P. de Campos, Zhi Zeng, Qiang Ji
+	Pages: 113-120
+	doi>10.1145/1553374.1553389
+	Full text: PDFPDF
+	
+
+This paper addresses exact learning of Bayesian network structure from data and expert's knowledge based on score functions that are decomposable. First, it describes useful properties that strongly reduce the time and memory costs of many known methods ...
+expand
+	Robust bounds for classification via selective sampling
+	Nicolò Cesa-Bianchi, Claudio Gentile, Francesco Orabona
+	Pages: 121-128
+	doi>10.1145/1553374.1553390
+	Full text: PDFPDF
+	
+
+We introduce a new algorithm for binary classification in the selective sampling protocol. Our algorithm uses Regularized Least Squares (RLS) as base classifier, and for this reason it can be efficiently run in any RKHS. Unlike previous margin-based ...
+expand
+	Multi-view clustering via canonical correlation analysis
+	Kamalika Chaudhuri, Sham M. Kakade, Karen Livescu, Karthik Sridharan
+	Pages: 129-136
+	doi>10.1145/1553374.1553391
+	Full text: PDFPDF
+	
+
+Clustering data in high dimensions is believed to be a hard problem in general. A number of efficient clustering algorithms developed in recent years address this problem by projecting the data into a lower-dimensional subspace, e.g. via Principal Components ...
+expand
+	A convex formulation for learning shared structures from multiple tasks
+	Jianhui Chen, Lei Tang, Jun Liu, Jieping Ye
+	Pages: 137-144
+	doi>10.1145/1553374.1553392
+	Full text: PDFPDF
+	
+
+Multi-task learning (MTL) aims to improve generalization performance by learning multiple related tasks simultaneously. In this paper, we consider the problem of learning shared structures from multiple related tasks. We present an improved formulation ...
+expand
+	Learning kernels from indefinite similarities
+	Yihua Chen, Maya R. Gupta, Benjamin Recht
+	Pages: 145-152
+	doi>10.1145/1553374.1553393
+	Full text: PDFPDF
+	
+
+Similarity measures in many real applications generate indefinite similarity matrices. In this paper, we consider the problem of classification based on such indefinite similarities. These indefinite kernels can be problematic for standard kernel-based ...
+expand
+	Matrix updates for perceptron training of continuous density hidden Markov models
+	Chih-Chieh Cheng, Fei Sha, Lawrence K. Saul
+	Pages: 153-160
+	doi>10.1145/1553374.1553394
+	Full text: PDFPDF
+	
+
+In this paper, we investigate a simple, mistake-driven learning algorithm for discriminative training of continuous density hidden Markov models (CD-HMMs). Most CD-HMMs for automatic speech recognition use multivariate Gaussian emission densities (or ...
+expand
+	Decision tree and instance-based learning for label ranking
+	Weiwei Cheng, Jens Hühn, Eyke Hüllermeier
+	Pages: 161-168
+	doi>10.1145/1553374.1553395
+	Full text: PDFPDF
+	
+
+The label ranking problem consists of learning a model that maps instances to total orders over a finite set of predefined labels. This paper introduces new methods for label ranking that complement and improve upon existing approaches. More specifically, ...
+expand
+	Learning dictionaries of stable autoregressive models for audio scene analysis
+	Youngmin Cho, Lawrence K. Saul
+	Pages: 169-176
+	doi>10.1145/1553374.1553396
+	Full text: PDFPDF
+	
+
+In this paper, we explore an application of basis pursuit to audio scene analysis. The goal of our work is to detect when certain sounds are present in a mixed audio signal. We focus on the regime where out of a large number of possible sources, a small ...
+expand
+	Exploiting sparse Markov and covariance structure in multiresolution models
+	Myung Jin Choi, Venkat Chandrasekaran, Alan S. Willsky
+	Pages: 177-184
+	doi>10.1145/1553374.1553397
+	Full text: PDFPDF
+	
+
+We consider Gaussian multiresolution (MR) models in which coarser, hidden variables serve to capture statistical dependencies among the finest scale variables. Tree-structured MR models have limited modeling capabilities, as variables at one scale are ...
+expand
+	Nonparametric estimation of the precision-recall curve
+	Stéphan Clémençon, Nicolas Vayatis
+	Pages: 185-192
+	doi>10.1145/1553374.1553398
+	Full text: PDFPDF
+	
+
+The Precision-Recall (PR) curve is a widely used visual tool to evaluate the performance of scoring functions in regards to their capacities to discriminate between two populations. The purpose of this paper is to examine both theoretical and practical ...
+expand
+	EigenTransfer: a unified framework for transfer learning
+	Wenyuan Dai, Ou Jin, Gui-Rong Xue, Qiang Yang, Yong Yu
+	Pages: 193-200
+	doi>10.1145/1553374.1553399
+	Full text: PDFPDF
+	
+
+This paper proposes a general framework, called EigenTransfer, to tackle a variety of transfer learning problems, e.g. cross-domain learning, self-taught learning, etc. Our basic idea is to construct a graph to represent the target transfer learning ...
+expand
+	Fitting a graph to vector data
+	Samuel I. Daitch, Jonathan A. Kelner, Daniel A. Spielman
+	Pages: 201-208
+	doi>10.1145/1553374.1553400
+	Full text: PDFPDF
+	
+
+We introduce a measure of how well a combinatorial graph fits a collection of vectors. The optimal graphs under this measure may be computed by solving convex quadratic programs and have many interesting properties. For vectors in d dimensional ...
+expand
+	Unsupervised search-based structured prediction
+	Hal Daumé, III
+	Pages: 209-216
+	doi>10.1145/1553374.1553401
+	Full text: PDFPDF
+	
+
+We describe an adaptation and application of a search-based structured prediction algorithm "Searn" to unsupervised learning problems. We show that it is possible to reduce unsupervised learning to supervised learning and demonstrate a high-quality un-supervised ...
+expand
+	Deep transfer via second-order Markov logic
+	Jesse Davis, Pedro Domingos
+	Pages: 217-224
+	doi>10.1145/1553374.1553402
+	Full text: PDFPDF
+	
+
+Standard inductive learning requires that training and test instances come from the same distribution. Transfer learning seeks to remove this restriction. In shallow transfer, test instances are from the same domain, but have a different distribution. ...
+expand
+	Analytic moment-based Gaussian process filtering
+	Marc Peter Deisenroth, Marco F. Huber, Uwe D. Hanebeck
+	Pages: 225-232
+	doi>10.1145/1553374.1553403
+	Full text: PDFPDF
+	
+
+We propose an analytic moment-based filter for nonlinear stochastic dynamic systems modeled by Gaussian processes. Exact expressions for the expected value and the covariance matrix are provided for both the prediction step and the filter step, where ...
+expand
+	Good learners for evil teachers
+	Ofer Dekel, Ohad Shamir
+	Pages: 233-240
+	doi>10.1145/1553374.1553404
+	Full text: PDFPDF
+	
+
+We consider a supervised machine learning scenario where labels are provided by a heterogeneous set of teachers, some of which are mediocre, incompetent, or perhaps even malicious. We present an algorithm, built on the SVM framework, that explicitly ...
+expand
+	A scalable framework for discovering coherent co-clusters in noisy data
+	Meghana Deodhar, Gunjan Gupta, Joydeep Ghosh, Hyuk Cho, Inderjit Dhillon
+	Pages: 241-248
+	doi>10.1145/1553374.1553405
+	Full text: PDFPDF
+	
+
+Clustering problems often involve datasets where only a part of the data is relevant to the problem, e.g., in microarray data analysis only a subset of the genes show cohesive expressions within a subset of the conditions/features. The existence of a ...
+expand
+	The adaptive k-meteorologists problem and its application to structure learning and feature selection in reinforcement learning
+	Carlos Diuk, Lihong Li, Bethany R. Leffler
+	Pages: 249-256
+	doi>10.1145/1553374.1553406
+	Full text: PDFPDF
+	
+
+The purpose of this paper is three-fold. First, we formalize and study a problem of learning probabilistic concepts in the recently proposed KWIK framework. We give details of an algorithm, known as the Adaptive k-Meteorologists Algorithm, analyze ...
+expand
+	Proximal regularization for online and batch learning
+	Chuong B. Do, Quoc V. Le, Chuan-Sheng Foo
+	Pages: 257-264
+	doi>10.1145/1553374.1553407
+	Full text: PDFPDF
+	
+
+Many learning algorithms rely on the curvature (in particular, strong convexity) of regularized objective functions to provide good theoretical performance guarantees. In practice, the choice of regularization penalty that gives the best testing set ...
+expand
+	Large margin training for hidden Markov models with partially observed states
+	Trinh-Minh-Tri Do, Thierry Artières
+	Pages: 265-272
+	doi>10.1145/1553374.1553408
+	Full text: PDFPDF
+	
+
+Large margin learning of Continuous Density HMMs with a partially labeled dataset has been extensively studied in the speech and handwriting recognition fields. Yet due to the non-convexity of the optimization problem, previous works usually rely on ...
+expand
+	Accelerated sampling for the Indian Buffet Process
+	Finale Doshi-Velez, Zoubin Ghahramani
+	Pages: 273-280
+	doi>10.1145/1553374.1553409
+	Full text: PDFPDF
+	
+
+We often seek to identify co-occurring hidden features in a set of observations. The Indian Buffet Process (IBP) provides a non-parametric prior on the features present in each observation, but current inference techniques for the IBP often scale poorly. ...
+expand
+	Accounting for burstiness in topic models
+	Gabriel Doyle, Charles Elkan
+	Pages: 281-288
+	doi>10.1145/1553374.1553410
+	Full text: PDFPDF
+	
+
+Many different topic models have been used successfully for a variety of applications. However, even state-of-the-art topic models suffer from the important flaw that they do not capture the tendency of words to appear in bursts; it is a fundamental ...
+expand
+	Domain adaptation from multiple sources via auxiliary classifiers
+	Lixin Duan, Ivor W. Tsang, Dong Xu, Tat-Seng Chua
+	Pages: 289-296
+	doi>10.1145/1553374.1553411
+	Full text: PDFPDF
+	
+
+We propose a multiple source domain adaptation method, referred to as Domain Adaptation Machine (DAM), to learn a robust decision function (referred to as target classifier) for label prediction of patterns from the target domain by leveraging ...
+expand
+	Boosting with structural sparsity
+	John Duchi, Yoram Singer
+	Pages: 297-304
+	doi>10.1145/1553374.1553412
+	Full text: PDFPDF
+	
+
+We derive generalizations of AdaBoost and related gradient-based coordinate descent methods that incorporate sparsity-promoting penalties for the norm of the predictor that is being learned. The end result is a family of coordinate descent algorithms ...
+expand
+	Learning to segment from a few well-selected training images
+	Alireza Farhangfar, Russell Greiner, Csaba Szepesvári
+	Pages: 305-312
+	doi>10.1145/1553374.1553413
+	Full text: PDFPDF
+	
+
+We address the task of actively learning a segmentation system: given a large number of unsegmented images, and access to an oracle that can segment a given image, decide which images to provide, to quickly produce a segmenter (here, a discriminative ...
+expand
+	GAODE and HAODE: two proposals based on AODE to deal with continuous variables
+	M. Julia Flores, José A. Gámez, Ana M. Martínez, José M. Puerta
+	Pages: 313-320
+	doi>10.1145/1553374.1553414
+	Full text: PDFPDF
+	
+
+AODE (Aggregating One-Dependence Estimators) is considered one of the most interesting representatives of the Bayesian classifiers, taking into account not only the low error rate it provides but also its efficiency. Until now, all the attributes in ...
+expand
+	A majorization-minimization algorithm for (multiple) hyperparameter learning
+	Chuan-Sheng Foo, Chuong B. Do, Andrew Y. Ng
+	Pages: 321-328
+	doi>10.1145/1553374.1553415
+	Full text: PDFPDF
+	
+
+We present a general Bayesian framework for hyperparameter tuning in L2-regularized supervised learning models. Paradoxically, our algorithm works by first analytically integrating out the hyperparameters from the model. We find a local ...
+expand
+	Dynamic mixed membership blockmodel for evolving networks
+	Wenjie Fu, Le Song, Eric P. Xing
+	Pages: 329-336
+	doi>10.1145/1553374.1553416
+	Full text: PDFPDF
+	
+
+In a dynamic social or biological environment, interactions between the underlying actors can undergo large and systematic changes. Each actor can assume multiple roles and their degrees of affiliation to these roles can also exhibit rich temporal phenomena. ...
+expand
+	Gradient descent with sparsification: an iterative algorithm for sparse recovery with restricted isometry property
+	Rahul Garg, Rohit Khandekar
+	Pages: 337-344
+	doi>10.1145/1553374.1553417
+	Full text: PDFPDF
+	
+
+We present an algorithm for finding an s-sparse vector x that minimizes the square-error ∥y -- Φx∥2 where Φ satisfies the restricted isometry property (RIP), with isometric constant ...
+expand
+	Sequential Bayesian prediction in the presence of changepoints
+	Roman Garnett, Michael A. Osborne, Stephen J. Roberts
+	Pages: 345-352
+	doi>10.1145/1553374.1553418
+	Full text: PDFPDF
+	
+
+We introduce a new sequential algorithm for making robust predictions in the presence of changepoints. Unlike previous approaches, which focus on the problem of detecting and locating changepoints, our algorithm focuses on the problem of making predictions ...
+expand
+	PAC-Bayesian learning of linear classifiers
+	Pascal Germain, Alexandre Lacasse, François Laviolette, Mario Marchand
+	Pages: 353-360
+	doi>10.1145/1553374.1553419
+	Full text: PDFPDF
+	
+
+We present a general PAC-Bayes theorem from which all known PAC-Bayes risk bounds are obtained as particular cases. We also propose different learning algorithms for finding linear classifiers that minimize these bounds. These learning algorithms are ...
+expand
+	Fast evolutionary maximum margin clustering
+	Fabian Gieseke, Tapio Pahikkala, Oliver Kramer
+	Pages: 361-368
+	doi>10.1145/1553374.1553421
+	Full text: PDFPDF
+	
+
+The maximum margin clustering approach is a recently proposed extension of the concept of support vector machines to the clustering problem. Briefly stated, it aims at finding an optimal partition of the data into two classes such that the margin induced ...
+expand
+	Dynamic analysis of multiagent Q-learning with ε-greedy exploration
+	Eduardo Rodrigues Gomes, Ryszard Kowalczyk
+	Pages: 369-376
+	doi>10.1145/1553374.1553422
+	Full text: PDFPDF
+	
+
+The development of mechanisms to understand and model the expected behaviour of multiagent learners is becoming increasingly important as the area rapidly find application in a variety of domains. In this paper we present a framework to model the behaviour ...
+expand
+	Bayesian inference for Plackett-Luce ranking models
+	John Guiver, Edward Snelson
+	Pages: 377-384
+	doi>10.1145/1553374.1553423
+	Full text: PDFPDF
+	
+
+This paper gives an efficient Bayesian method for inferring the parameters of a Plackett-Luce ranking model. Such models are parameterised distributions over rankings of a finite set of objects, and have typically been studied and applied within the ...
+expand
+	Bayesian clustering for email campaign detection
+	Peter Haider, Tobias Scheffer
+	Pages: 385-392
+	doi>10.1145/1553374.1553424
+	Full text: PDFPDF
+	
+
+We discuss the problem of clustering elements according to the sources that have generated them. For elements that are characterized by independent binary attributes, a closed-form Bayesian solution exists. We derive a solution for the case of dependent ...
+expand
+	Efficient learning algorithms for changing environments
+	Elad Hazan, C. Seshadhri
+	Pages: 393-400
+	doi>10.1145/1553374.1553425
+	Full text: PDFPDF
+	
+
+We study online learning in an oblivious changing environment. The standard measure of regret bounds the difference between the cost of the online learner and the best decision in hindsight. Hence, regret minimizing algorithms tend to converge to the ...
+expand
+	Hoeffding and Bernstein races for selecting policies in evolutionary direct policy search
+	Verena Heidrich-Meisner, Christian Igel
+	Pages: 401-408
+	doi>10.1145/1553374.1553426
+	Full text: PDFPDF
+	
+
+Uncertainty arises in reinforcement learning from various sources, and therefore it is necessary to consider statistics based on several roll-outs for evaluating behavioral policies. We add an adaptive uncertainty handling based on Hoeffding and empirical ...
+expand
+	Partially supervised feature selection with regularized linear models
+	Thibault Helleputte, Pierre Dupont
+	Pages: 409-416
+	doi>10.1145/1553374.1553427
+	Full text: PDFPDF
+	
+
+This paper addresses feature selection techniques for classification of high dimensional data, such as those produced by microarray experiments. Some prior knowledge may be available in this context to bias the selection towards some dimensions (genes) ...
+expand
+	Learning with structured sparsity
+	Junzhou Huang, Tong Zhang, Dimitris Metaxas
+	Pages: 417-424
+	doi>10.1145/1553374.1553429
+	Full text: PDFPDF
+	
+
+This paper investigates a new learning formulation called structured sparsity, which is a natural extension of the standard sparsity concept in statistical learning and compressive sensing. By allowing arbitrary structures on the feature set, ...
+expand
+	Learning linear dynamical systems without sequence information
+	Tzu-Kuo Huang, Jeff Schneider
+	Pages: 425-432
+	doi>10.1145/1553374.1553430
+	Full text: PDFPDF
+	
+
+Virtually all methods of learning dynamic systems from data start from the same basic assumption: that the learning algorithm will be provided with a sequence, or trajectory, of data generated from the dynamic system. In this paper we consider the case ...
+expand
+	Group lasso with overlap and graph lasso
+	Laurent Jacob, Guillaume Obozinski, Jean-Philippe Vert
+	Pages: 433-440
+	doi>10.1145/1553374.1553431
+	Full text: PDFPDF
+	
+
+We propose a new penalty function which, when used as regularization for empirical risk minimization procedures, leads to sparse estimators. The support of the sparse vector is typically a union of potentially overlapping groups of co-variates defined ...
+expand
+	Graph construction and b-matching for semi-supervised learning
+	Tony Jebara, Jun Wang, Shih-Fu Chang
+	Pages: 441-448
+	doi>10.1145/1553374.1553432
+	Full text: PDFPDF
+	
+
+Graph based semi-supervised learning (SSL) methods play an increasingly important role in practical machine learning systems. A crucial step in graph based SSL methods is the conversion of data into a weighted graph. However, most of the SSL literature ...
+expand
+	Trajectory prediction: learning to map situations to robot trajectories
+	Nikolay Jetchev, Marc Toussaint
+	Pages: 449-456
+	doi>10.1145/1553374.1553433
+	Full text: PDFPDF
+	
+
+Trajectory planning and optimization is a fundamental problem in articulated robotics. Algorithms used typically for this problem compute optimal trajectories from scratch in a new situation. In effect, extensive data is accumulated containing situations ...
+expand
+	An accelerated gradient method for trace norm minimization
+	Shuiwang Ji, Jieping Ye
+	Pages: 457-464
+	doi>10.1145/1553374.1553434
+	Full text: PDFPDF
+	
+
+We consider the minimization of a smooth loss function regularized by the trace norm of the matrix variable. Such formulation finds applications in many machine learning tasks including multi-task learning, matrix classification, and matrix completion. ...
+expand
+	A novel lexicalized HMM-based learning framework for web opinion mining
+NOTE FROM ACM: A Joint ACM Conference Committee has been determined that the authors of this article violated ACM's publication policy on simultaneous submissions. Therefore ACM has shut off access to this paper.
+	Wei Jin, Hung Hay Ho
+	Pages: 465-472
+	doi>10.1145/1553374.1553435
+	
+
+NOTE FROM ACM: A Joint ACM Conference Committee has been determined that the authors of this article violated ACM's publication policy on simultaneous submissions. Therefore ACM has shut off access to this paper.
+expand
+	Orbit-product representation and correction of Gaussian belief propagation
+	Jason K. Johnson, Vladimir Y. Chernyak, Michael Chertkov
+	Pages: 473-480
+	doi>10.1145/1553374.1553436
+	Full text: PDFPDF
+	
+
+We present a new view of Gaussian belief propagation (GaBP) based on a representation of the determinant as a product over orbits of a graph. We show that the GaBP determinant estimate captures totally backtracking orbits of the graph and consider how ...
+expand
+	A Bayesian approach to protein model quality assessment
+	Hetunandan Kamisetty, Christopher J. Langmead
+	Pages: 481-488
+	doi>10.1145/1553374.1553437
+	Full text: PDFPDF
+	
+
+Given multiple possible models b1, b2, ... bn for a protein structure, a common sub-task in in-silico Protein Structure Prediction is ranking these models according to their quality. ...
+expand
+	Learning prediction suffix trees with Winnow
+	Nikos Karampatziakis, Dexter Kozen
+	Pages: 489-496
+	doi>10.1145/1553374.1553438
+	Full text: PDFPDF
+	
+
+Prediction suffix trees (PSTs) are a popular tool for modeling sequences and have been successfully applied in many domains such as compression and language modeling. In this work we adapt the well studied Winnow algorithm to the task of learning PSTs. ...
+expand
+	Boosting products of base classifiers
+	Balázs Kégl, Róbert Busa-Fekete
+	Pages: 497-504
+	doi>10.1145/1553374.1553439
+	Full text: PDFPDF
+	
+
+In this paper we show how to boost products of simple base learners. Similarly to trees, we call the base learner as a subroutine but in an iterative rather than recursive fashion. The main advantage of the proposed method is its simplicity and computational ...
+expand
+	Learning Markov logic network structure via hypergraph lifting
+	Stanley Kok, Pedro Domingos
+	Pages: 505-512
+	doi>10.1145/1553374.1553440
+	Full text: PDFPDF
+	
+
+Markov logic networks (MLNs) combine logic and probability by attaching weights to first-order clauses, and viewing these as templates for features of Markov networks. Learning MLN structure from a relational database involves learning the clauses and ...
+expand
+	Near-Bayesian exploration in polynomial time
+	J. Zico Kolter, Andrew Y. Ng
+	Pages: 513-520
+	doi>10.1145/1553374.1553441
+	Full text: PDFPDF
+	
+
+We consider the exploration/exploitation problem in reinforcement learning (RL). The Bayesian approach to model-based RL offers an elegant solution to this problem, by considering a distribution over possible models and acting to maximize expected reward; ...
+expand
+	Regularization and feature selection in least-squares temporal difference learning
+	J. Zico Kolter, Andrew Y. Ng
+	Pages: 521-528
+	doi>10.1145/1553374.1553442
+	Full text: PDFPDF
+	
+
+We consider the task of reinforcement learning with linear value function approximation. Temporal difference algorithms, and in particular the Least-Squares Temporal Difference (LSTD) algorithm, provide a method for learning the parameters of the value ...
+expand
+	The graphlet spectrum
+	Risi Kondor, Nino Shervashidze, Karsten M. Borgwardt
+	Pages: 529-536
+	doi>10.1145/1553374.1553443
+	Full text: PDFPDF
+	
+
+Current graph kernels suffer from two limitations: graph kernels based on counting particular types of subgraphs ignore the relative position of these subgraphs to each other, while graph kernels based on algebraic methods are limited to graphs without ...
+expand
+	Rule learning with monotonicity constraints
+	Wojciech Kotłowski, Roman Słowiński
+	Pages: 537-544
+	doi>10.1145/1553374.1553444
+	Full text: PDFPDF
+	
+
+In classification with monotonicity constraints, it is assumed that the class label should increase with increasing values on the attributes. In this paper we aim at formalizing the approach to learning with monotonicity constraints from statistical ...
+expand
+	Multiple indefinite kernel learning with mixed norm regularization
+	Matthieu Kowalski, Marie Szafranski, Liva Ralaivola
+	Pages: 545-552
+	doi>10.1145/1553374.1553445
+	Full text: PDFPDF
+	
+
+We address the problem of learning classifiers using several kernel functions. On the contrary to many contributions in the field of learning from different sources of information using kernels, we here do not assume that the kernels used are positive ...
+expand
+	On sampling-based approximate spectral decomposition
+	Sanjiv Kumar, Mehryar Mohri, Ameet Talwalkar
+	Pages: 553-560
+	doi>10.1145/1553374.1553446
+	Full text: PDFPDF
+	
+
+This paper addresses the problem of approximate singular value decomposition of large dense matrices that arises naturally in many machine learning applications. We discuss two recently introduced sampling-based spectral decomposition techniques: the ...
+expand
+	Learning spectral graph transformations for link prediction
+	Jérôme Kunegis, Andreas Lommatzsch
+	Pages: 561-568
+	doi>10.1145/1553374.1553447
+	Full text: PDFPDF
+	
+
+We present a unified framework for learning link prediction and edge weight prediction functions in large networks, based on the transformation of a graph's algebraic spectrum. Our approach generalizes several graph kernels and dimensionality reduction ...
+expand
+	Block-wise construction of acyclic relational features with monotone irreducibility and relevancy properties
+	Ondřej Kuželka, Filip železný
+	Pages: 569-576
+	doi>10.1145/1553374.1553448
+	Full text: PDFPDF
+	
+
+We describe an algorithm for constructing a set of acyclic conjunctive relational features by combining smaller conjunctive blocks. Unlike traditional level-wise approaches which preserve the monotonicity of frequency, our block-wise approach preserves ...
+expand
+	Generalization analysis of listwise learning-to-rank algorithms
+	Yanyan Lan, Tie-Yan Liu, Zhiming Ma, Hang Li
+	Pages: 577-584
+	doi>10.1145/1553374.1553449
+	Full text: PDFPDF
+	
+
+This paper presents a theoretical framework for ranking, and demonstrates how to perform generalization analysis of listwise ranking algorithms using the framework. Many learning-to-rank algorithms have been proposed in recent years. Among them, the ...
+expand
+	Approximate inference for planning in stochastic relational worlds
+	Tobias Lang, Marc Toussaint
+	Pages: 585-592
+	doi>10.1145/1553374.1553450
+	Full text: PDFPDF
+	
+
+Relational world models that can be learned from experience in stochastic domains have received significant attention recently. However, efficient planning using these models remains a major issue. We propose to convert learned noisy probabilistic relational ...
+expand
+	Learning nonlinear dynamic models
+	John Langford, Ruslan Salakhutdinov, Tong Zhang
+	Pages: 593-600
+	doi>10.1145/1553374.1553451
+	Full text: PDFPDF
+	
+
+We present a novel approach for learning nonlinear dynamic models, which leads to a new set of tools capable of solving problems that are otherwise difficult. We provide theory showing this new approach is consistent for models with long range structure, ...
+expand
+	Non-linear matrix factorization with Gaussian processes
+	Neil D. Lawrence, Raquel Urtasun
+	Pages: 601-608
+	doi>10.1145/1553374.1553452
+	Full text: PDFPDF
+	
+
+A popular approach to collaborative filtering is matrix factorization. In this paper we develop a non-linear probabilistic matrix factorization using Gaussian process latent variable models. We use stochastic gradient descent (SGD) to optimize the model. ...
+expand
+	Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations
+	Honglak Lee, Roger Grosse, Rajesh Ranganath, Andrew Y. Ng
+	Pages: 609-616
+	doi>10.1145/1553374.1553453
+	Full text: PDFPDF
+	
+
+There has been much interest in unsupervised learning of hierarchical generative models such as deep belief networks. Scaling such models to full-sized, high-dimensional images remains a difficult problem. To address this problem, we present the convolutional ...
+expand
+	Transfer learning for collaborative filtering via a rating-matrix generative model
+	Bin Li, Qiang Yang, Xiangyang Xue
+	Pages: 617-624
+	doi>10.1145/1553374.1553454
+	Full text: PDFPDF
+	
+
+Cross-domain collaborative filtering solves the sparsity problem by transferring rating knowledge across multiple domains. In this paper, we propose a rating-matrix generative model (RMGM) for effective cross-domain collaborative filtering. We first ...
+expand
+	ABC-boost: adaptive base class boost for multi-class classification
+	Ping Li
+	Pages: 625-632
+	doi>10.1145/1553374.1553455
+	Full text: PDFPDF
+	
+
+We propose abc-boost (adaptive base class boost) for multi-class classification and present abc-mart, an implementation of abc-boost, based on the multinomial logit model. The key idea is that, at each boosting iteration, ...
+expand
+	Semi-supervised learning using label mean
+	Yu-Feng Li, James T. Kwok, Zhi-Hua Zhou
+	Pages: 633-640
+	doi>10.1145/1553374.1553456
+	Full text: PDFPDF
+	
+
+Semi-Supervised Support Vector Machines (S3VMs) typically directly estimate the label assignments for the unlabeled instances. This is often inefficient even with recent advances in the efficient training of the (supervised) SVM. In this paper, we show ...
+expand
+	Learning from measurements in exponential families
+	Percy Liang, Michael I. Jordan, Dan Klein
+	Pages: 641-648
+	doi>10.1145/1553374.1553457
+	Full text: PDFPDF
+	
+
+Given a model family and a set of unlabeled examples, one could either label specific examples or state general constraints---both provide information about the desired model. In general, what is the most cost-effective way to learn? To address this ...
+expand
+	Blockwise coordinate descent procedures for the multi-task lasso, with applications to neural semantic basis discovery
+	Han Liu, Mark Palatucci, Jian Zhang
+	Pages: 649-656
+	doi>10.1145/1553374.1553458
+	Full text: PDFPDF
+	
+
+We develop a cyclical blockwise coordinate descent algorithm for the multi-task Lasso that efficiently solves problems with thousands of features and tasks. The main result shows that a closed-form Winsorization operator can be obtained for the sup-norm ...
+expand
+	Efficient Euclidean projections in linear time
+	Jun Liu, Jieping Ye
+	Pages: 657-664
+	doi>10.1145/1553374.1553459
+	Full text: PDFPDF
+	
+
+We consider the problem of computing the Euclidean projection of a vector of length n onto a closed convex set including the l1 ball and the specialized polyhedra employed in (Shalev-Shwartz & Singer, 2006). These problems have ...
+expand
+	Topic-link LDA: joint models of topic and author community
+	Yan Liu, Alexandru Niculescu-Mizil, Wojciech Gryc
+	Pages: 665-672
+	doi>10.1145/1553374.1553460
+	Full text: PDFPDF
+	
+
+Given a large-scale linked document collection, such as a collection of blog posts or a research literature archive, there are two fundamental problems that have generated a lot of interest in the research community. One is to identify a set of high-level ...
+expand
+	Geometry-aware metric learning
+	Zhengdong Lu, Prateek Jain, Inderjit S. Dhillon
+	Pages: 673-680
+	doi>10.1145/1553374.1553461
+	Full text: PDFPDF
+	
+
+In this paper, we introduce a generic framework for semi-supervised kernel learning. Given pair-wise (dis-)similarity constraints, we learn a kernel matrix over the data that respects the provided side-information as well as the local geometry of the ...
+expand
+	Identifying suspicious URLs: an application of large-scale online learning
+	Justin Ma, Lawrence K. Saul, Stefan Savage, Geoffrey M. Voelker
+	Pages: 681-688
+	doi>10.1145/1553374.1553462
+	Full text: PDFPDF
+	
+
+This paper explores online learning approaches for detecting malicious Web sites (those involved in criminal scams) using lexical and host-based features of the associated URLs. We show that this application is particularly appropriate for online algorithms ...
+expand
+	Online dictionary learning for sparse coding
+	Julien Mairal, Francis Bach, Jean Ponce, Guillermo Sapiro
+	Pages: 689-696
+	doi>10.1145/1553374.1553463
+	Full text: PDFPDF
+	
+
+Sparse coding---that is, modelling data vectors as sparse linear combinations of basis elements---is widely used in machine learning, neuroscience, signal processing, and statistics. This paper focuses on learning the basis set, also called dictionary, ...
+expand
+	Proto-predictive representation of states with simple recurrent temporal-difference networks
+	Takaki Makino
+	Pages: 697-704
+	doi>10.1145/1553374.1553464
+	Full text: PDFPDF
+	
+
+We propose a new neural network architecture, called Simple Recurrent Temporal-Difference Networks (SR-TDNs), that learns to predict future observations in partially observable environments. SR-TDNs incorporate the structure of simple recurrent neural ...
+expand
+	Sparse Gaussian graphical models with unknown block structure
+	Benjamin M. Marlin, Kevin P. Murphy
+	Pages: 705-712
+	doi>10.1145/1553374.1553465
+	Full text: PDFPDF
+	
+
+Recent work has shown that one can learn the structure of Gaussian Graphical Models by imposing an L1 penalty on the precision matrix, and then using efficient convex optimization methods to find the penalized maximum likelihood estimate. This is similar ...
+expand
+	Polyhedral outer approximations with application to natural language parsing
+	André F. T. Martins, Noah A. Smith, Eric P. Xing
+	Pages: 713-720
+	doi>10.1145/1553374.1553466
+	Full text: PDFPDF
+	
+
+Recent approaches to learning structured predictors often require approximate inference for tractability; yet its effects on the learned model are unclear. Meanwhile, most learning algorithms act as if computational cost was constant within the model ...
+expand
+	Partial order embedding with multiple kernels
+	Brian McFee, Gert Lanckriet
+	Pages: 721-728
+	doi>10.1145/1553374.1553467
+	Full text: PDFPDF
+	
+
+We consider the problem of embedding arbitrary objects (e.g., images, audio, documents) into Euclidean space subject to a partial order over pair-wise distances. Partial order constraints arise naturally when modeling human perception of similarity. ...
+expand
+	Bandit-based optimization on graphs with application to library performance tuning
+	Frédéric de Mesmay, Arpad Rimmel, Yevgen Voronenko, Markus Püschel
+	Pages: 729-736
+	doi>10.1145/1553374.1553468
+	Full text: PDFPDF
+	
+
+The problem of choosing fast implementations for a class of recursive algorithms such as the fast Fourier transforms can be formulated as an optimization problem over the language generated by a suitably defined grammar. We propose a novel algorithm ...
+expand
+	Deep learning from temporal coherence in video
+	Hossein Mobahi, Ronan Collobert, Jason Weston
+	Pages: 737-744
+	doi>10.1145/1553374.1553469
+	Full text: PDFPDF
+	
+
+This work proposes a learning method for deep architectures that takes advantage of sequential data, in particular from the temporal coherence that naturally exists in unlabeled video recordings. That is, two successive frames are likely to contain the ...
+expand
+	Regression by dependence minimization and its application to causal inference in additive noise models
+	Joris Mooij, Dominik Janzing, Jonas Peters, Bernhard Schölkopf
+	Pages: 745-752
+	doi>10.1145/1553374.1553470
+	Full text: PDFPDF
+	
+
+Motivated by causal inference problems, we propose a novel method for regression that minimizes the statistical dependence between regressors and residuals. The key advantage of this approach to regression is that it does not assume a particular distribution ...
+expand
+	Learning complex motions by sequencing simpler motion templates
+	Gerhard Neumann, Wolfgang Maass, Jan Peters
+	Pages: 753-760
+	doi>10.1145/1553374.1553471
+	Full text: PDFPDF
+	
+
+Abstraction of complex, longer motor tasks into simpler elemental movements enables humans and animals to exhibit motor skills which have not yet been matched by robots. Humans intuitively decompose complex motions into smaller, simpler segments. For ...
+expand
+	Convex variational Bayesian inference for large scale generalized linear models
+	Hannes Nickisch, Matthias W. Seeger
+	Pages: 761-768
+	doi>10.1145/1553374.1553472
+	Full text: PDFPDF
+	
+
+We show how variational Bayesian inference can be implemented for very large generalized linear models. Our relaxation is proven to be a convex problem for any log-concave model. We provide a generic double loop algorithm for solving this relaxation ...
+expand
+	Solution stability in linear programming relaxations: graph partitioning and unsupervised learning
+	Sebastian Nowozin, Stefanie Jegelka
+	Pages: 769-776
+	doi>10.1145/1553374.1553473
+	Full text: PDFPDF
+	
+
+We propose a new method to quantify the solution stability of a large class of combinatorial optimization problems arising in machine learning. As practical example we apply the method to correlation clustering, clustering aggregation, modularity clustering, ...
+expand
+	Nonparametric factor analysis with beta process priors
+	John Paisley, Lawrence Carin
+	Pages: 777-784
+	doi>10.1145/1553374.1553474
+	Full text: PDFPDF
+	
+
+We propose a nonparametric extension to the factor analysis problem using a beta process prior. This beta process factor analysis (BP-FA) model allows for a dataset to be decomposed into a linear combination of a sparse set of factors, providing ...
+expand
+	Unsupervised hierarchical modeling of locomotion styles
+	Wei Pan, Lorenzo Torresani
+	Pages: 785-792
+	doi>10.1145/1553374.1553475
+	Full text: PDFPDF
+	
+
+This paper describes an unsupervised learning technique for modeling human locomotion styles, such as distinct related activities (e.g. running and striding) or variations of the same motion performed by different subjects. Modeling motion styles requires ...
+expand
+	Binary action search for learning continuous-action control policies
+	Jason Pazis, Michail G. Lagoudakis
+	Pages: 793-800
+	doi>10.1145/1553374.1553476
+	Full text: PDFPDF
+	
+
+Reinforcement Learning methods for controlling stochastic processes typically assume a small and discrete action space. While continuous action spaces are quite common in real-world problems, the most common approach still employed in practice is coarse ...
+expand
+	Detecting the direction of causal time series
+	Jonas Peters, Dominik Janzing, Arthur Gretton, Bernhard Schölkopf
+	Pages: 801-808
+	doi>10.1145/1553374.1553477
+	Full text: PDFPDF
+	
+
+We propose a method that detects the true direction of time series, by fitting an autoregressive moving average model to the data. Whenever the noise is independent of the previous samples for one ordering of the observations, but dependent for the opposite ...
+expand
+	Constraint relaxation in approximate linear programs
+	Marek Petrik, Shlomo Zilberstein
+	Pages: 809-816
+	doi>10.1145/1553374.1553478
+	Full text: PDFPDF
+	
+
+Approximate Linear Programming (ALP) is a reinforcement learning technique with nice theoretical properties, but it often performs poorly in practice. We identify some reasons for the poor quality of ALP solutions in problems where the approximation ...
+expand
+	Multi-class image segmentation using conditional random fields and global classification
+	Nils Plath, Marc Toussaint, Shinichi Nakajima
+	Pages: 817-824
+	doi>10.1145/1553374.1553479
+	Full text: PDFPDF
+	
+
+A key aspect of semantic image segmentation is to integrate local and global features for the prediction of local segment labels. We present an approach to multi-class segmentation which combines two methods for this integration: a Conditional Random ...
+expand
+	Learning when to stop thinking and do something!
+	Barnabás Póczos, Yasin Abbasi-Yadkori, Csaba Szepesvári, Russell Greiner, Nathan Sturtevant
+	Pages: 825-832
+	doi>10.1145/1553374.1553480
+	Full text: PDFPDF
+	
+
+An anytime algorithm is capable of returning a response to the given task at essentially any time; typically the quality of the response improves as the time increases. Here, we consider the challenge of learning when we should terminate such algorithms ...
+expand
+	Independent factor topic models
+	Duangmanee (Pew) Putthividhya, Hagai T. Attias, Srikantan Nagarajan
+	Pages: 833-840
+	doi>10.1145/1553374.1553481
+	Full text: PDFPDF
+	
+
+Topic models such as Latent Dirichlet Allocation (LDA) and Correlated Topic Model (CTM) have recently emerged as powerful statistical tools for text document modeling. In this paper, we improve upon CTM and propose Independent Factor Topic Models (IFTM) ...
+expand
+	An efficient sparse metric learning in high-dimensional space via l1-penalized log-determinant regularization
+	Guo-Jun Qi, Jinhui Tang, Zheng-Jun Zha, Tat-Seng Chua, Hong-Jiang Zhang
+	Pages: 841-848
+	doi>10.1145/1553374.1553482
+	Full text: PDFPDF
+	
+
+This paper proposes an efficient sparse metric learning algorithm in high dimensional space via an l1-penalized log-determinant regularization. Compare to the most existing distance metric learning algorithms, the proposed algorithm ...
+expand
+	Sparse higher order conditional random fields for improved sequence labeling
+	Xian Qian, Xiaoqian Jiang, Qi Zhang, Xuanjing Huang, Lide Wu
+	Pages: 849-856
+	doi>10.1145/1553374.1553483
+	Full text: PDFPDF
+	
+
+In real sequence labeling tasks, statistics of many higher order features are not sufficient due to the training data sparseness, very few of them are useful. We describe Sparse Higher Order Conditional Random Fields (SHO-CRFs), which are able to handle ...
+expand
+	An efficient projection for l1, ∞ regularization
+	Ariadna Quattoni, Xavier Carreras, Michael Collins, Trevor Darrell
+	Pages: 857-864
+	doi>10.1145/1553374.1553484
+	Full text: PDFPDF
+	
+
+In recent years the l1, ∞ norm has been proposed for joint regularization. In essence, this type of regularization aims at extending the l1 framework for learning sparse models to a setting where the ...
+expand
+	Nearest neighbors in high-dimensional data: the emergence and influence of hubs
+	Miloš Radovanović, Alexandros Nanopoulos, Mirjana Ivanović
+	Pages: 865-872
+	doi>10.1145/1553374.1553485
+	Full text: PDFPDF
+	
+
+High dimensionality can pose severe difficulties, widely recognized as different aspects of the curse of dimensionality. In this paper we study a new aspect of the curse pertaining to the distribution of k-occurrences, i.e., the number of times ...
+expand
+	Large-scale deep unsupervised learning using graphics processors
+	Rajat Raina, Anand Madhavan, Andrew Y. Ng
+	Pages: 873-880
+	doi>10.1145/1553374.1553486
+	Full text: PDFPDF
+	
+
+The promise of unsupervised learning methods lies in their potential to use vast amounts of unlabeled data to learn complex, highly nonlinear models with millions of free parameters. We consider two well-known unsupervised learning models, deep belief ...
+expand
+	The Bayesian group-Lasso for analyzing contingency tables
+	Sudhir Raman, Thomas J. Fuchs, Peter J. Wild, Edgar Dahl, Volker Roth
+	Pages: 881-888
+	doi>10.1145/1553374.1553487
+	Full text: PDFPDF
+	
+
+Group-Lasso estimators, useful in many applications, suffer from lack of meaningful variance estimates for regression coefficients. To overcome such problems, we propose a full Bayesian treatment of the Group-Lasso, extending the standard Bayesian Lasso, ...
+expand
+	Supervised learning from multiple experts: whom to trust when everyone lies a bit
+	Vikas C. Raykar, Shipeng Yu, Linda H. Zhao, Anna Jerebko, Charles Florin, Gerardo Hermosillo Valadez, Luca Bogoni, Linda Moy
+	Pages: 889-896
+	doi>10.1145/1553374.1553488
+	Full text: PDFPDF
+	
+
+We describe a probabilistic approach for supervised learning when we have multiple experts/annotators providing (possibly noisy) labels but no absolute gold standard. The proposed algorithm evaluates the different experts and also gives an estimate of ...
+expand
+	Surrogate regret bounds for proper losses
+	Mark D. Reid, Robert C. Williamson
+	Pages: 897-904
+	doi>10.1145/1553374.1553489
+	Full text: PDFPDF
+	
+
+We present tight surrogate regret bounds for the class of proper (i.e., Fisher consistent) losses. The bounds generalise the margin-based bounds due to Bartlett et al. (2006). The proof uses Taylor's theorem and leads to new representations for ...
+expand
+	Learning structurally consistent undirected probabilistic graphical models
+	Sushmita Roy, Terran Lane, Margaret Werner-Washburne
+	Pages: 905-912
+	doi>10.1145/1553374.1553490
+	Full text: PDFPDF
+	
+
+In many real-world domains, undirected graphical models such as Markov random fields provide a more natural representation of the statistical dependency structure than directed graphical models. Unfortunately, structure learning of undirected graphs ...
+expand
+	Ranking interesting subgroups
+	Stefan Rueping
+	Pages: 913-920
+	doi>10.1145/1553374.1553491
+	Full text: PDFPDF
+	
+
+Subgroup discovery is the task of identifying the top k patterns in a database with most significant deviation in the distribution of a target attribute Y. Subgroup discovery is a popular approach for identifying interesting patterns in ...
+expand
+	Function factorization using warped Gaussian processes
+	Mikkel N. Schmidt
+	Pages: 921-928
+	doi>10.1145/1553374.1553492
+	Full text: PDFPDF
+	
+
+We introduce a new approach to non-linear regression called function factorization, that is suitable for problems where an output variable can reasonably be modeled by a number of multiplicative interaction terms between non-linear functions of the inputs. ...
+expand
+	Stochastic methods for l1 regularized loss minimization
+	Shai Shalev-Shwartz, Ambuj Tewari
+	Pages: 929-936
+	doi>10.1145/1553374.1553493
+	Full text: PDFPDF
+	
+
+We describe and analyze two stochastic methods for l1 regularized loss minimization problems, such as the Lasso. The first method updates the weight of a single feature at each iteration while the second method updates the entire weight ...
+expand
+	Structure preserving embedding
+	Blake Shaw, Tony Jebara
+	Pages: 937-944
+	doi>10.1145/1553374.1553494
+	Full text: PDFPDF
+	
+
+Structure Preserving Embedding (SPE) is an algorithm for embedding graphs in Euclidean space such that the embedding is low-dimensional and preserves the global topological properties of the input graph. Topology is preserved if a connectivity algorithm, ...
+expand
+	Monte-Carlo simulation balancing
+	David Silver, Gerald Tesauro
+	Pages: 945-952
+	doi>10.1145/1553374.1553495
+	Full text: PDFPDF
+	
+
+In this paper we introduce the first algorithms for efficiently learning a simulation policy for Monte-Carlo search. Our main idea is to optimise the balance of a simulation policy, so that an accurate spread of simulation outcomes is maintained, ...
+expand
+	Uncertainty sampling and transductive experimental design for active dual supervision
+	Vikas Sindhwani, Prem Melville, Richard D. Lawrence
+	Pages: 953-960
+	doi>10.1145/1553374.1553496
+	Full text: PDFPDF
+	
+
+Dual supervision refers to the general setting of learning from both labeled examples as well as labeled features. Labeled features are naturally available in tasks such as text classification where it is frequently possible to provide domain knowledge ...
+expand
+	Hilbert space embeddings of conditional distributions with applications to dynamical systems
+	Le Song, Jonathan Huang, Alex Smola, Kenji Fukumizu
+	Pages: 961-968
+	doi>10.1145/1553374.1553497
+	Full text: PDFPDF
+	
+
+In this paper, we extend the Hilbert space embedding approach to handle conditional distributions. We derive a kernel estimate for the conditional embedding, and show its connection to ordinary embeddings. Conditional embeddings largely extend ...
+expand
+	Multi-assignment clustering for Boolean data
+	Andreas P. Streich, Mario Frank, David Basin, Joachim M. Buhmann
+	Pages: 969-976
+	doi>10.1145/1553374.1553498
+	Full text: PDFPDF
+	
+
+Conventional clustering methods typically assume that each data item belongs to a single cluster. This assumption does not hold in general. In order to overcome this limitation, we propose a generative method for clustering vectorial data, where each ...
+expand
+	A least squares formulation for a class of generalized eigenvalue problems in machine learning
+	Liang Sun, Shuiwang Ji, Jieping Ye
+	Pages: 977-984
+	doi>10.1145/1553374.1553499
+	Full text: PDFPDF
+	
+
+Many machine learning algorithms can be formulated as a generalized eigenvalue problem. One major limitation of such formulation is that the generalized eigenvalue problem is computationally expensive to solve especially for large-scale problems. In ...
+expand
+	A simpler unified analysis of budget perceptrons
+	Ilya Sutskever
+	Pages: 985-992
+	doi>10.1145/1553374.1553500
+	Full text: PDFPDF
+	
+
+The kernel Perceptron is an appealing online learning algorithm that has a drawback: whenever it makes an error it must increase its support set, which slows training and testing if the number of errors is large. The Forgetron and the Randomized Budget ...
+expand
+	Fast gradient-descent methods for temporal-difference learning with linear function approximation
+	Richard S. Sutton, Hamid Reza Maei, Doina Precup, Shalabh Bhatnagar, David Silver, Csaba Szepesvári, Eric Wiewiora
+	Pages: 993-1000
+	doi>10.1145/1553374.1553501
+	Full text: PDFPDF
+	
+
+Sutton, Szepesvári and Maei (2009) recently introduced the first temporal-difference learning algorithm compatible with both linear function approximation and off-policy training, and whose complexity scales only linearly in the size of the function ...
+expand
+	Optimistic initialization and greediness lead to polynomial time learning in factored MDPs
+	István Szita, András Lőrincz
+	Pages: 1001-1008
+	doi>10.1145/1553374.1553502
+	Full text: PDFPDF
+	
+
+In this paper we propose an algorithm for polynomial-time reinforcement learning in factored Markov decision processes (FMDPs). The factored optimistic initial model (FOIM) algorithm, maintains an empirical model of the FMDP in a conventional way, and ...
+expand
+	Discriminative k-metrics
+	Arthur Szlam, Guillermo Sapiro
+	Pages: 1009-1016
+	doi>10.1145/1553374.1553503
+	Full text: PDFPDF
+	
+
+The k q-flats algorithm is a generalization of the popular k-means algorithm where q dimensional best fit affine sets replace centroids as the cluster prototypes. In this work, a modification of the k q-flats framework for ...
+expand
+	Kernelized value function approximation for reinforcement learning
+	Gavin Taylor, Ronald Parr
+	Pages: 1017-1024
+	doi>10.1145/1553374.1553504
+	Full text: PDFPDF
+	
+
+A recent surge in research in kernelized approaches to reinforcement learning has sought to bring the benefits of kernelized machine learning techniques to reinforcement learning. Kernelized reinforcement learning techniques are fairly new and different ...
+expand
+	Factored conditional restricted Boltzmann Machines for modeling motion style
+	Graham W. Taylor, Geoffrey E. Hinton
+	Pages: 1025-1032
+	doi>10.1145/1553374.1553505
+	Full text: PDFPDF
+	
+
+The Conditional Restricted Boltzmann Machine (CRBM) is a recently proposed model for time series that has a rich, distributed hidden state and permits simple, exact inference. We present a new model, based on the CRBM that preserves its most important ...
+expand
+	Using fast weights to improve persistent contrastive divergence
+	Tijmen Tieleman, Geoffrey Hinton
+	Pages: 1033-1040
+	doi>10.1145/1553374.1553506
+	Full text: PDFPDF
+	
+
+The most commonly used learning algorithm for restricted Boltzmann machines is contrastive divergence which starts a Markov chain at a data point and runs the chain for only a few iterations to get a cheap, low variance estimate of the sufficient statistics ...
+expand
+	Structure learning with independent non-identically distributed data
+	Robert E. Tillman
+	Pages: 1041-1048
+	doi>10.1145/1553374.1553507
+	Full text: PDFPDF
+	
+
+There are well known algorithms for learning the structure of directed and undirected graphical models from data, but nearly all assume that the data consists of a single i.i.d. sample. In contexts such as fMRI analysis, data may consist of an ensemble ...
+expand
+	Robot trajectory optimization using approximate inference
+	Marc Toussaint
+	Pages: 1049-1056
+	doi>10.1145/1553374.1553508
+	Full text: PDFPDF
+	
+
+The general stochastic optimal control (SOC) problem in robotics scenarios is often too complex to be solved exactly and in near real time. A classical approximate solution is to first compute an optimal (deterministic) trajectory and then solve a local ...
+expand
+	Ranking with ordered weighted pairwise classification
+	Nicolas Usunier, David Buffoni, Patrick Gallinari
+	Pages: 1057-1064
+	doi>10.1145/1553374.1553509
+	Full text: PDFPDF
+	
+
+In ranking with the pairwise classification approach, the loss associated to a predicted ranked list is the mean of the pairwise classification losses. This loss is inadequate for tasks like information retrieval where we prefer ranked lists with high ...
+expand
+	More generality in efficient multiple kernel learning
+	Manik Varma, Bodla Rakesh Babu
+	Pages: 1065-1072
+	doi>10.1145/1553374.1553510
+	Full text: PDFPDF
+	
+
+Recent advances in Multiple Kernel Learning (MKL) have positioned it as an attractive tool for tackling many supervised learning tasks. The development of efficient gradient descent based optimization schemes has made it possible to tackle large scale ...
+expand
+	Information theoretic measures for clusterings comparison: is a correction for chance necessary?
+	Nguyen Xuan Vinh, Julien Epps, James Bailey
+	Pages: 1073-1080
+	doi>10.1145/1553374.1553511
+	Full text: PDFPDF
+	
+
+Information theoretic based measures form a fundamental class of similarity measures for comparing clusterings, beside the class of pair-counting based and set-matching based measures. In this paper, we discuss the necessity of correction for chance ...
+expand
+	Model-free reinforcement learning as mixture learning
+	Nikos Vlassis, Marc Toussaint
+	Pages: 1081-1088
+	doi>10.1145/1553374.1553512
+	Full text: PDFPDF
+	
+
+We cast model-free reinforcement learning as the problem of maximizing the likelihood of a probabilistic mixture model via sampling, addressing both the infinite and finite horizon cases. We describe a Stochastic Approximation EM algorithm for likelihood ...
+expand
+	BoltzRank: learning to maximize expected ranking gain
+	Maksims N. Volkovs, Richard S. Zemel
+	Pages: 1089-1096
+	doi>10.1145/1553374.1553513
+	Full text: PDFPDF
+	
+
+Ranking a set of retrieved documents according to their relevance to a query is a popular problem in information retrieval. Methods that learn ranking functions are difficult to optimize, as ranking performance is typically judged by metrics that are ...
+expand
+	K-means in space: a radiation sensitivity evaluation
+	Kiri L. Wagstaff, Benjamin Bornstein
+	Pages: 1097-1104
+	doi>10.1145/1553374.1553514
+	Full text: PDFPDF
+	
+
+Spacecraft increasingly employ onboard data analysis to inform further data collection and prioritization decisions. However, many spacecraft operate in high-radiation environments in which the reliability of dataintensive computation is not known. This ...
+expand
+	Evaluation methods for topic models
+	Hanna M. Wallach, Iain Murray, Ruslan Salakhutdinov, David Mimno
+	Pages: 1105-1112
+	doi>10.1145/1553374.1553515
+	Full text: PDFPDF
+	
+
+A natural evaluation metric for statistical topic models is the probability of held-out documents given a trained model. While exact computation of this probability is intractable, several estimators for this probability have been used in the topic modeling ...
+expand
+	Feature hashing for large scale multitask learning
+	Kilian Weinberger, Anirban Dasgupta, John Langford, Alex Smola, Josh Attenberg
+	Pages: 1113-1120
+	doi>10.1145/1553374.1553516
+	Full text: PDFPDF
+	
+
+Empirical evidence suggests that hashing is an effective strategy for dimensionality reduction and practical nonparametric estimation. In this paper we provide exponential tail bounds for feature hashing and show that the interaction between random subspaces ...
+expand
+	Herding dynamical weights to learn
+	Max Welling
+	Pages: 1121-1128
+	doi>10.1145/1553374.1553517
+	Full text: PDFPDF
+	
+
+A new "herding" algorithm is proposed which directly converts observed moments into a sequence of pseudo-samples. The pseudo-samples respect the moment constraints and may be used to estimate (unobserved) quantities of interest. The procedure allows ...
+expand
+	A stochastic memoizer for sequence data
+	Frank Wood, Cédric Archambeau, Jan Gasthaus, Lancelot James, Yee Whye Teh
+	Pages: 1129-1136
+	doi>10.1145/1553374.1553518
+	Full text: PDFPDF
+	
+
+We propose an unbounded-depth, hierarchical, Bayesian nonparametric model for discrete sequence data. This model can be estimated from a single training sequence, yet shares statistical strength between subsequent symbol predictive distributions in such ...
+expand
+	Optimal reverse prediction: a unified perspective on supervised, unsupervised and semi-supervised learning
+	Linli Xu, Martha White, Dale Schuurmans
+	Pages: 1137-1144
+	doi>10.1145/1553374.1553519
+	Full text: PDFPDF
+	
+
+Training principles for unsupervised learning are often derived from motivations that appear to be independent of supervised learning. In this paper we present a simple unification of several supervised and unsupervised training principles through the ...
+expand
+	Non-monotonic feature selection
+	Zenglin Xu, Rong Jin, Jieping Ye, Michael R. Lyu, Irwin King
+	Pages: 1145-1152
+	doi>10.1145/1553374.1553520
+	Full text: PDFPDF
+	
+
+We consider the problem of selecting a subset of m most informative features where m is the number of required features. This feature selection problem is essentially a combinatorial optimization problem, and is usually solved by an approximation. ...
+expand
+	Online learning by ellipsoid method
+	Liu Yang, Rong Jin, Jieping Ye
+	Pages: 1153-1160
+	doi>10.1145/1553374.1553521
+	Full text: PDFPDF
+	
+
+In this work, we extend the ellipsoid method, which was originally designed for convex optimization, for online learning. The key idea is to approximate by an ellipsoid the classification hypotheses that are consistent with all the training examples ...
+expand
+	Stochastic search using the natural gradient
+	Sun Yi, Daan Wierstra, Tom Schaul, Jürgen Schmidhuber
+	Pages: 1161-1168
+	doi>10.1145/1553374.1553522
+	Full text: PDFPDF
+	
+
+To optimize unknown 'fitness' functions, we present Natural Evolution Strategies, a novel algorithm that constitutes a principled alternative to standard stochastic search methods. It maintains a multinormal distribution on the set of solution candidates. ...
+expand
+	Learning structural SVMs with latent variables
+	Chun-Nam John Yu, Thorsten Joachims
+	Pages: 1169-1176
+	doi>10.1145/1553374.1553523
+	Full text: PDFPDF
+	
+
+We present a large-margin formulation and algorithm for structured output prediction that allows the use of latent variables. Our proposal covers a large range of application problems, with an optimization problem that can be solved efficiently using ...
+expand
+	Piecewise-stationary bandit problems with side observations
+	Jia Yuan Yu, Shie Mannor
+	Pages: 1177-1184
+	doi>10.1145/1553374.1553524
+	Full text: PDFPDF
+	
+
+We consider a sequential decision problem where the rewards are generated by a piecewise-stationary distribution. However, the different reward distributions are unknown and may change at unknown instants. Our approach uses a limited number of side observations ...
+expand
+	Large-scale collaborative prediction using a nonparametric random effects model
+	Kai Yu, John Lafferty, Shenghuo Zhu, Yihong Gong
+	Pages: 1185-1192
+	doi>10.1145/1553374.1553525
+	Full text: PDFPDF
+	
+
+A nonparametric model is introduced that allows multiple related regression tasks to take inputs from a common data space. Traditional transfer learning models can be inappropriate if the dependence among the outputs cannot be fully resolved by known ...
+expand
+	Robust feature extraction via information theoretic learning
+	Xiao-Tong Yuan, Bao-Gang Hu
+	Pages: 1193-1200
+	doi>10.1145/1553374.1553526
+	Full text: PDFPDF
+	
+
+In this paper, we present a robust feature extraction framework based on information-theoretic learning. Its formulated objective aims at simultaneously maximizing the Renyi's quadratic information potential of features and the Renyi's cross information ...
+expand
+	Interactively optimizing information retrieval systems as a dueling bandits problem
+	Yisong Yue, Thorsten Joachims
+	Pages: 1201-1208
+	doi>10.1145/1553374.1553527
+	Full text: PDFPDF
+	
+
+We present an on-line learning framework tailored towards real-time learning from observed user behavior in search engines and other information retrieval systems. In particular, we only require pairwise comparisons which were shown to be reliably inferred ...
+expand
+	Compositional noisy-logical learning
+	Alan Yuille, Songfeng Zheng
+	Pages: 1209-1216
+	doi>10.1145/1553374.1553528
+	Full text: PDFPDF
+	
+
+We describe a new method for learning the conditional probability distribution of a binary-valued variable from labelled training examples. Our proposed Compositional Noisy-Logical Learning (CNLL) approach learns a noisy-logical distribution in a compositional ...
+expand
+	Discovering options from example trajectories
+	Peng Zang, Peng Zhou, David Minnen, Charles Isbell
+	Pages: 1217-1224
+	doi>10.1145/1553374.1553529
+	Full text: PDFPDF
+	
+
+We present a novel technique for automated problem decomposition to address the problem of scalability in reinforcement learning. Our technique makes use of a set of near-optimal trajectories to discover options and incorporates them into the ...
+expand
+	Learning instance specific distances using metric propagation
+	De-Chuan Zhan, Ming Li, Yu-Feng Li, Zhi-Hua Zhou
+	Pages: 1225-1232
+	doi>10.1145/1553374.1553530
+	Full text: PDFPDF
+	
+
+In many real-world applications, such as image retrieval, it would be natural to measure the distances from one instance to others using instance specific distance which captures the distinctions from the perspective of the concerned instance. ...
+expand
+	Prototype vector machine for large scale semi-supervised learning
+	Kai Zhang, James T. Kwok, Bahram Parvin
+	Pages: 1233-1240
+	doi>10.1145/1553374.1553531
+	Full text: PDFPDF
+	
+
+Practical data mining rarely falls exactly into the supervised learning scenario. Rather, the growing amount of unlabeled data poses a big challenge to large-scale semi-supervised learning (SSL). We note that the computational intensiveness of graph-based ...
+expand
+	Learning non-redundant codebooks for classifying complex objects
+	Wei Zhang, Akshat Surve, Xiaoli Fern, Thomas Dietterich
+	Pages: 1241-1248
+	doi>10.1145/1553374.1553533
+	Full text: PDFPDF
+	
+
+Codebook-based representations are widely employed in the classification of complex objects such as images and documents. Most previous codebook-based methods construct a single codebook via clustering that maps a bag of low-level features into a fixed-length ...
+expand
+	Multi-instance learning by treating instances as non-I.I.D. samples
+	Zhi-Hua Zhou, Yu-Yin Sun, Yu-Feng Li
+	Pages: 1249-1256
+	doi>10.1145/1553374.1553534
+	Full text: PDFPDF
+	
+
+Previous studies on multi-instance learning typically treated instances in the bags as independently and identically distributed. The instances in a bag, however, are rarely independent in real tasks, and a better performance can be expected ...
+expand
+	MedLDA: maximum margin supervised topic models for regression and classification
+	Jun Zhu, Amr Ahmed, Eric P. Xing
+	Pages: 1257-1264
+	doi>10.1145/1553374.1553535
+	Full text: PDFPDF
+	
+
+Supervised topic models utilize document's side information for discovering predictive low dimensional representations of documents; and existing models apply likelihood-based estimation. In this paper, we present a max-margin supervised topic model ...
+expand
+	On primal and dual sparsity of Markov networks
+	Jun Zhu, Eric P. Xing
+	Pages: 1265-1272
+	doi>10.1145/1553374.1553536
+	Full text: PDFPDF
+	
+
+Sparsity is a desirable property in high dimensional learning. The l1-norm regularization can lead to primal sparsity, while max-margin methods achieve dual sparsity. Combining these two methods, an l1-norm max-margin ...
+expand
+	SimpleNPKL: simple non-parametric kernel learning
+	Jinfeng Zhuang, Ivor W. Tsang, Steven C. H. Hoi
+	Pages: 1273-1280
+	doi>10.1145/1553374.1553537
+	Full text: PDFPDF
+	
+
+Previous studies of Non-Parametric Kernel (NPK) learning usually reduce to solving some Semi-Definite Programming (SDP) problem by a standard SDP solver. However, time complexity of standard interior-point SDP solvers could be as high as O(n6.5). ...
+expand
+	Invited talk: Can learning kernels help performance?
+	Corinna Cortes
+	Article No.: 1
+	doi>10.1145/1553374.1553538
+	
+	Invited talk: Drifting games, boosting and online learning
+	Yoav Freund
+	Article No.: 2
+	doi>10.1145/1553374.1553539
+	
+	Workshop summary: Seventh annual workshop on Bayes applications
+	John Mark Agosta, Russell Almond, Dennis Buede, Marek J. Druzdzel, Judy Goldsmith, Silja Renooij
+	Article No.: 3
+	doi>10.1145/1553374.1553540
+	
+	Workshop summary: Automated interpretation and modelling of cell images
+	Robert F. Murphy, Chun-Nan Hsu, Loris Nanni
+	Article No.: 4
+	doi>10.1145/1553374.1553542
+	
+	Workshop summary: Workshop on learning feature hierarchies
+	Kay Yu, Ruslan Salakhutdinov, Yann LeCun, Geoff Hinton, Yoshua Bengio
+	Article No.: 5
+	doi>10.1145/1553374.1553543
+	
+	Workshop summary: Results of the 2009 reinforcement learning competition
+	David Wingate, Carlos Diuk, Lihong Li, Matthew Taylor, Jordan Frank
+	Article No.: 6
+	doi>10.1145/1553374.1553544
+	
+	Workshop summary: The fourth workshop on evaluation methods for machine learning
+	Chris Drummond, Nathalie Japkowicz, William Klement, Sofus Macskassy
+	Article No.: 7
+	doi>10.1145/1553374.1553546
+	
+	Workshop summary: On-line learning with limited feedback
+	Jean-Yves Audibert, Peter Auer, Alessandro Lazaric, Remi Munos, Daniil Ryabko, Csaba Szepesvari
+	Article No.: 8
+	doi>10.1145/1553374.1553547
+	
+	Workshop summary: Numerical mathematics in machine learning
+	Matthias Seeger, Suvrit Sra, John P. Cunningham
+	Article No.: 9
+	doi>10.1145/1553374.1553548
+	
+	Workshop summary: Abstraction in reinforcement learning
+	Ozgur Simsek
+	Article No.: 10
+	doi>10.1145/1553374.1553550
+	
+	Workshop summary: Sparse methods for music audio
+	Douglas Eck, Dan Ellis, Philippe Hamel
+	Article No.: 11
+	doi>10.1145/1553374.1553551
+	
+	Tutorial summary: Reductions in machine learning
+	Alina Beygelzimer, John Langford, Bianca Zadrozny
+	Article No.: 12
+	doi>10.1145/1553374.1553552
+	
+	Tutorial summary: Convergence of natural dynamics to equilibria
+	Eyal Even-Dar, Vahab Mirrokni
+	Article No.: 13
+	doi>10.1145/1553374.1553553
+	
+	Tutorial summary: Learning with dependencies between several response variables
+	Volker Tresp, Kai Yu
+	Article No.: 14
+	doi>10.1145/1553374.1553554
+	
+	Tutorial summary: Survey of boosting from an optimization perspective
+	Manfred K. Warmuth, S.V.N. Vishwanathan
+	Article No.: 15
+	doi>10.1145/1553374.1553555
+	
+	Tutorial summary: The neuroscience of reinforcement learning
+	Yael Niv
+	Article No.: 16
+	doi>10.1145/1553374.1553557
+	
+	Tutorial summary: Machine learning in IR: recent successes and new opportunities
+	Paul Bennett, Misha Bilenko, Kevyn Collins-Thompson
+	Article No.: 17
+	doi>10.1145/1553374.1553558
+	
+	Tutorial summary: Active learning
+	Sanjoy Dasgupta, John Langford
+	Article No.: 18
+	doi>10.1145/1553374.1553559
+	
+	Tutorial summary: Large social and information networks: opportunities for ML
+	Jure Leskovec
+	Article No.: 19
+	doi>10.1145/1553374.1553560
+	
+	Tutorial summary: Structured prediction for natural language processing
+	Noah Smith
+	Article No.: 20
+	doi>10.1145/1553374.1553561
+	
+PDF
+PDF
+ICPS
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

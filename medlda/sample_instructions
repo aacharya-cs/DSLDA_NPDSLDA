@@ -1,0 +1,2 @@
+1. g++ *.cpp svmlight/*.cpp svm_multiclass/*.cpp -o medlda -lm
+2. ./medlda estinf 40 2 0 10 1.0 random

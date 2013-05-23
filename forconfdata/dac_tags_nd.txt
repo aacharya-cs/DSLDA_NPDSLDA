@@ -1,0 +1,4711 @@
+design
+design aid
+econom
+embed softwar
+fpga prototyp
+hardwar softwar co verif
+measur
+perform
+rapid prototyp
+softwar program verif
+system prototyp
+system valid
+systemc tlm
+test debug
+verif
+virtual platform
+virtual prototyp
+
+design
+dynam variat
+error correct
+error detect
+error recoveri
+error detect sequenti
+paramet variat
+perform
+reliabl
+replica path
+resili circuit
+time error
+type design style
+variat sensor
+variat toler circuit
+
+adapt voltag scale
+design
+desynchron
+econom
+gal
+low power design
+perform analysi design aid
+reliabl
+
+design
+design manag
+
+perform
+theori
+
+algorithm
+crosstalk
+csm
+delai nois
+design
+design aid
+perform analysi design aid
+
+algorithm
+current sourc model
+design aid
+time analysi
+
+algorithm
+critic path select
+fals path
+formal method
+multipl input transit
+perform
+reliabl
+simul
+static time analysi
+verif
+
+applic specif processor
+automat identif
+design
+design style
+instruct set extens
+memori coher
+optim
+perform
+steal
+
+cola
+design
+languag
+model methodolog
+perform
+system model
+systemc
+virtual prototyp
+
+automot
+design
+design space explor
+perform
+special purpos applic base system
+time analysi
+
+design
+dvf
+multicor processor
+perform
+perform system
+power gate
+
+3dic
+design
+fft
+sar
+tsv
+type design style
+
+access time failur
+cach
+cach memori
+design
+perform
+process variat
+reliabl
+select wordlin voltag boost
+yield
+
+algorithm
+design
+design aid
+detail rout
+doubl pattern
+redund via
+
+design
+design aid
+dfm
+drc
+equat base drc
+leff
+lfd
+lithographi
+manufactur
+measur
+verif
+
+carbon nanotub
+cnt
+cnt correl
+cnt densiti variat
+design
+integr circuit
+perform
+reliabl
+
+crossbar
+decod
+design
+emerg technolog
+mspt
+nanowir
+reliabl test fault toler
+spacer techniqu
+
+algorithm
+arithmet logic structur
+design
+gtg
+logic synthesi
+nanoscal devic
+ndr
+theori
+
+advanc technolog
+defect toler
+design
+memori technolog
+perform
+stt mram
+transistor size
+
+career develop
+design
+econom
+eda futur
+eda research
+electron market
+human factor
+occup
+recess
+
+cmo
+design
+nano
+perform
+power
+reliabl
+type design style
+variabl
+
+advanc technolog
+design
+design technolog co optim
+dfm
+econom
+experiment
+regular fabric
+templat
+vlsi
+
+22 nm technolog node
+design
+dg mosfet
+finfet
+scale
+sram
+transistor size
+type design style
+
+design
+design aid
+microprocessor design
+perform
+type design style
+vlsi technolog
+
+design
+
+leakag analysi
+perform
+process variaion
+ssta
+time
+
+algorithm
+delai distribut
+design
+design aid
+gaussian mixtur model
+slew distribut
+statist time analysi
+variabl
+
+algorithm
+bit error rate
+delai lock loop
+design
+jitter
+markov chain
+mean time failur
+measur
+perform
+reliabl
+simul
+stochast model
+time margin
+time recoveri circuit
+
+algorithm
+correl
+design
+design aid
+path rank
+statist
+test
+theori
+
+algorithm
+design
+chip variat
+parametr analysi
+perform
+simul
+time
+
+design
+dynam hardwar softwar partit
+dynam optim
+measur techniqu
+multitask
+perform
+profil
+real time embed system
+
+cach
+compress
+design
+program trace
+real time
+verif
+
+algorithm
+autom test gener
+pipelin
+space explor
+verif
+
+architectur
+debug
+design
+core
+architectur style
+perform
+race detect
+reliabl test fault toler
+
+algorithm
+comput aid design
+mont carlo
+statist leakag
+varianc reduct
+verif
+
+algorithm
+approxim
+clock gate
+cluster
+design
+design aid
+low power
+
+algorithm
+comput aid engin
+design
+gate bu
+perform
+power effici
+steiner graph
+
+activ monitor
+design aid
+languag
+perform
+perform analysi design aid
+power model
+system
+
+algorithm
+design
+fast poisson solver
+gpu
+graphic
+layout
+network
+perform
+placement rout
+simul
+verif
+
+algorithm
+approxim invers
+design aid
+perform
+power grid
+verif
+voltag drop
+
+design aid
+fault toler
+formal verif
+reliabl test fault toler
+sat
+verif
+
+algorithm
+clock skew optim
+design aid
+parameter time analysi
+perform
+reliabl
+sign
+variabl
+verif
+wires
+
+design
+design aid
+econom
+experiment
+perform
+reliabl
+type design style
+
+design
+emul
+mix signal verif
+power manag verif
+soc verif
+verif
+
+design
+design aid
+ip
+soc
+valid
+verif
+
+design aid
+esl
+execut specif
+manag
+verif
+
+design aid
+silicon valid
+verif
+
+design
+iscisim
+measur techniqu
+model develop
+perform
+softwar time simul
+system level design
+
+coher cach
+design
+measur
+microprocessor
+simul
+
+design
+model techniqu
+mpsoc architectur explor
+perform
+perform estim
+simul
+workload model
+
+data encrypt
+design
+differenti power analysi
+integr circuit
+logic design
+mont carlo simul
+process variat
+secur
+transistor size
+verif
+
+algorithm
+asip
+design
+multi object design space explor
+pareto optim curv
+perform
+processor custom
+special purpos applic base system
+
+algorithm
+design
+design space explor
+integ linear program
+mpsoc
+architectur style
+perform
+
+algorithm
+optim
+common sub express elimin
+design
+dsp transform
+linear express
+multipl constant multipl
+special purpos applic base system
+
+algorithm
+biochip
+design
+design aid
+design methodolog
+integ linear program
+microflud
+perform
+
+algorithm
+design
+design aid
+integ linear program
+low power nanophoton integr
+optic rout
+perform
+
+algorithm
+decis diagram
+logic design
+quantum logic
+revers logic
+synthesi
+
+design
+hardwar descript languag
+level commun descript
+languag
+
+algorithm
+design
+fpga
+latenc
+optim
+perform
+stream
+throughput
+
+design
+design aid
+evalu
+elast system
+optim
+perform
+theori
+
+design
+design aid
+elast design
+protocol
+specul
+synthesi
+theori
+verif
+
+design
+design aid
+design rule
+design manufactur
+dfm
+drc
+manufactur variabl
+physic verif
+rdr
+sign
+verif
+yield
+
+advanc technolog
+experiment
+logic transistor
+manag
+measur
+nanoelectron
+research consortium
+theori
+
+design
+lsi
+miscellan
+nanotechnolog
+perform
+singl electron
+true random gener
+
+algorithm
+carbon nanotub transistor
+carbon nanotub
+cnfet
+design
+experiment
+integr circuit
+perform
+reliabl
+
+cmo
+
+
+metal gate
+orient
+perform
+strain
+
+algorithm
+design
+design aid
+perform
+physic design
+rout
+span tree
+steiner tree
+
+algorithm
+design
+design aid
+global rout
+integ program
+
+algorithm
+bu plan
+design aid
+layer assign
+pcb rout
+perform
+topolog rout
+
+algorithm
+diagon capac
+escap rout
+miss pin
+network flow
+packag rout
+pcb rout
+placement rout
+theori
+
+algorithm
+design
+design aid
+detail rout
+global rout
+physic design
+
+algorithm
+design
+design aid
+statist
+path select
+process space coverag
+theori
+
+algorithm
+data mine
+perform
+perform analysi design aid
+reliabl
+speedpath
+time analysi
+
+design
+post silicon valid
+trace base debug
+verif
+
+cach compress
+design debug
+post silicon valid
+processor debug
+reliabl
+reliabl test fault toler
+silicon debug
+verif
+
+algorithm
+process variat
+respons surfac model
+verif
+
+algorithm
+harmon balanc
+perform
+precondit
+simul
+
+adjoint sensit analysi
+algorithm
+design
+markov chain
+simul
+steadi analysi
+stochast system
+
+algorithm
+design
+explicit numer integr
+parallel comput
+perform
+simul
+transient simul
+
+algorithm
+integr circuit
+process variat
+verif
+worst corner
+
+algorithm
+automat synthesi
+design
+logic synthesi
+lookahead
+perform
+time optim
+
+algorithm
+boolean match
+design
+simul sat
+verif
+
+algorithm
+decoupl capacitor
+design
+eco
+ir drop
+layout
+spare cell
+
+algorithm
+design
+eco
+match
+physic synthesi
+placement rout
+resynthesi
+spare cell
+
+design
+don't care
+optim
+rtl symbol simul
+synthesi
+verif
+
+algorithm
+drug discoveri
+financi market analysi
+mont carlo method
+oil field discoveri
+probabl statist
+
+captcha
+design
+distribut knowledg acquisit
+game purpos
+human comput
+human factor
+imag label
+miscellan
+onlin game
+secur
+theori
+world wide web
+
+algorithm
+brain
+
+hierarch learn
+neocortex
+spatio tempor learn
+theori
+
+algorithm
+buffer insert
+cost minim
+design
+design aid
+dynam program
+polynomi time approxim scheme
+np complet
+perform
+
+algorithm
+design aid
+perform
+physic design
+placement
+spare cell
+
+algorithm
+design
+design aid
+floorplan
+increment placement
+mix size design
+perform
+
+algorithm
+design
+design aid
+fpga
+global placement
+legal
+placement
+regular asic
+structur asic
+
+bipartit graph
+design
+design aid
+verif
+white box verif
+
+abstract model
+design
+design aid
+logic design
+verif
+
+algorithm
+design aid
+formal verif
+level synthesi
+model check
+sequenti equival check
+unit product machin
+verif
+
+equival check
+softwar verif
+softwar program verif
+verif
+
+algorithm
+design aid
+dtm
+estim
+measur
+multicor
+chip sensor
+temperatur
+verif
+
+algorithm
+design
+perform
+spatial estim
+spectral method
+thermal manag
+thermal sensor
+type design style
+
+architectur adapt
+design
+dynam thermal manag
+
+perform
+reliabl
+
+algorithm
+design
+energi
+perform
+schedul
+temperatur depend
+theori
+voltag frequenc scale
+
+algorithm
+failur probabl estim
+parametr failur
+perform analysi design aid
+reliabl
+respons surfac model
+sram
+
+genet algorithm
+multi object
+optim
+reliabl
+reliabl test fault toler
+soft error
+
+algorithm
+design
+reliabl
+retim
+soft error
+testabl
+
+algorithm
+design
+nbti
+perform
+process variat
+reliabl test fault toler
+yield
+
+analog behavior model
+design
+design aid
+function verif
+low power verif
+mix signal verif
+perform
+perform verif
+spice
+verif
+verilog
+verilog am
+vhdl
+
+algorithm
+amdahl' law
+concurr program
+dag model
+design
+hyperobject
+languag
+multicor program
+multithread
+parallel program
+parallel
+perform
+race detect
+reduc
+reliabl
+span
+speedup
+
+
+parallel comput
+perform
+perform measur
+
+algorithm
+concurr program
+design
+massiv parallel process
+multicor
+parallel architectur
+parallel architectur algorithm
+perform
+type design style
+
+algorithm
+comput aid engin
+cover linear program
+design
+design manufactur
+dummi fill
+
+algorithm
+design aid
+featur measur
+kernel method
+machin learn
+model variabl
+perform
+photo lithographi
+process variat
+reliabl
+verif
+
+design
+dopant activ
+experiment
+layout
+layout pattern
+perform
+physic design
+rapid thermal anneal
+reliabl
+simul
+threshold voltag variat
+
+gate level simul
+purpos graphic process unit
+perform simul
+multipl data stream architectur
+perform
+simul
+verif
+
+algorithm
+boolean satisfi
+comput aid engin
+design
+dpll
+nnf
+verif
+
+abstract refin
+algorithm
+model check
+simul
+verif
+
+design
+interconnect architectur
+network chip
+optic commun
+perform
+silicon photon
+
+3d ic
+advanc technolog
+design
+network chip
+perform
+serial interconnect
+vlsi
+
+arbitr
+design
+level 1 uniform cach architectur
+manag
+memori structur
+multi core
+multipl data stream architectur
+noc
+parallel architectur
+perform
+ring interconnect
+singl cycl transact
+soc
+topolog
+
+algorithm
+analog placement
+design
+design aid
+reliabl
+thermal match
+
+algorithm
+analog circuit
+design aid
+robust circuit optim
+variabl
+yield
+
+analog
+assum guarante
+composit
+contract
+design
+design aid
+integr
+platform
+platform base design
+radio frequenc
+reliabl
+system
+theori
+uwb
+
+clock network
+clock skew
+design
+process variat
+reliabl
+
+algorithm
+compil
+processor architectur
+theori
+thermal manag
+
+advanc technolog
+design
+logic synthesi
+nanoscal digit comput
+percol
+reliabl
+
+advanc technolog
+design
+float gate
+learn
+
+bio implant comput
+biologi genet
+brain comput interfac
+design
+experiment
+perform
+programm spike sort
+real time embed system
+smartdust
+
+human comput
+human factor
+human inform process
+satisfi
+verif
+
+design
+design aid
+languag
+sketch
+
+comput system
+design
+endosymbiot comput
+special purpos applic base system
+surrog gui
+wireless interfac
+
+algorithm
+depend analysi
+design
+design aid
+equival check
+level design
+post silicon debug
+system level design
+verif
+
+debug
+design
+error local
+simul
+verif
+
+algorithm
+design verif
+error correct
+error diagnosi
+valid
+verif
+
+design
+perform
+perform analysi design aid
+reliabl test fault toler
+verif
+
+algorithm
+assert
+debug
+design
+fault local
+function verif
+languag
+root caus analysi
+simul
+systemverilog assert
+verif
+
+algorithm
+behavior index
+debug
+design
+formal verif
+post silicon debug
+properti verif
+traceless debug
+verif
+
+algorithm
+graphic user interfac
+human factor
+low power
+measur
+model develop
+ol displai
+
+algorithm
+design
+design style
+endur
+error control code
+flash memori
+low power design
+perform
+
+design
+energi effici
+experiment
+memori manag
+perform
+phase chang memori
+type design style
+
+design
+grace degrad
+low power sram
+semiconductor memori
+suppli voltag scale
+
+authent
+hardwar secur
+process variat
+secur
+uniqu identifi
+
+design
+hardwar authent
+secur processor
+secur
+special purpos applic base system
+
+experiment
+gate level character
+hardwar trojan hors
+linear program
+manufactur variabl
+miscellan
+secur
+
+character
+design
+perform
+perform reliabl
+process variat
+softwar
+verif
+
+algorithm
+constraint manipul
+design manag
+graph color
+inform hide
+legal aspect
+measur
+secur
+trust ic
+verif
+vlsi design intellectu properti
+
+design
+illeg
+pseudo function test
+reliabl
+
+algorithm
+failur analysi
+fault diagnosi
+reliabl
+reliabl test fault toler
+verif
+
+design
+embed dram
+memori test
+reliabl test fault toler
+
+adapt test
+algorithm
+integr circuit
+
+algorithm
+perform
+processor
+regist alloc
+wcet
+
+algorithm
+perform
+processor
+scratchpad alloc
+wcet
+
+compress
+debug
+design aid
+program trace
+test debug
+
+code gener
+compil
+design
+dynam binari translat
+experiment
+increment compil
+interpret
+measur
+optim
+perform
+real time embed system
+run time environ
+scratchpad
+softwar cach
+
+design
+design aid
+perform
+system design
+system level power
+type design style
+
+algorithm
+capacit extract
+design aid
+direct solver
+wave
+integr equat base method
+
+algorithm
+comput aid engin
+design
+geometr variat model
+hermit polynomi chao method
+quadrat variat model
+simul model
+spatial correl
+theori
+variat capacit extract
+
+algorithm
+capacit extract
+design
+design aid
+increment precondit
+parallel fast multipol method
+stochast geometr moment
+
+adjoint method
+algorithm
+comput aid engin
+finit element method
+resist extract
+sensit
+shape variat
+
+algorithm
+design
+model techniqu
+multi core processor
+optim throughput
+perform
+perform attribut
+task alloc
+theori
+thermal manag
+thread migrat
+
+algorithm
+design
+dynam voltag frequenc select
+energi harvest
+perform
+perform analysi design aid
+
+hardwar softwar co design
+hardwar softwar interfac
+perform
+reliabl
+runtim optim
+system architectur
+
+buffer insert
+clock synthesi
+design
+layout
+placement rout
+power ground nois
+reliabl
+
+algorithm
+design
+flow control
+memori
+network architectur design
+network chip
+perform
+router
+
+comput architectur
+design
+distribut architectur
+network chip
+perform
+system chip
+
+algorithm
+built self test
+design
+fault toler
+hard fault
+modular redund
+network chip
+reconfigur
+reliabl
+toru
+
+design aid
+network chip
+perform
+perform bound
+power manag
+
+design
+leakag power
+noc
+shutdown
+topolog
+voltag island
+
+algorithm
+coars grain reconfigur architectur
+comput hierarchi
+design
+embed system
+experiment
+perform
+special purpos applic base system
+verif
+
+algorithm
+min cost flow
+multicor
+parallel program
+perform
+
+algorithm
+design
+fpga
+glitch power
+level synthesi
+measur
+optim
+perform
+power reduct
+
+bit error rate
+measur
+perform
+perform analysi design aid
+verif
+wireless commun
+
+acceler
+algorithm
+coprocess
+design
+dynam optim
+fpga
+onlin algorithm
+architectur style
+perform
+runtim configur
+
+algorithm
+cmp
+data
+dynam
+map
+noc
+perform
+processor
+thread
+
+design
+embed system
+experiment
+flash memori
+manag
+measur
+perform
+real time system embed system
+reliabl
+secondari storag
+
+algorithm
+control perform
+design
+embed control
+multi mode system
+perform
+schedul
+theori
+
+design
+esterel
+languag
+perform
+special purpos applic base system
+synchron program
+worst execut time analysi
+
+algorithm
+automot
+design
+flexrai
+milp
+optim
+real time system
+schedul
+
+algorithm
+design
+domain specif architectur
+esl
+hardwar depend softwar
+heterogen homogen multi core
+languag
+core
+mpsoc
+multi core
+multiprocessor
+perform
+program model
+reliabl
+standard
+symmetr asymmetr multi core
+theori
+verif
+virtual platform
+virtual prototyp
+virtual
+
+datacent network
+design
+experiment
+hardwar model
+perform
+special purpos applic base system
+
+comput societi
+data center
+design
+econom
+exascal
+manag
+sustain
+system architectur
+
+algorithm
+architectur
+data center
+design
+econom
+energi manag
+experiment
+manag
+measur
+perform
+reliabl
+standard
+system architectur
+
+algorithm
+design
+design style
+ldpc code
+low power architectur
+memori optim
+
+algorithm
+cach memori
+design
+instruct cach
+low power
+perform
+reconfigur memori
+
+code compress
+design
+embed system
+huffman code
+memori structur
+perform
+
+algorithm
+design
+flash memori
+flash translat layer
+manag
+perform
+storag manag
+storag system
+
+algorithm
+languag
+model base design
+perform
+reduct techniqu
+symbol algebra manipul
+synchron dataflow graph
+theori
+
+algorithm
+cmp run time manag
+design
+mmkp
+pareto algebra
+perform
+vlsi system
+
+algorithm
+dataflow
+manag
+mode
+process manag
+schedul
+
+design
+energi delai product
+heterogen multi core
+heterogen system
+perform
+program schedul
+
+algorithm
+data path design
+level synthesi
+modular hed
+polynomi datapath
+
+algorithm
+automat synthesi
+design
+dual suppli voltag
+level synthesi
+low power
+perform
+regist alloc
+
+algorithm
+design
+gpu
+integr circuit
+parallel comput
+vlsi circuit optim
+
+design
+micro architectur
+perform
+perform analysi design aid
+reliabl
+robust
+type design style
+variabl awar design
+
+algorithm
+model reduct
+multi dimension parametr sampl
+simul
+verif
+
+algorithm
+canon projector
+descriptor system
+model methodolog
+passiv test
+spectral projector
+
+algorithm
+design
+lithographi
+mask model
+parameter model reduct
+perform
+simul
+
+
+design
+design aid
+design challeng
+electron design autom
+
+
+design
+emul
+measur
+perform
+reliabl
+standard
+test
+valid
+verif
+
+design
+emul
+low power design
+measur
+perform
+post silicon valid
+verif
+
+perform analysi design aid
+post silicon valid
+reliabl
+reliabl test fault toler
+verif
+
+algorithm
+design
+design tool techniqu
+lte physic layer
+mix mode dataflow
+
+design
+embed softwar gener
+
+perform
+real time embed system
+rtl ip reus
+
+algorithm
+bytecod
+design
+emul
+hardwar softwar interfac
+languag
+onlin algorithm
+optim
+perform
+simul
+systemc
+virtual machin
+
+algorithm
+design
+design studi
+multicor architectur
+packet process
+parallel pipelin
+
+algorithm
+dynam voltag scale
+energi awar schedul
+hard real time
+real time system embed system
+schedul
+
+design
+esterel
+languag
+multiprocessor
+perform
+real time embed system
+synchron languag
+time analysi
+
+algorithm
+bf
+cuda
+gpu comput
+graph algorithm
+parallel program
+perform
+
+algorithm
+compress sens
+design
+lse
+perform
+sensor alloc
+spectral method
+thermal character
+type design style
+
+algorithm
+design
+dvf
+multicor system
+perform
+proactiv control
+thermal predict
+thermal sens
+type design style
+workload phase
+
+adapt
+algorithm
+design
+design aid
+power characterist
+reliabl
+sensor
+statist
+temperatur track
+
+algorithm
+clock mesh optim
+comput aid design
+design
+robust design
+
+algorithm
+comput aid design
+perform
+placement rout
+
+algorithm
+buffer insert
+buffer size
+clock tree
+design
+maze rout
+perform
+reliabl
+slew
+
+algorithm
+design
+flip chip
+global rout
+layout
+placement rout
+track assign
+voronoi diagram
+
+design
+design aid
+post silicon
+pre silicon
+valid
+verif
+
+defer compil
+design
+embed virtual
+hardwar softwar interfac
+hipeac
+organ design
+perform
+reliabl
+secur
+standard
+verif
+
+algorithm
+annot
+optim
+bytecod languag
+compil
+heterogen multicor
+languag
+perform
+portabl perform
+special
+split compil
+vector
+virtual
+
+access control
+design
+experiment
+secur
+smart phone secur
+virtual machin
+virtual machin monitor
+
+consolid
+design
+econom
+embed devic
+purpos oper system
+hardwar softwar interfac
+hypervisor
+manag
+organ design
+perform
+real time
+real time oper system
+reliabl
+secur
+separ
+verif
+
+comput aid design
+design
+design space explor
+krige
+multi processor system chip
+real time embed system
+respons surfac
+
+3d ic design
+cost model
+design
+econom
+core processor design
+microprocessor microcomput
+
+algorithm
+design
+experiment
+
+l2 cach partit
+chip bandwidth reduct
+
+design
+design space explor
+iter design
+optim
+sram
+static memori
+virtual prototyp
+
+3d integr
+cach architectur
+design
+
+
+perform
+process variat
+processor pipelin
+reliabl
+
+design
+interconnect servic layer
+network chip
+system specif methodolog
+dimension integr circuit
+
+3d
+cmp
+design
+interconnect architectur
+interconnect network
+perform
+silicon photon
+topolog
+
+channel slice
+design
+interconnect architectur
+network chip
+perform
+virtual channel
+
+design
+noc
+perform
+power
+reconfigur
+topolog
+
+algorithm
+boolean satisfi
+comput aid design
+quantifi boolean formula
+verif
+
+step induct
+algorithm
+design
+invari
+ipc
+perform analysi design aid
+symbol travers
+verif
+
+algorithm
+verif
+
+algorithm
+co sensit
+correct
+design
+fals path
+formal verif
+gener fals path
+perform
+reliabl
+sat
+sdc
+sensit
+time except
+verif
+
+algorithm
+design
+design aid
+global rout
+integ program
+parallel
+
+algorithm
+comput aid design
+design
+global rout
+maze rout
+multi thread
+
+algorithm
+board level rout
+bu rout
+design
+layout
+placement rout
+
+algorithm
+escap rout
+maximum independ subset
+pcb rout
+perform
+placement rout
+
+design
+ic variabl
+perform
+
+bio design autom
+biolog circuit
+cellular program
+comput biologi
+control
+feedback
+life medic scienc
+modular design
+robust
+synthet biologi
+system biologi
+
+gate level character
+hardwar trojan hors
+manufactur variabl
+secur
+secur protect
+thermal condit
+
+coverag
+design
+level synthesi
+mutat
+systemc
+verif
+
+design
+quantif
+reliabl
+reliabl analysi
+reliabl avail servic
+sat assist simul
+
+authent
+hardwar secur
+process variat
+secur
+uniqu identifi
+
+boolean logic
+
+hardwar secur
+inform flow track
+secur
+theori
+
+algorithm
+asip
+design
+finit precis
+map effici
+perform
+signal process system
+
+bit width alloc
+design
+design aid
+perform
+satisfi modulo theori
+
+algorithm
+architectur model templat
+design
+design model
+design space
+granular
+model driven design flow
+multi facet arbit
+
+algorithm
+integr circuit
+process variat
+variat character
+verif
+
+algorithm
+design
+design aid
+parametr time model
+speedpath analysi
+theori
+verif
+
+algorithm
+design
+design aid
+post silicon diagnosi
+process variat
+
+algorithm
+comput aid design
+perform
+physic design
+placement
+placement rout
+puls latch
+
+algorithm
+design
+design aid
+legal
+network flow
+perform
+placement
+vlsi
+
+algorithm
+analog placement
+boundari constraint
+design
+layout
+placement rout
+symmetri
+
+3
+advanc technolog
+design
+integr circuit
+perform
+
+design
+network chip
+noc
+soc
+system chip
+topolog
+
+circuit switch
+
+network chip
+perform
+rate control
+
+amba axi
+design
+interconnect
+network chip
+perform
+
+automat pipelin
+automat synthesi
+datapath specif
+design
+design explor x86 processor pipelin
+hardwar synthesi
+multithread
+
+algorithm
+design
+latenc
+perform
+perform analysi design aid
+stochast
+stream comput
+theori
+
+algorithm
+design
+perform yield
+process variat
+real time embed system
+task schedul
+
+algorithm
+perform
+schedul
+share resourc
+tdma
+
+cach index
+cach replac polici
+design
+ip router
+measur
+perform
+router
+
+algorithm
+cach
+cach lock
+cach memori
+design
+perform
+tempor reus profil
+
+algorithm
+cmp
+data migrat
+data recomput
+experiment
+flash memori
+multipl data stream architectur
+volatil memori
+perform
+phase chang memori
+spm
+
+algorithm
+cach simul
+l1 cach
+miss rate
+perform
+perform analysi design aid
+perform attribut
+round robin
+simul
+
+algorithm
+compress
+design
+econom
+lfsr
+misr
+reliabl
+reliabl test fault toler
+theori
+vlsi test
+toler
+
+blog
+ifra
+post silicon valid
+reliabl
+reliabl test fault toler
+silicon debug
+verif
+
+algorithm
+data mine
+delai test
+learn
+perform
+perform analysi design aid
+reliabl
+time analysi
+
+algorithm
+core processor
+parallel fault simul
+ppsfp
+
+algorithm
+design
+design aid
+post silicon valid
+process variat
+
+algorithm
+circuit simul
+design aid
+parametr yield
+perform
+
+algorithm
+design
+design aid
+detail rout
+doubl pattern
+gridless model
+
+algorithm
+ddl
+decomposit
+design
+design aid
+layout
+lithographi
+oai
+opc
+
+algorithm
+contact
+design
+design aid
+dfm
+lithographi
+optim
+perform
+variat
+vlsi
+
+cloud comput
+comput aid design
+design
+econom
+host design solut
+saa
+softwar servic
+
+algorithm
+analog design
+compact model
+comput aid design
+convex program
+model reduct
+parameter model
+semidefinit program
+
+model check
+reliabl test fault toler
+verif
+
+algorithm
+analog valid
+comput aid design
+design
+design methodolog
+equival check
+fault coverag
+formal valid
+model design
+verif
+
+comput aid design
+design
+emul
+experiment
+interconnect network
+core
+multi core
+simul
+verif
+
+algorithm
+design
+greedi heurist
+network architectur design
+network chip
+perform
+virtual channel
+
+algorithm
+applic specif network chip
+deadlock free rout
+design
+topolog
+
+data commun devic
+design
+traffic predict
+core
+network chip
+perform
+
+algorithm
+design
+flow control
+memori
+noc
+chip commun
+packet switch network
+perform
+qo
+router
+
+algorithm
+bind
+design
+design aid
+fpga
+memori
+perform
+
+design
+discret event
+experiment
+fpga
+microprocessor
+multiprocessor
+perform
+simul
+
+algorithm
+design aid
+fpga
+logic synthesi
+reliabl
+rewir
+soft error
+spfd
+
+algorithm
+comonoton
+design aid
+fast correl transform
+statist leakag analysi
+tail behavior
+
+algorithm
+dynam power
+model develop
+spatial correl
+statist analysi
+
+activ leakag
+activ mode power gate
+algorithm
+design
+low power
+optim
+vlsi
+
+adapt applic
+algorithm
+design
+dynam schedul
+real time embed system
+
+abstract
+algorithm
+automat synthesi
+boolean match
+design
+learn
+satisfi solv
+verif
+
+algorithm
+logic implic
+node addit remov
+node merg
+observ don't care
+optim
+
+algorithm
+atpg
+automat synthesi
+design
+error cancel
+optim
+rewir
+
+algorithm
+design
+don't care
+error analysi
+experiment
+fpga lookup tabl
+logic synthesi
+measur
+optim
+reliabl
+technolog map
+window
+
+advanc technolog
+design
+low power
+perform
+system design
+system level power
+vlsi
+
+cfi
+design
+error detect
+error recoveri
+fault inject
+measur
+microprocessor
+ra
+reliabl
+reliabl test fault toler
+ser
+verif
+
+reliabl
+reliabl test fault toler
+ser
+symbol techniqu
+
+reliabl test fault toler
+test tool
+
+xetal pro
+algorithm
+design
+hybrid memori system
+low energi
+perform
+simd
+singl instruct stream multipl data stream processor
+
+design
+embed system
+experiment
+memori optim
+mpsoc
+perform
+real time embed system
+signal process system
+
+algorithm
+approxim comput
+design
+low power design
+mine
+recognit
+scalabl effort
+support vector machin
+vlsi
+
+algorithm
+parallel comput
+perform
+perform model
+simul
+transient simul
+
+algorithm
+comput aid design
+dynam stabil
+separatrix
+sram
+
+algorithm
+design
+krylov subspac
+perform
+period steadi analysi
+shoot newton algorithm
+simul
+
+algorithm
+distribut control
+dynam thermal manag
+manag
+perform
+predict
+reliabl avail servic
+
+algorithm
+dynam power manag
+dynam voltag frequenc scale
+perform
+real time system embed system
+thermal awar sequenc
+
+algorithm
+design
+design aid
+manag
+optim
+perform
+thermal runawai
+thermoelectr cool
+
+algorithm
+benchmark
+design
+design aid
+dynam program
+gate size
+
+algorithm
+cluster
+congest predict
+design
+design aid
+rent rule
+tangl logic
+
+advanc technolog
+boolean function
+lattic dualiti
+lattic
+switch circuit
+theori
+
+algorithm
+common subexpress elimin
+design
+direct acycl graph
+
+optim algorithm
+singl constant multipl
+
+automot
+connect
+consum product
+design
+driver safeti comfort
+econom
+human factor
+legal aspect
+manag
+perform
+real time embed system
+reliabl
+standard
+synthesi
+vehicl infrastructur
+vehicl vehicl
+verif
+
+design
+embed system
+flow experi
+human factor
+perform
+user satisfact
+user machin system
+
+algorithm
+design aid
+eda algorithm
+human factor
+social network
+verif
+
+measur
+perform
+perform analysi design aid
+real time emult
+thermal model
+
+advanc technolog
+algorithm
+design
+influenc model
+network chip
+optim
+perform
+vfi design style
+
+control
+design
+dynam frequenc voltag scale
+experiment
+core
+model techniqu
+perform
+theori
+
+algorithm
+design
+hybrid power suppli
+perform
+perform analysi design aid
+power manag
+supercapacitor
+
+3d ic
+advanc technolog
+design
+nem
+perform
+ultra low power
+
+hardwar secur
+secur
+secur protect
+trust design
+
+algorithm
+design
+droplet base microfluid
+electrowet
+lab chip
+miscellan
+perform
+
+algorithm
+biochip
+cross contamin
+design
+design aid
+design methodolog
+microflud
+perform
+
+algorithm
+
+optim
+quantum comput
+revers logic
+
+algorithm
+automat synthesi
+design
+
+logic synthesi
+quantum comput
+revers circuit
+theori
+
+ber
+crosstalk
+design
+
+interconnect architectur
+measur
+optic network chip
+perform
+snr
+
+algorithm
+design
+gpu
+iter method
+multigrid
+network
+perform
+simul
+verif
+
+algorithm
+design
+integr equat
+intrus algorithm
+linear system
+parasit extract
+singular valu decomposit
+stochast domin singular vector
+stochast pde
+stochast simul
+surfac rough
+theori
+variat awar extract
+
+design aid
+measur
+mechan stress
+mobil
+model
+perform
+theori
+
+algorithm
+comput aid design
+design
+linear matrix equat
+linear matrix inequ
+parametr model reduct
+perform
+piecewis
+polynomi
+simul
+spline interpol
+space represent
+
+algorithm
+loewner matrix
+matrix format tangenti interpol
+sampl
+simul
+space
+
+algorithm
+batteri
+circuit analysi
+model
+perform analysi design aid
+charg
+
+design
+experiment
+hardwar special
+low power design
+microcod applic
+microcod architectur
+perform
+wsn node
+
+design
+design style
+low power memori
+measur
+perform
+stack sram
+static memori
+
+algorithm
+approxim algorithm
+design
+dynam voltag scale
+energi awar schedul
+real time embed system
+real time system
+
+data retent voltag
+design
+design aid
+experiment
+extract
+perform
+perform analysi design aid
+reliabl
+sram test
+threshold voltag variat
+write margin
+
+algorithm
+design
+mont carlo
+perform
+process variabl
+reliabl
+statist sram analysi
+yield predict
+
+3d ic
+algorithm
+buffer insert
+clock tree
+design
+layout
+optim
+perform
+reliabl
+rout
+
+adjust delai buffer
+algorithm
+comput aid design
+design
+phase detector
+post silicon tune
+reliabl
+
+design
+
+
+
+comput scienc
+cyber physic system
+design
+engin
+grand challeng
+human factor
+languag
+frontier
+perform
+reliabl
+secur
+theori
+verif
+
+cyber physic system
+design
+embed system
+model develop
+model comput
+real time embed system
+theori
+
+cyber physic system
+design
+distribut system
+fault toler
+formal method
+confid medic system
+medic cyber physic system
+medic devic interoper composition
+medic inform system
+physiolog close loop
+real time embed system
+reliabl
+verif
+
+build
+cyber physic
+embed
+energi manag
+energi meter
+leed
+measur
+miscellan
+perform
+smart grid
+zneb
+
+algorithm
+assert
+debug
+diagnosi
+error local
+experiment
+formal specif
+post silicon valid
+reliabl test fault toler
+verif
+
+cmb algorithm
+discret event simul
+gate level simul
+gpu
+multipl data stream architectur
+perform
+simul
+verif
+
+algorithm
+design
+equival check
+function model
+linear abstract
+mix signal circuit
+test vector
+valid
+verif
+verilog
+
+assert
+formal verif
+power intent verif
+verif
+
+algorithm
+emul
+function verif
+oscillatori combin loop
+simul
+verif
+
+algorithm
+custom circuit
+design aid
+optim
+perform
+perform analysi design aid
+
+algorithm
+comput aid design
+design
+differenti algebra equat
+mont carlo
+perform
+statist static time analysi
+theori
+transistor level model
+
+algorithm
+comput aid design
+graphic process unit
+mont carlo
+statist time
+verif
+
+algorithm
+flexibl electron
+perform
+perform analysi design aid
+static time analysi
+
+3dic
+design
+design aid
+mobil variat
+stress
+time analysi
+tsv
+
+design
+distribut system
+experiment
+gaussian mixtur model
+measur
+perform
+power
+regress
+virtual
+workload character
+
+assign
+experiment
+model comput architectur
+perform model
+power model
+
+algorithm
+dynam fault toler
+dynam power manag
+fault toler
+real time embed system
+reliabl
+
+algorithm
+design
+design aid
+perform
+power minim
+recoveri driven design
+
+algorithm
+design
+design aid
+low dropout regul
+chip voltag regul
+perform
+power deliveri network
+power effici
+
+algorithm
+design aid
+linear program
+power grid
+verif
+voltag drop
+
+algorithm
+cross entropi
+decoupl capacitor
+layout
+parallel comput
+perform
+reliabl
+verif
+
+ag
+design
+nbti
+pbti
+perform
+process variat
+redund
+reliabl
+sensor
+sensor system design
+sram
+yield
+
+algorithm
+mont carlo
+perform analysi design aid
+reliabl
+reliabl analysi
+sram core cell
+
+
+
+design
+hardwar descript languag
+languag
+verilog
+
+algorithm nois toler
+design
+energi effici
+error resili
+
+probabilist comput
+reliabl
+soft process
+stochast comput
+
+algorithm
+effort system
+design
+
+multi core
+parallel comput
+perform
+reliabl
+scalabl
+
+cmo
+comput fabric
+design
+error rate
+error toler
+perform
+perform degrad
+reliabl
+
+measur
+memristor
+nonvolatil memori
+perform
+process variat
+reliabl
+
+advanc technolog
+combin logic
+design
+devic
+graphen
+logic arrai
+logic gate
+junction
+perform
+reconfigur logic
+vlsi
+
+carbon nanotub
+cnt
+cnt correl
+design
+
+perform
+reliabl
+yield optim
+
+advanc technolog
+design
+energi effici electron
+later actuat nem
+logic design
+nano electro mechan switch
+perform
+process variat
+reliabl
+steep subthreshold switch
+
+algorithm
+perform model
+process variat
+verif
+
+algorithm
+analog circuit
+design
+design aid
+process variat
+reliabl
+yield enhanc
+
+algorithm
+analog mix signal
+design
+design aid
+optim
+pareto front
+reliabl
+yield
+
+algorithm
+deriv pursuit
+design
+design aid
+multi object optim
+optim
+pareto
+tradeoff
+
+3d ic
+design
+error toler
+imag sensor
+reliabl
+reliabl test fault toler
+type design style
+
+algorithm
+bist
+character
+design
+experiment
+measur
+mram
+reliabl
+reliabl test fault toler
+test
+theori
+yield enhanc
+
+digit pll
+design
+diagnosi
+mix signal bist
+onlin calibr
+reconfigur
+
+design
+design issu
+perform analysi design aid
+power dissip
+reliabl
+smart phone
+verif
+
+cyber physic system
+design
+electr grid
+perform
+perform analysi design aid
+power system
+reliabl
+
+decap
+design
+local
+perform analysi design aid
+power grid
+reliabl
+reson
+verif
+voltag
+
+
+design
+real time embed system
+
+ethernet
+vehicl commun
+network commun
+perform
+perform evalu
+qo
+simul
+
+design
+design tool techniqu
+formal model
+formal specif
+formal verif
+vehicl softwar
+softwar program verif
+test gener
+test debug
+verif
+
+address map
+design
+experiment
+flash translat layer
+garbag collect
+measur
+mlc nand flash memori
+perform
+secondari storag
+
+algorithm
+design
+flash memori
+perform
+secondari storag
+solid disk
+write buffer
+
+design
+experiment
+file system
+flash memori
+forward copi
+manag
+measur
+mlc
+perform
+real time system embed system
+recoveri
+reliabl
+secondari storag
+version
+yaff
+
+experiment
+flash memori
+measur
+perform
+power failur
+power loss
+reliabl
+
+algorithm
+bay classif
+design
+dynam power manag
+manag
+perform
+perform analysi design aid
+reinforc learn
+
+design
+experiment
+ip base power model
+perform
+perform analysi design aid
+system level power analysi
+
+design
+dv
+experiment
+imag displai
+imag process
+low power design
+measur
+ol
+perform
+
+design
+design style
+dram
+experiment
+phase chang ram
+power
+refresh
+verif
+
+design
+design manufactur
+diagnosi
+layout
+recommend design rule
+reliabl
+verif
+yield model
+
+2d decomposit
+algorithm
+comput aid design
+design
+hot spot detect
+ilp
+overlai minim
+reliabl
+sadp
+
+algorithm
+design
+doe
+perform
+perform analysi design aid
+reliabl
+respons model
+statist standard cell analysi
+
+algorithm
+cell rout
+comput aid design
+design
+layout
+litho friendli layout
+placement rout
+regular layout fabric
+
+averag design
+hardwar softwar interfac
+idl inject
+perform
+reliabl
+system architectur
+thermal manag
+
+algorithm
+dynam
+manag
+multimedia applic
+perform
+reinforc learn
+reliabl avail servic
+thermal manag
+
+algorithm
+design
+perform
+power character
+thermal infrar emiss
+type design style
+
+algorithm
+design
+optim
+thermal analysi
+thermal awar floorplan
+vlsi
+
+bio design autom
+biolog
+chemic reaction network
+design
+genet compil
+life medic scienc
+molecular comput
+
+adapt embed system
+design
+model comput
+model valid analysi
+theori
+verif
+
+algorithm
+compil
+design
+embed
+experiment
+multicor
+processor
+retim
+scratchpad memori
+stream
+
+analyt model
+concurr program
+cuda
+design
+experiment
+gpgpu
+memori access pattern
+model techniqu
+perform
+perform estim
+
+fault toler
+low power schedul
+mont carlo
+multicor
+real time embed system
+reliabl
+soft error
+softwar pipelin
+task execut time
+
+algorithm
+design
+engin chang
+placement rout
+spare cell
+technolog remap
+
+algorithm
+automat synthesi
+design
+engin chang
+interpol
+logic rectif
+satisfi
+verif
+
+algorithm
+clock skew
+comput aid design
+multi domain
+optim
+
+cost effici
+design
+design aid
+time error
+time specul
+
+algorithm
+design
+design aid
+steiner tree
+obstacl avoid
+prune
+rectilinear steiner minimum tree
+theori
+
+algorithm
+design aid
+gridless rout
+physic design
+vlsi rout
+
+algorithm
+branch bound
+design aid
+escap rout
+optim layer assign
+theori
+
+algorithm
+design aid
+design rule check
+parallel process
+perform
+
+3d ic
+design
+design aid
+mechan reliabl
+stress
+tsv
+
+algorithm
+comput aid design
+measur
+stationari variat
+process variat model
+spatial correl
+
+algorithm
+integr circuit
+memori
+process variat
+verif
+
+algorithm
+direct solver
+fast integr equat solver
+imped extract
+interconnect
+simul
+verif
+
+3d integr
+3di
+design
+microprocessor
+perform
+type design style
+
+
+
+3d
+autom
+design
+
+perform
+power
+reliabl
+verif
+
+3d
+applic
+architectur
+bond
+challeng eda
+cost
+design
+integr
+manufactur
+mem
+miscellan
+optic
+perform analysi design aid
+reliabl
+reliabl test fault toler
+rf
+technolog
+test
+theori
+thermal
+vlsi
+
+embed system
+formal concept analysi
+mutat test
+reliabl
+simulink
+test debug
+verif
+
+autom
+avr
+design
+power analysi attack
+real time embed system
+secur
+smartcard
+softwar countermeasur
+
+design
+model techniqu
+perform evalu
+secur
+trust platform modul
+
+authent
+design
+
+hardwar secur
+ppuf
+puf
+secur
+smart card
+
+gate level character
+integr circuit secur
+process variat
+secur
+secur protect
+suppli voltag control
+
+design
+assur system
+inform flow track
+secur
+secur protect
+time channel
+verif
+
+architectur
+design
+domain specif architectur
+driver
+modular
+pattern
+perform
+reusabl
+system chip
+
+compon
+concurr program
+experiment
+languag
+multi core platform map
+perform
+program model
+
+design
+design space explor
+model calibr
+multi processor system chip
+perform
+real time embed system
+thermal awar analysi
+
+design
+instruct set architectur
+memori hierarchi
+microarchitectur
+network chip
+architectur style
+pipelin
+precis time architectur
+pret machin
+real time embed system
+
+algorithm
+commun
+design
+design autom
+design tool techniqu
+econom
+field theori
+green' function
+helmholtz
+hit
+human factor
+pagerank
+scalabl tool
+theori
+wave equat
+
+advanc technolog
+
+design
+logic gate
+measur
+nanowir
+theori
+
+design
+design aid
+product
+
+design
+dynam binari translat
+fly acceler
+perform
+perform analysi design aid
+
+design
+devic ag
+
+hardwar secur
+ppuf
+puf
+secur
+self trust
+
+algorithm
+approxim comput
+design
+design studi
+energi effici
+reliabl
+reliabl avail servic
+softwar
+
+algorithm
+circuit simul
+design
+dynam memori
+random telegraph nois
+reliabl
+sram dram design
+static memori
+
+algorithm
+circuit simul
+design aid
+nois analysi
+perform
+
+algorithm
+analog circuit design
+design
+eigenvalu
+model reduct
+signal analysi
+stabil analysi
+verif
+
+algorithm
+interv
+perform
+perform analysi design aid
+perform bound
+process variat
+symbol
+
+algorithm
+integr circuit
+memori
+process variat
+verif
+
+design
+design aid
+experiment
+perform
+perform analysi design aid
+reconfigur analog design
+scale
+transistor
+
+algorithm
+anti tamper
+code break
+comput scienc educ
+cryptograph control
+design
+differenti power analysi
+hardwar secur
+reliabl
+secur
+channel attack
+standard
+tamper evid
+tamper resist
+verif
+
+advanc encrypt standard
+encrypt acceler
+
+secur
+ultra low voltag circuit design
+
+circuit extract
+design
+hack
+ic analysi
+measur
+patent
+patent secur
+revers engin
+secur
+tamper resist
+unauthor access
+
+instruct set simul
+multi core simul
+parallel simul
+perform
+simul support system
+time synchron
+verif
+
+distribut
+multicor embed system
+parallel
+parallel simul
+perform
+simul configur
+verif
+
+algorithm
+control structur perform analysi design aid
+measur
+micro architectur simul
+perform
+perform verif
+statist analysi model
+verif
+
+analyz
+ast
+autom
+design
+dynam modul hierarchi
+elabor
+front
+gcc
+gdb
+model valid analysi
+system specif
+systemc
+
+algorithm
+dynam voltag frequenc scale
+perform
+real time system embed system
+task sequenc refer
+thermal awar real time schedul
+
+algorithm
+design
+error detect implement
+fault toler
+fpga
+perform
+real time embed system
+reconfigur system
+reliabl
+reliabl test fault toler
+system level optim
+
+automot
+design
+flexrai
+perform
+real time embed system
+real time system
+schedul
+
+algorithm
+design
+dvf
+energi manag
+real time embed system
+real time system embed system
+reliabl
+schedul
+
+design
+lifetim reliabl
+onlin adjust
+perform
+perform system
+reliabl
+task alloc schedul
+
+algorithm
+design
+real time embed system
+
+algorithm
+automat synthesi
+design
+design reus
+perform
+system level design
+system chip
+
+algorithm
+design
+optim
+phase chang random access memori
+power effici
+variabl partit
+
+design
+design aid
+design debug
+post silicon debug
+reliabl test fault toler
+theori
+valid
+verif
+
+algorithm
+speed test
+design
+satisfi
+statist time
+testabl
+theori
+
+algorithm
+clock tree
+design
+diagnosi
+reliabl
+time fault
+
+fault diagnosi
+scan circuit
+reliabl
+transit fault
+
+algorithm
+comput aid design
+design
+leakag
+redund
+reliabl
+sub threshold sram
+yield enhanc
+
+design
+devic size
+invers narrow width effect
+perform
+sub threshold
+type design style
+
+algorithm
+design
+design aid
+leakag
+line edg rough
+lithographi
+optim
+perform
+
+algorithm
+conjug gradient
+design
+leakag power
+optim
+path base analysi
+perform
+sign
+slack
+
+algorithm
+design aid
+lithographi
+
+design
+etsoi
+fdsoi
+finfet
+
+low power
+mosfet
+planar
+perform
+reliabl
+scale
+transistor
+tri gate
+utb soi
+
+14nm silicon technolog
+advanc technolog
+cmo scale
+design
+digit circuit design trend
+deplet soi
+futur cmo design trend
+futur microprocessor design
+interconnect reliabl
+metal interconnect scale
+microprocessor microcomput
+reliabl
+vlsi
+vlsi circuit design
+
+design
+
+real time system
+real time system embed system
+shaper
+theori
+thermal manag
+
+design
+linux
+real time
+real time embed system
+task schedul
+
+algorithm
+perform
+perform analysi design aid
+reachabl
+reliabl
+synchron
+worst analysi
+
+design
+measur
+measur techniqu
+perform
+perform analysi design aid
+softwar time simul
+virtual prototyp
+
+
+
+algorithm
+analog mix signal system
+design
+formal verif
+global converg analysi
+verif
+
+concurr
+design
+litmu test
+memori consist model
+multipl data stream architectur
+parallel program
+theori
+verif
+
+abstract
+algorithm
+design
+embed system
+formal verif
+hardwar softwar
+perform analysi design aid
+verif
+
+algorithm
+clock grid
+comput aid design
+design
+low power
+reson
+
+algorithm
+buffer size
+design
+design aid
+perform
+polar assign
+power ground nois
+reliabl
+reliabl test fault toler
+
+algorithm
+analog placement
+capacitor arrai
+design
+layout
+placement rout
+
+design manufactur
+embed test structur
+experiment
+perform analysi design aid
+
+algorithm
+discret empir interpol method
+microelectromechan system
+model develop
+model reduct
+
+algorithm
+macro model
+optim
+passiv
+simul
+vector fit
+
+algorithm
+boundari element method
+capacit extract
+comput aid design
+field solver
+parallel comput
+
+algorithm
+capacit extract
+design
+gpu
+parallel fast multipol method
+simul
+
+algorithm
+comput aid design
+design
+dfx
+document
+measur
+optim
+perform
+silicon coverag
+silicon debug
+simul
+standard
+test suit optim
+theori
+transact
+verif
+
+coverag
+function verif
+post silicon valid
+stimuli gener
+verif
+
+algorithm
+fault detect
+measur
+mutat
+reliabl
+reliabl test fault toler
+safeti critic
+test plan
+verif
+
+algorithm
+design
+low power design
+perform
+real time embed system
+unequ error protect
+wireless system
+
+algorithm implement hardwar
+bee3
+cartesian
+design
+experiment
+grid
+nonuniform fast fourier transform
+perform
+polar
+signal process system
+taylor polynomi evalu
+
+electrocardiograph
+real time embed system
+support vector machin
+
+automot
+avb
+ethernet
+jitter
+measur
+perform
+real time embed system
+reliabl
+synchron
+temperatur condit
+
+algorithm
+approxim comput
+design
+dynam effort scale
+
+low power design
+mine
+recognit
+scalabl effort
+support vector machin
+
+design
+estim
+speed connect
+measur
+perform
+throughput
+usb2.0
+
+algorithm
+bdd
+comput aid design
+permut network
+reorder
+theori
+
+algorithm
+clock gate
+comput aid design
+interpol
+
+design
+design aid
+perform
+physic librari
+power delai optim
+synthesi librari
+
+automat synthesi
+logic synthesi
+measur
+perform
+robust
+verilog
+
+3d ic
+3d layout
+design
+memori technolog
+microprocessor microcomput
+sram regist partit
+tsv limit
+
+3d ic
+algorithm
+clock network
+clock tree synthesi
+comput aid design
+design
+fault toler
+placement rout
+redund tree
+reliabl
+silicon via
+
+3d ic
+algorithm
+design
+layout
+np complet
+physic design
+placement rout
+tsv assign
+
+3d ic
+algorithm
+design
+design aid
+liquid cool
+micro channel
+power
+
+3d ic
+algorithm
+perform
+physic design
+placement
+placement rout
+
+3d placement
+algorithm design analysi
+algorithm
+comput aid design
+design
+placement rout
+thermal awar
+tsv distribut
+
+algorithm
+increment analysi
+integr circuit
+power grid
+verif
+
+algorithm
+design aid
+domin
+perform
+power grid
+verif
+voltag drop
+
+algorithm
+design aid
+power grid
+sensit
+verif
+voltag drop
+
+critic voltag
+design
+design aid
+doubl exponenti current puls
+experiment
+failur probabl
+perform
+perform analysi design aid
+reliabl
+singl event transient
+
+memori
+multipl cell upset
+radiat
+reliabl
+reliabl test fault toler
+scrub
+
+ag
+design
+
+measur
+chip measur
+path delai measur
+perform
+perform calibr
+power perform optim
+reliabl
+
+biologi genet
+carbon nanotub transistor
+design
+singl molecul sens
+
+biofet
+biomark detect
+biosensor
+design
+experiment
+miscellan
+nanowir
+
+carbon nanotub
+chemic sens
+cnt
+design
+dielectrophoresi
+direct assembl
+environment sens
+experiment
+graphen
+miscellan
+nanosensor
+sensor
+
+advanc technolog
+design
+experiment
+heterogen multi core
+heterogen system
+memori technolog
+perform
+tunnel fet
+
+design
+interconnect architectur
+network chip
+perform
+reliabl
+silicon photon
+
+algorithm
+design
+design aid
+digit microfluid
+electrod address
+perform
+power
+
+algorithm
+biologi genet
+carbon metabol
+design
+geobact sulfurreducen
+global optim
+metabol engin
+multi object optim
+mutat robust
+reliabl
+
+design
+error correct
+low densiti pariti check code
+multi level cell
+volatil flash memori
+perform analysi design aid
+reliabl
+
+arrai electron
+design
+
+perform
+perform metric
+verif
+yield enhanc
+
+built jitter character
+design
+gate ring oscil
+nois shape
+vernier delai line
+
+contactless test
+design
+low cost wireless
+measur
+soc integr
+
+clock network
+corner analysi
+corner domin
+perform
+perform analysi design aid
+pvt corner
+reliabl
+verif
+
+3d ic
+design
+design aid
+tsv tsv coupl
+
+algorithm
+decomposit
+design
+design aid
+dfm
+doubl pattern
+lithographi
+perform
+sadp
+
+algorithm
+data learn
+design
+design aid
+design manufactur
+detail rout
+hotpost detect
+perform
+
+chemistri
+model methodolog
+
+algorithm
+biochem kinet
+ordinari differenti equat
+period steadi
+sensit analysi
+theori
+
+algorithm
+bioinformat
+biologi genet
+caulobact
+cell cycl
+deconvolut
+experiment
+measur
+model develop
+time seri
+
+algorithm
+cluster
+comput aid design
+design
+energi optim
+experiment
+field programm gate arrai fpga
+gate arrai
+perform
+perform trade off
+routabl
+theori
+
+unif
+algorithm
+architectur
+automat synthesi
+design
+languag
+microarchitectur
+microprogram design aid
+synthesi
+
+algorithm
+design
+multi core
+perform
+real time embed system
+share reconfigur logic
+
+comput biologi
+design
+digit design
+model methodolog
+molecular comput
+sequenti logic
+synchron logic
+synthet biologi
+
+function verif
+test gener
+verif
+verif ip reus
+
+algorithm
+experiment
+function verif
+machin learn
+microarchitectur
+stimuli gener
+verif
+
+algorithm
+function verif
+hardwar acceler
+multipl data stream architectur
+optim
+partit
+simul
+verif
+
+function verif
+multi thread
+post silicon valid
+stimuli gener
+verif
+
+cach simul
+cacti finfet
+finfet
+process variat
+theori
+
+design
+experiment
+function unit
+low power
+microprocessor microcomput
+nem
+perform
+power gate
+
+algorithm
+automat synthesi
+binari decis diagram
+singl electron transistor
+
+advanc technolog
+carbon nanotub
+design
+doubl pass transistor logic
+doubl gate
+perform
+univers logic modul
+
+concurr program
+design
+fpga
+function program
+hardwar descript languag
+level synthesi
+languag construct featur
+languag
+object orient
+object orient program
+reconflgur architectur
+stream
+valu type
+
+design
+dynam binari optim
+embed system
+experiment
+measur
+optim
+perform
+real time embed system
+run time environ
+runtim adapt
+virtual softwar
+
+design
+hypervisor
+processor consolid
+real time system embed system
+reliabl
+safeti
+secur
+virtual machin
+virtual
+
+code gener
+experiment
+object orient languag
+perform
+real time java
+run time environ
+virtual machin
+
+design
+fault toler
+network chip
+recoveri
+reliabl
+resili system
+
+algorithm
+bidirect channel
+design
+fault toler
+interconnect architectur
+noc
+reliabl
+
+design
+design studi
+experiment
+manag
+noc
+perform
+process variat
+rout
+
+fault model
+
+measur
+network chip
+reliabl
+variat
+
+buffer organ
+design
+interconnect architectur
+leakag power
+chip network
+power gate
+router
+
+design
+interconnect architectur
+network chip
+rout
+system chip
+
+
+algorithm
+cach
+design
+dynam reconfigur
+energi optim
+multicor system
+real time embed system
+real time system
+
+algorithm
+cach
+cach memori
+helper thread
+multi core
+partit
+perform
+
+algorithm
+cach memori
+design
+perform
+prefetch
+reus
+scratchpad memori
+
+acceler
+cach
+cach memori
+design
+experiment
+memori
+perform
+system chip
+
+algorithm
+miscellan
+pram endur
+wear level
+wear rate level
+
+access pattern
+bit error
+cach
+design
+experiment
+vccmin
+verif
+
+
+minimum oper voltag
+subthreshold circuit
+variat
+
+algorithm
+design
+pipelin
+super pipelin
+ultra low power
+ultra low voltag
+
+algorithm
+design
+design verif
+effect resist
+perform analysi design aid
+power grid analysi
+type design style
+verif
+voltag drop
+
+design
+design aid
+chip decap
+perform
+power effici
+power integr
+power gate
+
+algorithm
+design
+dsp
+error toler
+fir
+low power
+perform
+razor
+reliabl
+theori
+vlsi
+voltag scale
+
+algorithm implement hardwar
+current mode logic
+design
+dpa
+secur
+channel attack
+
+design
+effex
+featur extract
+featur measur
+heterogen architectur
+mobil processor
+perform
+
+algorithm
+approxim method
+cach memori
+design
+energi awar design
+manag
+motion dispar estim
+mvc
+chip memori
+real time embed system
+video code
+
+adapt architectur
+adapt mpsoc
+algorithm
+design
+design studi
+heterogen system
+low power design
+model techniqu
+perform
+pipelin processor
+
+design
+java processor
+languag
+reactiv embed system
+real time embed system
+synchron languag
+
+cpu gpu integr
+heterogen system
+perform
+qo
+router
+singl instruct stream multipl data stream processor
+softwar router
+
+emul
+system simul
+heterogen multi core system
+multi core x86 cpu simul
+
+

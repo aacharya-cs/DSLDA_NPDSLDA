@@ -1,0 +1,33 @@
+**train**
+
+carriage: 76
+centaur: 26
+bag: 175
+building: 162
+donkey: 70
+jetski: 200
+statue: 104
+zebra: 122
+mug: 113
+monkey: 93
+wolf: 103
+goat: 82
+
+
+**test**
+
+carriage: 76
+centaur: 26
+bag: 175
+building: 162
+donkey: 70
+jetski: 200
+statue: 104
+zebra: 122
+mug: 113
+monkey: 93
+wolf: 103
+goat: 82
+
+
+

@@ -1,0 +1,494 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the eighteenth annual ACM symposium on Parallelism in algorithms and architectures
+General Chairs: 	Phillip B. Gibbons 	Intel Research, USA
+Program Chairs: 	Uzi Vishkin 	UMIACS, University of Maryland, USA
+Publication of:
+· Conference
+SPAA 06 18th ACM Symposium on Parallelism in Algorithms and Architectures 2006
+Cambridge, MA, USA — July 30 - August 02, 2006
+ACM New York, NY, USA ©2006
+	
+Proceedings of the eighteenth annual ACM symposium on Parallelism in algorithms and architectures 	Published by ACM 2006 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 270
+· Downloads (12 Months): 882
+· Citation Count: 213
+
+
+	
+Tools and Resources
+
+    Buy this Proceeding in Print
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+    Upcoming Conference:
+        SPAA '12
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Source Materials	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the eighteenth annual ACM symposium on Parallelism in algorithms and architectures
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Games and learning
+	
+	Tell me who I am: an interactive recommendation system
+	Noga Alon, Baruch Awerbuch, Yossi Azar, Boaz Patt-Shamir
+	Pages: 1 - 10
+	doi>10.1145/1148109.1148111
+	Full text: PdfPdf
+	
+
+We consider a model of recommendation systems, where each member from a given set of players has a binary preference to each element in a given set of objects: intuitively, each player either likes or dislikes each object. However, the ...
+expand
+	Publish and perish: definition and analysis of an n-person publication impact game
+	Zvi Lotker, Boaz Patt-Shamir, Mark R. Tuttle
+	Pages: 11 - 18
+	doi>10.1145/1148109.1148112
+	Full text: PdfPdf
+	
+
+We consider the following abstraction of competing publications. There are n players vying for the attention of the audience. The attention of the audience is abstracted by a single slot which holds, at any given time, the name of the latest release. ...
+expand
+	The price of optimum in Stackelberg games on arbitrary single commodity networks and latency functions
+	A.C. Kaporis, P.G. Spirakis
+	Pages: 19 - 28
+	doi>10.1145/1148109.1148113
+	Full text: PdfPdf
+	
+
+Let M be a single s-t network of parallel links with load dependent latency functions shared by an infinite number of selfish users. This may yield a Nash equilibrium with unbounded Coordination Ratio [12, 26]. A Leader ...
+expand
+	Network design with weighted players
+	Ho-Lin Chen, Tim Roughgarden
+	Pages: 29 - 38
+	doi>10.1145/1148109.1148114
+	Full text: PdfPdf
+	
+
+We consider a model of game-theoretic network design initially studied by Anshelevich et al. [2], where selfish players select paths in a network to minimize their cost, which is prescribed by Shapley cost shares. If all players are identical, the cost ...
+expand
+	SESSION: Compilers, supercomputing and quantum computing
+	
+	Towards automatic parallelization of tree reductions in dynamic programming
+	Kiminori Matsuzaki, Zhenjiang Hu, Masato Takeichi
+	Pages: 39 - 48
+	doi>10.1145/1148109.1148116
+	Full text: PdfPdf
+	
+
+Tree contraction algorithms, whose idea was first proposed by Miller and Reif, are important parallel algorithms to implement efficient parallel programs manipulating trees. Despite their efficiency, the tree contraction algorithms have not been widely ...
+expand
+	A general approach for partitioning N-dimensional parallel nested loops with conditionals
+	Arun Kejariwal, Alexandru Nicolau, Hideki Saito, Xinmin Tian, Milind Girkar, Utpal Banerjee, Constantine D. Polychronopoulos
+	Pages: 49 - 58
+	doi>10.1145/1148109.1148117
+	Full text: PdfPdf
+	
+
+Parallel loops account for the greatest amount of parallelism in scientific and numerical codes. For example, most of the DO loops in SPEC CFP2000 and SPEC OMPM2001 are of DOALL type and account for a large percentage of the total execution ...
+expand
+	Astronomical real-time streaming signal processing on a Blue Gene/L supercomputer
+	John W. Romein, P. Chris Broekema, Ellen van Meijeren, Kjeld van der Schaaf, Walther H. Zwart
+	Pages: 59 - 66
+	doi>10.1145/1148109.1148118
+	Full text: PdfPdf
+	
+
+LOFAR is the first of a new generation of radio telescopes, that combines the signals from many thousands of simple, fixed antennas, rather than from expensive dishes. Its revolutionary design and unprecedented size enables observations in a frequency ...
+expand
+	Exponential separation of quantum and classical online space complexity
+	François Le Gall
+	Pages: 67 - 73
+	doi>10.1145/1148109.1148119
+	Full text: PdfPdf
+	
+
+The main objective of quantum computation is to exploit the natural parallelism of quantum mechanics to solve problems using less computational resources than classical computers. Although quantum algorithms realizing an exponential time speed-up over ...
+expand
+	SESSION: Scheduling
+	
+	Smooth scheduling under variable rates or the analog-digital confinement game
+	Ami Litman, Shiri Moran-Schein
+	Pages: 74 - 83
+	doi>10.1145/1148109.1148121
+	Full text: PdfPdf
+	
+
+This work considers non-terminating scheduling problems in which a system of multiple resources serves clients having variable needs. The system has m identical resources and n clients; in each time slot each resource may serve at most ...
+expand
+	On the price of heterogeneity in parallel systems
+	P. Brighten Godfrey, Richard M. Karp
+	Pages: 84 - 92
+	doi>10.1145/1148109.1148122
+	Full text: PdfPdf
+	
+
+Suppose we have a parallel or distributed system whose nodes have limited capacities, such as processing speed, bandwidth, memory, or disk space. How does the performance of the system depend on the amount of heterogeneity of its capacity distribution? ...
+expand
+	Reconfigurable resource scheduling
+	C. Greg Plaxton, Yu Sun, Mitul Tiwari, Harrick Vin
+	Pages: 93 - 102
+	doi>10.1145/1148109.1148123
+	Full text: PdfPdf
+	
+
+We consider a class of scheduling problems that we refer to as reconfigurable resource scheduling. This class of problems is motivated by emerging applications that involve dynamically allocating a large number of shared resources to a variety of services. ...
+expand
+	Minimizing the stretch when scheduling flows of biological requests
+	Arnaud Legrand, Alan Su, Frédéric Vivien
+	Pages: 103 - 112
+	doi>10.1145/1148109.1148124
+	Full text: PdfPdf
+	
+
+In this paper, we consider the problem of scheduling distributed biological sequence comparison applications. This problem lies in the divisible load framework with negligible communication costs. Thus far, very few results have been proposed in this ...
+expand
+	SESSION: Parallel programming models: need, study & position papers
+	
+	Why Intel is designing multi-core processors
+	Geoff Lowney
+	Pages: 113 - 113
+	doi>10.1145/1148109.1148126
+	Full text: PdfPdf
+	
+
+Intel has announced that most of its future processors will contain more than one execution core. This talk will explain the rationale for this decision and discuss why multi-core processors deliver energy-efficient performance.
+expand
+	An empirical study to compare two parallel programming models
+	Lorin Hochstein, Victor R. Basili
+	Pages: 114 - 114
+	doi>10.1145/1148109.1148127
+	Full text: PdfPdf
+	
+
+While there are strong beliefs within the community about whether one particular parallel programming model is easier to use than another, there has been little research to analyze these claims empirically. Currently, the most popular paradigm is message-passing, ...
+expand
+	The FG programming environment: good and good for you
+	Elena Riccio Davidson
+	Pages: 115 - 115
+	doi>10.1145/1148109.1148128
+	Full text: PdfPdf
+	
+	Introducing the hydra parallel programming system
+	Franklin E. Powers, Jr., Gita Alaghband
+	Pages: 116 - 116
+	doi>10.1145/1148109.1148129
+	Full text: PdfPdf
+	
+
+Hydra PPS is a collection of annotations, classes, a runtime, and a compiler designed to provide Java programmers with a fairly simple method of producing programs for Symmetric Multiprocessing (SMP) architectures. This paper introduces the basics of ...
+expand
+	An envolutionary path towards virtual shared memory with random access
+	Jonathan L. Brown, Sue Goudy, Mike Heroux, Shan Shan Huang, Zhaofang Wen
+	Pages: 117 - 117
+	doi>10.1145/1148109.1148130
+	Full text: PdfPdf
+	
+	SESSION: Communication networks
+	
+	Efficient parallel algorithms for dead sensor diagnosis and multiple access channels
+	Michael T. Goodrich, Daniel S. Hirschberg
+	Pages: 118 - 127
+	doi>10.1145/1148109.1148132
+	Full text: PdfPdf
+	
+
+We study parallel algorithms for identifying the dead sensors in a mobile ad hoc wireless network and for resolving broadcast conflicts on a multiple access channel (MAC). Our approach involves the development and application of new group-testing algorithms, ...
+expand
+	Conflict-free coloring for intervals: from offline to online
+	Amotz Bar-Noy, Panagiotis Cheilaris, Shakhar Smorodinsky
+	Pages: 128 - 137
+	doi>10.1145/1148109.1148133
+	Full text: PdfPdf
+	
+
+This paper studies deterministic algorithms for a frequency assignment problem in cellular networks. A cellular network consists of fixed-position base stations and moving agents. Each base station operates at a fixed frequency, and this allows an agent ...
+expand
+	Packet-mode emulation of output-queued switches
+	Hagit Attiya, David Hay, Isaac Keslassy
+	Pages: 138 - 147
+	doi>10.1145/1148109.1148134
+	Full text: PdfPdf
+	
+
+Most common network protocols (e.g., the Internet Protocol) work with variable size packets, whereas contemporary switches still operate with fixed size cells, which are easier to transmit and buffer. This necessitates packet segmentation ...
+expand
+	On the communication complexity of randomized broadcasting in random-like graphs
+	Robert Elsässer
+	Pages: 148 - 157
+	doi>10.1145/1148109.1148135
+	Full text: PdfPdf
+	
+
+Broadcasting algorithms have a various range of applications in different fields of computer science. In this paper we analyze the number of message transmissions generated by efficient randomized broadcasting algorithms in random-like networks. We mainly ...
+expand
+	SESSION: Processing and scheduling
+	
+	Modeling instruction placement on a spatial architecture
+	Martha Mercaldi, Steven Swanson, Andrew Petersen, Andrew Putnam, Andrew Schwerin, Mark Oskin, Susan J. Eggers
+	Pages: 158 - 169
+	doi>10.1145/1148109.1148137
+	Full text: PdfPdf
+	
+
+In response to current technology scaling trends, architects are developing a new style of processor, known as spatial computers. A spatial computer is composed of hundreds or even thousands of simple, replicated processing elements (or PEs), frequently ...
+expand
+	Translating between itanium and sparc memory consistency models
+	Lisa Higham, LillAnne Jackson
+	Pages: 170 - 179
+	doi>10.1145/1148109.1148138
+	Full text: PdfPdf
+	
+
+Our general goal is to port programs from one multiprocessor architecture to another, while ensuring that each program's semantics remains unchanged. This paper addresses a subset of the problem by determining the relationships between memory consistency ...
+expand
+	Strip packing with precedence constraints and strip packing with release times
+	John Augustine, Sudarshan Banerjee, Sandy Irani
+	Pages: 180 - 189
+	doi>10.1145/1148109.1148139
+	Full text: PdfPdf
+	
+
+This paper examines two variants of strip packing: when the rectangles to be placed have precedence constraints and when the rectangles have release times. Strip packing can be used to model scheduling problems in which tasks require a contiguous subset ...
+expand
+	Power-aware scheduling for makespan and flow
+	David P. Bunde
+	Pages: 190 - 196
+	doi>10.1145/1148109.1148140
+	Full text: PdfPdf
+	
+
+We consider offline scheduling algorithms that incorporate speed scaling to address the bicriteria problem of minimizing energy consumption and a scheduling metric. For makespan, we give linear-time algorithms to compute all non-dominated solutions for ...
+expand
+	SESSION: Graphs and networks
+	
+	Tight bounds for the Min-Max boundary decomposition cost of weighted graphs
+	David Steurer
+	Pages: 197 - 206
+	doi>10.1145/1148109.1148142
+	Full text: PdfPdf
+	
+
+Many load balancing problems that arise in scientific computing applications ask to partition a graph with weights on the vertices and costs on the edges into a given number of almost equally-weighted parts such that the maximum boundary cost ...
+expand
+	On space-stretch trade-offs: lower bounds
+	Ittai Abraham, Cyril Gavoille, Dahlia Malkhi
+	Pages: 207 - 216
+	doi>10.1145/1148109.1148143
+	Full text: PdfPdf
+	
+
+One of the fundamental trade-offs in compact routing schemes is between the space used to store the routing table on each node and the stretch factor of the routing scheme -- the ratio between the cost of the route induced by the scheme ...
+expand
+	On space-stretch trade-offs: upper bounds
+	Ittai Abraham, Cyril Gavoille, Dahlia Malkhi
+	Pages: 217 - 224
+	doi>10.1145/1148109.1148144
+	Full text: PdfPdf
+	
+
+One of the fundamental trade-offs in compact routing schemes is between the space used to store the routing table on each node and the stretch factor of the routing scheme -- the maximum ratio over all pairs between the cost of the route ...
+expand
+	Towards small world emergence
+	Philippe Duchon, Nicolas Hanusse, Emmanuelle Lebhar, Nicolas Schabanel
+	Pages: 225 - 232
+	doi>10.1145/1148109.1148145
+	Full text: PdfPdf
+	
+
+We investigate the problem of optimizing the routing performance of a virtual network by adding extra random links. Our asynchronous and distributed algorithm ensures, by adding a single extra link per node, that the resulting network is a navigable ...
+expand
+	SESSION: Routing and scientific applications
+	
+	Compact routing with additive stretch using distance labelings
+	Arthur Brady, Lenore Cowen
+	Pages: 233 - 233
+	doi>10.1145/1148109.1148147
+	Full text: PdfPdf
+	
+
+Distance labelings -- introduced as a new way to encode graph topology in a distributed fashion -- have been an active area of research (see [1, 2] for details). In both exact and approximate settings, results in distance labelings and compact routing ...
+expand
+	Semi-oblivious routing
+	MohammadTaghi Hajiaghayi, Robert Kleinberg, Tom Leighton
+	Pages: 234 - 234
+	doi>10.1145/1148109.1148148
+	Full text: PdfPdf
+	
+
+We introduce semi-oblivious routing, a generalization of oblivious routing in which multicommodity flows must be routed using a polynomial-sized set of paths which is predefined by the algorithm before the demand matrix for the flow problem is ...
+expand
+	An implementation report for parallel triangular decompositions
+	Marc Moreno Maza, Yuzhen Xie
+	Pages: 235 - 235
+	doi>10.1145/1148109.1148149
+	Full text: PdfPdf
+	
+
+Since the discovery of Gröbner bases, the algorithmic advances in Commutative Algebra have made possible to tackle many classical problems in Algebraic Geometry that were previously out of reach. However, algorithmic progress is still desirable, ...
+expand
+	The cache-oblivious gaussian elimination paradigm: theoretical framework and experimental evaluation
+	Rezaul Alam Chowdhury, Vijaya Ramachandran
+	Pages: 236 - 236
+	doi>10.1145/1148109.1148150
+	Full text: PdfPdf
+	
+	SESSION: Distributed computing
+	
+	A distributed O(1)-approximation algorithm for the uniform facility location problem
+	Joachim Gehweiler, Christiane Lammersen, Christian Sohler
+	Pages: 237 - 243
+	doi>10.1145/1148109.1148152
+	Full text: PdfPdf
+	
+
+In this paper, we present a randomized constant factor approximation algorithm for the metric minimum facility location problem with uniform costs and demands in a distributed setting, in which every point can open a facility. In particular, our distributed ...
+expand
+	Playing push vs pull: models and algorithms for disseminating dynamic data in networks
+	R. C. Chakinala, A. Kumarasubramanian, K. A. Laing, R. Manokaran, C. Pandu Rangan, R. Rajaraman
+	Pages: 244 - 253
+	doi>10.1145/1148109.1148153
+	Full text: PdfPdf
+	
+
+Consider a network in which a collection of source nodes maintain and periodically update data objects for a collection of sink nodes, each of which periodically accesses the data originating from some specified subset of the source nodes. We consider ...
+expand
+	A performance analysis of local synchronization
+	Julia Lipman, Quentin F. Stout
+	Pages: 254 - 260
+	doi>10.1145/1148109.1148154
+	Full text: PdfPdf
+	
+
+Synchronization is often necessary in parallel computing, but it can create delays whenever the receiving processor is idle, waiting for the information to arrive. This is especially true for barrier, or global, synchronization, in which every processor ...
+expand
+	Symmetric network computation
+	David Pritchard, Santosh Vempala
+	Pages: 261 - 270
+	doi>10.1145/1148109.1148155
+	Full text: PdfPdf
+	
+
+We introduce a simple new model of distributed computation -- finite-state symmetric graph automata (FSSGA) -- which captures the qualitative properties common to fault-tolerant distributed algorithms. Roughly speaking, the computation evolves homogeneously ...
+expand
+	SESSION: Caches, registers and load balancing
+	
+	The cache complexity of multithreaded cache oblivious algorithms
+	Matteo Frigo, Volker Strumpen
+	Pages: 271 - 280
+	doi>10.1145/1148109.1148157
+	Full text: PdfPdf
+	
+
+We present a technique for analyzing the number of cache misses incurred by multithreaded cache oblivious algorithms on an idealized parallel machine in which each processor has a private cache. We specialize this technique to computations executed by ...
+expand
+	Fault-tolerant semifast implementations of atomic read/write registers
+	Chryssis Georgiou, Nicolas C. Nicolaou, Alexander A. Shvartsman
+	Pages: 281 - 290
+	doi>10.1145/1148109.1148158
+	Full text: PdfPdf
+	
+
+This paper investigates time-efficient implementations of atomic read-write registers in message-passing systems where the number of readers can be unbounded. In particular we study the case of a single writer, multiple readers, and S servers, ...
+expand
+	Fair online load balancing
+	Niv Buchbinder, Joseph (Seffi) Naor
+	Pages: 291 - 298
+	doi>10.1145/1148109.1148159
+	Full text: PdfPdf
+	
+
+We revisit from a fairness point of view the problem of online load balancing in the restricted assignment model and the 1-∞ model. We consider both a job-centric and a machine-centric view of fairness, as proposed by Goel et al. [11]. These ...
+expand
+	Deterministic load balancing and dictionaries in the parallel disk model
+	Mette Berger, Esben Rune Hansen, Rasmus Pagh, Mihai Pǎtraşcu, Milan Ružić, Peter Tiedemann
+	Pages: 299 - 307
+	doi>10.1145/1148109.1148160
+	Full text: PdfPdf
+	
+
+We consider deterministic dictionaries in the parallel disk model, motivated by applications such as file systems. Our main results show that if the number of disks is moderately large (at least logarithmic in the size of the universe from which keys ...
+expand
+	SESSION: Peer-to-peer networks
+	
+	Distributed random digraph transformations for peer-to-peer networks
+	Peter Mahlmann, Christian Schindelhauer
+	Pages: 308 - 317
+	doi>10.1145/1148109.1148162
+	Full text: PdfPdf
+	
+
+We present a local random graph transformation for weakly connected multi-digraphs with regular out-degree which produces every such graph with equal probability. This operation, called Pointer-Push&Pull, changes only two neighboring edges. Such an operation ...
+expand
+	Towards a scalable and robust DHT
+	Baruch Awerbuch, Christian Scheideler
+	Pages: 318 - 327
+	doi>10.1145/1148109.1148163
+	Full text: PdfPdf
+	
+
+The problem of scalable and robust distributed data storage has recently attracted a lot of attention. A common approach in the area of peer-to-peer systems has been to use a distributed hash table (or DHT). DHTs are based on the concept of virtual space. ...
+expand
+	SESSION: Multicores, multiprocessor systems and grids
+	
+	Chip-level integration: the new frontier for microprocessor architecture
+	Jaime H. Moreno
+	Pages: 328 - 328
+	doi>10.1145/1148109.1148165
+	Full text: PdfPdf
+	
+
+Technology trends in recent years have led to the transition from chips containing one microprocessor core to chips containing multiple cores. This transition, first illustrated in server systems by the IBM Power4 microprocessor, is currently visible ...
+expand
+	Energy implications of multiprocessor synchronization
+	Tali Moreshet, R. Iris Bahar, Maurice Herlihy
+	Pages: 329 - 329
+	doi>10.1145/1148109.1148166
+	Full text: PdfPdf
+	
+	Parallel depth first vs. work stealing schedulers on CMP architectures
+	Vasileios Liaskovitis, Shimin Chen, Phillip B. Gibbons, Anastassia Ailamaki, Guy E. Blelloch, Babak Falsafi, Limor Fix, Nikos Hardavellas, Michael Kozuch, Todd C. Mowry, Chris Wilkerson
+	Pages: 330 - 330
+	doi>10.1145/1148109.1148167
+	Full text: PdfPdf
+	
+
+In chip multiprocessors (CMPs), limiting the number of off-chip cache misses is crucial for good performance. Many multithreaded programs provide opportunities for constructive cache sharing, in which concurrently scheduled threads share a largely ...
+expand
+	Minimizing peak energy on mesh-connected systems
+	Quentin F. Stout
+	Pages: 331 - 331
+	doi>10.1145/1148109.1148168
+	Full text: PdfPdf
+	
+
+We are interested in minimizing peak energy usage, an important factor in systems where power is supplied externally, such as chips and circuit boards. The goal is to reduce peak energy without increasing the time required, and as a byproduct to also ...
+expand
+	Promoting cooperation in selfish grids
+	Krzysztof Rzadca, Denis Trystram
+	Pages: 332 - 332
+	doi>10.1145/1148109.1148169
+	Full text: PdfPdf
+	
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

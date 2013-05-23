@@ -1,0 +1,9 @@
+compile_mcc_confdata ([25], [10], [10], [10], 'conferencenames.txt', [0.1:0.1:1.0], [0.1:0.1:1.0], [20:20:200], 4, 0, 6, 4, 0.1, 5, '/lusr/u/ayan/Documents/aaaa/forconfdata/', 'newbigrun5');
+
+compile_mcc_confdata ([25], [10], [10], [10], 'conferencenames.txt', [0.1:0.1:1.0], [0.1:0.1:1.0], [20:20:200], 4, 0, 6, 4, 0.1, 4, '/lusr/u/ayan/Documents/aaaa/forconfdata/', 'newbigrun4');
+
+compile_mcc_confdata ([25], [10], [10], [10], 'conferencenames.txt', [0.1:0.1:1.0], [0.1:0.1:1.0], [20:20:200], 4, 0, 6, 4, 0.1, 3, '/lusr/u/ayan/Documents/aaaa/forconfdata/', 'newbigrun3');
+
+compile_mcc_confdata ([25], [10], [10], [10], 'conferencenames.txt', [0.1:0.1:1.0], [0.1:0.1:1.0], [20:20:200], 4, 0, 6, 4, 0.1, 2, '/lusr/u/ayan/Documents/aaaa/forconfdata/', 'newbigrun2');
+
+compile_mcc_confdata ([25], [10], [10], [10], 'conferencenames.txt', [0.1:0.1:1.0], [0.1:0.1:1.0], [20:20:200], 4, 0, 6, 4, 0.1, 1, '/lusr/u/ayan/Documents/aaaa/forconfdata/', 'newbigrun1');

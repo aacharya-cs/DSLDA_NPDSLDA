@@ -1,0 +1,375 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 2009 international symposium on Physical design
+General Chairs: 	Gi-Joon Nam 	IBM Research
+Program Chairs: 	Prashant Saxena 	Synopsys
+Publication of:
+· Conference
+ISPD '09 International Symposium on Physical Design
+San Diego, CA, USA — March 29 - April 01, 2009
+ACM New York, NY, USA ©2009
+	
+Proceedings of the 2009 international symposium on Physical design 	Published by ACM 2009 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 166
+· Downloads (12 Months): 853
+· Citation Count: 89
+
+
+	
+Tools and Resources
+
+    Buy this Proceeding in Print
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Source Materials	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the 2009 international symposium on Physical design
+Table of Contents
+previousprevious proceeding |next proceeding next
+	One look into the future of CMOS chip design
+	Carl John Anderson
+	Pages: 1-2
+	doi>10.1145/1514932.1514933
+	Full text: PdfPdf
+	
+
+Both the physics and financial challenges of CMOS scaling to 22nm and beyond will be discussed. The effects of the possible slowing of future CMOS technology generations on CMOS chip design and methodology will be hypothesized.
+expand
+	SESSION: Global layout planning
+	Cheng-Kok Koh
+	
+	Early analysis for power distribution networks
+	Kai Wang, Aveek Sarkar, Norman Chang, Shen Lin
+	Pages: 3-4
+	doi>10.1145/1514932.1514935
+	Full text: PdfPdf
+	
+
+An efficient and effective power distribution network is crucial to the function and performance of chip and package. As semiconductor processing technology advances to 90nm node and below, system-on-chip (SoC) designs face complex power supply challenges ...
+expand
+	Post-floorplanning power/ground ring synthesis for multiple-supply-voltage designs
+	Wan-Ping Lee, Diana Marculescu, Yao-Wen Chang
+	Pages: 5-12
+	doi>10.1145/1514932.1514936
+	Full text: PdfPdf
+	
+
+The multiple-supply voltage (MSV) design style has been extensively applied to mitigate dynamic-power consumption. The MSV design paradigm, however, brings many crucial challenges, especially in the power-ring synthesis. Unlike the previous works that ...
+expand
+	Multi-voltage floorplan design with optimal voltage assignment
+	Qian Zaichen, Evangeline F.Y. Young
+	Pages: 13-18
+	doi>10.1145/1514932.1514937
+	Full text: PdfPdf
+	
+
+In this paper, we study the multiple voltage assignment (MVA) problem under timing constraints in floorplanning, which is generally an NP-hard problem. We will present an effective value-oriented branch-and-bound based algorithm to solve it optimally ...
+expand
+	Robust interconnect communication capacity algorithm by geometric programming
+	Jifeng Chen, Jin Sun, Janet Meilin Wang
+	Pages: 19-26
+	doi>10.1145/1514932.1514938
+	Full text: PdfPdf
+	
+
+This paper proposes a new model for interconnect communication capacity in the presence of process variations. Different from previous research works, this model, for the first time, reveals the dependency of interconnect communication capacity on its ...
+expand
+	SESSION: Physical synthesis and circuit optimization
+	Lars Hagen
+	
+	A new algorithm for simultaneous gate sizing and threshold voltage assignment
+	Yifang Liu, Jiang Hu
+	Pages: 27-34
+	doi>10.1145/1514932.1514940
+	Full text: PdfPdf
+	
+
+Gate sizing and threshold voltage (Vt) assignment are popular techniques for circuit timing and power optimization. Existing methods, by and large, are either sensitivity-driven heuristics or based on rounding continuous optimization ...
+expand
+	On stress aware active area sizing, gate sizing, and repeater insertion
+	Ashutosh Chakraborty, David Z. Pan
+	Pages: 35-42
+	doi>10.1145/1514932.1514941
+	Full text: PdfPdf
+	
+
+Enormous technical and economic challenges facing technology scaling has rendered strain engineering techniques as the critical enabler of high performance designs in sub-$100$nm geometries. One of these techniques, source/drain (S/D) SiGe, has an interesting ...
+expand
+	Fast buffering for optimizing worst slack and resource consumption in repeater trees
+	Christoph Bartoschek, Stephan Held, Dieter Rautenbach, Jens Vygen
+	Pages: 43-50
+	doi>10.1145/1514932.1514942
+	Full text: PdfPdf
+	
+
+We present a very fast algorithm for buffering repeater trees. We scan a given preliminary topology in a bottom-up fashion and insert buffers and inverters, respecting the parities of the sinks. Information obtained by preprocessing allows for very fast ...
+expand
+	On improving optimization effectiveness in interconnect-driven physical synthesis
+	Prashant Saxena, Vishal Khandelwal, Changge Qiao, Pei-Hsin Ho, J.-C. Lin, Mahesh A. Iyer
+	Pages: 51-58
+	doi>10.1145/1514932.1514943
+	Full text: PdfPdf
+	
+
+In modern designs, the delay of a net can vary significantly depending on its routing. This large estimation error during the pre-routing stage can often mislead the optimization of the netlist. We extend state-of-the-art interconnect-driven physical ...
+expand
+	SESSION: Nanotechnology: CMOS and beyond
+	Lei He
+	
+	Will 22nm be our catch 22!: design and cad challenges
+	Ruchir Puri
+	Pages: 59-60
+	doi>10.1145/1514932.1514945
+	Full text: PdfPdf
+	
+
+With the impact of cost crunch in every industry including semi-conductor industry across the world, complexities of 22nm CMOS may appear to be way out in the distance future. However, more than the technology complexity, the new era of financial restraint ...
+expand
+	New strategies for gridded physical design for 32nm technologies and beyond
+	Stephen P. Kornachuk, Michael C. Smayling
+	Pages: 61-62
+	doi>10.1145/1514932.1514946
+	Full text: PdfPdf
+	
+
+In this invited talk, we present a physical design solution for manufacturability in advanced technology nodes that is significantly different than existing approaches based on DFM analysis tools and rules-based restrictions. This new gridded design ...
+expand
+	Vertical slit transistor based integrated circuits (VeSTICs) paradigm
+	Wojciech Maly
+	Pages: 63-64
+	doi>10.1145/1514932.1514947
+	Full text: PdfPdf
+	
+
+In this presentation new, unorthodox (i.e. ITRS incompatible), IC design/manufacturing paradigm is proposed. This paradigm has been conceived as a response to the rapidly growing complexity and increasing number of stumbling blocks posed by the nano-scale ...
+expand
+	Graphene based transistors: physics, status and future perspectives
+	Kaustav Banerjee, Yasin Khatami, Chaitanya Kshirsagar, S. Hadi Rasouli
+	Pages: 65-66
+	doi>10.1145/1514932.1514948
+	Full text: PdfPdf
+	
+
+Graphene is a single-atom thick layer of graphite, which is one of the well known allotropes of carbon. While Graphene is a 2-D material, it can be either rolled-up to form carbon nanotubes (CNT) or simply patterned to form graphene nano-ribbons (GNR), ...
+expand
+	SESSION: Analog design: tools and methodologies
+	Vassilios Gerousis
+	
+	Accelerated design of analog, mixed-signal circuits in Titan
+	Anirudh Devgan, Bulent Basaran, David Colleran, Mar Hershenson
+	Pages: 67-72
+	doi>10.1145/1514932.1514950
+	Full text: PdfPdf
+	
+
+Analog circuits are designed in fundamentally different ways than their counterparts in the digital domain. However, two major trends have made analog and digital circuits mix and co-exist. First, high-performance analog circuits use digital parts and ...
+expand
+	Physical design methodology for analog circuitsin a system-on-a-chip environment
+	Eric G. Soenen
+	Pages: 73-74
+	doi>10.1145/1514932.1514951
+	Full text: PdfPdf
+	
+
+This talk reviews some of the issues that are unique to analog Integrated Circuit (IC) design. These issues become more acute as the process geometries shrink and the complexity of the IC increases. In so-called "Systems on a Chip" (SOCs), the analog ...
+expand
+	Constraint-driven design: the next step towards analog design automation
+	Goeran Jerke, Jens Lienig
+	Pages: 75-82
+	doi>10.1145/1514932.1514952
+	Full text: PdfPdf
+	
+
+The design of analog circuits has historically been a time consuming, manual task. The stringent constraints that must be considered simultaneously make the task particularly difficult, and are a major reason analog design has often not been automated. ...
+expand
+	SESSION: Layout optimization for FPGAs and regular fabrics
+	Bill Halpin
+	
+	Transistor-level layout of high-density regular circuits
+	Yi-Wei Lin, Malgorzata Marek-Sadowska, Wojciech Maly
+	Pages: 83-90
+	doi>10.1145/1514932.1514954
+	Full text: PdfPdf
+	
+
+In this paper, we describe an automatic place and route strategy for a high-density, super-regular, double-gate transistor-array-based layout. Interconnects on all metal layers are uni-directional and can be manufactured by an OPC-free process [4]. Our ...
+expand
+	Physical optimization for FPGAs using post-placement topology rewriting
+	Val Pevzner, Andrew Kennings, Andy Fox
+	Pages: 91-98
+	doi>10.1145/1514932.1514955
+	Full text: PdfPdf
+	
+
+Due to poor correlations between pre- and post-placement timing analysis, many post-placement optimization strategies have been proposed for the FPGA CAD flow to improve circuit performance. Typically, these methods depend on logic duplication or decomposition ...
+expand
+	A routing approach to reduce glitches in low power FPGAs
+	Quang Dinh, Deming Chen, Martin D.F. Wong
+	Pages: 99-106
+	doi>10.1145/1514932.1514956
+	Full text: PdfPdf
+	
+
+Glitches (spurious transitions) are common in electronic circuits. In this paper we present a novel approach to reduce dynamic power in FPGAs by reducing glitches during the routing step. This approach involves finding alternative routes for early-arriving ...
+expand
+	SESSION: Manufacturability and yield enhancement
+	Jiang Hu
+	
+	Double patterning layout decomposition for simultaneous conflict and stitch minimization
+	Kun Yuan, Jae-Seok Yang, David Pan
+	Pages: 107-114
+	doi>10.1145/1514932.1514958
+	Full text: PdfPdf
+	
+
+Double patterning lithography (DPL) is considered as a most likely solution for 32nm/22nm technology. In DPL, the layout patterns are decomposed into two masks (colors). Two features (polygons) have to be assigned opposite colors if their spacing is ...
+expand
+	An automatic optical-simulation-based lithography hotspot fix flow for post-route optimization
+	Yang-Shan Tong, Chia-Wei Lin, Sao-Jie Chen
+	Pages: 115-122
+	doi>10.1145/1514932.1514959
+	Full text: PdfPdf
+	
+
+In this paper, an automatic lithography hotspot fix guidance generation method based on optical simulation engine and a fix flow utilizing this method are proposed. We find that subject to shape changes of original layout, there is strong correlation ...
+expand
+	Redundant via insertion with wire bending
+	Kuang-Yao Lee, Shing-Tung Lin, Ting-Chi Wang
+	Pages: 123-130
+	doi>10.1145/1514932.1514960
+	Full text: PdfPdf
+	
+
+Redundant via insertion is highly recommended for improving chip yield and reliability. In this paper, we study the problem of double via insertion with wire bending (DVI/WB) in a post-routing stage, where a single via can have at most one redundant ...
+expand
+	Wire shaping is practical
+	Hongbo Zhang, Martin D.F. Wong, Kai-Yuan Chao, Liang Deng
+	Pages: 131-138
+	doi>10.1145/1514932.1514961
+	Full text: PdfPdf
+	
+
+Wire shaping for delay/power minimization has been extensively studied. Due to the perceived high design and manufacturing costs for using non-uniform wire shapes, wire shaping is generally considered to be impractical. In this paper, we present a practical ...
+expand
+	SESSION: Clocking and the ISPD'09 clock synthesis contest
+	Cliff Sze
+	
+	Industrial clock design
+	Pei-Hsin Ho
+	Pages: 139-140
+	doi>10.1145/1514932.1514963
+	Full text: PdfPdf
+	
+
+Power and variation are the biggest concerns of physical design today. Clock distribution network is at the center of both the power and variation concerns. Clock distribution networks consume a lion's share of the total IC power consumption for two ...
+expand
+	An algorithm for routing with capacitance/distance constraints for clock distribution in microprocessors
+	Rupesh S. Shelar
+	Pages: 141-148
+	doi>10.1145/1514932.1514964
+	Full text: PdfPdf
+	
+
+In modern microprocessors, clocks are usually distributed employing a hybrid network, grid followed by buffered trees, to restrict the skew. This is typically done employing (gated) buffered trees inside the blocks, while the global grid overlay the ...
+expand
+	Ispd2009 clock network synthesis contest
+	C. N. Sze, Phillip Restle, Gi-Joon Nam, Charles Alpert
+	Pages: 149-150
+	doi>10.1145/1514932.1514965
+	Full text: PdfPdf
+	
+
+Clock network synthesis (CNS) is one of the most important design challenges in high performance synchronized VLSI designs. However, without appropriate problem examples and real-world objectives, research can become less relevant to industrial design ...
+expand
+	SESSION: Advances in routing
+	Tong Gao
+	
+	Critical-trunk based obstacle-avoiding rectilinear steiner tree routings for delay and slack optimization
+	Yen-Hung Lin, Shu-Hsin Chang, Yih-Lang Li
+	Pages: 151-158
+	doi>10.1145/1514932.1514967
+	Full text: PdfPdf
+	
+
+Obstacle-avoiding rectilinear Steiner tree (OARST) construction is a fundamental problem associated with the trend toward IP-block-based System-on-Chip designs. The objective of previous studies on obstacle-avoiding rectilinear Steiner minimal tree (OARSMT) ...
+expand
+	Robust layer assignment for via optimization in multi-layer global routing
+	Tsung-Hsien Lee, Ting-Chi Wang
+	Pages: 159-166
+	doi>10.1145/1514932.1514968
+	Full text: PdfPdf
+	
+
+In this paper, we study a layer assignment problem which arises during multi-layer global routing. Our layer assignment problem takes the total wire overflow and the maximum wire overflow of a given 2D global routing solution to form the wire congestion ...
+expand
+	A faster approximation scheme for timing driven minimum cost layer assignment
+	Shiyan Hu, Zhuo Li, Charles J. Alpert
+	Pages: 167-174
+	doi>10.1145/1514932.1514969
+	Full text: PdfPdf
+	
+
+As VLSI technology moves to the 65nm node and beyond, interconnect delay greatly limits the circuit performance. As a critical component in interconnect synthesis, layer assignment manifests enormous potential in drastically reducing wire delay. ...
+expand
+	Diffusion-driven congestion reduction for substrate topological routing
+	Shenghua Liu, Guoqiang Chen, Tom Tong Jing, Lei He, Robi Dutta, Xian-Long Hong
+	Pages: 175-180
+	doi>10.1145/1514932.1514970
+	Full text: PdfPdf
+	
+
+Off-chip substrate routing for high density packages is challenging, and the existing substrate routing algorithms often result in a large number of unrouted nets that have to be routed manually. This paper develops an effective yet efficient diffusion-driven ...
+expand
+	SESSION: Post-si prediction and debug
+	Li-C. Wang
+	
+	The challenges of correlating silicon and models in high variability CMOS processes
+	Robert C. Aitken
+	Pages: 181-182
+	doi>10.1145/1514932.1514972
+	Full text: PdfPdf
+	
+
+This talk discusses one of the key challenges of post-silicon validation: namely, the difficulty inherent in correlating observed behavior with modeled behavior. Validation must account for a large number of sources of inherent variability in the silicon, ...
+expand
+	Synthesizing a representative critical path for post-silicon delay prediction
+	Qunzeng Liu, Sachin S. Sapatnekar
+	Pages: 183-190
+	doi>10.1145/1514932.1514973
+	Full text: PdfPdf
+	
+
+Several approaches to post-silicon adaptation require feedback from a replica of the nominal critical path, whose variations are intended to reflect those of the entire circuit after manufacturing. For realistic circuits, where the number of critical ...
+expand
+	A metal-only-ECO solver for input-slew and output-loading violations
+	Chien Pang Lu, Mango C.-T. Chao, Chen Hsing Lo, Chih Wei Chang
+	Pages: 191-198
+	doi>10.1145/1514932.1514974
+	Full text: PdfPdf
+	
+
+To shorten the time-to-market and reduce the expensive cost of photomasks in advance process technologies, metal-only ECO has become a practical and attractive solution to handle incremental design changes. Due to limited spare cells in metal-only ECO, ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

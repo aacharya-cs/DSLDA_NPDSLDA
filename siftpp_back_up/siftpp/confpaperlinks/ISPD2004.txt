@@ -1,0 +1,377 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 2004 international symposium on Physical design
+General Chairs: 	Charles J. Alpert, 	IBM
+Program Chairs: 	Patrick Groeneveld 	Eindhoven University
+Publication of:
+· Conference
+ISPD '04 International Symposium on Physical Design 2004
+Phoenix, AZ, USA — April 18 - 21, 2004
+ACM New York, NY, USA ©2004
+	
+Proceedings of the 2004 international symposium on Physical design 	Published by ACM 2004 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 112
+· Downloads (12 Months): 614
+· Citation Count: 341
+
+
+	
+Tools and Resources
+
+    Buy this Proceeding in Print
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the 2004 international symposium on Physical design
+Table of Contents
+previousprevious proceeding |next proceeding next
+	The four degrees of 3D
+	Robert Montoye
+	Pages: 1 - 1
+	doi>10.1145/981066.981067
+	Full text: PdfPdf
+	
+	SESSION: Placement techniques
+	Patrick Madden
+	
+	Almost optimum placement legalization by minimum cost flow and dynamic programming
+	Ulrich Brenner, Anna Pauli, Jens Vygen
+	Pages: 2 - 9
+	doi>10.1145/981066.981069
+	Full text: PdfPdf
+	
+
+VLSI placement tools usually work in two steps: First, the cells that have to be placed are roughly spread out over the chip area ignoring disjointness (global placement). Then, in a second step, the cells are moved to their final position such ...
+expand
+	Sensitivity guided net weighting for placement driven synthesis
+	Haoxing Ren, David Z. Pan, David S. Kung
+	Pages: 10 - 17
+	doi>10.1145/981066.981070
+	Full text: PdfPdf
+	
+
+Net weighting is a key technique in large scale timing driven placement, which plays a crucial role for deep submicron physical synthesis and timing closure. A popular way to assign net weight is based on the slack of the nets, trying to minimize the ...
+expand
+	Implementation and extensibility of an analytic placer
+	Andrew B. Kahng, Qinke Wang
+	Pages: 18 - 25
+	doi>10.1145/981066.981071
+	Full text: PdfPdf
+	
+
+Automated cell placement is a critical problem in VLSI physical design. New analytical placement methods that simultaneously spread cells and optimize wirelength have recently received much attention from both academia and industry. A novel and simple ...
+expand
+	FastPlace: efficient analytical placement using cell shifting, iterative local refinement and a hybrid net model
+	Natarajan Viswanathan, Chris Chong-Nuen Chu
+	Pages: 26 - 33
+	doi>10.1145/981066.981072
+	Full text: PdfPdf
+	
+
+In this paper, we present FastPlace -- a fast, iterative, flat placement algorithm for large-scale standard cell designs. FastPlace is based on the quadratic placement approach. The quadratic approach formulates the wirelength minimization ...
+expand
+	SESSION: Routing topology optimization
+	Narendra Shenoy
+	
+	Multilevel routing with antenna avoidance
+	Tsung-Yi Ho, Yao-Wen Chang, Sao-Jie Chen
+	Pages: 34 - 40
+	doi>10.1145/981066.981074
+	Full text: PdfPdf
+	
+
+As technology advances into the nanometer territory, the antenna problem has caused significant impact on routing tools. The antenna effect is a phenomenon of plasma-induced gate oxide degradation caused by charge accumulation on conductors. It directly ...
+expand
+	An ECO algorithm for eliminating crosstalk violations
+	Hua Xiang, Kai-Yuan Chao, Martin D. F. Wong
+	Pages: 41 - 46
+	doi>10.1145/981066.981075
+	Full text: PdfPdf
+	
+
+ECO changes are almost inevitable in late stages of a design process. Based on an existing design, incremental change is favored since it can avoid considerable efforts of re-doing the whole process and can minimize the disturbance on the existing converged ...
+expand
+	A fast algorithm for identifying good buffer insertion candidate locations
+	Charles J. Alpert, Miloš Hrkić, Stephen T. Quay
+	Pages: 47 - 52
+	doi>10.1145/981066.981076
+	Full text: PdfPdf
+	
+
+Van Ginneken's algorithm [18] for performing buffer insertion is a classic in the field, since it optimally solves the problem subject to a set of fixed buffer insertion candidate locations for a given Steiner topology. The generation of these candidate ...
+expand
+	Performance-driven register insertion in placement
+	Dennis K. Y. Tong, Evangeline F. Y. Young
+	Pages: 53 - 60
+	doi>10.1145/981066.981077
+	Full text: PdfPdf
+	
+
+As the CMOS technology is scaled into the dimension of nanometer, the clock frequencies and die sizes of ICs are shown to be increasing steadily [5]. Today, global wires that require multiple clock cycles to propagate electrical signal are prevalent ...
+expand
+	PANEL SESSION: Buffering and agony: what does the future hold?
+	
+	The great interconnect buffering debate: are you a chicken or an ostrich?
+	Desmond Kirkpatrick, Pete Osler, Lou Scheffer, Prashant Saxena, Dennis Sylvester
+	Pages: 61 - 61
+	doi>10.1145/981066.981079
+	Full text: PdfPdf
+	
+
+One of the often-overlooked aspects of Moore's law is that it is predicated solely on device performance scaling linearly with dimension. Yet scaled interconnect performance has remained essentially constant. The physics of the problem is rather brutal; ...
+expand
+	SESSION: Floorplanning
+	Lou Scheffer
+	
+	Floorplanning for throughput
+	Mario R. Casu, Luca Macchiarulo
+	Pages: 62 - 69
+	doi>10.1145/981066.981081
+	Full text: PdfPdf
+	
+
+Large Systems-on-Chip (SoC) in advanced technologies run at such high frequencies that the time-of-flight of signals connecting two distant pins in the layout can be higher than the clock period. In order to avoid performance penalties wires are pipelined ...
+expand
+	Multi-project reticle floorplanning and wafer dicing
+	Andrew B. Kahng, Ion Mǎndoiu, Qinke Wang, Xu Xu, Alex Z. Zelikovsky
+	Pages: 70 - 77
+	doi>10.1145/981066.981082
+	Full text: PdfPdf
+	
+
+Multi-project Wafers (MPW) are an efficient way to share the rising costs of mask tooling between multiple prototype and low production volume designs. Packing the different die images on a multi-project reticle leads to new and highly challenging floorplanning ...
+expand
+	An area-optimality study of floorplanning
+	Jason Cong, Gabriele Nataneli, Michail Romesis, Joseph R. Shinnerl
+	Pages: 78 - 83
+	doi>10.1145/981066.981083
+	Full text: PdfPdf
+	
+
+A novel algorithm for rectangular floorplanning with guaranteed 100% area utilization is used to construct new sets of floorplanning benchmarks. By minimizing the maximum block aspect ratio subject to a zero-dead-space constraint, example zero-dead-space ...
+expand
+	Recursive bisection based mixed block placement
+	Ateen Khatkhate, Chen Li, Ameya R. Agnihotri, Mehmet C. Yildiz, Satoshi Ono, Cheng-Kok Koh, Patrick H. Madden
+	Pages: 84 - 89
+	doi>10.1145/981066.981084
+	Full text: PdfPdf
+	
+
+Many current designs contain a large number of standard cells intermixed with larger macro blocks. The range of size in these "mixed block" designs complicates the placement process considerably; traditional methods produce results that are far from ...
+expand
+	SESSION: Regular circuit fabrics: act two-the industrial perspectives (invited)
+	Jason Cong
+	
+	Design methodology and tools for NEC electronics' structured ASIC ISSP
+	Takumi Okamoto, Tsutomu Kimoto, Naotaka Maeda
+	Pages: 90 - 96
+	doi>10.1145/981066.981086
+	Full text: PdfPdf
+	
+
+In this paper, we describe a design methodology and tools for NEC Electronics' structured ASIC, Instant Silicon Solution Platform (ISSP), which is being developed to fill the gap between FPGAs and standard cell-based ASICs. The ISSP has a unique ...
+expand
+	Design considerations for regular fabrics
+	Deepak D. Sherlekar
+	Pages: 97 - 102
+	doi>10.1145/981066.981087
+	Full text: PdfPdf
+	
+
+Structured ASICs are an emerging new class of ASICs that attempt to bridge the widening gap in per-unit manufacturing costs, non recurring engineering (NRE) costs, power consumption, and performance between zero-mask programmable devices such as FPGAs ...
+expand
+	Structured ASIC, evolution or revolution?
+	Kun-Cheng Wu, Yu-Wen Tsai
+	Pages: 103 - 106
+	doi>10.1145/981066.981088
+	Full text: PdfPdf
+	
+
+This paper describes the structured ASIC technology and impacts to the implementation flow. With an optimized and programmable structure, the structured ASIC technology indeed introduces a dramatically reduce ASIC cost and manufacturing turn-around time. ...
+expand
+	SESSION: 3-design (invited)
+	Sani Nassif, S. S. Sapatnekar
+	
+	The four degrees of 3D
+	Robert Montoye
+	Pages: 107 - 107
+	doi>10.1145/981066.981090
+	Full text: PdfPdf
+	
+	Technology, performance, and computer-aided design of three-dimensional integrated circuits
+	Shamik Das, Andy Fan, Kuan-Neng Chen, Chuan Seng Tan, Nisha Checka, Rafael Reif
+	Pages: 108 - 115
+	doi>10.1145/981066.981091
+	Full text: PdfPdf
+	
+
+We present an overview of a new monolithic fabrication technology known as three-dimensional integration. 3D integration refers to any process by which multiple conventional device layers may be stacked and electrically interconnected. By combining ...
+expand
+	SESSION: Power optimization
+	Patrick Groeneveld
+	
+	Topology optimization of structured power/ground networks
+	Jaskirat Singh, Sachin S. Sapatnekar
+	Pages: 116 - 123
+	doi>10.1145/981066.981093
+	Full text: PdfPdf
+	
+
+This paper presents an efficient method for optimizing the design of power/ground (P/G) networks by using locally regular, globally irregular grids. The procedure divides the power grid chip area into rectangular sub-grids or tiles. Treating the entire ...
+expand
+	Sensitivity guided net weighting for placement driven synthesis
+	Ting-Yuan Wang, Jeng-Liang Tsai, Charlie Chung-Ping Chen
+	Pages: 124 - 131
+	doi>10.1145/981066.981094
+	Full text: PdfPdf
+	
+
+Net weighting is a key technique in large scale timing driven placement, which plays a crucial role for deep submicron physical synthesis and timing closure. A popular way to assign net weight is based on the slack of the nets, trying to minimize the ...
+expand
+	Early-stage power grid analysis for uncertain working modes
+	Haifeng Qian, Sani R. Nassif, Sachin S. Sapatnekar
+	Pages: 132 - 137
+	doi>10.1145/981066.981095
+	Full text: PdfPdf
+	
+
+High performance integrated circuits are now reaching the 100-plus watt regime, and power delivery and power grid signal integrity have become critical. Analyzing the performance of the power delivery system requires knowledge of the the current drawn ...
+expand
+	SESSION: Clock (invited)
+	Sachin S. Sapatnekar
+	
+	Power-aware clock tree planning
+	Monica Donno, Enrico Macii, Luca Mazzoni
+	Pages: 138 - 147
+	doi>10.1145/981066.981097
+	Full text: PdfPdf
+	
+
+Modern processors and SoCs require the adoption of power-oriented design styles, due to the implications that power consumption may have on reliability, cost and manufacturability of integrated circuits featuring nanometric technologies. And the power ...
+expand
+	SESSION: FPGA (invited)
+	Massoud Pedram
+	
+	Innovate or perish: FPGA physical design
+	Taraneh Taghavi, Soheil Ghiasi, Abhishek Ranjan, Salil Raje, Majid Sarrafzadeh
+	Pages: 148 - 155
+	doi>10.1145/981066.981099
+	Full text: PdfPdf
+	
+
+The recent past has seen a tremendous increase in the size of design circuits that can be implemented in a single FPGA. The size and complexity of modern FPGAs has far outpaced the innovations in FPGA physical design. The problems faced by FPGA designers ...
+expand
+	SESSION: Parasitic analysis and control
+	David Blaauw
+	
+	On optimal physical synthesis of sleep transistors
+	Changbo Long, Jinjun Xiong, Lei He
+	Pages: 156 - 161
+	doi>10.1145/981066.981101
+	Full text: PdfPdf
+	
+
+Considering the voltage drop constraint over a distributed model for power/ground (P/G) network, we study the following two problems for physical synthesis of sleep transistors: the min-area sleep transistor insertion (and sizing) (TIS) problem ...
+expand
+	Mutual inductance extraction and the dipole approximation
+	Rafael Escovar, Salvador Ortiz, Roberto Suaya
+	Pages: 162 - 169
+	doi>10.1145/981066.981102
+	Full text: PdfPdf
+	
+
+The present work is centered in the controversy between two approaches to inductance extraction: loop vs. partial treatments for IC applications. We advocate for the first one, justifying this claim in terms of representing more realistically the physical ...
+expand
+	A new multi-ramp driver model with RLC interconnect load
+	Lakshmi K. Vakati, Janet Wang
+	Pages: 170 - 175
+	doi>10.1145/981066.981103
+	Full text: PdfPdf
+	
+
+As the feature size is scaled down to 90 nm and below, fundamental modeling changes, such as the nonlinearity and higher frequencies of signals, require driver-load models to take into account propagation delay and slew rates. The conventional single ...
+expand
+	Optimal gate sizing for coupling-noise reduction
+	Debjit Sinha, Hai Zhou, Chris C. N. Chu
+	Pages: 176 - 181
+	doi>10.1145/981066.981104
+	Full text: PdfPdf
+	
+
+Coupling-noise reduction has emerged as a critical design problem with VLSI feature sizes shrinking rapidly and with the use of more aggressive and less noise-immune circuits. Since coupling-noise on a net depends on driving gate-sizes of the net itself ...
+expand
+	Clock network sizing via sequential linear programming with time-domain analysis
+	Kai Wang, Malgorzata Marek-Sadowska
+	Pages: 182 - 189
+	doi>10.1145/981066.981105
+	Full text: PdfPdf
+	
+
+In this paper, we present a novel approach to the problem of clock skew minimization by buffer and wire sizing. The original nonlinear programming problem is transformed to a sequence of linear programs, by taking the first order Taylor's expansion of ...
+expand
+	SESSION: Design styles (invited)
+	Charles J. Alpert
+	
+	Placement driven synthesis case studies on two sets of two chips: hierarchical and flat
+	Peter J. Osler
+	Pages: 190 - 197
+	doi>10.1145/981066.981107
+	Full text: PdfPdf
+	
+
+In this paper I describe two sets of two large ASIC chips that have recently been processed from netlist to final design by the Semi-Custom Design Team part of IBM's World-Wide Design Center. I address issues such as why the parts were selected for special ...
+expand
+	SESSION: Statistical analysis for placement
+	Raymond Nijssen
+	
+	A study of netlist structure and placement efficiency
+	Qinghua Liu, Malgorzata Marek-Sadowska
+	Pages: 198 - 203
+	doi>10.1145/981066.981109
+	Full text: PdfPdf
+	
+
+In this paper, we study the relationship between netlist structure and the efficiency of placers measured in terms of quality and stability of results. We analyze three types of placers: analytic, simulated-annealing-based and partition-based. We test ...
+expand
+	Probabilistic congestion prediction
+	Jurjen Westra, Chris Bartels, Patrick Groeneveld
+	Pages: 204 - 209
+	doi>10.1145/981066.981110
+	Full text: PdfPdf
+	
+
+Congestion is a fundamental problem in VLSI design flows. Typically, it is handled by feeding back density information to the placers and routers. Fast and accurate congestion estimation is key in order to obtain a design flow with less iterations and ...
+expand
+	A predictive distributed congestion metric and its application to technology mapping
+	Rupesh S. Shelar, Sachin S. Sachin S. Sapatnekar, Prashant Saxena, Xinning Wang
+	Pages: 210 - 217
+	doi>10.1145/981066.981111
+	Full text: PdfPdf
+	
+
+Due to increasing design complexity, routing congestion has become a critical problem in VLSI designs. This paper introduces a distributed metric to predict routing congestion for a premapped netlist and applies it to technology mapping that targets ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

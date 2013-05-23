@@ -1,0 +1,1907 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 18th international conference on World wide web
+General Chairs: 	Juan Quemada 	DIT-UPM
+	Gonzalo León 	DIT-UPM
+Program Chairs: 	Yoelle Maarek 	Google Inc., Israel
+	Wolfgang Nejdl 	L3S and Hannover University
+	
+Proceedings of the 18th international conference on World wide web 	Published by ACM 2009 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 2,260
+· Downloads (12 Months): 18,473
+· Citation Count: 1,757
+
+Publication of:
+· Conference
+WWW '09 The 18th International World Wide Web Conference
+Madrid, Spain — April 20 - 24, 2009
+ACM New York, NY, USA ©2009
+
+	
+Tools and Resources
+
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Source Materials	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the 18th international conference on World wide web
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Data mining/session: click models
+	
+	A dynamic bayesian network click model for web search ranking
+	Olivier Chapelle, Ya Zhang
+	Pages: 1-10
+	doi>10.1145/1526709.1526711
+	Full text: PdfPdf
+	
+
+As with any application of machine learning, web search ranking requires labeled data. The labels usually come in the form of relevance assessments made by editors. Click logs can also provide an important source of implicit feedback and can be used ...
+expand
+	Click chain model in web search
+	Fan Guo, Chao Liu, Anitha Kannan, Tom Minka, Michael Taylor, Yi-Min Wang, Christos Faloutsos
+	Pages: 11-20
+	doi>10.1145/1526709.1526712
+	Full text: PdfPdf
+	
+
+Given a terabyte click log, can we build an efficient and effective click model? It is commonly believed that web search click logs are a gold mine for search business, because they reflect users' preference over web documents presented by the search ...
+expand
+	Spatio-temporal models for estimating click-through rate
+	Deepak Agarwal, Bee-Chung Chen, Pradheep Elango
+	Pages: 21-30
+	doi>10.1145/1526709.1526713
+	Full text: PdfPdf
+	
+
+We propose novel spatio-temporal models to estimate click-through rates in the context of content recommendation. We track article CTR at a fixed location over time through a dynamic Gamma-Poisson model and combine information from correlated locations ...
+expand
+	SESSION: Data mining/session: graph algorithms
+	
+	Fast dynamic reranking in large graphs
+	Purnamrita Sarkar, Andrew W. Moore
+	Pages: 31-40
+	doi>10.1145/1526709.1526715
+	Full text: PdfPdf
+	
+
+In this paper we consider the problem of re-ranking search results by incorporating user feedback. We present a graph theoretic measure for discriminating irrelevant results from relevant results using a few labeled examples provided by the user. The ...
+expand
+	Estimating the impressionrank of web pages
+	Ziv Bar-Yossef, Maxim Gurevich
+	Pages: 41-50
+	doi>10.1145/1526709.1526716
+	Full text: PdfPdf
+	
+
+The ImpressionRank of a web page (or, more generally, of a web site) is the number of times users viewed the page while browsing search results. ImpressionRank captures the visibility of pages and sites in search engines and is thus an important measure, ...
+expand
+	Learning to recognize reliable users and content in social media with coupled mutual reinforcement
+	Jiang Bian, Yandong Liu, Ding Zhou, Eugene Agichtein, Hongyuan Zha
+	Pages: 51-60
+	doi>10.1145/1526709.1526717
+	Full text: PdfPdf
+	
+
+Community Question Answering (CQA) has emerged as a popular forum for users to pose questions for other users to answer. Over the last few years, CQA portals such as Naver and Yahoo! Answers have exploded in popularity, and now provide a viable alternative ...
+expand
+	SESSION: Data mining/session: text mining
+	
+	Detecting the origin of text segments efficiently
+	Ossama Abdel Hamid, Behshad Behzadi, Stefan Christoph, Monika Henzinger
+	Pages: 61-70
+	doi>10.1145/1526709.1526719
+	Full text: PdfPdf
+	
+
+In the origin detection problem an algorithm is given a set S of documents, ordered by creation time, and a query document D. It needs to output for every consecutive sequence of k alphanumeric terms in D the earliest document in $S$ in which the sequence ...
+expand
+	Enhancing diversity, coverage and balance for summarization through structure learning
+	Liangda Li, Ke Zhou, Gui-Rong Xue, Hongyuan Zha, Yong Yu
+	Pages: 71-80
+	doi>10.1145/1526709.1526720
+	Full text: PdfPdf
+	
+
+Document summarization plays an increasingly important role with the exponential growth of documents on the Web. Many supervised and unsupervised approaches have been proposed to generate summaries from documents. However, these approaches seldom simultaneously ...
+expand
+	Efficient overlap and content reuse detection in blogs and online news articles
+	Jong Wook Kim, K. Selçuk Candan, Junichi Tatemura
+	Pages: 81-90
+	doi>10.1145/1526709.1526721
+	Full text: PdfPdf
+	
+
+The use of blogs to track and comment on real world (political, news, entertainment) events is growing. Similarly, as more individuals start relying on the Web as their primary information source and as more traditional media outlets try reaching consumers ...
+expand
+	SESSION: Data mining/session: statistical methods
+	
+	Latent space domain transfer between high dimensional overlapping distributions
+	Sihong Xie, Wei Fan, Jing Peng, Olivier Verscheure, Jiangtao Ren
+	Pages: 91-100
+	doi>10.1145/1526709.1526723
+	Full text: PdfPdf
+	
+
+Transferring knowledge from one domain to another is challenging due to a number of reasons. Since both conditional and marginal distribution of the training data and test data are non-identical, model trained in one domain, when directly applied to ...
+expand
+	StatSnowball: a statistical approach to extracting entity relationships
+	Jun Zhu, Zaiqing Nie, Xiaojiang Liu, Bo Zhang, Ji-Rong Wen
+	Pages: 101-110
+	doi>10.1145/1526709.1526724
+	Full text: PdfPdf
+	
+
+Traditional relation extraction methods require pre-specified relations and relation-specific human-tagged examples. Bootstrapping systems significantly reduce the number of training examples, but they usually apply heuristic-based methods to combine ...
+expand
+	Matchbox: large scale online bayesian recommendations
+	David H. Stern, Ralf Herbrich, Thore Graepel
+	Pages: 111-120
+	doi>10.1145/1526709.1526725
+	Full text: PdfPdf
+	
+
+We present a probabilistic model for generating personalised recommendations of items to users of a web service. The Matchbox system makes use of content information in the form of user and item meta data in combination with collaborative filtering information ...
+expand
+	SESSION: Data mining/session: opinions
+	
+	Learning consensus opinion: mining data from a labeling game
+	Paul N. Bennett, David Maxwell Chickering, Anton Mityagin
+	Pages: 121-130
+	doi>10.1145/1526709.1526727
+	Full text: PdfPdf
+	
+
+We consider the problem of identifying the consensus ranking for the results of a query, given preferences among those results from a set of individual users. Once consensus rankings are identified for a set of queries, these rankings can serve for both ...
+expand
+	Rated aspect summarization of short comments
+	Yue Lu, ChengXiang Zhai, Neel Sundaresan
+	Pages: 131-140
+	doi>10.1145/1526709.1526728
+	Full text: PdfPdf
+	
+
+Web 2.0 technologies have enabled more and more people to freely comment on different kinds of entities (e.g. sellers, products, services). The large scale of information poses the need and challenge of automatic summarization. In many cases, each of ...
+expand
+	How opinions are received by online communities: a case study on amazon.com helpfulness votes
+	Cristian Danescu-Niculescu-Mizil, Gueorgi Kossinets, Jon Kleinberg, Lillian Lee
+	Pages: 141-150
+	doi>10.1145/1526709.1526729
+	Full text: PdfPdf
+	
+
+There are many on-line settings in which users publicly express opinions. A number of these offer mechanisms for other users to evaluate these opinions; a canonical example is Amazon.com, where reviews come with annotations like "26 of 32 people found ...
+expand
+	SESSION: Data mining/session: web mining
+	
+	Exploiting web search to generate synonyms for entities
+	Surajit Chaudhuri, Venkatesh Ganti, Dong Xin
+	Pages: 151-160
+	doi>10.1145/1526709.1526731
+	Full text: PdfPdf
+	
+
+Tasks recognizing named entities such as products, people names, or locations from documents have recently received significant attention in the literature. Many solutions to these tasks assume the existence of reference entity tables. An important challenge ...
+expand
+	Smart Miner: a new framework for mining large scale web usage data
+	Murat Ali Bayir, Ismail Hakki Toroslu, Ahmet Cosar, Guven Fidan
+	Pages: 161-170
+	doi>10.1145/1526709.1526732
+	Full text: PdfPdf
+	
+
+In this paper, we propose a novel framework called Smart-Miner for web usage mining problem which uses link information for producing accurate user sessions and frequent navigation patterns. Unlike the simple session concepts in the time and navigation ...
+expand
+	Releasing search queries and clicks privately
+	Aleksandra Korolova, Krishnaram Kenthapadi, Nina Mishra, Alexandros Ntoulas
+	Pages: 171-180
+	doi>10.1145/1526709.1526733
+	Full text: PdfPdf
+	
+
+The question of how to publish an anonymized search log was brought to the forefront by a well-intentioned, but privacy-unaware AOL search log release. Since then a series of ad-hoc techniques have been proposed in the literature, though none are known ...
+expand
+	SESSION: Data mining/session: learning
+	
+	Incorporating site-level knowledge to extract structured data from web forums
+	Jiang-Ming Yang, Rui Cai, Yida Wang, Jun Zhu, Lei Zhang, Wei-Ying Ma
+	Pages: 181-190
+	doi>10.1145/1526709.1526735
+	Full text: PdfPdf
+	
+
+Web forums have become an important data resource for many web applications, but extracting structured data from unstructured web forum pages is still a challenging task due to both complex page layout designs and unrestricted user created posts. In ...
+expand
+	Towards context-aware search by learning a very large variable length hidden markov model from search logs
+	Huanhuan Cao, Daxin Jiang, Jian Pei, Enhong Chen, Hang Li
+	Pages: 191-200
+	doi>10.1145/1526709.1526736
+	Full text: PdfPdf
+	
+
+Capturing the context of a user's query from the previous queries and clicks in the same session may help understand the user's information need. A context-aware approach to document re-ranking, query suggestion, and URL recommendation may improve users' ...
+expand
+	A class-feature-centroid classifier for text categorization
+	Hu Guan, Jingyu Zhou, Minyi Guo
+	Pages: 201-210
+	doi>10.1145/1526709.1526737
+	Full text: PdfPdf
+	
+
+Automated text categorization is an important technique for many web applications, such as document indexing, document filtering, and cataloging web resources. Many different approaches have been proposed for the automated text categorization problem. ...
+expand
+	Large scale multi-label classification via metalabeler
+	Lei Tang, Suju Rajan, Vijay K. Narayanan
+	Pages: 211-220
+	doi>10.1145/1526709.1526738
+	Full text: PdfPdf
+	
+
+The explosion of online content has made the management of such content non-trivial. Web-related tasks such as web page categorization, news filtering, query categorization, tag recommendation, etc. often involve the construction of multi-label categorization ...
+expand
+	SESSION: Internet monetization/session: sponsored search
+	
+	Hybrid keyword search auctions
+	Ashish Goel, Kamesh Munagala
+	Pages: 221-230
+	doi>10.1145/1526709.1526740
+	Full text: PdfPdf
+	
+
+Search auctions have become a dominant source of revenue generation on the Internet. Such auctions have typically used per-click bidding and pricing. We propose the use of hybrid auctions where an advertiser can make a per-impression as well as a per-click ...
+expand
+	Bid optimization for broad match ad auctions
+	Eyal Even Dar, Vahab S. Mirrokni, S. Muthukrishnan, Yishay Mansour, Uri Nadav
+	Pages: 231-240
+	doi>10.1145/1526709.1526741
+	Full text: PdfPdf
+	
+
+Ad auctions in sponsored search support "broad match" that allows an advertiser to target a large number of queries while bidding only on a limited number. While giving more expressiveness to advertisers, this feature makes it challenging to optimize ...
+expand
+	General auction mechanism for search advertising
+	Gagan Aggarwal, S. Muthukrishnan, Dávid Pál, Martin Pál
+	Pages: 241-250
+	doi>10.1145/1526709.1526742
+	Full text: PdfPdf
+	
+
+In sponsored search, a number of advertising slots is available on a search results page, and have to be allocated among a set of advertisers competing to display an ad on the page. This gives rise to a bipartite matching market that is typically cleared ...
+expand
+	SESSION: Internet monetization/session: web monetization
+	
+	Adaptive bidding for display advertising
+	Arpita Ghosh, Benjamin I.P. Rubinstein, Sergei Vassilvitskii, Martin Zinkevich
+	Pages: 251-260
+	doi>10.1145/1526709.1526744
+	Full text: PdfPdf
+	
+
+Motivated by the emergence of auction-based marketplaces for display ads such as the Right Media Exchange, we study the design of a bidding agent that implements a display advertising campaign by bidding in such a marketplace. The bidding agent must ...
+expand
+	How much can behavioral targeting help online advertising?
+	Jun Yan, Ning Liu, Gang Wang, Wen Zhang, Yun Jiang, Zheng Chen
+	Pages: 261-270
+	doi>10.1145/1526709.1526745
+	Full text: PdfPdf
+	
+
+Behavioral Targeting (BT) is a technique used by online advertisers to increase the effectiveness of their campaigns, and is playing an increasingly important role in the online advertising market. However, it is underexplored in academia when looking ...
+expand
+	Web service derivatives
+	Thomas Meinl, Benjamin Blau
+	Pages: 271-280
+	doi>10.1145/1526709.1526746
+	Full text: PdfPdf
+	
+
+Web service development and usage has shifted from simple information processing services to high-value business services that are crucial to productivity and success. In order to deal with an increasing risk of unavailability or failure of mission-critical ...
+expand
+	SESSION: Performance, scalability and availability/session: performance
+	
+	Efficient application placement in a dynamic hosting platform
+	Zakaria Al-Qudah, Hussein A. Alzoubi, Mark Allman, Michael Rabinovich, Vincenzo Liberatore
+	Pages: 281-290
+	doi>10.1145/1526709.1526748
+	Full text: PdfPdf
+	
+
+Web hosting providers are increasingly looking into dynamic hosting to reduce costs and improve the performance of their platforms. Instead of provisioning fixed resources to each customer, dynamic hosting maintains a variable number of application instances ...
+expand
+	Network-aware forward caching
+	Jeffrey Erman, Alexandre Gerber, Mohammad T. Hajiaghayi, Dan Pei, Oliver Spatscheck
+	Pages: 291-300
+	doi>10.1145/1526709.1526749
+	Full text: PdfPdf
+	
+
+This paper proposes and evaluates a Network Aware Forward Caching approach for determining the optimal deployment strategy of forward caches to a network. A key advantage of this approach is that we can reduce the network costs associated with forward ...
+expand
+	Anycast-aware transport for content delivery networks
+	Zakaria Al-Qudah, Seungjoon Lee, Michael Rabinovich, Oliver Spatscheck, Jacobus Van der Merwe
+	Pages: 301-310
+	doi>10.1145/1526709.1526750
+	Full text: PdfPdf
+	
+
+Anycast-based content delivery networks (CDNs) have many properties that make them ideal for the large scale distribution of content on the Internet. However, because routing changes can result in a change of the endpoint that terminates the TCP session, ...
+expand
+	SESSION: Rich media/session: media applications
+	
+	Less talk, more rock: automated organization of community-contributed collections of concert videos
+	Lyndon Kennedy, Mor Naaman
+	Pages: 311-320
+	doi>10.1145/1526709.1526752
+	Full text: PdfPdf
+	
+
+We describe a system for synchronization and organization of user-contributed content from live music events. We start with a set of short video clips taken at a single event by multiple contributors, who were using a varied set of capture devices. Using ...
+expand
+	A generalised cross-modal clustering method applied to multimedia news semantic indexing and retrieval
+	Alberto Messina, Maurizio Montagnuolo
+	Pages: 321-330
+	doi>10.1145/1526709.1526753
+	Full text: PdfPdf
+	
+
+Current Web technology has enabled the distribution of informative content through dynamic media platforms. In addition, the availability of the same content in the form of digital multimedia data has dramatically increased. Content-based, cross-media ...
+expand
+	What makes conversations interesting?: themes, participants and consequences of conversations in online social media
+	Munmun De Choudhury, Hari Sundaram, Ajita John, Dorée Duncan Seligmann
+	Pages: 331-340
+	doi>10.1145/1526709.1526754
+	Full text: PdfPdf
+	
+
+Rich media social networks promote not only creation and consumption of media, but also communication about the posted media item. What causes a conversation to be interesting, that prompts a user to participate in the discussion on a posted video? We ...
+expand
+	SESSION: Rich media/session: tagging and clustering
+	
+	Visual diversification of image search results
+	Reinier H. van Leuken, Lluis Garcia, Ximena Olivares, Roelof van Zwol
+	Pages: 341-350
+	doi>10.1145/1526709.1526756
+	Full text: PdfPdf
+	
+
+Due to the reliance on the textual information associated with an image, image search engines on the Web lack the discriminative power to deliver visually diverse search results. The textual descriptions are key to retrieve relevant results for a given ...
+expand
+	Tag ranking
+	Dong Liu, Xian-Sheng Hua, Linjun Yang, Meng Wang, Hong-Jiang Zhang
+	Pages: 351-360
+	doi>10.1145/1526709.1526757
+	Full text: PdfPdf
+	
+
+Social media sharing web sites like Flickr allow users to annotate images with free tags, which significantly facilitate Web image search and organization. However, the tags associated with an image generally are in a random order without any importance ...
+expand
+	Learning to tag
+	Lei Wu, Linjun Yang, Nenghai Yu, Xian-Sheng Hua
+	Pages: 361-370
+	doi>10.1145/1526709.1526758
+	Full text: PdfPdf
+	
+
+Social tagging provides valuable and crucial information for large-scale web image retrieval. It is ontology-free and easy to obtain; however, irrelevant tags frequently appear, and users typically will not tag all semantic objects in the image, which ...
+expand
+	SESSION: Search/session: search UI
+	
+	Efficient interactive fuzzy keyword search
+	Shengyue Ji, Guoliang Li, Chen Li, Jianhua Feng
+	Pages: 371-380
+	doi>10.1145/1526709.1526760
+	Full text: PdfPdf
+	
+
+Traditional information systems return answers after a user submits a complete query. Users often feel "left in the dark" when they have limited knowledge about the underlying data, and have to use a try-and-see approach for finding information. A recent ...
+expand
+	An axiomatic approach for result diversification
+	Sreenivas Gollapudi, Aneesh Sharma
+	Pages: 381-390
+	doi>10.1145/1526709.1526761
+	Full text: PdfPdf
+	
+
+Understanding user intent is key to designing an effective ranking system in a search engine. In the absence of any explicit knowledge of user intent, search engines want to diversify results to improve user satisfaction. In such a setting, the probability ...
+expand
+	Quicklink selection for navigational query results
+	Deepayan Chakrabarti, Ravi Kumar, Kunal Punera
+	Pages: 391-400
+	doi>10.1145/1526709.1526762
+	Full text: PdfPdf
+	
+
+Quicklinks for a website are navigational shortcuts displayed below the website homepage on a search results page, and that let the users directly jump to selected points inside the website. Since the real-estate on a search results page is constrained ...
+expand
+	SESSION: Search/session: query processing
+	
+	Inverted index compression and query processing with optimized document ordering
+	Hao Yan, Shuai Ding, Torsten Suel
+	Pages: 401-410
+	doi>10.1145/1526709.1526764
+	Full text: PdfPdf
+	
+
+Web search engines use highly optimized compression schemes to decrease inverted index size and improve query throughput, and many index compression techniques have been studied in the literature. One approach taken by several recent studies first performs ...
+expand
+	RuralCafe: web search in the rural developing world
+	Jay Chen, Lakshminarayanan Subramanian, Jinyang Li
+	Pages: 411-420
+	doi>10.1145/1526709.1526765
+	Full text: PdfPdf
+	
+
+The majority of people in rural developing regions do not have access to the World Wide Web. Traditional network connectivity technologies have proven to be prohibitively expensive in these areas. The emergence of new long-range wireless technologies ...
+expand
+	Using graphics processors for high performance IR query processing
+	Shuai Ding, Jinru He, Hao Yan, Torsten Suel
+	Pages: 421-430
+	doi>10.1145/1526709.1526766
+	Full text: PdfPdf
+	
+
+Web search engines are facing formidable performance challenges due to data sizes and query loads. The major engines have to process tens of thousands of queries per second over tens of billions of documents. To deal with this heavy workload, such engines ...
+expand
+	SESSION: Search/session: caching and indices
+	
+	Improved techniques for result caching in web search engines
+	Qingqing Gan, Torsten Suel
+	Pages: 431-440
+	doi>10.1145/1526709.1526768
+	Full text: PdfPdf
+	
+
+Query processing is a major cost factor in operating large web search engines. In this paper, we study query result caching, one of the main techniques used to optimize query processing performance. Our first contribution is a study of result caching ...
+expand
+	Nearest-neighbor caching for content-match applications
+	Sandeep Pandey, Andrei Broder, Flavio Chierichetti, Vanja Josifovski, Ravi Kumar, Sergei Vassilvitskii
+	Pages: 441-450
+	doi>10.1145/1526709.1526769
+	Full text: PdfPdf
+	
+
+Motivated by contextual advertising systems and other web applications involving efficiency-accuracy tradeoffs, we study similarity caching. Here, a cache hit is said to occur if the requested item is similar but not necessarily equal to some cached ...
+expand
+	Compressed web indexes
+	Flavio Chierichetti, Ravi Kumar, Prabhakar Raghavan
+	Pages: 451-460
+	doi>10.1145/1526709.1526770
+	Full text: PdfPdf
+	
+
+Web search engines use indexes to efficiently retrieve pages containing specified query terms, as well as pages linking to specified pages. The problem of compressed indexes that permit such fast retrieval has a long history. We consider the problem: ...
+expand
+	SESSION: Search/session: query categorization
+	
+	Unsupervised query categorization using automatically-built concept graphs
+	Eustache Diemert, Gilles Vandelle
+	Pages: 461-470
+	doi>10.1145/1526709.1526772
+	Full text: PdfPdf
+	
+
+Automatic categorization of user queries is an important component of general purpose (Web) search engines, particularly for triggering rich, query-specific content and sponsored links. We propose an unsupervised learning scheme that reduces dramatically ...
+expand
+	Understanding user's query intent with wikipedia
+	Jian Hu, Gang Wang, Fred Lochovsky, Jian-tao Sun, Zheng Chen
+	Pages: 471-480
+	doi>10.1145/1526709.1526773
+	Full text: PdfPdf
+	
+
+Understanding the intent behind a user's query can help search engine to automatically route the query to some corresponding vertical search engines to obtain particularly relevant contents, thus, greatly improving user satisfaction. There are three ...
+expand
+	Discovering users' specific geo intention in web search
+	Xing Yi, Hema Raghavan, Chris Leggetter
+	Pages: 481-490
+	doi>10.1145/1526709.1526774
+	Full text: PdfPdf
+	
+
+Discovering users' specific and implicit geographic intention in web search can greatly help satisfy users' information needs. We build a geo intent analysis system that uses minimal supervision to learn a model from large amounts of web-search logs ...
+expand
+	SESSION: Search/session: ads and query expansion
+	
+	A search-based method for forecasting ad impression in contextual advertising
+	Xuerui Wang, Andrei Broder, Marcus Fontoura, Vanja Josifovski
+	Pages: 491-500
+	doi>10.1145/1526709.1526776
+	Full text: PdfPdf
+	
+
+Contextual advertising (also called content match) refers to the placement of small textual ads within the content of a generic web page. It has become a significant source of revenue for publishers ranging from individual bloggers to major newspapers. ...
+expand
+	Exploiting web search engines to search structured databases
+	Sanjay Agrawal, Kaushik Chakrabarti, Surajit Chaudhuri, Venkatesh Ganti, Arnd Christian Konig, Dong Xin
+	Pages: 501-510
+	doi>10.1145/1526709.1526777
+	Full text: PdfPdf
+	
+
+Web search engines often federate many user queries to relevant structured databases. For example, a product related query might be federated to a product database containing their descriptions and specifications. The relevant structured data items are ...
+expand
+	Online expansion of rare queries for sponsored search
+	Andrei Broder, Peter Ciccolo, Evgeniy Gabrilovich, Vanja Josifovski, Donald Metzler, Lance Riedel, Jeffrey Yuan
+	Pages: 511-520
+	doi>10.1145/1526709.1526778
+	Full text: PdfPdf
+	
+
+Sponsored search systems are tasked with matching queries to relevant advertisements. The current state-of-the-art matching algorithms expand the user's query using a variety of external resources, such as Web search results. While these expansion-based ...
+expand
+	SESSION: Security and privacy/session: web privacy
+	
+	Collective privacy management in social networks
+	Anna Cinzia Squicciarini, Mohamed Shehab, Federica Paci
+	Pages: 521-530
+	doi>10.1145/1526709.1526780
+	Full text: PdfPdf
+	
+
+Social Networking is one of the major technological phenomena of the Web 2.0, with hundreds of millions of people participating. Social networks enable a form of self expression for users, and help them to socialize and share content with other users. ...
+expand
+	To join or not to join: the illusion of privacy in social networks with mixed public and private user profiles
+	Elena Zheleva, Lise Getoor
+	Pages: 531-540
+	doi>10.1145/1526709.1526781
+	Full text: PdfPdf
+	
+
+In order to address privacy concerns, many social media websites allow users to hide their personal profiles from the public. In this work, we show how an adversary can exploit an online social network with a mixture of public and private user profiles ...
+expand
+	Privacy diffusion on the web: a longitudinal perspective
+	Balachander Krishnamurthy, Craig Wills
+	Pages: 541-550
+	doi>10.1145/1526709.1526782
+	Full text: PdfPdf
+	
+
+For the last few years we have been studying the diffusion of private information for users as they visit various Web sites triggering data gathering aggregation by third parties. This paper reports on our longitudinal study consisting of multiple snapshots ...
+expand
+	SESSION: Security and privacy/session: web security
+	
+	All your contacts are belong to us: automated identity theft attacks on social networks
+	Leyla Bilge, Thorsten Strufe, Davide Balzarotti, Engin Kirda
+	Pages: 551-560
+	doi>10.1145/1526709.1526784
+	Full text: PdfPdf
+	
+
+Social networking sites have been increasingly gaining popularity. Well-known sites such as Facebook have been reporting growth rates as high as 3% per week. Many social networking sites have millions of registered users who use these sites to share ...
+expand
+	Using static analysis for Ajax intrusion detection
+	Arjun Guha, Shriram Krishnamurthi, Trevor Jim
+	Pages: 561-570
+	doi>10.1145/1526709.1526785
+	Full text: PdfPdf
+	
+
+We present a static control-flow analysis for JavaScript programs running in a web browser. Our analysis tackles numerous challenges posed by modern web applications including asynchronous communication, frameworks, and dynamic code generation. We use ...
+expand
+	A hybrid phish detection approach by identity discovery and keywords retrieval
+	Guang Xiang, Jason I. Hong
+	Pages: 571-580
+	doi>10.1145/1526709.1526786
+	Full text: PdfPdf
+	
+
+Phishing is a significant security threat to the Internet, which causes tremendous economic loss every year. In this paper, we proposed a novel hybrid phish detection method based on information extraction (IE) and information retrieval (IR) techniques. ...
+expand
+	SESSION: Semantic/data web/session: semantic data management
+	
+	Rapid prototyping of semantic mash-ups through semantic web pipes
+	Danh Le-Phuoc, Axel Polleres, Manfred Hauswirth, Giovanni Tummarello, Christian Morbidoni
+	Pages: 581-590
+	doi>10.1145/1526709.1526788
+	Full text: PdfPdf
+	
+
+The use of RDF data published on the Web for applications is still a cumbersome and resource-intensive task due to the limited software support and the lack of standard programming paradigms to deal with everyday problems such as combination of RDF data ...
+expand
+	idMesh: graph-based disambiguation of linked data
+	Philippe Cudré-Mauroux, Parisa Haghani, Michael Jost, Karl Aberer, Hermann De Meer
+	Pages: 591-600
+	doi>10.1145/1526709.1526789
+	Full text: PdfPdf
+	
+
+We tackle the problem of disambiguating entities on the Web. We propose a user-driven scheme where graphs of entities -- represented by globally identifiable declarative artifacts -- self-organize in a dynamic and probabilistic manner. Our solution has ...
+expand
+	OpenRuleBench: an analysis of the performance of rule engines
+	Senlin Liang, Paul Fodor, Hui Wan, Michael Kifer
+	Pages: 601-610
+	doi>10.1145/1526709.1526790
+	Full text: PdfPdf
+	
+
+The Semantic Web initiative has led to an upsurge of the interest in rules as a general and powerful way of processing, combining, and analyzing semantic information. Since several of the technologies underlying rule-based systems are already quite mature, ...
+expand
+	SESSION: Semantic/data web/session: linked data
+	
+	Large scale integration of senses for the semantic web
+	Jorge Gracia, Mathieu d'Aquin, Eduardo Mena
+	Pages: 611-620
+	doi>10.1145/1526709.1526792
+	Full text: PdfPdf
+	
+
+Nowadays, the increasing amount of semantic data available on the Web leads to a new stage in the potential of Semantic Web applications. However, it also introduces new issues due to the heterogeneity of the available semantic resources. One of the ...
+expand
+	Triplify: light-weight linked data publication from relational databases
+	Sören Auer, Sebastian Dietzold, Jens Lehmann, Sebastian Hellmann, David Aumueller
+	Pages: 621-630
+	doi>10.1145/1526709.1526793
+	Full text: PdfPdf
+	
+
+In this paper we present Triplify - a simplistic but effective approach to publish Linked Data from relational databases. Triplify is based on mapping HTTP-URI requests onto relational database queries. Triplify transforms the resulting relations into ...
+expand
+	SOFIE: a self-organizing framework for information extraction
+	Fabian M. Suchanek, Mauro Sozio, Gerhard Weikum
+	Pages: 631-640
+	doi>10.1145/1526709.1526794
+	Full text: PdfPdf
+	
+
+This paper presents SOFIE, a system for automated ontology extension. SOFIE can parse natural language documents, extract ontological facts from them and link the facts into an ontology. SOFIE uses logical reasoning on the existing knowledge and on the ...
+expand
+	SESSION: Semantic/data web/session: mining for semantics
+	
+	Evaluating similarity measures for emergent semantics of social tagging
+	Benjamin Markines, Ciro Cattuto, Filippo Menczer, Dominik Benz, Andreas Hotho, Gerd Stumme
+	Pages: 641-650
+	doi>10.1145/1526709.1526796
+	Full text: PdfPdf
+	
+
+Social bookmarking systems are becoming increasingly important data sources for bootstrapping and maintaining Semantic Web applications. Their emergent information structures have become known as folksonomies. A key question for harvesting semantics ...
+expand
+	Measuring the similarity between implicit semantic relations from the web
+	Danushka T. Bollegala, Yutaka Matsuo, Mitsuru Ishizuka
+	Pages: 651-660
+	doi>10.1145/1526709.1526797
+	Full text: PdfPdf
+	
+
+Measuring the similarity between semantic relations that hold among entities is an important and necessary step in various Web related tasks such as relation extraction, information retrieval and analogy detection. For example, consider the case in which ...
+expand
+	Extracting key terms from noisy and multitheme documents
+	Maria Grineva, Maxim Grinev, Dmitry Lizorkin
+	Pages: 661-670
+	doi>10.1145/1526709.1526798
+	Full text: PdfPdf
+	
+
+We present a novel method for key term extraction from text documents. In our method, document is modeled as a graph of semantic relationships between terms of that document. We exploit the following remarkable feature of the graph: the terms related ...
+expand
+	SESSION: Social networks and web 2.0/session: recommender systems
+	
+	Tagommenders: connecting users to items through tags
+	Shilad Sen, Jesse Vig, John Riedl
+	Pages: 671-680
+	doi>10.1145/1526709.1526800
+	Full text: PdfPdf
+	
+
+Tagging has emerged as a powerful mechanism that enables users to find, organize, and understand online entities. Recommender systems similarly enable users to efficiently navigate vast collections of items. Algorithms combining tags with recommenders ...
+expand
+	Collaborative filtering for orkut communities: discovery of user latent behavior
+	Wen-Yen Chen, Jon-Chyuan Chu, Junyi Luan, Hongjie Bai, Yi Wang, Edward Y. Chang
+	Pages: 681-690
+	doi>10.1145/1526709.1526801
+	Full text: PdfPdf
+	
+
+Users of social networking services can connect with each other by forming communities for online interaction. Yet as the number of communities hosted by such websites grows over time, users have even greater need for effective community recommendations ...
+expand
+	Personalized recommendation on dynamic content using predictive bilinear models
+	Wei Chu, Seung-Taek Park
+	Pages: 691-700
+	doi>10.1145/1526709.1526802
+	Full text: PdfPdf
+	
+
+In Web-based services of dynamic content (such as news articles), recommender systems face the difficulty of timely identifying new items of high-quality and providing recommendations for new users. We propose a feature-based machine learning approach ...
+expand
+	SESSION: Social networks and web 2.0/session: diffusion and search in social networks
+	
+	Social search in "Small-World" experiments
+	Sharad Goel, Roby Muhamad, Duncan Watts
+	Pages: 701-710
+	doi>10.1145/1526709.1526804
+	Full text: PdfPdf
+	
+
+The "algorithmic small-world hypothesis" states that not only are pairs of individuals in a large social network connected by short paths, but that ordinary individuals can find these paths. Although theoretically plausible, empirical evidence for the ...
+expand
+	Behavioral profiles for advanced email features
+	Thomas Karagiannis, Milan Vojnovic
+	Pages: 711-720
+	doi>10.1145/1526709.1526805
+	Full text: PdfPdf
+	
+
+We examine the behavioral patterns of email usage in a large-scale enterprise over a three-month period. In particular, we focus on two main questions: (Q1) what do replies depend on? and (Q2) what is the gain of augmenting contacts through the friends ...
+expand
+	A measurement-driven analysis of information propagation in the flickr social network
+	Meeyoung Cha, Alan Mislove, Krishna P. Gummadi
+	Pages: 721-730
+	doi>10.1145/1526709.1526806
+	Full text: PdfPdf
+	
+
+Online social networking sites like MySpace, Facebook, and Flickr have become a popular way to share and disseminate content. Their massive popularity has led to viral marketing techniques that attempt to spread content, products, and ideas on these ...
+expand
+	SESSION: Social networks and web 2.0/session: interactions in social communities
+	
+	Network analysis of collaboration structure in Wikipedia
+	Ulrik Brandes, Patrick Kenis, Jürgen Lerner, Denise van Raaij
+	Pages: 731-740
+	doi>10.1145/1526709.1526808
+	Full text: PdfPdf
+	
+
+In this paper we give models and algorithms to describe and analyze the collaboration among authors of Wikipedia from a network analytical perspective. The edit network encodes who interacts how with whom when editing an article; it significantly extends ...
+expand
+	The slashdot zoo: mining a social network with negative edges
+	Jérôme Kunegis, Andreas Lommatzsch, Christian Bauckhage
+	Pages: 741-750
+	doi>10.1145/1526709.1526809
+	Full text: PdfPdf
+	
+
+We analyse the corpus of user relationships of the Slashdot technology news site. The data was collected from the Slashdot Zoo feature where users of the website can tag other users as friends and foes, providing positive and negative endorsements. We ...
+expand
+	Community gravity: measuring bidirectional effects by trust and rating on online social networks
+	Yutaka Matsuo, Hikaru Yamamoto
+	Pages: 751-760
+	doi>10.1145/1526709.1526810
+	Full text: PdfPdf
+	
+
+Several attempts have been made to analyze customer behavior on online E-commerce sites. Some studies particularly emphasize the social networks of customers. Users' reviews and ratings of a product exert effects on other consumers' purchasing behavior. ...
+expand
+	SESSION: Social networks and web 2.0/session: photos and web 2.0
+	
+	Mapping the world's photos
+	David J. Crandall, Lars Backstrom, Daniel Huttenlocher, Jon Kleinberg
+	Pages: 761-770
+	doi>10.1145/1526709.1526812
+	Full text: PdfPdf
+	
+
+We investigate how to organize a large collection of geotagged photos, working with a dataset of about 35 million images collected from Flickr. Our approach combines content analysis based on text tags and image data with structural analysis based on ...
+expand
+	Ranking and classifying attractiveness of photos in folksonomies
+	Jose San Pedro, Stefan Siersdorfer
+	Pages: 771-780
+	doi>10.1145/1526709.1526813
+	Full text: PdfPdf
+	
+
+Web 2.0 applications like Flickr, YouTube, or Del.icio.us are increasingly popular online communities for creating, editing and sharing content. The growing size of these folksonomies poses new challenges in terms of search and data mining. In this paper ...
+expand
+	Constructing folksonomies from user-specified relations on flickr
+	Anon Plangprasopchok, Kristina Lerman
+	Pages: 781-790
+	doi>10.1145/1526709.1526814
+	Full text: PdfPdf
+	
+
+Automatic folksonomy construction from tags has attracted much attention recently. However, inferring hierarchical relations between concepts from tags has a drawback in that it is difficult to distinguish between more popular and more general concepts. ...
+expand
+	SESSION: User interfaces and mobile web/session: mobile web
+	
+	Mining interesting locations and travel sequences from GPS trajectories
+	Yu Zheng, Lizhu Zhang, Xing Xie, Wei-Ying Ma
+	Pages: 791-800
+	doi>10.1145/1526709.1526816
+	Full text: PdfPdf
+	
+
+The increasing availability of GPS-enabled devices is changing the way people interact with the Web, and brings us a large amount of GPS trajectories representing people's location histories. In this paper, based on multiple users' GPS trajectories, ...
+expand
+	Computers and iphones and mobile phones, oh my!: a logs-based comparison of search users on different devices
+	Maryam Kamvar, Melanie Kellar, Rajan Patel, Ya Xu
+	Pages: 801-810
+	doi>10.1145/1526709.1526817
+	Full text: PdfPdf
+	
+
+We present a logs-based comparison of search patterns across three platforms: computers, iPhones and conventional mobile phones. Our goal is to understand how mobile search users differ from computer-based search users, and we focus heavily on the distribution ...
+expand
+	A game based approach to assign geographical relevance to web images
+	Yuki Arase, Xing Xie, Manni Duan, Takahiro Hara, Shojiro Nishio
+	Pages: 811-820
+	doi>10.1145/1526709.1526818
+	Full text: PdfPdf
+	
+
+Geographical context is very important for images. Millions of images on the Web have been already assigned latitude and longitude information. Due to the rapid proliferation of such images with geographical context, it is still difficult to effectively ...
+expand
+	SESSION: User interfaces and mobile web/session: user interfaces
+	
+	Web 2.0: blind to an accessible new world
+	Joshua Hailpern, Loretta Guarino-Reid, Richard Boardman, Srinivas Annam
+	Pages: 821-830
+	doi>10.1145/1526709.1526820
+	Full text: PdfPdf
+	
+
+With the advent of Web 2.0 technologies, websites have evolved from static pages to dynamic, interactive Web-based applications with the ability to replicate common desktop functionality. However, for blind and visually impaired individuals who rely ...
+expand
+	Scrolling behaviour with single- and multi-column layout
+	Cameron Braganza, Kim Marriott, Peter Moulder, Michael Wybrow, Tim Dwyer
+	Pages: 831-840
+	doi>10.1145/1526709.1526821
+	Full text: PdfPdf
+	
+
+The standard layout model used by web browsers is to lay text out in a vertical scroll using a single column. The horizontal-scroll layout model--in which text is laid out in columns whose height is set to that of the browser window and the viewer scrolls ...
+expand
+	What's up CAPTCHA?: a CAPTCHA based on image orientation
+	Rich Gossweiler, Maryam Kamvar, Shumeet Baluja
+	Pages: 841-850
+	doi>10.1145/1526709.1526822
+	Full text: PdfPdf
+	
+
+We present a new CAPTCHA which is based on identifying an image's upright orientation. This task requires analysis of the often complex contents of an image, a task which humans usually perform well and machines generally do not. Given a large repository ...
+expand
+	SESSION: Web engineering/session: end user web engineering
+	
+	Rapid development of spreadsheet-based web mashups
+	Woralak Kongdenfha, Boualem Benatallah, Julien Vayssière, Régis Saint-Paul, Fabio Casati
+	Pages: 851-860
+	doi>10.1145/1526709.1526824
+	Full text: PdfPdf
+	
+
+The rapid growth of social networking sites and web communities have motivated web sites to expose their APIs to external developers who create mashups by assembling existing functionalities. Current APIs, however, aim toward developers with programming ...
+expand
+	Mashroom: end-user mashup programming using nested tables
+	Guiling Wang, Shaohua Yang, Yanbo Han
+	Pages: 861-870
+	doi>10.1145/1526709.1526825
+	Full text: PdfPdf
+	
+
+This paper presents an end-user-oriented programming environment called Mashroom. Major contributions herein include an end-user programming model with an expressive data structure as well as a set of formally-defined mashup operators. The data structure ...
+expand
+	Automated construction of web accessibility models from transaction click-streams
+	Jalal Mahmud, Yevgen Borodin, I. V. Ramakrishnan, C. R. Ramakrishnan
+	Pages: 871-880
+	doi>10.1145/1526709.1526826
+	Full text: PdfPdf
+	
+
+Screen readers, the dominant assistive technology used by visually impaired people to access the Web, function by speaking out the content of the screen serially. Using screen readers for conducting online transactions can cause considerable information ...
+expand
+	SESSION: Web engineering/session: service oriented development
+	
+	Combining global optimization with local selection for efficient QoS-aware service composition
+	Mohammad Alrifai, Thomas Risse
+	Pages: 881-890
+	doi>10.1145/1526709.1526828
+	Full text: PdfPdf
+	
+
+The run-time binding of web services has been recently put forward in order to support rapid and dynamic web service compositions. With the growing number of alternative web services that provide the same functionality but differ in quality parameters, ...
+expand
+	A trust management framework for service-oriented environments
+	William Conner, Arun Iyengar, Thomas Mikalsen, Isabelle Rouvellou, Klara Nahrstedt
+	Pages: 891-900
+	doi>10.1145/1526709.1526829
+	Full text: PdfPdf
+	
+
+Many reputation management systems have been developed under the assumption that each entity in the system will use a variant of the same scoring function. Much of the previous work in reputation management has focused on providing robustness and improving ...
+expand
+	Test case prioritization for regression testing of service-oriented business applications
+	Lijun Mei, Zhenyu Zhang, W. K. Chan, T. H. Tse
+	Pages: 901-910
+	doi>10.1145/1526709.1526830
+	Full text: PdfPdf
+	
+
+Regression testing assures the quality of modified service-oriented business applications against unintended changes. However, a typical regression test suite is large in size. Earlier execution of those test cases that may detect failures is attractive. ...
+expand
+	SESSION: Web engineering/session: web architecture aspect
+	
+	Why is the web loosely coupled?: a multi-faceted metric for service design
+	Cesare Pautasso, Erik Wilde
+	Pages: 911-920
+	doi>10.1145/1526709.1526832
+	Full text: PdfPdf
+	
+
+Loose coupling is often quoted as a desirable property of systems architectures. One of the main goals of building systems using Web technologies is to achieve loose coupling. However, given the lack of a widely accepted definition of this term, it becomes ...
+expand
+	Highly scalable web applications with zero-copy data transfer
+	Toyotaro Suzumura, Michiaki Tatsubori, Scott Trent, Akihiko Tozawa, Tamiya Onodera
+	Pages: 921-930
+	doi>10.1145/1526709.1526833
+	Full text: PdfPdf
+	
+
+The performance of server-side applications is becoming increasingly important as more applications exploit the Web application model. Extensive work has been done to improve the performance of individual software components such as Web servers and programming ...
+expand
+	REST-based management of loosely coupled services
+	Heiko Ludwig, Jim Laredo, Kamal Bhattacharya, Liliana Pasquale, Bruno Wassermann
+	Pages: 931-940
+	doi>10.1145/1526709.1526834
+	Full text: PdfPdf
+	
+
+Applications increasingly make use of the distributed platform that the World Wide Web provides - be it as a Software-as-a-Service such as salesforce.com, an application infrastructure such as facebook.com, or a computing infrastructure such as a "cloud". ...
+expand
+	SESSION: Web engineering/session: client side web engineering
+	
+	Co-browsing dynamic web pages
+	Dietwig Lowet, Daniel Goergen
+	Pages: 941-950
+	doi>10.1145/1526709.1526836
+	Full text: PdfPdf
+	
+
+Collaborative browsing, or co-browsing, is the co-navigation of the web with other people at-a-distance, supported by software that takes care of synchronizing the browsers. Current state-of-the-art solutions are able to do co-browsing of "static web ...
+expand
+	HTML templates that fly: a template engine approach to automated offloading from server to client
+	Michiaki Tatsubori, Toyotaro Suzumura
+	Pages: 951-960
+	doi>10.1145/1526709.1526837
+	Full text: PdfPdf
+	
+
+Web applications often use HTML templates to separate the webpage presentation from its underlying business logic and objects. This is now the de facto standard programming model for Web application development. This paper proposes a novel implementation ...
+expand
+	Characterizing insecure javascript practices on the web
+	Chuan Yue, Haining Wang
+	Pages: 961-970
+	doi>10.1145/1526709.1526838
+	Full text: PdfPdf
+	
+
+JavaScript is an interpreted programming language most often used for enhancing webpage interactivity and functionality. It has powerful capabilities to interact with webpage documents and browser windows, however, it has also opened the door for many ...
+expand
+	SESSION: XML and web data/session: XML extraction and crawling
+	
+	Extracting article text from the web with maximum subsequence segmentation
+	Jeff Pasternack, Dan Roth
+	Pages: 971-980
+	doi>10.1145/1526709.1526840
+	Full text: PdfPdf
+	
+
+Much of the information on the Web is found in articles from online news outlets, magazines, encyclopedias, review collections, and other sources. However, extracting this content from the original HTML document is complicated by the large amount of ...
+expand
+	Extracting data records from the web using tag path clustering
+	Gengxin Miao, Junichi Tatemura, Wang-Pin Hsiung, Arsany Sawires, Louise E. Moser
+	Pages: 981-990
+	doi>10.1145/1526709.1526841
+	Full text: PdfPdf
+	
+
+Fully automatic methods that extract lists of objects from the Web have been studied extensively. Record extraction, the first step of this object extraction process, identifies a set of Web page segments, each of which represents an individual object ...
+expand
+	Sitemaps: above and beyond the crawl of duty
+	Uri Schonfeld, Narayanan Shivakumar
+	Pages: 991-1000
+	doi>10.1145/1526709.1526842
+	Full text: PdfPdf
+	
+
+Comprehensive coverage of the public web is crucial to web search engines. Search engines use crawlers to retrieve pages and then discover new ones by extracting the pages' outgoing links. However, the set of pages reachable from the publicly linked ...
+expand
+	SESSION: XML and web data/session: XML querying
+	
+	Performing grouping and aggregate functions in XML queries
+	Huayu Wu, Tok Wang Ling, Liang Xu, Zhifeng Bao
+	Pages: 1001-1010
+	doi>10.1145/1526709.1526844
+	Full text: PdfPdf
+	
+
+Since more and more business data are represented in XML format, there is a compelling need of supporting analytical operations in XML queries. Particularly, the latest version of XQuery proposed by W3C, XQuery 1.1, introduces a new construct to explicitly ...
+expand
+	XQuery in the browser
+	Ghislain Fourny, Markus Pilman, Daniela Florescu, Donald Kossmann, Tim Kraska, Darin McBeath
+	Pages: 1011-1020
+	doi>10.1145/1526709.1526845
+	Full text: PdfPdf
+	
+
+Since the invention of the Web, the browser has become more and more powerful. By now, it is a programming and execution environment in itself. The predominant language to program applications in the browser today is JavaScript. With browsers becoming ...
+expand
+	Answering approximate queries over autonomous web databases
+	Xiangfu Meng, Z. M. Ma, Li Yan
+	Pages: 1021-1030
+	doi>10.1145/1526709.1526846
+	Full text: PdfPdf
+	
+
+To deal with the problem of empty or too little answers returned from a Web database in response to a user query, this paper proposes a novel approach to provide relevant and ranked query results. Based on the user original query, we speculate how much ...
+expand
+	SESSION: WWW in ibero-america
+	
+	Analyzing seller practices in a Brazilian marketplace
+	Adriano Pereira, Diego Duarte, Wagner Meira, Jr., Virgilio Almeida, Paulo Góes
+	Pages: 1031-1040
+	doi>10.1145/1526709.1526848
+	Full text: PdfPdf
+	
+
+E-commerce is growing at an exponential rate. In the last decade, there has been an explosion of online commercial activity enabled by World Wide Web (WWW). These days, many consumers are less attracted to online auctions, preferring to buy merchandise ...
+expand
+	A geographical analysis of knowledge production in computer science
+	Guilherme Vale Menezes, Nivio Ziviani, Alberto H.F. Laender, Virgílio Almeida
+	Pages: 1041-1050
+	doi>10.1145/1526709.1526849
+	Full text: PdfPdf
+	
+
+We analyze knowledge production in Computer Science by means of coauthorship networks. For this, we consider 30 graduate programs of different regions of the world, being 8 programs in Brazil, 16 in North America (3 in Canada and 13 in the United States), ...
+expand
+	POSTER SESSION: Wednesday, April 22, 2009
+	
+	Competitive analysis from click-through log
+	Gang Wang, Jian Hu, Yunzhang Zhu, Hua Li, Zheng Chen
+	Pages: 1051-1052
+	doi>10.1145/1526709.1526851
+	Full text: PdfPdf
+	
+
+Existing keyword suggestion tools from various search engine companies could automatically suggest keywords related to the advertisers' products or services, counting in simple statistics of the keywords, such as search volume, cost per click (CPC), ...
+expand
+	Predicting click through rate for job listings
+	Manish Gupta
+	Pages: 1053-1054
+	doi>10.1145/1526709.1526852
+	Full text: PdfPdf
+	
+
+Click Through Rate (CTR) is an important metric for ad systems, job portals, recommendation systems. CTR impacts publisher's revenue, advertiser's bid amounts in "pay for performance" business models. We learn regression models using features of the ...
+expand
+	Query clustering using click-through graph
+	Jeonghee Yi, Farzin Maghoul
+	Pages: 1055-1056
+	doi>10.1145/1526709.1526853
+	Full text: PdfPdf
+	
+
+In this paper we describe a problem of discovering query clusters from a click-through graph of web search logs. The graph consists of a set of web search queries, a set of pages selected for the queries, and a set of directed edges that connects a query ...
+expand
+	An effective semantic search technique using ontology
+	Jihyun Lee, Jun-Ki Min, Chin-Wan Chung
+	Pages: 1057-1058
+	doi>10.1145/1526709.1526854
+	Full text: PdfPdf
+	
+
+In this paper, we present a semantic search technique considering the type of desired Web resources and the semantic relationships between the resources and the query keywords in the ontology. In order to effectively retrieve the most relevant top-k ...
+expand
+	Relationalizing RDF stores for tools reusability
+	Sunitha Ramanujam, Anubha Gupta, Latifur Khan, Steven Seida, Bhavani Thuraisingham
+	Pages: 1059-1060
+	doi>10.1145/1526709.1526855
+	Full text: PdfPdf
+	
+
+The emergence of Semantic Web technologies and standards such as Resource Description Framework (RDF) has introduced novel data storage models such as the RDF Graph Model. In this paper, we present a research effort called R2D, which attempts to bridge ...
+expand
+	C-SPARQL: SPARQL for continuous querying
+	Davide Francesco Barbieri, Daniele Braga, Stefano Ceri, Emanuele Della Valle, Michael Grossniklaus
+	Pages: 1061-1062
+	doi>10.1145/1526709.1526856
+	Full text: PdfPdf
+	
+
+C-SPARQL is an extension of SPARQL to support continuous queries, registered and continuously executed over RDF data streams, considering windows of such streams. Supporting streams in RDF format guarantees interoperability and opens up important applications, ...
+expand
+	Interactive search in XML data
+	Guoliang Li, Jianhua Feng, Lizhu Zhou
+	Pages: 1063-1064
+	doi>10.1145/1526709.1526857
+	Full text: PdfPdf
+	
+
+In a traditional keyword-search system over XML data, a user composes a keyword query, submits it to the system, and retrieves relevant subtrees. In the case where the user has limited knowledge about the data, often the user feels "left in the dark" ...
+expand
+	Is there anything worth finding on the semantic web?
+	Harry Halpin
+	Pages: 1065-1066
+	doi>10.1145/1526709.1526858
+	Full text: PdfPdf
+	
+
+There has recently been an upsurge of interest in the possibilities of combining structured data and ad-hoc information retrieval from traditional hypertext. In this experiment, we run queries extracted from a query log of a major search engine against ...
+expand
+	Instance-based probabilistic reasoning in the semantic web
+	Pedro Oliveira, Paulo Gomes
+	Pages: 1067-1068
+	doi>10.1145/1526709.1526859
+	Full text: PdfPdf
+	
+
+Most of the approaches for dealing with uncertainty in the Semantic Web rely on the principle that this uncertainty is already asserted. In this paper, we propose a new approach to learn and reason about uncertainty in the Semantic Web. Using instance ...
+expand
+	A flight meta-search engine with metamorph
+	Bernhard Kruepl, Wolfgang Holzinger, Yansen Darmaputra, Robert Baumgartner
+	Pages: 1069-1070
+	doi>10.1145/1526709.1526860
+	Full text: PdfPdf
+	
+
+We demonstrate a flight meta-search engine that is based on the Metamorph framework. Metamorph provides mechanisms to model web forms together with the interactions which are needed to fulfil a request, and can generate interaction sequences that pose ...
+expand
+	Thumbs-up: a game for playing to rank search results
+	Ali Dasdan, Chris Drome, Santanu Kolay
+	Pages: 1071-1072
+	doi>10.1145/1526709.1526861
+	Full text: PdfPdf
+	
+
+Human computation is an effective way to channel human effort spent playing games to solving computational problems that are easy for humans but difficult for computers to automate. We propose Thumbs-Up, a new game for human computation with the purpose ...
+expand
+	Search shortcuts: driving users towards their goals
+	Ranieri Baraglia, Fidel Cacheda, Victor Carneiro, Vreixo Formoso, Raffaele Perego, Fabrizio Silvestri
+	Pages: 1073-1074
+	doi>10.1145/1526709.1526862
+	Full text: PdfPdf
+	
+
+Giving suggestions to users of Web-based services is a common practice aimed at enhancing their navigation experience. Major Web Search Engines usually provide "Suggestions" under the form of queries that are, to some extent, related to the current query ...
+expand
+	A probabilistic model based approach for blended search
+	Ning Liu, Jun Yan, Zheng Chen
+	Pages: 1075-1076
+	doi>10.1145/1526709.1526863
+	Full text: PdfPdf
+	
+
+In this paper, we propose to model the blended search problem by assuming conditional dependencies among queries, VSEs and search results. The probability distributions of this model are learned from search engine query log through unigram language model. ...
+expand
+	Bucefalo: a tool for intelligent search and filtering for web-based personal health records
+	Francisco P. Romero, Jesus Serrano-Guerrero, Jose A. Olivas
+	Pages: 1077-1078
+	doi>10.1145/1526709.1526864
+	Full text: PdfPdf
+	
+
+In this poster, a tool named BUCEFALO is presented. This tool is specially designed to improve the information retrieval tasks in web-based Personal Health Records (PHR). This tool implements semantic and multilingual query expansion techniques and information ...
+expand
+	Dataplorer: a scalable search engine for the data web
+	Haofen Wang, Qiaoling Liu, Gui-Rong Xue, Yong Yu, Lei Zhang, Yue Pan
+	Pages: 1079-1080
+	doi>10.1145/1526709.1526865
+	Full text: PdfPdf
+	
+
+More and more structured information in the form of semantic data is nowadays available. It offers a wide range of new possibilities especially for semantic search and Web data integration. However, their effective exploitation still brings about a number ...
+expand
+	Threshold selection for web-page classification with highly skewed class distribution
+	Xiaofeng He, Lei Duan, Yiping Zhou, Byron Dom
+	Pages: 1081-1082
+	doi>10.1145/1526709.1526866
+	Full text: PdfPdf
+	
+
+We propose a novel cost-efficient approach to threshold selection for binary web-page classification problems with imbalanced class distributions. In many binary-classification tasks the distribution of classes is highly skewed. In such problems, using ...
+expand
+	Web-scale classification with naive bayes
+	Congle Zhang, Gui-Rong Xue, Yong Yu, Hongyuan Zha
+	Pages: 1083-1084
+	doi>10.1145/1526709.1526867
+	Full text: PdfPdf
+	
+
+Traditional Naive Bayes Classifier performs miserably on web-scale taxonomies. In this paper, we investigate the reasons behind such bad performance. We discover that the low performance are not completely caused by the intrinsic limitations of Naive ...
+expand
+	News article extraction with template-independent wrapper
+	Junfeng Wang, Xiaofei He, Can Wang, Jian Pei, Jiajun Bu, Chun Chen, Ziyu Guan, Gang Lu
+	Pages: 1085-1086
+	doi>10.1145/1526709.1526868
+	Full text: PdfPdf
+	
+
+We consider the problem of template-independent news extraction. The state-of-the-art news extraction method is based on template-level wrapper induction, which has two serious limitations. 1) It cannot correctly extract pages belonging to an unseen ...
+expand
+	Graffiti: node labeling in heterogeneous networks
+	Ralitsa Angelova, Gjergji Kasneci, Fabian M. Suchanek, Gerhard Weikum
+	Pages: 1087-1088
+	doi>10.1145/1526709.1526869
+	Full text: PdfPdf
+	
+
+We introduce a multi-label classification model and algorithm for labeling heterogeneous networks, where nodes belong to different types and different types have different sets of classification labels. We present a graph-based approach which models ...
+expand
+	Graph based crawler seed selection
+	Shuyi Zheng, Pavel Dmitriev, C. Lee Giles
+	Pages: 1089-1090
+	doi>10.1145/1526709.1526870
+	Full text: PdfPdf
+	
+
+This paper identifies and explores the problem of seed selection in a web-scale crawler. We argue that seed selection is not a trivial but very important problem. Selecting proper seeds can increase the number of pages a crawler will discover, and can ...
+expand
+	Building term suggestion relational graphs from collective intelligence
+	Jyh-Ren Shieh, Yung-Huan Hsieh, Yang-Ting Yeh, Tse-Chung Su, Ching-Yung Lin, Ja-Ling Wu
+	Pages: 1091-1092
+	doi>10.1145/1526709.1526871
+	Full text: PdfPdf
+	
+
+This paper proposes an effective approach to provide relevant search terms for conceptual Web search. 'Semantic Term Suggestion' function has been included so that users can find the most appropriate query term to what they really need. Conventional ...
+expand
+	Towards intent-driven bidterm suggestion
+	William Chang, Patrick Pantel, Ana-Maria Popescu, Evgeniy Gabrilovich
+	Pages: 1093-1094
+	doi>10.1145/1526709.1526872
+	Full text: PdfPdf
+	
+
+In online advertising, pervasive in commercial search engines, advertisers typically bid on few terms, and the scarcity of data makes ad matching difficult. Suggesting additional bidterms can significantly improve ad clickability and conversion rates. ...
+expand
+	Advertising keyword generation using active learning
+	Hao Wu, Guang Qiu, Xiaofei He, Yuan Shi, Mingcheng Qu, Jing Shen, Jiajun Bu, Chun Chen
+	Pages: 1095-1096
+	doi>10.1145/1526709.1526873
+	Full text: PdfPdf
+	
+
+This paper proposes an efficient relevance feedback based interactive model for keyword generation in sponsored search advertising. We formulate the ranking of relevant terms as a supervised learning problem and suggest new terms for the seed by leveraging ...
+expand
+	Gamesense
+	Lusong Li, Tao Mei, Chris Liu, Xian-Sheng Hua
+	Pages: 1097-1098
+	doi>10.1145/1526709.1526874
+	Full text: PdfPdf
+	
+
+This paper presents a novel game-like advertising system called GameSense, which is driven by the compelling contents of online images. Given a Web page which typically contains images, GameSense is able to select suitable images to create online in-image ...
+expand
+	Rare item detection in e-commerce site
+	Dan Shen, Xiaoyuan Wu, Alvaro Bolivar
+	Pages: 1099-1100
+	doi>10.1145/1526709.1526875
+	Full text: PdfPdf
+	
+
+As the largest online marketplace in the world, eBay has a huge inventory where there are plenty of great rare items with potentially large, even rapturous buyers. These items are obscured in long tail of eBay item listing and hard to find through existing ...
+expand
+	A declarative framework for semantic link discovery over relational data
+	Oktie Hassanzadeh, Lipyeow Lim, Anastasios Kementsietsidis, Min Wang
+	Pages: 1101-1102
+	doi>10.1145/1526709.1526876
+	Full text: PdfPdf
+	
+
+In this paper, we present a framework for online discovery of semantic links from relational data. Our framework is based on declarative specification of the linkage requirements by the user, that allows matching data items in many real-world scenarios. ...
+expand
+	Modeling semantics and structure of discussion threads
+	Chen Lin, Jiang-Ming Yang, Rui Cai, Xin-Jing Wang, Wei Wang, Lei Zhang
+	Pages: 1103-1104
+	doi>10.1145/1526709.1526877
+	Full text: PdfPdf
+	
+
+The abundant knowledge in web communities has motivated the research interests in discussion threads. The dynamic nature of discussion threads poses interesting and challenging problems for computer scientists. Although techniques such as semantic models ...
+expand
+	Combining anchor text categorization and graph analysis for paid link detection
+	Kirill Nikolaev, Ekaterina Zudina, Andrey Gorshkov
+	Pages: 1105-1106
+	doi>10.1145/1526709.1526878
+	Full text: PdfPdf
+	
+
+In order to artificially boost the rank of commercial pages in search engine results, search engine optimizers pay for links to these pages on other websites. Identifying paid links is important for a web search engine to produce highly relevant results. ...
+expand
+	Rethinking email message and people search
+	Sebastian Michel, Ingmar Weber
+	Pages: 1107-1108
+	doi>10.1145/1526709.1526879
+	Full text: PdfPdf
+	
+
+We show how a number of novel email search features can be implemented without any kind of natural language processing (NLP) or advanced data mining. Our approach inspects the email headers of all messages a user has ever sent or received and it creates ...
+expand
+	Purely URL-based topic classification
+	Eda Baykan, Monika Henzinger, Ludmila Marian, Ingmar Weber
+	Pages: 1109-1110
+	doi>10.1145/1526709.1526880
+	Full text: PdfPdf
+	
+
+Given only the URL of a web page, can we identify its topic? This is the question that we examine in this paper. Usually, web pages are classified using their content, but a URL-only classifier is preferable, (i) when speed is crucial, (ii) to enable ...
+expand
+	POSTER SESSION: Thursday, April 23, 2009
+	
+	WPBench: a benchmark for evaluating the client-side performance of web 2.0 applications
+	Kaimin Zhang, Lu Wang, Xiaolin Guo, Aimin Pan, Bin Benjamin Zhu
+	Pages: 1111-1112
+	doi>10.1145/1526709.1526882
+	Full text: PdfPdf
+	
+
+In this paper, a benchmark called WPBench is reported to evaluate the responsiveness of Web browsers for modern Web 2.0 applications. In WPBench, variations of servers and networks are removed and the benchmark result is the closest to what Web users ...
+expand
+	MASTH proxy: an extensible platform for web overload control
+	Vipul Mathur, Sanket Dhopeshwarkar, Varsha Apte
+	Pages: 1113-1114
+	doi>10.1145/1526709.1526883
+	Full text: PdfPdf
+	
+
+Many overload control mechanisms for Web based applications aim to prevent overload by setting limits on factors such as admitted load, number of server threads, buffer size. For this they need online measurements of metrics such as response time, throughput, ...
+expand
+	A messaging API for inter-widgets communication
+	Stéphane Sire, Micaël Paquier, Alain Vagner, Jérôme Bogaerts
+	Pages: 1115-1116
+	doi>10.1145/1526709.1526884
+	Full text: PdfPdf
+	
+
+Widget containers are used everywhere on the Web, for instance as customizable start pages to Web desktops. In this poster, we describe the extension of a widget container with an inter-widgets communication layer, as well as the subsequent application ...
+expand
+	Why are moved web pages difficult to find?: the WISH approach
+	Atsuyuki Morishima, Akiyoshi Nakamizo, Toshinari Iida, Shigeo Sugimoto, Hiroyuki Kitagawa
+	Pages: 1117-1118
+	doi>10.1145/1526709.1526885
+	Full text: PdfPdf
+	
+
+This paper addresses the problem of finding new locations of moved Web pages. We discuss why the content-based approach has a limitation in solving the problem and why it is important to exploit the knowledge on where to search for the pages.
+expand
+	Detecting soft errors by redirection classification
+	Taehyung Lee, Jinil Kim, Jin Wook Kim, Sung-Ryul Kim, Kunsoo Park
+	Pages: 1119-1120
+	doi>10.1145/1526709.1526886
+	Full text: PdfPdf
+	
+
+A soft error redirection is a URL redirection to a page that returns the HTTP status code 200 (OK) but has actually no relevant content to the client request. Since such redirections degrade the performance of web search engines in many ways, it is highly ...
+expand
+	Automatic web service composition with abstraction and refinement
+	Hyunyoung Kil, Wonhong Nam, Dongwon Lee
+	Pages: 1121-1122
+	doi>10.1145/1526709.1526887
+	Full text: PdfPdf
+	
+
+The behavioral description based Web Service Composition (WSC) problem aims at the automatic construction of a coordinator web service that controls a set of web services to reach a goal state. However, solving the WSC problem exactly with a realistic ...
+expand
+	Where to adapt dynamic service compositions
+	Bo Jiang, W. K. Chan, Zhenyu Zhang, T. H. Tse
+	Pages: 1123-1124
+	doi>10.1145/1526709.1526888
+	Full text: PdfPdf
+	
+
+Peer services depend on one another to accomplish their tasks, and their structures may evolve. A service composition may be designed to replace its member services whenever the quality of the composite service fails to meet certain quality-of-service ...
+expand
+	SGPS: a semantic scheme for web service similarity
+	Sourish Dasgupta, Satish Bhat, Yugyung Lee
+	Pages: 1125-1126
+	doi>10.1145/1526709.1526889
+	Full text: PdfPdf
+	
+
+Today's Web becomes a platform for services to be dynamically interconnected to produce a desired outcome. It is important to formalize the semantics of the contextual elements of web services. In this paper, we propose a novel technique called Semantic ...
+expand
+	Automated synthesis of composite services with correctness guarantee
+	Ting Deng, Jinpeng Huai, Xianxian Li, Zongxia Du, Huipeng Guo
+	Pages: 1127-1128
+	doi>10.1145/1526709.1526890
+	Full text: PdfPdf
+	
+
+In this paper, we propose a novel approach for composing existing web services to satisfy the correctness constraints to the design, including freeness of deadlock and unspecified reception, and temporal constraints in Computation Tree Logic formula. ...
+expand
+	User-centric content freshness metrics for search engines
+	Ali Dasdan, Xinh Huynh
+	Pages: 1129-1130
+	doi>10.1145/1526709.1526891
+	Full text: PdfPdf
+	
+
+In order to return relevant search results, a search engine must keep its local repository synchronized to the Web, but it is usually impossible to attain perfect freshness. Hence, it is vital for a production search engine continually to monitor and ...
+expand
+	Reliability analysis using weighted combinational models for web-based software
+	Chao-Jung Hsu, Chin-Yu Huang
+	Pages: 1131-1132
+	doi>10.1145/1526709.1526892
+	Full text: PdfPdf
+	
+
+In the past, some researches suggested that engineers can use combined software reliability growth models (SRGMs) to obtain more accurate reliability prediction during testing. In this paper, three weighted combinational models, namely, equal, linear, ...
+expand
+	sMash: semantic-based mashup navigation for data API network
+	Bin Lu, Zhaohui Wu, Yuan Ni, Guotong Xie, Chunying Zhou, Huajun Chen
+	Pages: 1133-1134
+	doi>10.1145/1526709.1526893
+	Full text: PdfPdf
+	
+
+With the proliferation of data APIs, it is not uncommon that users who have no clear ideas about data APIs will encounter difficulties to build Mashups to satisfy their requirements. In this paper, we present a semantic-based mashup navigation system, ...
+expand
+	Semantic wiki aided business process specification
+	Toufeeq Hussain, Rajesh Balakrishnan, Amar Viswanathan
+	Pages: 1135-1136
+	doi>10.1145/1526709.1526894
+	Full text: PdfPdf
+	
+
+This paper formulates a collaborative system for modeling business application. The system uses a Semantic Wiki to enable collaboration between the various stakeholders involved in the design of the system and translates the captured intelligence into ...
+expand
+	Raise semantics at the user level for dynamic and interactive SOA-based portals
+	Jean-Sebastien Brunner, Patrick Gatellier
+	Pages: 1137-1138
+	doi>10.1145/1526709.1526895
+	Full text: PdfPdf
+	
+
+In this paper, we describe the fully dynamic semantic portal we implemented, integrating Semantic Web technologies and Service Oriented Architecture (SOA). The goals of the portal are twofold: first it helps administrators to easily propose new features ...
+expand
+	Towards lightweight and efficient DDOS attacks detection for web server
+	Yang Li, Tian-Bo Lu, Li Guo, Zhi-Hong Tian, Qin-Wu Nie
+	Pages: 1139-1140
+	doi>10.1145/1526709.1526896
+	Full text: PdfPdf
+	
+
+In this poster, based on our previous work in building a lightweight DDoS (Distributed Denial-of-Services) attacks detection mechanism for web server using TCM-KNN (Transductive Confidence Machines for K-Nearest Neighbors) and genetic algorithm based ...
+expand
+	A general framework for adaptive and online detection of web attacks
+	Wei Wang, Florent Masseglia, Thomas Guyet, Rene Quiniou, Marie-Odile Cordier
+	Pages: 1141-1142
+	doi>10.1145/1526709.1526897
+	Full text: PdfPdf
+	
+
+Detection of web attacks is an important issue in current defense-in-depth security framework. In this paper, we propose a novel general framework for adaptive and online detection of web attacks. The general framework can be based on any online clustering ...
+expand
+	PAKE-based mutual HTTP authentication for preventing phishing attacks
+	Yutaka Oiwa, Hiromitsu Takagi, Hajime Watanabe, Hirofumi Suzuki
+	Pages: 1143-1144
+	doi>10.1145/1526709.1526898
+	Full text: PdfPdf
+	
+
+We developed a new Web authentication protocol with password-based mutual authentication which prevents various kinds of phishing attacks. This protocol provides a protection of user's passwords against any phishers even if a dictionary attack is employed, ...
+expand
+	Inferring private information using social network data
+	Jack Lindamood, Raymond Heatherly, Murat Kantarcioglu, Bhavani Thuraisingham
+	Pages: 1145-1146
+	doi>10.1145/1526709.1526899
+	Full text: PdfPdf
+	
+
+On-line social networks, such as Facebook, are increasingly utilized by many users. These networks allow people to publish details about themselves and connect to their friends. Some of the information revealed inside these networks is private and it ...
+expand
+	Privacy preserving frequency capping in internet banner advertising
+	Ayman Farahat
+	Pages: 1147-1148
+	doi>10.1145/1526709.1526900
+	Full text: PdfPdf
+	
+
+We describe an optimize-and-dispatch approach for delivering pay-per-impression advertisements in online advertising. The platform provider for an advertising network commits to showing advertisers' banner ads while capping the number of advertising ...
+expand
+	Crosslanguage blog mining and trend visualisation
+	Andreas Juffinger, Elisabeth Lex
+	Pages: 1149-1150
+	doi>10.1145/1526709.1526901
+	Full text: PdfPdf
+	
+
+People use weblogs to express thoughts, present ideas and share knowledge, therefore weblogs are extraordinarily valuable resources, amongs others, for trend analysis. Trends are derived from the chronological sequence of blog post count per topic. The ...
+expand
+	Crawling English-Japanese person-name transliterations from the web
+	Satoshi Sato
+	Pages: 1151-1152
+	doi>10.1145/1526709.1526902
+	Full text: PdfPdf
+	
+
+Automatic compilation of lexicon is a dream of lexicon compilers as well as lexicon users. This paper proposes a system that crawls English-Japanese person-name transliterations from the Web, which works a back-end collector for automatic compilation ...
+expand
+	Near real time information mining in multilingual news
+	Martin Atkinson, Erik Van der Goot
+	Pages: 1153-1154
+	doi>10.1145/1526709.1526903
+	Full text: PdfPdf
+	
+
+This paper presents a near real-time multilingual news monitoring and analysis system that forms the backbone of our research work. The system integrates technologies to address the problems related to information extraction and analysis of open source ...
+expand
+	Mining multilingual topics from wikipedia
+	Xiaochuan Ni, Jian-Tao Sun, Jian Hu, Zheng Chen
+	Pages: 1155-1156
+	doi>10.1145/1526709.1526904
+	Full text: PdfPdf
+	
+
+In this paper, we try to leverage a large-scale and multilingual knowledge base, Wikipedia, to help effectively analyze and organize Web information written in different languages. Based on the observation that one Wikipedia concept may be described ...
+expand
+	Towards language-independent web genre detection
+	Philipp Scholl, Renato Domínguez García, Doreen Böhnstedt, Christoph Rensing, Ralf Steinmetz
+	Pages: 1157-1158
+	doi>10.1145/1526709.1526905
+	Full text: PdfPdf
+	
+
+The term web genre denotes the type of a given web resource, in contrast to the topic of its content. In this research, we focus on recognizing the web genres blog, wiki and forum. We present a set of features that exploit the hierarchical structure ...
+expand
+	The web of nations
+	Sukwon Chung, Dungjit Shiowattana, Pavel Dmitriev, Su Chan
+	Pages: 1159-1160
+	doi>10.1145/1526709.1526906
+	Full text: PdfPdf
+	
+
+In this paper, we report on a large-scale study of structural differences among the national webs. The study is based on a web-scale crawl conducted in the summer 2008. More specifically, we study two graphs derived from this crawl, the nation graph, ...
+expand
+	Cascading style sheets: a novel approach towards productive styling with today's standards
+	Matthias Keller, Martin Nussbaumer
+	Pages: 1161-1162
+	doi>10.1145/1526709.1526907
+	Full text: PdfPdf
+	
+
+In this paper we present an approach of generating Cascading Style Sheet documents automatically if the desired effect on the content elements is specified. While a Web user agent resolves the CSS rules and computes their effect, our approach handles ...
+expand
+	Automatically filling form-based web interfaces with free text inputs
+	Guilherme A. Toda, Eli Cortez, Filipe Mesquita, Altigran S. da Silva, Edleno Moura, Marden Neubert
+	Pages: 1163-1164
+	doi>10.1145/1526709.1526908
+	Full text: PdfPdf
+	
+
+On the web of today the most prevalent solution for users to interact with data-intensive applications is the use of form-based interfaces composed by several data input fields, such as text boxes, radio buttons, pull-down lists, check boxes, etc. Although ...
+expand
+	A densitometric analysis of web template content
+	Christian Kohlschütter
+	Pages: 1165-1166
+	doi>10.1145/1526709.1526909
+	Full text: PdfPdf
+	
+
+What makes template content in the Web so special that we need to remove it? In this paper I present a large-scale aggregate analysis of textual Web content, corroborating statistical laws from the field of Quantitative Linguistics. I analyze the idiosyncrasy ...
+expand
+	A flexible dialogue system for enhancing web usability
+	Marta Gatius, Meritxell González
+	Pages: 1167-1168
+	doi>10.1145/1526709.1526910
+	Full text: PdfPdf
+	
+
+In this paper, we study how the performance and usability of web dialogue systems could be enhanced by using an appropriate representation of the different types of knowledge involved in communication: general dialogue mechanisms, specific domain-restricted ...
+expand
+	Estimating web site readability using content extraction
+	Thomas Gottron, Ludger Martin
+	Pages: 1169-1170
+	doi>10.1145/1526709.1526911
+	Full text: PdfPdf
+	
+
+Nowadays, information is primarily searched on the WWW. From a user perspective, the readability is an important criterion for measuring the accessibility and thereby the quality of an information. We show that modern content extraction algorithms help ...
+expand
+	Web content accessibility guidelines: from 1.0 to 2.0
+	Miquel Termens, Mireia Ribera, Mercè Porras, Marc Boldú, Andreu Sulé, Pilar Paris
+	Pages: 1171-1172
+	doi>10.1145/1526709.1526912
+	Full text: PdfPdf
+	
+
+This poster explains the changes introduced in the Web Content Accessibility Guidelines (WCAG) 2.0 from WCAG 1.0 and proposes a checklist for adapting existing websites. Finally, it describes the most common criticisms of the WCAG and places them in ...
+expand
+	POSTER SESSION: Friday, April 24, 2009
+	
+	Mining cultural differences from a large number of geotagged photos
+	Keiji Yanai, Bingyu Qiu
+	Pages: 1173-1174
+	doi>10.1145/1526709.1526914
+	Full text: PdfPdf
+	
+
+We propose a novel method to detect cultural differences over the world automatically by using a large amount of geotagged images on the photo sharingWeb sites such as Flickr. We employ the state-of-the-art object recognition technique developed in the ...
+expand
+	An experimental study of large-scale mobile social network
+	Zheng-Bin Dong, Guo-Jie Song, Kun-Qing Xie, Jing-Yao Wang
+	Pages: 1175-1176
+	doi>10.1145/1526709.1526915
+	Full text: PdfPdf
+	
+
+Mobile social network is a typical social network where one or more individuals of similar interests or commonalities, conversing and connecting with one another using the mobile phone. Our works in this paper focus on the experimental study for this ...
+expand
+	A P2P based distributed services network for next generation mobile internet communications
+	Yang Li, Yi-Chuan Wu, Jian-Ying Zhang, Jin Peng, Hong-Luan Liao, Yun-Fei Zhang
+	Pages: 1177-1178
+	doi>10.1145/1526709.1526916
+	Full text: PdfPdf
+	
+
+In this poster, we present a novel P2P (Peer to Peer) based distributed services network (DSN), which is a next generation operable and manageable distributed core network architecture and functional structure, proposed by China Mobile for telecommunication ...
+expand
+	Securely implementing open geospatial consortium web service interface standards in oracle spatial
+	Ning An, Raja Chatterjee, Mike Horhammer, Siva Ravada
+	Pages: 1179-1180
+	doi>10.1145/1526709.1526917
+	Full text: PdfPdf
+	
+
+In this paper, we briefly describe the implementation of various Open Geospatial Consortium Web Service Interface Standards in Oracle Spatial 11g. We highlight how we utilize Oracle's implementation of OASIS Web Services Security (WSS) to provide a robust ...
+expand
+	Visualization of Geo-annotated pictures in mobile phones
+	Roberto Manca, Francesco Massidda, Davide Carboni
+	Pages: 1181-1182
+	doi>10.1145/1526709.1526918
+	Full text: PdfPdf
+	
+
+In this work, a novel mobile browser for geo-referenced pictures is introduced and described. We use the term browser to denote a system aimed at browsing pictures selected from a large set like Internet photo sharing services. The criteria to filter ...
+expand
+	Deducing trip related information from flickr
+	Adrian Popescu, Gregory Grefenstette
+	Pages: 1183-1184
+	doi>10.1145/1526709.1526919
+	Full text: PdfPdf
+	
+
+Uploading tourist photos is a popular activity on photo sharing platforms. These photographs and their associated metadata (tags, geo-tags, and temporal information) should be useful for mining information about the sites visited. However, user-supplied ...
+expand
+	Link based small sample learning for web spam detection
+	Guang-Gang Geng, Qiudan Li, Xinchang Zhang
+	Pages: 1185-1186
+	doi>10.1145/1526709.1526920
+	Full text: PdfPdf
+	
+
+Robust statistical learning based web spam detection system often requires large amounts of labeled training data. However, labeled samples are more difficult, expensive and time consuming to obtain than unlabeled ones. This paper proposed link based ...
+expand
+	Detecting image spam using local invariant features and pyramid match kernel
+	Haiqiang Zuo, Weiming Hu, Ou Wu, Yunfei Chen, Guan Luo
+	Pages: 1187-1188
+	doi>10.1145/1526709.1526921
+	Full text: PdfPdf
+	
+
+Image spam is a new obfuscating method which spammers invented to more effectively bypass conventional text based spam filters. In this paper, we extract local invariant features of images and run a one-class SVM classifier which uses the pyramid match ...
+expand
+	Web image retrieval reranking with multi-view clustering
+	Mingmin Chi, Peiwu Zhang, Yingbin Zhao, Rui Feng, Xiangyang Xue
+	Pages: 1189-1190
+	doi>10.1145/1526709.1526922
+	Full text: PdfPdf
+	
+
+General image retrieval is often carried out by a text-based search engine, such as Google Image Search. In this case, natural language queries are used as input to the search engine. Usually, the user queries are quite ambiguous and the returned results ...
+expand
+	Characterizing web-based video sharing workloads
+	Siddharth Mitra, Mayank Agrawal, Amit Yadav, Niklas Carlsson, Derek Eager, Anirban Mahanti
+	Pages: 1191-1192
+	doi>10.1145/1526709.1526923
+	Full text: PdfPdf
+	
+	Deriving music theme annotations from user tags
+	Kerstin Bischoff, Claudiu S. Firan, Raluca Paiu
+	Pages: 1193-1194
+	doi>10.1145/1526709.1526924
+	Full text: PdfPdf
+	
+
+Music theme annotations would be really beneficial for supporting retrieval, but are often neglected by users while annotating. Thus, in order to support users in tagging and to fill the gaps in the tag space, in this paper we develop algorithms for ...
+expand
+	Tag-oriented document summarization
+	Junyan Zhu, Can Wang, Xiaofei He, Jiajun Bu, Chun Chen, Shujie Shang, Mingcheng Qu, Gang Lu
+	Pages: 1195-1196
+	doi>10.1145/1526709.1526925
+	Full text: PdfPdf
+	
+
+Social annotations on a Web document are highly generalized description of topics contained in that page. Their tagged frequency indicates the user attentions with various degrees. This makes annotations a good resource for summarizing multiple topics ...
+expand
+	Search result re-ranking based on gap between search queries and social tags
+	Jun Yan, Ning Liu, Elaine Qing Chang, Lei Ji, Zheng Chen
+	Pages: 1197-1198
+	doi>10.1145/1526709.1526926
+	Full text: PdfPdf
+	
+
+Both search engine click-through log and social annotation have been utilized as user feedback for search result re-ranking. However, to our best knowledge, no previous study has explored the correlation between these two factors for the task of search ...
+expand
+	Signaling emotion in tagclouds
+	Takeharu Eda, Toshio Uchiyama, Tadasu Uchiyama, Masatoshi Yoshikawa
+	Pages: 1199-1200
+	doi>10.1145/1526709.1526927
+	Full text: PdfPdf
+	
+
+In order to create more attractive tagclouds that get people interested in tagged content, we propose a simple but novel tagcloud where font size is determined by tag's entropy value, not the popularity to its content. Our method raises users' emotional ...
+expand
+	Two birds with one stone: a graph-based framework for disambiguating and tagging people names in web search
+	Lili Jiang, Jianyong Wang, Ning An, Shengyuan Wang, Jian Zhan, Lian Li
+	Pages: 1201-1202
+	doi>10.1145/1526709.1526928
+	Full text: PdfPdf
+	
+
+The ever growing volume of Web data makes it increasingly challenging to accurately find relevant information about a specific person on the Web. To address the challenge caused by name ambiguity in Web people search, this paper explores a novel graph-based ...
+expand
+	The value of socially tagged urls for a search engine
+	Santanu Kolay, Ali Dasdan
+	Pages: 1203-1204
+	doi>10.1145/1526709.1526929
+	Full text: PdfPdf
+	
+
+Social bookmarking has emerged as a growing source of human generated content on the web. In essence, bookmarking involves URLs and tags on them. In this paper, we perform a large scale study of the usefulness of bookmarked URLs from the top social bookmarking ...
+expand
+	The recurrence dynamics of social tagging
+	Dell Zhang, Robert Mao, Wei Li
+	Pages: 1205-1206
+	doi>10.1145/1526709.1526930
+	Full text: PdfPdf
+	
+
+How often do tags recur? How hard is predicting tag recurrence? What tags are likely to recur? We try to answer these questions by analysing the RSDC08 dataset, in both individual and collective settings. Our findings provide useful insights for the ...
+expand
+	Playful tagging: folksonomy generation using online games
+	Markus Krause, Hidir Aras
+	Pages: 1207-1208
+	doi>10.1145/1526709.1526931
+	Full text: PdfPdf
+	
+
+Collaborative Tagging is a powerful method to create folksonomies that can be used to grasp/filter user preferences or enhance web search. Recent research has shown that depending on the number of users and the quality of user-provided tags powerful ...
+expand
+	Identifying vertical search intention of query through social tagging propagation
+	Ning Liu, Jun Yan, Weiguo Fan, Qiang Yang, Zheng Chen
+	Pages: 1209-1210
+	doi>10.1145/1526709.1526932
+	Full text: PdfPdf
+	
+
+A pressing task during the unification process is to identify a user's vertical search intention based on the user's query. In this paper, we propose a novel method to propagate social annotation, which includes user-supplied tag data, to both queries ...
+expand
+	Social search and discovery using a unified approach
+	Einat Amitay, David Carmel, Nadav Har'El, Shila Ofek-Koifman, Aya Soffer, Sivan Yogev, Nadav Golbandi
+	Pages: 1211-1212
+	doi>10.1145/1526709.1526933
+	Full text: PdfPdf
+	
+
+We explore new ways of improving a search engine using data from Web 2.0 applications such as blogs and social bookmarks. This data contains entities such as documents, people and tags, and relationships between them. We propose a simple yet effective ...
+expand
+	Extracting community structure through relational hypergraphs
+	Yu-Ru Lin, Jimeng Sun, Paul Castro, Ravi Konuru, Hari Sundaram, Aisling Kelliher
+	Pages: 1213-1214
+	doi>10.1145/1526709.1526934
+	Full text: PdfPdf
+	
+
+Social media websites promote diverse user interaction on media objects as well as user actions with respect to other users. The goal of this work is to discover community structure in rich media social networks, and observe how it evolves over time, ...
+expand
+	Ranking user-created contents by search user's inclination in online communities
+	Hyoseop Shin, Jeehoon Lee
+	Pages: 1215-1216
+	doi>10.1145/1526709.1526935
+	Full text: PdfPdf
+	
+
+Searching posts effectively has become an important issue in large-scale online communities. Especially, if search users have different inclinations when they search posts, they have different kinds of posts in their minds. To address this problem, in ...
+expand
+	Retaining personal expression for social search
+	Praphul Chandra, Ajay Gupta
+	Pages: 1217-1218
+	doi>10.1145/1526709.1526936
+	Full text: PdfPdf
+	
+
+Web is being extensively used for personal expression, which includes ratings, reviews, recommendations, blogs. This user created content, e.g. book review on Amazon.com, becomes the property of the website, and the user often does not have easy access ...
+expand
+	Discovering the staring people from social networks
+	Dewei Chen, Jie Tang, Juanzi Li, Lizhu Zhou
+	Pages: 1219-1220
+	doi>10.1145/1526709.1526937
+	Full text: PdfPdf
+	
+
+In this paper, we study a novel problem of staring people discovery from social networks, which is concerned with finding people who are not only authoritative but also sociable in the social network. We formalize this problem as an optimization programming ...
+expand
+	Analysis of community structure in Wikipedia
+	Dmitry Lizorkin, Olena Medelyan, Maria Grineva
+	Pages: 1221-1222
+	doi>10.1145/1526709.1526938
+	Full text: PdfPdf
+	
+
+We present the results of a community detection analysis of the Wikipedia graph. Distinct communities in Wikipedia contain semantically closely related articles. The central topic of a community can be identified using PageRank. Extracted communities ...
+expand
+	Content hole search in community-type content
+	Akiyo Nadamoto, Eiji Aramaki, Takeshi Abekawa, Yohei Murakami
+	Pages: 1223-1224
+	doi>10.1145/1526709.1526939
+	Full text: PdfPdf
+	
+
+In community-type content such as blogs and SNSs, we call the user's unawareness of information as a "content hole" and the search for this information as a "content hole search." A content hole search differs from similarity searching and has a variety ...
+expand
+	Searching for events in the blogosphere
+	Manolis Platakis, Dimitrios Kotsakos, Dimitrios Gunopulos
+	Pages: 1225-1226
+	doi>10.1145/1526709.1526940
+	Full text: PdfPdf
+	
+
+Over the last few years, blogs (web logs) have gained massive popularity and have become one of the most influential web social media in our times. Every blog post in the Blogosphere has a well defined timestamp, which is not taken into account by search ...
+expand
+	Ranking community answers via analogical reasoning
+	Xudong Tu, Xin-Jing Wang, Dan Feng, Lei Zhang
+	Pages: 1227-1228
+	doi>10.1145/1526709.1526941
+	Full text: PdfPdf
+	
+
+Due to the lexical gap between questions and answers, automatically detecting right answers becomes very challenging for community question-answering sites. In this paper, we propose an analogical reasoning-based method. It treats questions and answers ...
+expand
+	Probabilistic question recommendation for question answering communities
+	Mingcheng Qu, Guang Qiu, Xiaofei He, Cheng Zhang, Hao Wu, Jiajun Bu, Chun Chen
+	Pages: 1229-1230
+	doi>10.1145/1526709.1526942
+	Full text: PdfPdf
+	
+
+User-Interactive Question Answering (QA) communities such as Yahoo! Answers are growing in popularity. However, as these QA sites always have thousands of new questions posted daily, it is difficult for users to find the questions that are of interest ...
+expand
+	Buzz-based recommender system
+	Nish Parikh, Neel Sundaresan
+	Pages: 1231-1232
+	doi>10.1145/1526709.1526943
+	Full text: PdfPdf
+	
+
+In this paper, we describe a buzz-based recommender system based on a large source of queries in an eCommerce application. The system detects bursts in query trends. These bursts are linked to external entities like news and inventory information to ...
+expand
+	Discovering user profiles
+	Riddhiman Ghosh, Mohamed Dekhil
+	Pages: 1233-1234
+	doi>10.1145/1526709.1526944
+	Full text: PdfPdf
+	
+
+In this paper we describe techniques for the discovery and construction of user profiles. Leveraging from the emergent data web, our system addresses the problem of sparseness of user profile information currently faced by both asserted and inferred ...
+expand
+	Bootstrapped extraction of class attributes
+	Joseph Reisinger, Marius Pasca
+	Pages: 1235-1236
+	doi>10.1145/1526709.1526945
+	Full text: PdfPdf
+	
+
+As an alternative to previous studies on extracting class attributes from unstructured text, which consider either Web documents or query logs as the source of textual data, A bootstrapped method extracts class attributes simultaneously from both sources, ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

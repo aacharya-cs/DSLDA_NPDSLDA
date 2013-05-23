@@ -1,0 +1,1555 @@
+ACM DL 	
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 14th ACM international conference on Information and knowledge management
+General Chairs: 	Otthein Herzog 	University of Bremen, Germany
+Program Chairs: 	Hans-Jörg Schek 	University for Health Sciences, Medical Informatics and Technology, Austria
+	Norbert Fuhr 	University of Duisburg-Essen, Germany
+	Abdur Chowdhury 	America Online, USA
+	Wilfried Teiken 	IBM T.J. Watson Research Center, USA
+	
+Proceedings of the 14th ACM international conference on Information and knowledge management 	Published by ACM 2005 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 490
+· Downloads (12 Months): 5,086
+· Citation Count: 1,221
+
+Publication of:
+· Conference
+CIKM '05 Conference on Information and Knowledge Management
+Bremen, Germany — October 31 - November 05, 2005
+ACM New York, NY, USA ©2005
+
+	
+Tools and Resources
+
+    Buy this Proceeding in Print
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+    Upcoming Conference:
+        CIKM'12
+
+Share:
+|
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Source Materials	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the 14th ACM international conference on Information and knowledge management
+Table of Contents
+previousprevious proceeding |next proceeding next
+	Leonardo's laptop: human needs and the new computing technologies
+	Ben Shneiderman
+	Pages: 1 - 1
+	doi>10.1145/1099554.1099555
+	Full text: PdfPdf
+	
+
+The old computing was about what computers could do; the new computing is about what people can do.To accelerate the shift from the old to the new computing designers need to:reduce computer user frustration. Recent studies show 46% of time is ...
+expand
+	Emerging data management systems: close-up and personal
+	Yannis Ioannidis
+	Pages: 2 - 2
+	doi>10.1145/1099554.1099556
+	Full text: PdfPdf
+	
+
+Conventional data management occurs primarily in centralized servers or in well-interconnected distributed systems. These are removed from their end users, who interact with the systems mostly through static devices to obtain generic services around ...
+expand
+	From bits and bytes to information and knowledge
+	Thomas Hofmann
+	Pages: 3 - 3
+	doi>10.1145/1099554.1099557
+	Full text: PdfPdf
+	
+
+Unstructured data is a valuable source of information and implicit knowledge. Yet, the bits and bytes of, e.g., text, image, or click-stream data need to be interpreted in order to transform them into business intelligence and actionable information. ...
+expand
+	SESSION: Paper session IR-1 (information retrieval): XML retrieval
+	
+	Structured queries in XML retrieval
+	Jaap Kamps, Maarten Marx, Maarten de Rijke, Börkur Sigurbjörnsson
+	Pages: 4 - 11
+	doi>10.1145/1099554.1099559
+	Full text: PdfPdf
+	
+
+Document-centric XML is a mixture of text and structure. With the increased availability of document-centric XML content comes a need for query facilities in which both structural constraints and constraints on the content of the documents can be expressed. ...
+expand
+	Score region algebra: building a transparent XML-R database
+	Vojkan Mihajlović, Henk Ernst Blok, Djoerd Hiemstra, Peter M. G. Apers
+	Pages: 12 - 19
+	doi>10.1145/1099554.1099560
+	Full text: PdfPdf
+	
+
+A unified database framework that will enable better comprehension of ranked XML retrieval is still a challenge in the XML database field. We propose a logical algebra, named score region algebra, that enables transparent specification of information ...
+expand
+	Generalized contextualization method for XML information retrieval
+	Paavo Arvola, Marko Junkkari, Jaana Kekäläinen
+	Pages: 20 - 27
+	doi>10.1145/1099554.1099561
+	Full text: PdfPdf
+	
+
+A general re-weighting method, called contextualization, for more efficient element ranking in XML retrieval is introduced. Re-weighting is based on the idea of using the ancestors of an element as a context: if the element appears in a good context ...
+expand
+	SESSION: Paper session DB-1 (databases): networks and peer-to-peer
+	
+	Decentralized coordination of transactional processes in peer-to-peer environments
+	Klaus Haller, Heiko Schuldt, Can Türker
+	Pages: 28 - 35
+	doi>10.1145/1099554.1099563
+	Full text: PdfPdf
+	
+
+Business processes executing in peer-to-peer environments usually invoke Web services on different, independent peers. Although peer-to-peer environments inherently lack global control, some business processes nevertheless require global transactional ...
+expand
+	On the complexity of computing peer agreements for consistent query answering in peer-to-peer data integration systems
+	Gianluigi Greco, Francesco Scarcello
+	Pages: 36 - 43
+	doi>10.1145/1099554.1099564
+	Full text: PdfPdf
+	
+
+Peer-to-Peer (P2P) data integration systems have recently attracted significant attention for their ability to manage and share data dispersed over different peer sources. While integrating data for answering user queries, it often happens that ...
+expand
+	Internet scale string attribute publish/subscribe data networks
+	Ioannis Aekaterinidis, Peter Triantafillou
+	Pages: 44 - 51
+	doi>10.1145/1099554.1099565
+	Full text: PdfPdf
+	
+
+With this work we aim to make a three-fold contribution. We first address the issue of supporting efficiently queries over string-attributes involving prefix, suffix, containment, and equality operators in large-scale data networks. Our first design ...
+expand
+	SESSION: Paper session KM-1 (knowledge management): knowledge systems
+	
+	Intelligent creation of notification events in information systems: concept, implementation and evaluation
+	Michael Guppenberger, Burkhard Freitag
+	Pages: 52 - 59
+	doi>10.1145/1099554.1099567
+	Full text: PdfPdf
+	
+
+An important feature of information systems is the ability to inform users about changes of the stored information. Therefore, systems have to 'know' what changes a user wants to be informed about. This is well known from the field of publish-/subscribe ...
+expand
+	Opportunity map: a visualization framework for fast identification of actionable knowledge
+	Kaidi Zhao, Bing Liu, Thomas M. Tirpak, Weimin Xiao
+	Pages: 60 - 67
+	doi>10.1145/1099554.1099568
+	Full text: PdfPdf
+	
+
+Data mining techniques frequently find a large number of patterns or rules, which make it very difficult for a human analyst to interpret the results and to find the truly interesting and actionable rules. Due to the subjective nature of "interestingness", ...
+expand
+	Establishing value mappings using statistical models and user feedback
+	Jaewoo Kang, Tae Sik Han, Dongwon Lee, Prasenjit Mitra
+	Pages: 68 - 75
+	doi>10.1145/1099554.1099569
+	Full text: PdfPdf
+	
+
+In this paper, we present a "value mapping" algorithm that does not rely on syntactic similarity or semantic interpretation of the values. The algorithm first constructs a statistical model (e.g., co-occurrence frequency or entropy vector) that captures ...
+expand
+	SESSION: Paper session IR-2 (information retrieval): question answering
+	
+	Retrieving answers from frequently asked questions pages on the web
+	Valentin Jijkoun, Maarten de Rijke
+	Pages: 76 - 83
+	doi>10.1145/1099554.1099571
+	Full text: PdfPdf
+	
+
+We address the task of answering natural language questions by using the large number of Frequently Asked Questions (FAQ) pages available on the web. The task involves three steps: (1) fetching FAQ pages from the web; (2) automatic extraction of question/answer ...
+expand
+	Finding similar questions in large question and answer archives
+	Jiwoon Jeon, W. Bruce Croft, Joon Ho Lee
+	Pages: 84 - 90
+	doi>10.1145/1099554.1099572
+	Full text: PdfPdf
+	
+
+There has recently been a significant increase in the number of community-based question and answer services on the Web where people answer other peoples' questions. These services rapidly build up large archives of questions and answers, and these archives ...
+expand
+	Connecting topics in document collections with stepping stones and pathways
+	Fernando Das-Neves, Edward A. Fox, Xiaoyan Yu
+	Pages: 91 - 98
+	doi>10.1145/1099554.1099573
+	Full text: PdfPdf
+	
+
+In this paper, we present Stepping Stones and Pathways (SSP), an alternative model of building and presenting answers for the cases when queries on document collections cannot be answered just by a ranked list. Stepping Stones can handle questions like: ...
+expand
+	SESSION: Paper session DB-2 (databases): security and privacy
+	
+	Securing XML data in third-party distribution systems
+	Barbara Carminati, Elena Ferrari, Elisa Bertino
+	Pages: 99 - 106
+	doi>10.1145/1099554.1099575
+	Full text: PdfPdf
+	
+
+Web-based third-party architectures for data publishing are today receiving growing attention, due to their scalability and the ability to efficiently manage large numbers of users and great amounts of data. A third-party architecture relies on a distinction ...
+expand
+	The case for access control on XML relationships
+	Béatrice Finance, Saïda Medjdoub, Philippe Pucheral
+	Pages: 107 - 114
+	doi>10.1145/1099554.1099576
+	Full text: PdfPdf
+	
+
+With the emergence of XML as the de facto standard to exchange and disseminate information, the problem of regulating access to XML documents has attracted a considerable attention in recent years. Existing models attach authorizations to nodes of an ...
+expand
+	A function-based access control model for XML databases
+	Naizhen Qi, Michiharu Kudo, Jussi Myllymaki, Hamid Pirahesh
+	Pages: 115 - 122
+	doi>10.1145/1099554.1099577
+	Full text: PdfPdf
+	
+
+XML documents are frequently used in applications such as business transactions and medical records involving sensitive information. Typically, parts of documents should be visible to users depending on their roles. For instance, an insurance agent may ...
+expand
+	SESSION: Paper session KM-2 (knowledge management): index structures
+	
+	Exact match search in sequence data using suffix trees
+	Mihail Halachev, Nematollaah Shiri, Anand Thamildurai
+	Pages: 123 - 130
+	doi>10.1145/1099554.1099579
+	Full text: PdfPdf
+	
+
+We study suitable indexing techniques to support efficient exact match search in large biological sequence databases. We propose a suffix tree (ST) representation, called STA-DF, as an alternative to the array representation of ST (STA) proposed in [7] ...
+expand
+	Rotation invariant indexing of shapes and line drawings
+	Michail Vlachos, Zografoula Vagena, Philip S. Yu, Vassilis Athitsos
+	Pages: 131 - 138
+	doi>10.1145/1099554.1099580
+	Full text: PdfPdf
+	
+
+We present data representations, distance measures and organizational structures for fast and efficient retrieval of similar shapes in image databases. Using the Hough Transform we extract shape signatures that correspond to important features of an ...
+expand
+	DIST: a distributed spatio-temporal index structure for sensor networks
+	Anand Meka, Ambuj Singh
+	Pages: 139 - 146
+	doi>10.1145/1099554.1099581
+	Full text: PdfPdf
+	
+
+We consider the general problem of tracking moving objects in sensor networks. The specific application we consider is that of tracking a chemical plume moving over a large infrastructure network. We present a distributed index structure DIST ...
+expand
+	SESSION: Paper session IR-3 (information retrieval): web retrieval
+	
+	Focused crawling for both topical relevance and quality of medical information
+	Thanh Tin Tang, David Hawking, Nick Craswell, Kathy Griffiths
+	Pages: 147 - 154
+	doi>10.1145/1099554.1099583
+	Full text: PdfPdf
+	
+
+Subject-specific search facilities on health sites are usually built using manual inclusion and exclusion rules. These can be expensive to maintain and often provide incomplete coverage of Web resources. On the other hand, health information obtained ...
+expand
+	Hybrid index structures for location-based web search
+	Yinghua Zhou, Xing Xie, Chuang Wang, Yuchang Gong, Wei-Ying Ma
+	Pages: 155 - 162
+	doi>10.1145/1099554.1099584
+	Full text: PdfPdf
+	
+
+There is more and more commercial and research interest in location-based web search, i.e. finding web content whose topic is related to a particular place or region. In this type of search, location information should be indexed as well as text information. ...
+expand
+	Person resolution in person search results: WebHawk
+	Xiaojun Wan, Jianfeng Gao, Mu Li, Binggong Ding
+	Pages: 163 - 170
+	doi>10.1145/1099554.1099585
+	Full text: PdfPdf
+	
+
+Finding information about people on the Web using a search engine is difficult because there is a many-to-many mapping between person names and specific persons (i.e. referents). This paper describes a person resolution system, called WebHawk. ...
+expand
+	SESSION: Paper session DB-3 (databases): sensors and data streams
+	
+	Adaptive load shedding for windowed stream joins
+	Buğgra Gedik, Kun-Lung Wu, Philip S. Yu, Ling Liu
+	Pages: 171 - 178
+	doi>10.1145/1099554.1099587
+	Full text: PdfPdf
+	
+
+We present an adaptive load shedding approach for windowed stream joins. In contrast to the conventional approach of dropping tuples from the input streams, we explore the concept of selective processing for load shedding. We allow stream tuples ...
+expand
+	Integrating DCT and DWT for approximating cube streams
+	Ming-Jyh Hsieh, Ming-Syan Chen, Philip S. Yu
+	Pages: 179 - 186
+	doi>10.1145/1099554.1099588
+	Full text: PdfPdf
+	
+
+For time-relevant multi-dimensional data sets (MDS), users usually pose a huge amount of data due to the large dimensionality, and approximating query processing has emerged as a viable solution. Specifically, the cube streams handle MDSs in a continuous ...
+expand
+	Exploiting redundancy in sensor networks for energy efficient processing of spatiotemporal region queries
+	Alexandru Coman, Mario A. Nascimento, Jörg Sander
+	Pages: 187 - 194
+	doi>10.1145/1099554.1099589
+	Full text: PdfPdf
+	
+
+Sensor networks are made of autonomous devices that are able to collect, store, process and share data with other devices. Spatiotemporal region queries can be used for retrieving information of interest from such networks. Such queries require the answers ...
+expand
+	SESSION: Paper session KM-3 (knowledge management): classification & clustering
+	
+	Collective multi-label classification
+	Nadia Ghamrawi, Andrew McCallum
+	Pages: 195 - 200
+	doi>10.1145/1099554.1099591
+	Full text: PdfPdf
+	
+
+Common approaches to multi-label classification learn independent classifiers for each category, and employ ranking or thresholding schemes for classification. Because they do not exploit dependencies between labels, such techniques are only well-suited ...
+expand
+	Clustering high-dimensional data using an efficient and effective data space reduction
+	Ratko Orlandic, Ying Lai, Wai Gen Yee
+	Pages: 201 - 208
+	doi>10.1145/1099554.1099592
+	Full text: PdfPdf
+	
+
+This paper introduces a new algorithm for clustering data in high-dimensional feature spaces, called GARDENHD. The algorithm is organized around the notion of data space reduction, i.e. the process of detecting dense areas (dense cells) ...
+expand
+	Versatile structural disambiguation for semantic-aware applications
+	Federica Mandreoli, Riccardo Martoglia, Enrico Ronchetti
+	Pages: 209 - 216
+	doi>10.1145/1099554.1099593
+	Full text: PdfPdf
+	
+
+In this paper, we propose a versatile disambiguation approach which can be used to make explicit the meaning of structure based information such as XML schemas, XML document structures, web directories, and ontologies. It can be of support to the semantic-awareness ...
+expand
+	POSTER SESSION: Poster Session
+	
+	D-CAPE: distributed and self-tuned continuous query processing
+	Timothy M. Sutherland, Bin Liu, Mariana Jbantova, Elke A. Rundensteiner
+	Pages: 217 - 218
+	doi>10.1145/1099554.1099595
+	Full text: PdfPdf
+	
+	Mining conserved XML query paths for dynamic-conscious caching
+	Qiankun Zhao, Sourav S. Bhowmick, Le Gruenwald
+	Pages: 219 - 220
+	doi>10.1145/1099554.1099596
+	Full text: PdfPdf
+	
+
+Existing XML query pattern-based caching strategies focus on extracting the set of frequently issued query pattern trees based on the number of occurrences of the query pattern trees in the history. Each occurrence of the same query pattern tree is considered ...
+expand
+	Optimizing continuous multijoin queries over distributed streams
+	Yongluan Zhou, Ying Yan, Beng Chin Ooi, Kian-Lee Tan, Aoying Zhou
+	Pages: 221 - 222
+	doi>10.1145/1099554.1099597
+	Full text: PdfPdf
+	
+	Processing XPath queries with XML summaries
+	Takeharu Eda, Makoto Onizuka, Masashi Yamamuro
+	Pages: 223 - 224
+	doi>10.1145/1099554.1099598
+	Full text: PdfPdf
+	
+
+Range labeling and structural joins are well-studied techniques for efficiently processing XPath queries. However, when XPath queries become long, many times of structural joins are required. To solve this problem, we developed a method to reduce the ...
+expand
+	On reducing redundancy and improving efficiency of XML labeling schemes
+	Changqing Li, Tok Wang Ling, Jiaheng Lu, Tian Yu
+	Pages: 225 - 226
+	doi>10.1145/1099554.1099599
+	Full text: PdfPdf
+	
+
+The basic relationships to be determined in XML query processing are ancestor-descendant (A-D), parent-child (P-C), sibling and ordering relationships. The containment labeling scheme can determine the A-D, P-C and ordering relationships fast, but it ...
+expand
+	Applying cosine series to join size estimation
+	Cheng Luo, Zhewei Jiang, Wen-Chi Hou
+	Pages: 227 - 228
+	doi>10.1145/1099554.1099600
+	Full text: PdfPdf
+	
+
+This paper provides a general overview of two innovative applications of Cosine series in XML joins and data stream joins.
+expand
+	Database selection in intranet mediators for natural language queries
+	Fang Liu, Shuang Liu, Clement Yu, Weiyi Meng, Ophir Frieder, David Grossman
+	Pages: 229 - 230
+	doi>10.1145/1099554.1099601
+	Full text: PdfPdf
+	
+	Structure-based query-specific document summarization
+	Ramakrishna Varadarajan, Vagelis Hristidis
+	Pages: 231 - 232
+	doi>10.1145/1099554.1099602
+	Full text: PdfPdf
+	
+
+Summarization of text documents is increasingly important with the amount of data available on the Internet. The large majority of current approaches view documents as linear sequences of words and create query-independent summaries. However, ignoring ...
+expand
+	Typed functional query languages with equational specifications
+	Ken Q. Pu, Alberto O. Mendelzon
+	Pages: 233 - 234
+	doi>10.1145/1099554.1099603
+	Full text: PdfPdf
+	
+
+We present a framework for functionally modeling query languages and data models. Data and queries are uniformly represented by first-order functions, and query-language constructs by polymorphic higher-order functions. The functions are typed by a database-oriented ...
+expand
+	DSAC: integrity for outsourced databases with signature aggregation and chaining
+	Maithili Narasimha, Gene Tsudik
+	Pages: 235 - 236
+	doi>10.1145/1099554.1099604
+	Full text: PdfPdf
+	
+
+Database outsourcing is an important trend which involves data owners farming out their data management needs to an external service provider. One important requirement is to maintain the integrity and authenticity of outsourced data. Whenever an outsourced ...
+expand
+	Answering aggregation queries on hierarchical web sites using adaptive sampling
+	Foto N. Afrati, Paraskevas V. Lekeas, Chen Li
+	Pages: 237 - 238
+	doi>10.1145/1099554.1099605
+	Full text: PdfPdf
+	
+
+We study how to answer aggregation queries over hierarchical Web sites using adaptive sampling.
+expand
+	OSQR: overlapping clustering of query results
+	Bhuvan Bamba, Prasan Roy, Mukesh Mohania
+	Pages: 239 - 240
+	doi>10.1145/1099554.1099606
+	Full text: PdfPdf
+	
+	INFER: a relational query language without the complexity of SQL
+	Terrence Mason, Ramon Lawrence
+	Pages: 241 - 242
+	doi>10.1145/1099554.1099607
+	Full text: PdfPdf
+	
+
+The INFER query language allows users to express queries without referencing relations or specifying joins. Since the INFER syntax is similar to but less restrictive than SQL, users can easily write highly expressive queries that are automatically completed ...
+expand
+	Efficient data dissemination using locale covers
+	Sandeep Gupta, Jinfeng Ni, Chinya V. Ravishankar
+	Pages: 243 - 244
+	doi>10.1145/1099554.1099608
+	Full text: PdfPdf
+	
+
+Location-dependent data are central to many emerging applications, ranging from traffic information services to sensor networks. The standard pull- and push-based data dissemination models become unworkable since the data volumes and number of clients ...
+expand
+	Incremental evaluation of a monotone XPath fragment
+	Hidetaka Matsumura, Keishi Tajima
+	Pages: 245 - 246
+	doi>10.1145/1099554.1099609
+	Full text: PdfPdf
+	
+
+This paper shows a scheme for incremental evaluation of XPath queries. Here, we focus on a monotone fragment of XPath, i.e., when a data is deleted from (or inserted to) the database, only deletion (insertion, resp.) may occur to query answers. For efficiently ...
+expand
+	Discovering strong skyline points in high dimensional spaces
+	Zhenjie Zhang, Xinyu Guo, Hua Lu, Anthony K. H. Tung, Nan Wang
+	Pages: 247 - 248
+	doi>10.1145/1099554.1099610
+	Full text: PdfPdf
+	
+
+Current interests in skyline computation arise due to their relation to preference queries. Since it is guaraneed that a skyline point will not lose out in all dimensions when compared to any other point in the data set, this means that for each skyline ...
+expand
+	Mining undiscovered public knowledge from complementary and non-interactive biomedical literature through semantic pruning
+	Xiaohua Hu, Illhoi Yoo, Min Song, Yanqing Zhang, Il-Yeol Song
+	Pages: 249 - 250
+	doi>10.1145/1099554.1099611
+	Full text: PdfPdf
+	
+
+Two complementary and non-interactive literature sets of articles, when they are considered together, can reveal useful information of scientific interest not apparent in either of the two document sets. Swanson called the existence of such knowledge, ...
+expand
+	Access control for XML: a dynamic query rewriting approach
+	Sriram Mohan, Arijit Sengupta, Yuqing Wu
+	Pages: 251 - 252
+	doi>10.1145/1099554.1099612
+	Full text: PdfPdf
+	
+
+Being able to express and enforce role-based access control on XML data is a critical component of XML data management. However, given the semi-structured nature of XML, this is non-trivial, as access control can be applied on the values of nodes as ...
+expand
+	Relational computation for mining association rules from XML data
+	Hong-Cheu Liu, John Zeleznikow
+	Pages: 253 - 254
+	doi>10.1145/1099554.1099613
+	Full text: PdfPdf
+	
+
+We develop a fixpoint operator for computing large item sets and demonstrate three query paradigm solutions for association rule mining that use the idea of least fixpoint computation and indicates some optimisation issues. The results of our research ...
+expand
+	Mining all maximal frequent word sequences in a set of sentences
+	Helena Ahonen-Myka
+	Pages: 255 - 256
+	doi>10.1145/1099554.1099614
+	Full text: PdfPdf
+	
+
+We present an efficient algorithm for finding all maximal frequent word sequences in a set of sentences. A word sequence s is considered frequent, if all its words occur in at least σ sentences and the words occur in each of these ...
+expand
+	Joint deduplication of multiple record types in relational data
+	Aron Culotta, Andrew McCallum
+	Pages: 257 - 258
+	doi>10.1145/1099554.1099615
+	Full text: PdfPdf
+	
+
+Record deduplication is the task of merging database records that refer to the same underlying entity. In relational data-bases, accurate deduplication for records of one type is often dependent on the decisions made for records of other types. ...
+expand
+	Localized routing trees for query processing in sensor networks
+	Jie Lian, Lei Chen, Kshirasagar Naik, M. Tamer Özsu, G. Agnew
+	Pages: 259 - 260
+	doi>10.1145/1099554.1099616
+	Full text: PdfPdf
+	
+
+In this paper, we propose a novel energy-efficient approach, a localized routing tree (LRT) coupled with a route redirection (RR) strategy, to support various types of queries. LRTs take care of the sensors near the sink and reduce the energy consumption ...
+expand
+	A latent semantic classification model
+	Ming-Wen Wang, Jian-Yun Nie, Xue-Qiang Zeng
+	Pages: 261 - 262
+	doi>10.1145/1099554.1099617
+	Full text: PdfPdf
+	
+
+Latent Semantic Indexing (LSI) has been successfully applied to information retrieval and text classification. However, when LSI is used in classification, some important features for small classes may be ignored because of their small feature values. ...
+expand
+	Supporting ranked search in parallel search cluster networks
+	Fang Xiong, Qiong Luo, Dyce Jing Zhao
+	Pages: 263 - 264
+	doi>10.1145/1099554.1099618
+	Full text: PdfPdf
+	
+
+We investigate how to support ranked keyword search in a Parallel Search Cluster Network, which is a newly proposed peer-to-peer network overlay. In particular, we study how to efficiently acquire and distribute the global information required by ranked ...
+expand
+	Web opinion poll: extracting people's view by impression mining from the web
+	Tadahiko Kumamoto, Katsumi Tanaka
+	Pages: 265 - 266
+	doi>10.1145/1099554.1099619
+	Full text: PdfPdf
+	
+	Statistical relationship determination in automatic thesaurus construction
+	Libo Chen, Peter Fankhauser, Ulrich Thiel, Thomas Kamps
+	Pages: 267 - 268
+	doi>10.1145/1099554.1099620
+	Full text: PdfPdf
+	
+
+Statistical relationship determination among terms is one of the key issues in automatic thesaurus construction. We systematically analyze existing relevant approaches based on their underlying probabilistic assumptions, and propose a combined approach ...
+expand
+	Model-guided information discovery for intelligence analysis
+	Rafael Alonso, Hua Li
+	Pages: 269 - 270
+	doi>10.1145/1099554.1099621
+	Full text: PdfPdf
+	
+
+Intelligence analysis can be aided and guided by models of the analysts' interests and priorities. This paper describes our approach to analyst modeling as part of the Ant CAFÉ project, in which analyst models are used to guide the searching behavior ...
+expand
+	Biasing web search results for topic familiarity
+	Giridhar Kumaran, Rosie Jones, Omid Madani
+	Pages: 271 - 272
+	doi>10.1145/1099554.1099622
+	Full text: PdfPdf
+	
+
+Depending on a web searcher's familiarity with a query's target topic, it may be more appropriate to show her introductory or advanced documents. The TREC HARD [1] track defined topic familiarity as meta-data associated with a user's query. ...
+expand
+	Accurate language model estimation with document expansion
+	Tao Tao, Xuanhui Wang, Qiaozhu Mei, ChengXiang Zhai
+	Pages: 273 - 274
+	doi>10.1145/1099554.1099623
+	Full text: PdfPdf
+	
+	Mining community structure of named entities from free text
+	Xin Li, Bing Liu
+	Pages: 275 - 276
+	doi>10.1145/1099554.1099624
+	Full text: PdfPdf
+	
+
+Although community discovery has been studied extensively in the Web environment, limited research has been done in the case of free text. Co-occurrence of words and entities in sentences and documents usually implies connections among them. In this ...
+expand
+	A practical system of keyphrase extraction for web pages
+	Mo Chen, Jian-Tao Sun, Hua-Jun Zeng, Kwok-Yan Lam
+	Pages: 277 - 278
+	doi>10.1145/1099554.1099625
+	Full text: PdfPdf
+	
+
+Keyphrases can be used to facilitate Web users grasping the main topic(s) of a Web page. We present a practical system of automatic keyphrase extraction for Web pages. In this system, a regression model was first trained based on a set of human-labeled ...
+expand
+	Incremental stock time series data delivery and visualization
+	Tak-chung Fu, Fu-lai Chung, Pui-ying Tang, Robert Luk, Chak-man Ng
+	Pages: 279 - 280
+	doi>10.1145/1099554.1099626
+	Full text: PdfPdf
+	
+
+SB-Tree is a binary tree data structure proposed to represent time series according to the importance of data points. Its use in stock data management is distinguished by preserving the critical data points' attribute values, retrieving time series data ...
+expand
+	Generating better concept hierarchies using automatic document classification
+	Razvan Stefan Bot, Yi-fang Brook Wu, Xin Chen, Quanzhi Li
+	Pages: 281 - 282
+	doi>10.1145/1099554.1099627
+	Full text: PdfPdf
+	
+
+This paper presents a hybrid concept hierarchy development technique for web returned documents retrieved by a meta-search engine. The aim of the technique is to separate the initial retrieved documents into topical oriented categories, prior to the ...
+expand
+	Domain-specific keyphrase extraction
+	Yi-fang Brook Wu, Quanzhi Li, Razvan Stefan Bot, Xin Chen
+	Pages: 283 - 284
+	doi>10.1145/1099554.1099628
+	Full text: PdfPdf
+	
+
+Document keyphrases provide semantic metadata characterizing documents and producing an overview of the content of a document. They can be used in many text-mining and knowledge management related applications. This paper describes a Keyphrase Identification ...
+expand
+	An RSA-based time-bound hierarchical key assignment scheme for electronic article subscription
+	Jyh-haw Yeh
+	Pages: 285 - 286
+	doi>10.1145/1099554.1099629
+	Full text: PdfPdf
+	
+
+The time-bound hierarchical key assignment problem is to assign time sensitive keys to security classes in a partially ordered hierarchy so that legal data accesses among classes can be enforced. Two time-bound hierarchical key assignment schemes have ...
+expand
+	Maximal termsets as a query structuring mechanism
+	Bruno Pôssas, Nivio Ziviani, Berthier Ribeiro-Neto, Wagner Meira, Jr.
+	Pages: 287 - 288
+	doi>10.1145/1099554.1099630
+	Full text: PdfPdf
+	
+
+Search engines process queries conjunctively to restrict the size of the answer set. Further, it is not rare to observe a mismatch between the vocabulary used in the text of Web pages and the terms used to compose the Web queries. The combination of ...
+expand
+	Accurately extracting coherent relevant passages using hidden Markov models
+	Jing Jiang, ChengXiang Zhai
+	Pages: 289 - 290
+	doi>10.1145/1099554.1099631
+	Full text: PdfPdf
+	
+
+In this paper, we present a principled method for accurately extracting coherent relevant passages of variable lengths using HMMs. We show that with appropriate parameter estimation, the HMM method outperforms a number of strong baseline methods on two ...
+expand
+	Structural features in content oriented XML retrieval
+	Georgina Ramírez, Thijs Westerveld, Arjen P. de Vries
+	Pages: 291 - 292
+	doi>10.1145/1099554.1099632
+	Full text: PdfPdf
+	
+
+The structural features of XML components are an extra source of information that should be used in a content-oriented retrieval task on this type of documents. In this paper we explore one of the structural features from the INEX collection [1] that ...
+expand
+	Text document clustering based on frequent word sequences
+	Yanjun Li, Soon M. Chung
+	Pages: 293 - 294
+	doi>10.1145/1099554.1099633
+	Full text: PdfPdf
+	
+
+In this paper, we propose a new text clustering algorithm, named Clustering based on Frequent Word Sequences (CFWS). A word sequence is frequent if it occurs in more than certain percentage of the documents in the text database. In the past, the vector ...
+expand
+	Information retrieval and machine learning for probabilistic schema matching
+	Henrik Nottelmann, Umberto Straccia
+	Pages: 295 - 296
+	doi>10.1145/1099554.1099634
+	Full text: PdfPdf
+	
+
+Schema matching is the problem of finding correspondences (mapping rules, e.g. logical formulae) between heterogeneous schemas. This paper presents a probabilistic framework, called sPLMap, for automatically learning schema mapping rules. Similar to ...
+expand
+	Learning to summarise XML documents using content and structure
+	Massih R. Amini, Anastasios Tombros, Nicolas Usunier, Mounia Lalmas, Patrick Gallinari
+	Pages: 297 - 298
+	doi>10.1145/1099554.1099635
+	Full text: PdfPdf
+	
+
+Documents formatted in eXtensible Markup Language (XML) are becoming increasingly available in collections of various document types. In this paper, we present an approach for the summarisation of XML documents. The novelty of this approach lies in that ...
+expand
+	Trust-based collaborative filtering
+	Jianshu Weng, Chunyan Miao, Angela Goh, Dongtao Li
+	Pages: 299 - 300
+	doi>10.1145/1099554.1099636
+	Full text: PdfPdf
+	
+	The earth mover's distance as a semantic measure for document similarity
+	Xiaojun Wan, Yuxin Peng
+	Pages: 301 - 302
+	doi>10.1145/1099554.1099637
+	Full text: PdfPdf
+	
+
+Different words are usually assumed to be semantically independent in most existing similarity measures, which is not often true in practice. The semantic relatedness between words cannot be conveniently employed in the existing measures. We propose ...
+expand
+	Slicing*-tree based web page transformation for small displays
+	Xiangye Xiao, Qiong Luo, Dan Hong, Hongbo Fu
+	Pages: 303 - 304
+	doi>10.1145/1099554.1099638
+	Full text: PdfPdf
+	
+
+We propose a new Web page transformation method for browsing on mobile devices with small displays. In our approach, an original web page that does not fit into the screen is transformed into a set of pages, each of which fits into the screen. This transformation ...
+expand
+	An evaluation of evolved term-weighting schemes in information retrieval
+	Ronan Cummins, Colm O'Riordan
+	Pages: 305 - 306
+	doi>10.1145/1099554.1099639
+	Full text: PdfPdf
+	
+
+This paper presents an evaluation of evolved term-weighting schemes on short, medium and long TREC queries. A previously evolved global (collection-wide) term-weighting scheme is evaluated on unseen TREC data and is shown to increase mean average precision ...
+expand
+	Web-centric language models
+	Jaap Kamps
+	Pages: 307 - 308
+	doi>10.1145/1099554.1099640
+	Full text: PdfPdf
+	
+
+We investigate language models for informational and navigational web search. Retrieval on the web is a task that differs substantially from ordinary ad hoc retrieval. We perform an analysis of prior probability of relevance for a wide range of non-content ...
+expand
+	Using RankBoost to compare retrieval systems
+	Huyen-Trang Vu, Patrick Gallinari
+	Pages: 309 - 310
+	doi>10.1145/1099554.1099641
+	Full text: PdfPdf
+	
+
+This paper presents a new pooling method for constructing the assessment sets used in the evaluation of retrieval systems. Our proposal is based on RankBoost, a machine learning voting algorithm. It leads to smaller pools than classical pooling and thus ...
+expand
+	Static score bucketing in inverted indexes
+	Chavdar Botev, Nadav Eiron, Marcus Fontoura, Ning Li, Eugene Shekita
+	Pages: 311 - 312
+	doi>10.1145/1099554.1099642
+	Full text: PdfPdf
+	
+
+Maintaining strict static score order of inverted lists is a heuristic used by search engines to improve the quality of query results when the entire inverted lists cannot be processed. This heuristic, however, increases the cost of index generation ...
+expand
+	Scalable ranking for preference queries
+	Ying Feng, Divyakant Agrawal, Amr El Abbadi, Ambuj Singh
+	Pages: 313 - 314
+	doi>10.1145/1099554.1099643
+	Full text: PdfPdf
+	
+
+Top-k preference queries with multiple attributes are critical for decision-making applications. Previous research has concentrated on improving the computational efficiency mainly by using novel index structures and search strategies. Since current ...
+expand
+	Finding experts in community-based question-answering services
+	Xiaoyong Liu, W. Bruce Croft, Matthew Koll
+	Pages: 315 - 316
+	doi>10.1145/1099554.1099644
+	Full text: PdfPdf
+	
+	Indexing time vs. query time: trade-offs in dynamic information retrieval systems
+	Stefan Büttcher, Charles L. A. Clarke
+	Pages: 317 - 318
+	doi>10.1145/1099554.1099645
+	Full text: PdfPdf
+	
+
+We examine issues in the design of fully dynamic information retrieval systems supporting both document insertions and deletions. The two main components of such a system, index maintenance and query processing, affect each other, as high query performance ...
+expand
+	Poison pills: harmful relevant documents in feedback
+	Egidio Terra, Robert Warren
+	Pages: 319 - 320
+	doi>10.1145/1099554.1099646
+	Full text: PdfPdf
+	
+	Discretization based learning approach to information retrieval
+	Dmitri Roussinov, Weiguo Fan, Fernando A. Das Neves
+	Pages: 321 - 322
+	doi>10.1145/1099554.1099647
+	Full text: PdfPdf
+	
+
+We have designed a representation scheme, which is based on the discrete representation of a document ranking function, which is capable of reproducing and enhancing the properties of such popular ranking functions as tf.idf, BM25 or those ...
+expand
+	Semantic verification for fact seeking engines
+	Dmitri Roussinov, Weiguo Fan, Fernando A. Das Neves
+	Pages: 323 - 324
+	doi>10.1145/1099554.1099648
+	Full text: PdfPdf
+	
+
+We present the architecture of our web question answering (fact seeking) system and introduce a novel algorithm to validate semantic categories of the expected answers. When tested on the questions used by the prior research, our system demonstrated ...
+expand
+	Fast webpage classification using URL features
+	Min-Yen Kan, Hoang Oanh Nguyen Thi
+	Pages: 325 - 326
+	doi>10.1145/1099554.1099649
+	Full text: PdfPdf
+	
+
+We demonstrate the usefulness of the uniform resource locator (URL) alone in performing web page classification. This approach is faster than typical web page classification, as the pages do not have to be fetched and analyzed. Our approach segments ...
+expand
+	On the estimation of frequent itemsets for data streams: theory and experiments
+	Pierre-Alain Laur, Richard Nock, Jean-Emile Symphor, Pascal Poncelet
+	Pages: 327 - 328
+	doi>10.1145/1099554.1099650
+	Full text: PdfPdf
+	
+
+In this paper, we devise a method for the estimation of the true support of itemsets on data streams, with the objective to maximize one chosen criterion among {precision, recall} while ensuring a degradation as reduced as possible for the other criterion. ...
+expand
+	Unapparent information revelation: a concept chain graph approach
+	Rohini K. Srihari, Sudarshan Lamkhede, Anmol Bhasin
+	Pages: 329 - 330
+	doi>10.1145/1099554.1099651
+	Full text: PdfPdf
+	
+
+Information generated by multiple authors working independently at different times when analyzed synergistically reveals more information than apparent. For example, a traditional search for connections between the trucking industry and Iraqi banks may ...
+expand
+	Document quality models for web ad hoc retrieval
+	Yun Zhou, W. Bruce Croft
+	Pages: 331 - 332
+	doi>10.1145/1099554.1099652
+	Full text: PdfPdf
+	
+
+The quality of document content, which is an issue that is usually ignored for the traditional ad hoc retrieval task, is a critical issue for Web search. Web pages have a huge variation in quality relative to, for example, newswire articles. To address ...
+expand
+	Cooperative caching for k-NN search in ad hoc networks
+	Bo Yang, Ali R. Hurson
+	Pages: 333 - 334
+	doi>10.1145/1099554.1099653
+	Full text: PdfPdf
+	
+
+Mobile ad hoc networks have multiple limitations in performing similarity-based nearest neighbor search - dynamic topology, frequent disconnections, limited power, and restricted bandwidth. Cooperative caching is an effective technique to reduce network ...
+expand
+	A new framework to combine descriptors for content-based image retrieval
+	Ricardo da S. Torres, Alexandre X. Falcão, Baoping Zhang, Weiguo Fan, Edward A. Fox, Marcos André Gonçalves, Pavel Calado
+	Pages: 335 - 336
+	doi>10.1145/1099554.1099654
+	Full text: PdfPdf
+	
+
+In this paper, we propose a novel framework using Genetic Programming to combine image database descriptors for content-based image retrieval (CBIR). Our framework is validated through several experiments involving two image databases and specific ...
+expand
+	A structure-sensitive framework for text categorization
+	Ganesh Ramakrishnan, Deepa Paranjpe, Byron Dom
+	Pages: 337 - 338
+	doi>10.1145/1099554.1099655
+	Full text: PdfPdf
+	
+
+This paper presents a framework called Structure Sensitive CATegorization(SSCAT), that exploits document structure for improved categorization. There are two parts to this framework, viz. (1) Documents often have layout structure, such that logically ...
+expand
+	Efficient and effective server-sided distributed clustering
+	Hans-Peter Kriegel, Martin Pfeifle
+	Pages: 339 - 340
+	doi>10.1145/1099554.1099656
+	Full text: PdfPdf
+	
+
+Clustering has become an increasingly important task in modern application domains where the data are originally located at different sites. In order to create a central clustering, all clients have to transmit their data to a central server. Due to ...
+expand
+	Evaluation of a MCA-based approach to organize data cubes
+	Riadh Ben Messaoud, Omar Boussaid, Sabine Loudcher Rabaséda
+	Pages: 341 - 342
+	doi>10.1145/1099554.1099657
+	Full text: PdfPdf
+	
+
+In the OLAP context, exploration of huge and sparse data cubes is a tedious task that does not always lead to efficient results. We propose to use a Multiple Correspondence Analysis (MCA) in order to enhance data cube representations and make them more ...
+expand
+	Semantic similarity over the gene ontology: family correlation and selecting disjunctive ancestors
+	Francisco M. Couto, Mário J. Silva, Pedro M. Coutinho
+	Pages: 343 - 344
+	doi>10.1145/1099554.1099658
+	Full text: PdfPdf
+	
+
+Many bioinformatics applications would benefit from comparing proteins based on their biological role rather than their sequence. In most biological databases, proteins are already annotated with ontology terms. Previous studies identified a correlation ...
+expand
+	Extracting a website's content structure from its link structure
+	Nan Liu, Christopher C. Yang
+	Pages: 345 - 346
+	doi>10.1145/1099554.1099660
+	Full text: PdfPdf
+	
+
+Hierarchical models are commonly used to organize a Website's content. A Website's content structure can be represented by a topic hierarchy, a directed tree rooted at a Website's homepage in which the vertices and edges correspond to Web pages and hyperlinks. ...
+expand
+	Frequent pattern discovery with memory constraint
+	Kun-Ta Chuang, Ming-Syan Chen
+	Pages: 345 - 346
+	doi>10.1145/1099554.1099659
+	Full text: PdfPdf
+	
+
+We explore in this paper a practicably interesting mining task to retrieve frequent itemsets with memory constraint. As opposed to most previous works that concentrate on improving the mining efficiency or on reducing the memory size by best effort, ...
+expand
+	Improving intranet search-engines using context information from databases
+	Christoph Mangold, Holger Schwarz, Bernhard Mitschang
+	Pages: 349 - 350
+	doi>10.1145/1099554.1099661
+	Full text: PdfPdf
+	
+
+Information in enterprises comes in documents and data bases. From a semantic viewpoint, both kinds of information are usually tightly connected. In this paper, we propose to enhance common search-engines with contextual information retrieved from databases. ...
+expand
+	A new permutation approach for distributed association rule mining
+	Yiqun Huang, Zhengding Lu, Heping Hu
+	Pages: 351 - 352
+	doi>10.1145/1099554.1099662
+	Full text: PdfPdf
+	
+
+Privacy preserving distributed data mining has become a promising research area. This paper addresses the problem of association rule mining where the global database is vertically partitioned. When transactions are distributed in different sites, scalar ...
+expand
+	On off-topic access detection in information systems
+	Nazli Goharian, Ling Ma
+	Pages: 353 - 354
+	doi>10.1145/1099554.1099663
+	Full text: PdfPdf
+	
+
+We focus on detecting insider access violations to off-topic documents. Previously, we utilized information retrieval techniques, e.g., clustering and relevance feedback, to warn of potential misuse. For the relevance feedback approach, we minimize the ...
+expand
+	Privacy leakage in multi-relational databases via pattern based semi-supervised learning
+	Hui Xiong, Michael Steinbach, Vipin Kumar
+	Pages: 355 - 356
+	doi>10.1145/1099554.1099664
+	Full text: PdfPdf
+	
+
+In multi-relational databases, a view, which is a context- and content-dependent subset of one or more tables (or other views), is often used to preserve privacy by hiding sensitive information. However, recent developments in data mining present a new ...
+expand
+	Document clustering using character N-grams: a comparative evaluation with term-based and word-based clustering
+	Yingbo Miao, Vlado Kešelj, Evangelos Milios
+	Pages: 357 - 358
+	doi>10.1145/1099554.1099665
+	Full text: PdfPdf
+	
+
+We propose a novel method for document clustering using character N-grams. In the traditional vector-space model, the documents are represented as vectors, in which each dimension corresponds to a word. We propose a document representation based on the ...
+expand
+	Inferring document similarity from hyperlinks
+	David Grangier, Samy Bengio
+	Pages: 359 - 360
+	doi>10.1145/1099554.1099666
+	Full text: PdfPdf
+	
+
+Assessing semantic similarity between text documents is a crucial aspect in Information Retrieval systems. In this work, we propose to use hyperlink information to derive a similarity measure that can then be applied to compare any text documents, with ...
+expand
+	A hybrid approach to NER by MEMM and manual rules
+	Moshe Fresko, Binyamin Rosenfeld, Ronen Feldman
+	Pages: 361 - 362
+	doi>10.1145/1099554.1099667
+	Full text: PdfPdf
+	
+
+This paper describes a framework for defining domain specific Feature Functions in a user friendly form to be used in a Maximum Entropy Markov Model (MEMM) for the Named Entity Recognition (NER) task. Our system called MERGE allows defining general Feature ...
+expand
+	Situation-aware risk management in autonomous agents
+	Martin Lorenz, Jan D. Gehrke, Hagen Langer, Ingo J. Timm, Joachim Hammer
+	Pages: 363 - 364
+	doi>10.1145/1099554.1099668
+	Full text: PdfPdf
+	
+
+We present a novel approach to enable decision-making in a highly distributed multiagent environment where individual agents need to act in an autonomous fashion. Our architecture framework integrates risk management, knowledge management, and agent ...
+expand
+	SESSION: Paper session IR-4 (information retrieval): machine learning
+	
+	Mining officially unrecognized side effects of drugs by combining web search and machine learning
+	Carlo A. Curino, Yuanyuan Jia, Bruce Lambert, Patricia M. West, Clement Yu
+	Pages: 365 - 372
+	doi>10.1145/1099554.1099670
+	Full text: PdfPdf
+	
+
+We consider the problem of finding officially unrecognized side effects of drugs. By submitting queries to the Web involving a given drug name, it is possible to retrieve pages concerning the drug. However, many retrieved pages are irrelevant and some ...
+expand
+	MailRank: using ranking for spam detection
+	Paul-Alexandru Chirita, Jörg Diederich, Wolfgang Nejdl
+	Pages: 373 - 380
+	doi>10.1145/1099554.1099671
+	Full text: PdfPdf
+	
+
+Can we use social networks to combat spam? This paper investigates the feasibility of MailRank, a new email ranking and classification scheme exploiting the social communication network created via email interactions. The underlying email network data ...
+expand
+	ViPER: augmenting automatic information extraction with visual perceptions
+	Kai Simon, Georg Lausen
+	Pages: 381 - 388
+	doi>10.1145/1099554.1099672
+	Full text: PdfPdf
+	
+
+In this paper we address the problem of unsupervised Web data extraction. We show that unsupervised Web data extraction becomes feasible when supposing pages that are made up of repetitive patterns, as it is the case, e.g., for search engine result pages. ...
+expand
+	SESSION: Paper session DB-4 (databases): XML and query processing
+	
+	Interconnection semantics for keyword search in XML
+	Sara Cohen, Yaron Kanza, Benny Kimelfeld, Yehoshua Sagiv
+	Pages: 389 - 396
+	doi>10.1145/1099554.1099674
+	Full text: PdfPdf
+	
+
+A framework for describing semantic relationships among nodes in XML documents is presented. In contrast to earlier work, the XML documents may have ID references (i.e., they correspond to graphs and not just trees). A specific interconnection semantics ...
+expand
+	Efficient indexing and querying of XML data using modified Prüfer sequences
+	K. Hima Prasad, P. Sreenivasa Kumar
+	Pages: 397 - 404
+	doi>10.1145/1099554.1099675
+	Full text: PdfPdf
+	
+
+With the advent of XML as the new standard for information representation and exchange, indexing and querying of XML data is of major concern. In this paper, we propose a method for representing an XML document as a sequence based on a variation of Prüfer ...
+expand
+	Towards automatic association of relevant unstructured content with structured query results
+	Prasan Roy, Mukesh Mohania, Bhuvan Bamba, Shree Raman
+	Pages: 405 - 412
+	doi>10.1145/1099554.1099676
+	Full text: PdfPdf
+	
+
+Faced with growing knowledge management needs, enterprises are increasingly realizing the importance of seamlessly integrating critical business information distributed across both structured and unstructured data sources. In existing information integration ...
+expand
+	SESSION: Paper session KM-4 (knowledge management): information extraction
+	
+	Predicting accuracy of extracting information from unstructured text collections
+	Eugene Agichtein, Silviu Cucerzan
+	Pages: 413 - 420
+	doi>10.1145/1099554.1099678
+	Full text: PdfPdf
+	
+
+Exploiting lexical and semantic relationships in large unstructured text collections can significantly enhance managing, integrating, and querying information locked in unstructured text. Most notably, named entities and relations between entities are ...
+expand
+	WAM-Miner: in the search of web access motifs from historical web log data
+	Qiankun Zhao, Sourav S. Bhowmick, Le Gruenwald
+	Pages: 421 - 428
+	doi>10.1145/1099554.1099679
+	Full text: PdfPdf
+	
+
+Existing web usage mining techniques focus only on discovering knowledge based on the statistical measures obtained from the static characteristics of web usage data. They do not consider the dynamic nature of web usage data. In this paper, we ...
+expand
+	A framework for mining topological patterns in spatio-temporal databases
+	Junmei Wang, Wynne Hsu, Mong Li Lee
+	Pages: 429 - 436
+	doi>10.1145/1099554.1099680
+	Full text: PdfPdf
+	
+
+Mining topological patterns in spatial databases has received a lot of attention. However, existing work typically ignores the temporal aspect and suffers from certain efficiency problems. They are not scalable for mining topological patterns in spatio-temporal ...
+expand
+	SESSION: Industry track session
+	
+	Automated cleansing for spend analytics
+	Moninder Singh, Jayant R. Kalagnanam, Sudhir Verma, Amit J. Shah, Swaroop K. Chalasani
+	Pages: 437 - 445
+	doi>10.1145/1099554.1099682
+	Full text: PdfPdf
+	
+
+The development of an aggregate view of the procurement spend across an enterprise using transactional data is increasingly becoming a very important and strategic activity. Not only does it provide a complete and accurate picture of what the enterprise ...
+expand
+	Feature-based recommendation system
+	Eui-Hong (Sam) Han, George Karypis
+	Pages: 446 - 452
+	doi>10.1145/1099554.1099683
+	Full text: PdfPdf
+	
+
+The explosive growth of the world-wide-web and the emergence of e-commerce has led to the development of recommender systems--a personalized information filtering technology used to identify a set of N items that will be of interest to ...
+expand
+	Automatic analysis of call-center conversations
+	Gilad Mishne, David Carmel, Ron Hoory, Alexey Roytman, Aya Soffer
+	Pages: 453 - 459
+	doi>10.1145/1099554.1099684
+	Full text: PdfPdf
+	
+
+We describe a system for automating call-center analysis and monitoring. Our system integrates transcription of incoming calls with analysis of their content; for the analysis, we introduce a novel method of estimating the domain-specific importance ...
+expand
+	A new approach to intranet search based on information extraction
+	Hang Li, Yunbo Cao, Jun Xu, Yunhua Hu, Shenjie Li, Dmitriy Meyerzon
+	Pages: 460 - 468
+	doi>10.1145/1099554.1099685
+	Full text: PdfPdf
+	
+
+This paper is concerned with 'intranet search'. By intranet search, we mean searching for information on an intranet within an organization. We have found that search needs on an intranet can be categorized into types, through an analysis of survey results ...
+expand
+	SESSION: Paper session IR-5 (information retrieval): machine learning and collaborative filtering
+	
+	A novel refinement approach for text categorization
+	Songbo Tan, Xueqi Cheng, Moustafa M. Ghanem, Bin Wang, Hongbo Xu
+	Pages: 469 - 476
+	doi>10.1145/1099554.1099687
+	Full text: PdfPdf
+	
+
+In this paper we present a novel strategy, DragPushing, for improving the performance of text classifiers. The strategy is generic and takes advantage of training errors to successively refine the classification model of a base classifier. We describe ...
+expand
+	Intelligent GP fusion from multiple sources for text classification
+	Baoping Zhang, Yuxin Chen, Weiguo Fan, Edward A. Fox, Marcos Gonçalves, Marco Cristo, Pável Calado
+	Pages: 477 - 484
+	doi>10.1145/1099554.1099688
+	Full text: PdfPdf
+	
+
+This paper shows how citation-based information and structural content (e.g., title, abstract) can be combined to improve classification of text documents into predefined categories. We evaluate different measures of similarity -- five derived from the ...
+expand
+	Time weight collaborative filtering
+	Yi Ding, Xue Li
+	Pages: 485 - 492
+	doi>10.1145/1099554.1099689
+	Full text: PdfPdf
+	
+
+Collaborative filtering is regarded as one of the most promising recommendation algorithms. The item-based approaches for collaborative filtering identify the similarity between two items by comparing users' ratings on them. In these approaches, ratings ...
+expand
+	SESSION: Paper session DB-5 (databases): updates and change detection
+	
+	Handling frequent updates of moving objects
+	Bin Lin, Jianwen Su
+	Pages: 493 - 500
+	doi>10.1145/1099554.1099691
+	Full text: PdfPdf
+	
+
+A critical issue in moving object databases is to develop appropriate indexing structures for continuously moving object locations so that queries can still be performed efficiently. However, such location changes typically cause a high volume of updates, ...
+expand
+	QED: a novel quaternary encoding to completely avoid re-labeling in XML updates
+	Changqing Li, Tok Wang Ling
+	Pages: 501 - 508
+	doi>10.1145/1099554.1099692
+	Full text: PdfPdf
+	
+
+The method of assigning labels to the nodes of the XML tree is called a labeling scheme. Based on the labels only, both ordered and un-ordered queries can be processed without accessing the original XML file. One more important point for the labeling ...
+expand
+	Detecting changes on unordered XML documents using relational databases: a schema-conscious approach
+	Erwin Leonardi, Sourav S. Bhowmick
+	Pages: 509 - 516
+	doi>10.1145/1099554.1099693
+	Full text: PdfPdf
+	
+
+Several relational approaches have been proposed to detect the changes to XML documents by using relational databases. These approaches store the XML documents in the relational database and issue SQL queries (whenever appropriate) to detect the ...
+expand
+	SESSION: Paper session IR-6 (information retrieval): IR models 1
+	
+	Similarity measures for tracking information flow
+	Donald Metzler, Yaniv Bernstein, W. Bruce Croft, Alistair Moffat, Justin Zobel
+	Pages: 517 - 524
+	doi>10.1145/1099554.1099695
+	Full text: PdfPdf
+	
+
+Text similarity spans a spectrum, with broad topical similarity near one extreme and document identity at the other. Intermediate levels of similarity -- resulting from summarization, paraphrasing, copying, and stronger forms of topical relevance -- ...
+expand
+	Word sense disambiguation in queries
+	Shuang Liu, Clement Yu, Weiyi Meng
+	Pages: 525 - 532
+	doi>10.1145/1099554.1099696
+	Full text: PdfPdf
+	
+
+This paper presents a new approach to determine the senses of words in queries by using WordNet. In our approach, noun phrases in a query are determined first. For each word in the query, information associated with it, including its synonyms, hyponyms, ...
+expand
+	ERkNN: efficient reverse k-nearest neighbors retrieval with local kNN-distance estimation
+	Chenyi Xia, Wynne Hsu, Mong Li Lee
+	Pages: 533 - 540
+	doi>10.1145/1099554.1099697
+	Full text: PdfPdf
+	
+
+The Reverse k-Nearest Neighbors (RkNN) queries are important in profile-based marketing, information retrieval, decision support and data mining systems. However, they are very expensive and existing algorithms are not scalable to queries in high dimensional ...
+expand
+	SESSION: Industry track session
+	
+	Kalchas: a dynamic XML search engine
+	Rasmus Kaae, Thanh-Duy Nguyen, Dennis Nørgaard, Albrecht Schmidt
+	Pages: 541 - 548
+	doi>10.1145/1099554.1099699
+	Full text: PdfPdf
+	
+
+This paper outlines the system architecture and the core data structures of Kalchas, a fulltext search engine for XML data with emphasis on dynamic indexing, and identifies features worth demonstrating. The concept of dynamic index implies that the aim ...
+expand
+	Order checking in a CPOE using event analyzer
+	Lilian Harada, Yuuji Hotta
+	Pages: 549 - 555
+	doi>10.1145/1099554.1099700
+	Full text: PdfPdf
+	
+
+In this paper we present our experience in applying Event Analyzer, a processing engine we have developed to extract patterns from a sequence of events, in the checking of medical orders of a CPOE system. We present some extensions we have implemented ...
+expand
+	SyynX solutions: practical knowledge management in a medical environment
+	Christian Herzog, Gianpiero Liuzzi, Mario Diwersy
+	Pages: 556 - 559
+	doi>10.1145/1099554.1099701
+	Full text: PdfPdf
+	
+
+In this paper we describe the Knowledge Management approach for the biomedical scientific community developed by SyynX Solutions GmbH [1].
+expand
+	Leveraging collective knowledge
+	Henry Kon, Michael Hoey
+	Pages: 560 - 567
+	doi>10.1145/1099554.1099702
+	Full text: PdfPdf
+	
+
+As more organizations begin to deploy taxonomies for categorization and faceted search, the cost of producing these knowledge models is becoming the largest expense on a project. At a cost of 200 - 300 dollars per topic, manually developing subject area ...
+expand
+	Taxonomies by the numbers: building high-performance taxonomies
+	Stephen C. Gates, Wilfried Teiken, Keh-Shin F. Cheng
+	Pages: 568 - 577
+	doi>10.1145/1099554.1099703
+	Full text: PdfPdf
+	
+
+In this paper, we describe a system for the construction of taxonomies which yield high accuracies with automated categorization systems, even on Web and intranet documents. In particular, we describe the way in which measurement of five key features ...
+expand
+	SESSION: Paper session IR-7 (information retrieval): distributed retrieval
+	
+	Distributed PageRank computation based on iterative aggregation-disaggregation methods
+	Yangbo Zhu, Shaozhi Ye, Xing Li
+	Pages: 578 - 585
+	doi>10.1145/1099554.1099705
+	Full text: PdfPdf
+	
+
+PageRank has been widely used as a major factor in search engine ranking systems. However, global link graph information is required when computing PageRank, which causes prohibitive communication cost to achieve accurate results in distributed solution. ...
+expand
+	Scalable summary based retrieval in P2P networks
+	Wolfgang Müller, Martin Eisenhardt, Andreas Henrich
+	Pages: 586 - 593
+	doi>10.1145/1099554.1099706
+	Full text: PdfPdf
+	
+
+Much of the present P2P-IR literature is focused on distributed indexing structures. Within this paper, we present an approach based on the replication of peer data summaries via rumor spreading and multicast in a structured overlay.We will describe ...
+expand
+	SESSION: Paper session DB-6 (databases): algorithms
+	
+	Compact reachability labeling for graph-structured data
+	Hao He, Haixun Wang, Jun Yang, Philip S. Yu
+	Pages: 594 - 601
+	doi>10.1145/1099554.1099708
+	Full text: PdfPdf
+	
+
+Testing reachability between nodes in a graph is a well-known problem with many important applications, including knowledge representation, program analysis, and more recently, biological and ontology databases inferencing as well as XML query processing. ...
+expand
+	A formal characterization of PIVOT/UNPIVOT
+	Catharine M. Wyss, Edward L. Robertson
+	Pages: 602 - 608
+	doi>10.1145/1099554.1099709
+	Full text: PdfPdf
+	
+
+PIVOT is an important relational operation that allows data in rows to be exchanged for columns. Although most current relational database management systems support PIVOT-type operations, to date a purely formal, algebraic characterization of PIVOT ...
+expand
+	SESSION: Paper session DB-7 (databases): privacy and sharing
+	
+	A novel approach for privacy-preserving video sharing
+	Jianping Fan, Hangzai Luo, Mohand-Said Hacid, Elisa Bertino
+	Pages: 609 - 616
+	doi>10.1145/1099554.1099711
+	Full text: PdfPdf
+	
+
+To support privacy-preserving video sharing, we have proposed a novel framework that is able to protect the video content privacy at the individual video clip level and prevent statistical inferences from video collections. To protect the video content ...
+expand
+	SESSION: Paper session IR-8 (information retrieval): sentiment and genre classification
+	
+	Determining the semantic orientation of terms through gloss classification
+	Andrea Esuli, Fabrizio Sebastiani
+	Pages: 617 - 624
+	doi>10.1145/1099554.1099713
+	Full text: PdfPdf
+	
+
+Sentiment classification is a recent subdiscipline of text classification which is concerned not with the topic a document is about, but with the opinion it expresses. It has a rich set of applications, ranging from tracking users' opinions about ...
+expand
+	Using appraisal groups for sentiment analysis
+	Casey Whitelaw, Navendu Garg, Shlomo Argamon
+	Pages: 625 - 631
+	doi>10.1145/1099554.1099714
+	Full text: PdfPdf
+	
+
+Little work to date in sentiment analysis (classifying texts by `positive' or `negative' orientation) has attempted to use fine-grained semantic distinctions in features used for classification. We present a new method for sentiment classification based ...
+expand
+	Effects of web document evolution on genre classification
+	Elizabeth Sugar Boese, Adele E. Howe
+	Pages: 632 - 639
+	doi>10.1145/1099554.1099715
+	Full text: PdfPdf
+	
+
+The World Wide Web is a massive corpus that constantly evolves. Classification experiments usually grab a snapshot (temporally and spatially) of the Web for a corpus. In this paper, we examine the effects of page evolution on genre classification of ...
+expand
+	SESSION: Paper session DB-8 (databases): query optimisation
+	
+	Query workload-aware overlay construction using histograms
+	Georgia Koloniari, Yannis Petrakis, Evaggelia Pitoura, Thodoris Tsotsos
+	Pages: 640 - 647
+	doi>10.1145/1099554.1099717
+	Full text: PdfPdf
+	
+
+Peer-to-peer(p2p) systems over an efficient means of data sharing among a dynamically changing set of a large number of a tonomous nodes.Each node in a p2p system is connected with a small number of other nodes thus creating an overlay network of nodes. ...
+expand
+	Optimizing candidate check costs for bitmap indices
+	Doron Rotem, Kurt Stockinger, Kesheng Wu
+	Pages: 648 - 655
+	doi>10.1145/1099554.1099718
+	Full text: PdfPdf
+	
+
+In this paper, we propose a new strategy for optimizing the placement of bin boundaries to minimize the cost of query evaluation using bitmap indices with binning. For attributes with a large number of distinct values, often the most efficient index ...
+expand
+	Towards estimating the number of distinct value combinations for a set of attributes
+	Xiaohui Yu, Calisto Zuzarte, Kenneth C. Sevcik
+	Pages: 656 - 663
+	doi>10.1145/1099554.1099719
+	Full text: PdfPdf
+	
+
+Accurately and efficiently estimating the number of distinct values for some attribute(s) or sets of attributes in a data set is of critical importance to many database operations, such as query optimization and approximation query answering. Previous ...
+expand
+	SESSION: Paper session IR-9 (information retrieval): IR models 2
+	
+	A geometric interpretation and analysis of R-precision
+	Javed A. Aslam, Emine Yilmaz
+	Pages: 664 - 671
+	doi>10.1145/1099554.1099721
+	Full text: PdfPdf
+	
+
+Average precision and R-precision are two of the most commonly cited measures of overall retrieval performance, but their correlation, though well-known, has defied explanation. We recently devised a geometric interpretation of R-precision which suggests ...
+expand
+	Regularizing ad hoc retrieval scores
+	Fernando Diaz
+	Pages: 672 - 679
+	doi>10.1145/1099554.1099722
+	Full text: PdfPdf
+	
+
+The cluster hypothesis states: closely related documents tend to be relevant to the same request. We exploit this hypothesis directly by adjusting ad hoc retrieval scores from an initial retrieval so that topically related documents receive similar scores. ...
+expand
+	Incremental test collections
+	Ben Carterette, James Allan
+	Pages: 680 - 687
+	doi>10.1145/1099554.1099723
+	Full text: PdfPdf
+	
+
+Corpora and topics are readily available for information retrieval research. Relevance judgments, which are necessary for system evaluation, are expensive; the cost of obtaining them prohibits in-house evaluation of retrieval systems on new corpora or ...
+expand
+	SESSION: Paper session IR-10 (information retrieval): query expansion
+	
+	Query expansion using term relationships in language models for information retrieval
+	Jing Bai, Dawei Song, Peter Bruza, Jian-Yun Nie, Guihong Cao
+	Pages: 688 - 695
+	doi>10.1145/1099554.1099725
+	Full text: PdfPdf
+	
+
+Language Modeling (LM) has been successfully applied to Information Retrieval (IR). However, most of the existing LM approaches only rely on term occurrences in documents, queries and document collections. In traditional unigram based models, terms (or ...
+expand
+	Concept-based interactive query expansion
+	Bruno M. Fonseca, Paulo Golgher, Bruno Pôssas, Berthier Ribeiro-Neto, Nivio Ziviani
+	Pages: 696 - 703
+	doi>10.1145/1099554.1099726
+	Full text: PdfPdf
+	
+
+Despite the recent advances in search quality, the fast increase in the size of the Web collection has introduced new challenges for Web ranking algorithms. In fact, there are still many situations in which the users are presented with imprecise or very ...
+expand
+	Query expansion using random walk models
+	Kevyn Collins-Thompson, Jamie Callan
+	Pages: 704 - 711
+	doi>10.1145/1099554.1099727
+	Full text: PdfPdf
+	
+
+It has long been recognized that capturing term relationships is an important aspect of information retrieval. Even with large amounts of data, we usually only have significant evidence for a fraction of all potential term pairs. It is therefore important ...
+expand
+	SESSION: Paper session DB-9 (databases): query processing 1
+	
+	Semantic querying of tree-structured data sources using partially specified tree patterns
+	Dimitri Theodoratos, Theodore Dalamagas, Antonis Koufopoulos, Narain Gehani
+	Pages: 712 - 719
+	doi>10.1145/1099554.1099729
+	Full text: PdfPdf
+	
+
+Nowadays, huge volumes of data are organized or exported in a tree-structured form. Querying capabilities are provided through queries that are based on branching path expression. Even for a single knowledge domain structural differences raise difficulties ...
+expand
+	Selectivity-based partitioning: a divide-and-union paradigm for effective query optimization
+	Neoklis Polyzotis
+	Pages: 720 - 727
+	doi>10.1145/1099554.1099730
+	Full text: PdfPdf
+	
+
+Modern query optimizers select an efficient join ordering for a physical execution plan based essentially on the average join selectivity factors among the referenced tables. In this paper, we argue that this "monolithic" approach can miss important ...
+expand
+	Efficient evaluation of parameterized pattern queries
+	Cédric du Mouza, Philippe Rigaux, Michel Scholl
+	Pages: 728 - 735
+	doi>10.1145/1099554.1099731
+	Full text: PdfPdf
+	
+
+Many applications rely on sequence databases and use extensively pattern-matching queries to retrieve data of interest. This paper extends the traditional pattern-matching expressions to parameterized patterns, featuring variables. Parameterized ...
+expand
+	SESSION: Paper session IR-11 (information retrieval): novelty detection
+	
+	Redundant documents and search effectiveness
+	Yaniv Bernstein, Justin Zobel
+	Pages: 736 - 743
+	doi>10.1145/1099554.1099733
+	Full text: PdfPdf
+	
+
+The web contains a great many documents that are content-equivalent, that is, informationally redundant with respect to each other. The presence of such mutually redundant documents in search results can degrade the user search experience. Previous ...
+expand
+	Novelty detection based on sentence level patterns
+	Xiaoyan Li, W. Bruce Croft
+	Pages: 744 - 751
+	doi>10.1145/1099554.1099734
+	Full text: PdfPdf
+	
+
+The detection of new information in a document stream is an important component of many potential applications. In this paper, a new novelty detection approach based on the identification of sentence level patterns is proposed. Given a user's information ...
+expand
+	Minimal document set retrieval
+	Wei Dai, Rohini Srihari
+	Pages: 752 - 759
+	doi>10.1145/1099554.1099735
+	Full text: PdfPdf
+	
+
+This paper presents a novel formulation and approach to the minimal document set retrieval problem. Minimal Document Set Retrieval (MDSR) is a promising information retrieval task in which each query topic is assumed to have different subtopics; ...
+expand
+	SESSION: Paper session IR-12 (information retrieval): IR potpourri
+	
+	A model for weighting image objects in home photographs
+	Jean Martinet, Yves Chiaramella, Philippe Mulhem
+	Pages: 760 - 767
+	doi>10.1145/1099554.1099737
+	Full text: PdfPdf
+	
+
+The paper presents a contribution to image indexing consisting in a weighting model for visible objects -- or image objects -- in home photographs. To improve its effectiveness this weighting model has been designed according to human perception criteria ...
+expand
+	Automatic construction of multifaceted browsing interfaces
+	Wisam Dakka, Panagiotis G. Ipeirotis, Kenneth R. Wood
+	Pages: 768 - 775
+	doi>10.1145/1099554.1099738
+	Full text: PdfPdf
+	
+
+Databases of text and text-annotated data constitute a significant fraction of the information available in electronic form. Searching and browsing are the typical ways that users locate items of interest in such databases. Interfaces that use multifaceted ...
+expand
+	Fast on-line index construction by geometric partitioning
+	Nicholas Lester, Alistair Moffat, Justin Zobel
+	Pages: 776 - 783
+	doi>10.1145/1099554.1099739
+	Full text: PdfPdf
+	
+
+Inverted index structures are the mainstay of modern text retrieval systems. They can be constructed quickly using off-line merge-based methods, and provide efficient support for a variety of querying modes. In this paper we examine the task of on-line ...
+expand
+	SESSION: Paper session DB-10 (databases): query processing 2
+	
+	Optimizing cursor movement in holistic twig joins
+	Marcus Fontoura, Vanja Josifovski, Eugene Shekita, Beverly Yang
+	Pages: 784 - 791
+	doi>10.1145/1099554.1099741
+	Full text: PdfPdf
+	
+
+Holistic twig join algorithms represent the state of the art for evaluating path expressions in XML queries. Using inverted indexes on XML elements, holistic twig joins move a set of index cursors in a coordinated way to quickly find structural matches. ...
+expand
+	Consistent query answering under key and exclusion dependencies: algorithms and experiments
+	Luca Grieco, Domenico Lembo, Riccardo Rosati, Marco Ruzzi
+	Pages: 792 - 799
+	doi>10.1145/1099554.1099742
+	Full text: PdfPdf
+	
+
+Research in consistent query answering studies the definition and computation of "meaningful" answers to queries posed to inconsistent databases, i.e., databases whose data do not satisfy the integrity constraints (ICs) declared on their ...
+expand
+	Balancing performance and confidentiality in air index
+	Qingzhao Tan, Wang-Chien Lee, Baihua Zheng, Peng Liu, Dik Lun Lee
+	Pages: 800 - 807
+	doi>10.1145/1099554.1099743
+	Full text: PdfPdf
+	
+
+Studies on the performance issues (i.e., access latency and energy conservation) of wireless data broadcast have appeared in the literature. However, the important security issues have not been well addressed. This paper investigates the tradeoff between ...
+expand
+	SESSION: Paper session IR-13 (information retrieval): context and personalization
+	
+	Context modeling and discovery using vector space bases
+	Massimo Melucci
+	Pages: 808 - 815
+	doi>10.1145/1099554.1099745
+	Full text: PdfPdf
+	
+
+In this paper, context is modeled by vector space bases and its evolution is modeled by linear transformations from one base to another. Each document or query can be associated to a distinct base, which corresponds to one context. Also, algorithms are ...
+expand
+	Y!Q: contextual search at the point of inspiration
+	Reiner Kraft, Farzin Maghoul, Chi Chao Chang
+	Pages: 816 - 823
+	doi>10.1145/1099554.1099746
+	Full text: PdfPdf
+	
+
+Contextual search tries to better capture a user's information need by augmenting the user's query with contextual information extracted from the search context (for example, terms from the web page the user is currently reading or a file the user is ...
+expand
+	Implicit user modeling for personalized search
+	Xuehua Shen, Bin Tan, ChengXiang Zhai
+	Pages: 824 - 831
+	doi>10.1145/1099554.1099747
+	Full text: PdfPdf
+	
+
+Information retrieval systems (e.g., web search engines) are critical for overcoming information overload. A major deficiency of existing retrieval systems is that they generally lack user modeling and are not adaptive to individual users, resulting ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

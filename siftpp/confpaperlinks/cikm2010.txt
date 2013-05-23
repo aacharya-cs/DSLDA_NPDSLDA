@@ -1,0 +1,3174 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 19th ACM international conference on Information and knowledge management
+General Chairs: 	Jimmy Huang 	York University, Canada
+Program Chairs: 	Nick Koudas 	University of Toronto, Canada
+	Gareth Jones 	Dublin City University, Ireland
+	Xindong Wu 	University of Vermont, USA
+	Kevyn Collins-Thompson 	Microsoft Research, USA
+	Aijun An 	York University, Canada
+	
+Proceedings of the 19th ACM international conference on Information and knowledge management 	Published by ACM 2010 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 3,753
+· Downloads (12 Months): 31,645
+· Citation Count: 348
+
+Publication of:
+· Conference
+CIKM '10 International Conference on Information and Knowledge Management
+Toronto , ON, Canada — October 26 - 30, 2010
+ACM New York, NY, USA ©2010
+
+	
+Tools and Resources
+
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+    Upcoming Conference:
+        CIKM'12
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to tabbed view
+
+Abstract | Source Materials | Authors | References | Cited By | Index Terms | Publication | Reviews | Comments | Table of Contents
+top of pageABSTRACT
+
+On behalf of the organizing committee, I wholeheartedly welcome you to the 19th ACM International Conference on Information and Knowledge Management (CIKM 2010). I hope this conference proves to be interesting and beneficial.
+
+CIKM is a well-known top tier and premier ACM conference in the areas of information retrieval, knowledge management and database. Since its inception, the CIKM conference has provided a unique international forum for the presentation, discussion, and dissemination of research findings in data management, information retrieval, and knowledge management. The purpose of the conference is to identify challenging problems facing the development of future knowledge and information systems, and to shape future research directions through the publication of high quality, applied and theoretical research findings. The conference has been a leading forum in which experts from academia, industry, and the government gather to exchange ideas, research achievements, and technical developments in multidisciplinary research areas.
+
+CIKM has rapidly grown to become one of the world's most recognized conferences in the field. This year CIKM has received a record high number of submissions in the history of CIKM, as can be seen from the following statistics:
+
+    1382 abstracts submitted
+    945 full papers plus 38 demo papers submitted
+    126 papers accepted for presentation as full papers (13.3% acceptance rate) and an additional 165 were accepted for short papers (17.5%).
+
+In addition to regular research tracks, CIKM 2010 features 4 keynote speakers, 4 pre-conference tutorials, 9 workshops, 12 industrial full papers and 20 demo papers. I am proud of our program and acknowledge the tireless efforts of people who materialized this program.
+
+First of all, I am honored to have 4 distinguished keynote speakers: Jamie Callan, Susan Dumais, Gregory Grefenstette, and Divesh Srivastava. I deeply appreciate their time and commitment to deliver their speeches and share their cutting-edge research experiences and insightful comments in their research topics.
+
+top of pageSOURCE MATERIALS
+FRONT MATTER
+PDFPDF  (cd label, copyright, foreword, message from the program committee chairs, contents, organization, DB track program committees, IR track program committees, KM track program committees, industry track, workshop, & demonstration program committees, reviewers, sponsors)
+BACK MATTER
+PDFPDF  (author index)
+
+top of pageAUTHORS
+
+General Chairs
+
+
+    Author image not provided 	 Jimmy Huang
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	2001-2012
+    Publication count	58
+    Citation Count	122
+    Available for download	23
+    Downloads (6 Weeks)	135
+    Downloads (12 Months)	1,222
+    View colleagues of Jimmy Huang
+Program Chairs
+
+
+    Author image not provided 	 Nick Koudas
+
+     homepage
+     koudasatcs.toronto.edu
+    	
+    Bibliometrics: publication history
+    Publication years	1994-2012
+    Publication count	120
+    Citation Count	1,935
+    Available for download	76
+    Downloads (6 Weeks)	541
+    Downloads (12 Months)	4,279
+    View colleagues of Nick Koudas
+
+
+    Author image not provided 	 Gareth Jones
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1995-2011
+    Publication count	115
+    Citation Count	339
+    Available for download	45
+    Downloads (6 Weeks)	232
+    Downloads (12 Months)	1,902
+    View colleagues of Gareth Jones
+
+
+    Author image not provided 	 Xindong Wu
+
+    No contact information provided yet.
+    	
+     
+    View colleagues of Xindong Wu
+
+
+    Author image not provided 	 Kevyn Collins-Thompson
+
+     Homepage
+     kevynctatacm.org
+    	
+    Bibliometrics: publication history
+    Publication years	2001-2012
+    Publication count	19
+    Citation Count	107
+    Available for download	15
+    Downloads (6 Weeks)	209
+    Downloads (12 Months)	926
+    View colleagues of Kevyn Collins-Thompson
+
+
+    Author image not provided 	 Aijun An
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1997-2011
+    Publication count	66
+    Citation Count	160
+    Available for download	13
+    Downloads (6 Weeks)	93
+    Downloads (12 Months)	765
+    View colleagues of Aijun An
+
+top of pageREFERENCES
+References are not available
+top of pageCITED BY
+Citings are not available
+top of pageINDEX TERMS
+Index Terms are not available
+top of pagePUBLICATION
+Title 	CIKM '10 International Conference on Information and Knowledge Management
+	Toronto , ON, Canada — October 26 - 30, 2010
+Pages	1986
+Sponsors 	SIGWEB ACM Special Interest Group on Hypertext, Hypermedia, and Web
+	SIGIR ACM Special Interest Group on Information Retrieval
+	SIGKDD ACM Special Interest Group on Knowledge Discovery in Data
+Publisher	ACM New York, NY, USA
+ISBN	978-1-4503-0099-5
+Order Number	605100
+Conference 	CIKMConference on Information and Knowledge Management CIKM logo
+Paper Acceptance Rate 126 of 945 submissions, 13%
+Overall Acceptance Rate 776 of 4,531 submissions, 17%
+	
+Year 	Submitted 	Accepted 	Rate
+CIKM '06 	537 	81 	15%
+CIKM '07 	512 	86 	17%
+CIKM '08 	772 	132 	17%
+CIKM '09 	847 	123 	15%
+CIKM '10 	945 	126 	13%
+CIKM '11 	918 	228 	25%
+Overall 	4,531 	776 	17%
+top of pageREVIEWS
+
+Reviews are not available for this item
+Computing Reviews logo
+
+    Access critical reviews of computing literature.
+    Become a reviewer for Computing Reviews
+
+top of pageCOMMENTS
+
+Be the first to comment To Post a comment please sign in or create a free Web account
+top of pageTable of Contents
+Proceedings of the 19th ACM international conference on Information and knowledge management
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Keynote addresses
+	
+	Search engine support for software applications
+	Jamie Callan
+	Pages: 1-2
+	doi>10.1145/1871437.1871439
+	Full text: PDFPDF
+	
+
+Question-answering, computer-assisted language learning, text mining, and other software applications that use a full-search engine to find information in a large text corpus are becoming common. A software application may use metadata and text annotations ...
+expand
+	Schema extraction
+	Divesh Srivastava
+	Pages: 3-4
+	doi>10.1145/1871437.1871440
+	Full text: PDFPDF
+	
+
+Understanding the schema of a complex database is a crucial step in exploratory data analysis. However, gaining such an understanding is challenging for new users for many reasons. First, complex databases often have thousands of inter-linked tables, ...
+expand
+	Use of semantics in real life applications
+	Gregory Grefenstette
+	Pages: 5-6
+	doi>10.1145/1871437.1871441
+	Full text: PDFPDF
+	
+
+Semantics has many different definitions in science. In natural language processing, there has been much research over the past three decades involving extracting the semantics, the meaning, of natural texts. This has led to entity recognition (people, ...
+expand
+	Temporal dynamics and information retrieval
+	Susan T. Dumais
+	Pages: 7-8
+	doi>10.1145/1871437.1871442
+	Full text: PDFPDF
+	
+
+Many digital resources, like the Web, are dynamic and ever-changing collections of information. However, most of the tools information retrieval and management that have been developed for interacting with Web content, such as browsers and search engines, ...
+expand
+	SESSION: KM track: information extraction
+	
+	Components for information extraction: ontology-based information extractors and generic platforms
+	Daya C. Wimalasuriya, Dejing Dou
+	Pages: 9-18
+	doi>10.1145/1871437.1871444
+	Full text: PDFPDF
+	
+
+Information Extraction (IE) has existed as a field for several decades and has produced some impressive systems in the recent past. Despite its success, widespread usage and commercialization remain elusive goals for this field. We identify the lack ...
+expand
+	Automatically acquiring a semantic network of related concepts
+	Sean Szumlanski, Fernando Gomez
+	Pages: 19-28
+	doi>10.1145/1871437.1871445
+	Full text: PDFPDF
+	
+
+We describe the automatic construction of a semantic network1, in which over 3000 of the most frequently occurring monosemous nouns2 in Wikipedia (each appearing between 1,500 and 100,000 times) are linked to their semantically ...
+expand
+	Online annotation of text streams with structured entities
+	Ken Q. Pu, Oktie Hassanzadeh, Richard Drake, Renée J. Miller
+	Pages: 29-38
+	doi>10.1145/1871437.1871446
+	Full text: PDFPDF
+	
+
+We propose a framework and algorithm for annotating unbounded text streams with entities of a structured database. The algorithm allows one to correlate unstructured and dirty text streams from sources such as emails, chats and blogs, to entities stored ...
+expand
+	Automatic extraction of web data records containing user-generated content
+	Xinying Song, Jing Liu, Yunbo Cao, Chin-Yew Lin, Hsiao-Wuen Hon
+	Pages: 39-48
+	doi>10.1145/1871437.1871447
+	Full text: PDFPDF
+	
+
+In this paper, we are concerned with the problem of automatically extracting web data records that contain user-generated content (UGC). In previous work, web data records are usually assumed to be well-formed with a limited amount of UGC, and thus can ...
+expand
+	An efficient algorithm for mining time interval-based patterns in large database
+	Yi-Cheng Chen, Ji-Chiang Jiang, Wen-Chih Peng, Suh-Yin Lee
+	Pages: 49-58
+	doi>10.1145/1871437.1871448
+	Full text: PDFPDF
+	
+
+Most studies on sequential pattern mining are mainly focused on time point-based event data. Few research efforts have elaborated on mining patterns from time interval-based event data. However, in many real applications, event usually persists for an ...
+expand
+	SESSION: IR track: ranking and retrieval model
+	
+	What can quantum theory bring to information retrieval
+	Benjamin Piwowarski, Ingo Frommholz, Mounia Lalmas, Keith van Rijsbergen
+	Pages: 59-68
+	doi>10.1145/1871437.1871450
+	Full text: PDFPDF
+	
+
+The probabilistic formalism of quantum physics is said to provide a sound basis for building a principled information retrieval framework. Such a framework can be based on the notion of information need vector spaces where events, such as document relevance ...
+expand
+	Entity ranking using Wikipedia as a pivot
+	Rianne Kaptein, Pavel Serdyukov, Arjen De Vries, Jaap Kamps
+	Pages: 69-78
+	doi>10.1145/1871437.1871451
+	Full text: PDFPDF
+	
+
+In this paper we investigate the task of Entity Ranking on the Web. Searchers looking for entities are arguably better served by presenting a ranked list of entities directly, rather than a list of web pages with relevant but also potentially redundant ...
+expand
+	Ranking under temporal constraints
+	Lidan Wang, Donald Metzler, Jimmy Lin
+	Pages: 79-88
+	doi>10.1145/1871437.1871452
+	Full text: PDFPDF
+	
+
+This paper introduces the notion of temporally constrained ranked retrieval, which, given a query and a time constraint, produces the best possible ranked list within the specified time limit. Naturally, more time should translate into better results, ...
+expand
+	Examining the information retrieval process from an inductive perspective
+	Ronan Cummins, Mounia Lalmas, Colm O'Riordan
+	Pages: 89-98
+	doi>10.1145/1871437.1871453
+	Full text: PDFPDF
+	
+
+Term-weighting functions derived from various models of retrieval aim to model human notions of relevance more accurately. However, there is a lack of analysis of the sources of evidence from which important features of these term weighting schemes originate. ...
+expand
+	On identifying representative relevant documents
+	Fiana Raiber, Oren Kurland
+	Pages: 99-108
+	doi>10.1145/1871437.1871454
+	Full text: PDFPDF
+	
+
+Using relevance feedback can significantly improve the effectiveness of ad hoc (query-based) retrieval. However, retrieval performance can significantly vary with respect to the given set of relevant documents. Our goal is to establish a quantitative ...
+expand
+	SESSION: DB track: indexes and query optimization
+	
+	On the selectivity of multidimensional routing indices
+	Christos Doulkeridis, Akrivi Vlachou, Kjetil Nørvåg, Yannis Kotidis, Michalis Vazirgiannis
+	Pages: 109-118
+	doi>10.1145/1871437.1871456
+	Full text: PDFPDF
+	
+
+Recently, the problem of efficiently supporting advanced query operators, such as nearest neighbor or range queries, over multidimensional data in widely distributed environments has attracted much attention. In unstructured peer-to-peer (P2P) networks, ...
+expand
+	Path-hop: efficiently indexing large graphs for reachability queries
+	Jing Cai, Chung Keung Poon
+	Pages: 119-128
+	doi>10.1145/1871437.1871457
+	Full text: PDFPDF
+	
+
+Graph reachability is a fundamental research problem that finds its use in many applications such as geographic navigation, bioinformatics, web ontologies and XML databases, etc. Given two vertices, u and v, in a directed graph, a reachability ...
+expand
+	On wavelet decomposition of uncertain time series data sets
+	Yuchen Zhao, Charu Aggarwal, Philip Yu
+	Pages: 129-138
+	doi>10.1145/1871437.1871458
+	Full text: PDFPDF
+	
+
+In this paper, we will explore the construction of wavelet decompositions of uncertain data. Uncertain representations of data sets require significantly more space, and it is therefore even more important to construct compressed representations for ...
+expand
+	Efficient set-correlation operator inside databases
+	Shaoxu Song, Lei Chen
+	Pages: 139-148
+	doi>10.1145/1871437.1871459
+	Full text: PDFPDF
+	
+
+Large scale of short text records are now prevalent, such as news highlights, scientific paper citations, and posted messages in a discussion forum, which are often stored as set records in (hidden) databases. Many interesting information retrieval tasks ...
+expand
+	Online update of b-trees
+	Marina Barsky, Alex Thomo, Zoltan Toth, Calisto Zuzarte
+	Pages: 149-158
+	doi>10.1145/1871437.1871460
+	Full text: PDFPDF
+	
+
+Many scenarios impose a heavy update load on B-tree indexes in modern databases. A typical case is when B-trees are used for indexing all the keywords of a text field. For example upon the insertion of a new text record (e.g. a new document arrives), ...
+expand
+	SESSION: IR track: domain-specific and multimedia IR
+	
+	Wisdom of the ages: toward delivering the children's web with the link-based agerank algorithm
+	Karl Gyllstrom, Marie-Francine Moens
+	Pages: 159-168
+	doi>10.1145/1871437.1871462
+	Full text: PDFPDF
+	
+
+Though children frequently use web search engines to learn, interact, and be entertained, modern web search engines are poorly suited to children's needs, requiring relatively complex querying and filtering of results in order to find pages oriented ...
+expand
+	A cross-lingual framework for monolingual biomedical information retrieval
+	Dolf Trieschnigg, Djoerd Hiemstra, Franciska de Jong, Wessel Kraaij
+	Pages: 169-178
+	doi>10.1145/1871437.1871463
+	Full text: PDFPDF
+	
+
+An important challenge for biomedical information retrieval (IR) is dealing with the complex, inconsistent and ambiguous biomedical terminology. Frequently, a concept-based representation defined in terms of a domain-specific terminological resource ...
+expand
+	Multi-modal multi-correlation person-centric news retrieval
+	Zechao Li, Jing Liu, Xiaobin Zhu, Hanqing Lu
+	Pages: 179-188
+	doi>10.1145/1871437.1871464
+	Full text: PDFPDF
+	
+
+In this paper, we propose a framework of multi-modal multi-correlation person-centric news retrieval, which integrates news event correlations, news entity correlations, and event-entity correlations simultaneously by exploring both text and image information. ...
+expand
+	Bringing order to your photos: event-driven classification of flickr images based on social knowledge
+	Claudiu S. Firan, Mihai Georgescu, Wolfgang Nejdl, Raluca Paiu
+	Pages: 189-198
+	doi>10.1145/1871437.1871465
+	Full text: PDFPDF
+	
+
+With the rapidly increasing popularity of Social Media sites, a lot of user generated content has been injected in the Web, thus resulting in a large amount of both multimedia items (music - Last.fm, MySpace.com, pictures - Flickr, Picasa, ...
+expand
+	SESSION: KM track: link and graph mining
+	
+	Mining topic-level influence in heterogeneous networks
+	Lu Liu, Jie Tang, Jiawei Han, Meng Jiang, Shiqiang Yang
+	Pages: 199-208
+	doi>10.1145/1871437.1871467
+	Full text: PDFPDF
+	
+
+Influence is a complex and subtle force that governs the dynamics of social networks as well as the behaviors of involved users. Understanding influence can benefit various applications such as viral marketing, recommendation, and information retrieval. ...
+expand
+	Mining interesting link formation rules in social networks
+	Cane Wing-ki Leung, Ee-Peng Lim, David Lo, Jianshu Weng
+	Pages: 209-218
+	doi>10.1145/1871437.1871468
+	Full text: PDFPDF
+	
+
+Link structures are important patterns one looks out for when modeling and analyzing social networks. In this paper, we propose the task of mining interesting Link Formation rules (LF-rules) containing link structures known as Link Formation patterns ...
+expand
+	SHRINK: a structural clustering algorithm for detecting hierarchical communities in networks
+	Jianbin Huang, Heli Sun, Jiawei Han, Hongbo Deng, Yizhou Sun, Yaguang Liu
+	Pages: 219-228
+	doi>10.1145/1871437.1871469
+	Full text: PDFPDF
+	
+
+Community detection is an important task for mining the structure and function of complex networks. Generally, there are several different kinds of nodes in a network which are cluster nodes densely connected within communities, as well as some special ...
+expand
+	Outcome aware ranking in interaction networks
+	Sampath Kameshwaran, Vinayaka Pandit, Sameep Mehta, Nukala Viswanadham, Kashyap Dixit
+	Pages: 229-238
+	doi>10.1145/1871437.1871470
+	Full text: PDFPDF
+	
+
+In this paper, we present a novel ranking technique that we developed in the context of an application that arose in a Service Delivery setting. We consider the problem of ranking agents of a service organization. The service agents typically need to ...
+expand
+	Expansion and search in networks
+	Arun S. Maiya, Tanya Y. Berger-Wolf
+	Pages: 239-248
+	doi>10.1145/1871437.1871471
+	Full text: PDFPDF
+	
+
+Borrowing from concepts in expander graphs, we study the expansion properties of real-world, complex networks (e.g. social networks, unstructured peer-to-peer or P2P networks) and the extent to which these properties can be exploited to understand and ...
+expand
+	SESSION: IR track: machine learning for IR (I)
+	
+	Improved latent concept expansion using hierarchical markov random fields
+	Hao Lang, Donald Metzler, Bin Wang, Jin-Tao Li
+	Pages: 249-258
+	doi>10.1145/1871437.1871473
+	Full text: PDFPDF
+	
+
+Most existing query expansion approaches for ad-hoc retrieval adopt overly simplistic textual representations that treat documents as bags of words and ignore inherent document structure. These simple representations often lead to incorrect independence ...
+expand
+	Term necessity prediction
+	Le Zhao, Jamie Callan
+	Pages: 259-268
+	doi>10.1145/1871437.1871474
+	Full text: PDFPDF
+	
+
+The probability that a term appears in relevant documents (P(t | R)) is a fundamental quantity in several probabilistic retrieval models, however it is difficult to estimate without relevance judgments or a relevance model. We call this ...
+expand
+	Decomposing background topics from keywords by principal component pursuit
+	Kerui Min, Zhengdong Zhang, John Wright, Yi Ma
+	Pages: 269-278
+	doi>10.1145/1871437.1871475
+	Full text: PDFPDF
+	
+
+Low-dimensional topic models have been proven very useful for modeling a large corpus of documents that share a relatively small number of topics. Dimensionality reduction tools such as Principal Component Analysis or Latent Semantic Indexing (LSI) have ...
+expand
+	Document update summarization using incremental hierarchical clustering
+	Dingding Wang, Tao Li
+	Pages: 279-288
+	doi>10.1145/1871437.1871476
+	Full text: PDFPDF
+	
+
+Document summarization has become a hot topic in recent years. However, most of existing summarization methods work on a batch of documents and do not consider that documents may arrive in a sequence and the corresponding summaries need to be updated ...
+expand
+	How about utilizing ordinal information from the distribution of unlabeled data
+	Mingjie Qian, Bo Chen, Hongzhi Xu, Hongwei Qi
+	Pages: 289-298
+	doi>10.1145/1871437.1871477
+	Full text: PDFPDF
+	
+
+Problems of ordinal regression arise in many fields such as information retrieval, data mining and knowledge management. In this paper, we consider ordinal regression in a semi-supervised scenario, i.e., we try to utilize the ordinal information from ...
+expand
+	SESSION: DB track: mobile and distributed data management
+	
+	Automatic schema merging using mapping constraints among incomplete sources
+	Xiang Li, Christoph Quix, David Kensche, Sandra Geisler
+	Pages: 299-308
+	doi>10.1145/1871437.1871479
+	Full text: PDFPDF
+	
+
+Schema merging is the process of consolidating multiple schemas into a unified view. The task becomes particularly challenging when the schemas are highly heterogeneous and autonomous. Classical data integration systems rely on a mediated schema created ...
+expand
+	Preserving location and absence privacy in geo-social networks
+	Dario Freni, Carmen Ruiz Vicente, Sergio Mascetti, Claudio Bettini, Christian S. Jensen
+	Pages: 309-318
+	doi>10.1145/1871437.1871480
+	Full text: PDFPDF
+	
+
+Online social networks often involve very large numbers of users who share very large volumes of content. This content is increasingly being tagged with geo-spatial and temporal coordinates that may then be used in services. For example, a service may ...
+expand
+	Preference query evaluation over expensive attributes
+	Justin J. Levandoski, Mohamed F. Mokbel, Mohamed E. Khalefa
+	Pages: 319-328
+	doi>10.1145/1871437.1871481
+	Full text: PDFPDF
+	
+
+Most database systems allow query processing over attributes that are derived at query runtime (e.g., user-defined functions and remote data calls to web services), making them expensive to compute relative to relational data stored in a heap ...
+expand
+	Energy-efficient top-k query processing in wireless sensor networks
+	Baichen Chen, Weifa Liang, Rui Zhou, Jeffrey Xu Yu
+	Pages: 329-338
+	doi>10.1145/1871437.1871482
+	Full text: PDFPDF
+	
+
+Technological advances have enabled the deployment of large-scale sensor networks for environmental monitoring and surveillance purposes. The large volume of data generated by sensors needs to be processed to respond to the users queries. However, efficient ...
+expand
+	StableBuffer: optimizing write performance for DBMS applications on flash devices
+	Yu Li, Jianliang Xu, Byron Choi, Haibo Hu
+	Pages: 339-348
+	doi>10.1145/1871437.1871483
+	Full text: PDFPDF
+	
+
+Flash devices have been widely used in embedded systems, laptop computers, and enterprise servers. However, the poor random writes have been an obstacle to running write-intensive DBMS applications on flash devices. In this paper, we exploit the recently ...
+expand
+	SESSION: KM track: classification and clustering
+	
+	Mr.KNN: soft relevance for multi-label classification
+	Xiaotong Lin, Xue-wen Chen
+	Pages: 349-358
+	doi>10.1145/1871437.1871485
+	Full text: PDFPDF
+	
+
+Multi-label classification refers to learning tasks with each instance belonging to one or more classes simultaneously. It arose from real-world applications such as information retrieval, text categorization and functional genomics. Currently, most ...
+expand
+	Collaborative Dual-PLSA: mining distinction and commonality across multiple domains for text classification
+	Fuzhen Zhuang, Ping Luo, Zhiyong Shen, Qing He, Yuhong Xiong, Zhongzhi Shi, Hui Xiong
+	Pages: 359-368
+	doi>10.1145/1871437.1871486
+	Full text: PDFPDF
+	
+
+The distribution difference among multiple data domains has been considered for the cross-domain text classification problem. In this study, we show two new observations along this line. First, the data distribution difference may come from the fact ...
+expand
+	Inferring gender of movie reviewers: exploiting writing style, content and metadata
+	Jahna Otterbacher
+	Pages: 369-378
+	doi>10.1145/1871437.1871487
+	Full text: PDFPDF
+	
+
+Despite differences in the way that men and women experience goods and communicate their perspectives, online review communities typically do not provide participants' gender. We propose to infer author gender, given a set of reviews of a particular ...
+expand
+	A robust semi-supervised classification method for transfer learning
+	Akinori Fujino, Naonori Ueda, Masaaki Nagata
+	Pages: 379-388
+	doi>10.1145/1871437.1871488
+	Full text: PDFPDF
+	
+
+The transfer learning problem of designing good classifiers with a high generalization ability by using labeled samples whose distribution is different from that of test samples is an important and challenging research issue in the fields of machine ...
+expand
+	Multi-view clustering with constraint propagation for learning with an incomplete mapping between views
+	Eric Eaton, Marie desJardins, Sara Jacob
+	Pages: 389-398
+	doi>10.1145/1871437.1871489
+	Full text: PDFPDF
+	
+
+Multi-view learning algorithms typically assume a complete bipartite mapping between the different views in order to exchange information during the learning process. However, many applications provide only a partial mapping between the views, creating ...
+expand
+	SESSION: KM track: large-scale statistical techniques
+	
+	Pricing guaranteed contracts in online display advertising
+	Vijay Bharadwaj, Wenjing Ma, Michael Schwarz, Jayavel Shanmugasundaram, Erik Vee, Jack Xie, Jian Yang
+	Pages: 399-408
+	doi>10.1145/1871437.1871491
+	Full text: PDFPDF
+	
+
+We consider the problem of pricing guaranteed contracts in online display advertising. This problem has two key characteristics that when taken together distinguish it from related offline and online pricing problems: (1) the guaranteed contracts are ...
+expand
+	Maximum normalized spacing for efficient visual clustering
+	Zhi-Gang Fan, Yadong Wu, Bo Wu
+	Pages: 409-418
+	doi>10.1145/1871437.1871492
+	Full text: PDFPDF
+	
+
+In this paper, for efficient clustering of visual image data that have arbitrary mixture distributions, we propose a simple distance metric learning method called Maximum Normalized Spacing (MNS) which is a generalized principle based on Maximum Spacing ...
+expand
+	Multilevel manifold learning with application to spectral clustering
+	Haw-ren Fang, Sophia Sakellaridi, Yousef Saad
+	Pages: 419-428
+	doi>10.1145/1871437.1871493
+	Full text: PDFPDF
+	
+
+In the past decade, a number of nonlinear dimensionality reduction methods using an affinity graph have been developed for manifold learning. This paper explores a multilevel framework with the goal of reducing the cost of unsupervised manifold learning ...
+expand
+	Accelerating probabilistic frequent itemset mining: a model-based approach
+	Liang Wang, Reynold Cheng, Sau Dan Lee, David Cheung
+	Pages: 429-438
+	doi>10.1145/1871437.1871494
+	Full text: PDFPDF
+	
+
+Data uncertainty is inherent in emerging applications such as location-based services, sensor monitoring systems, and data integration. To handle a large amount of imprecise information, uncertain databases have been recently developed. In this paper, ...
+expand
+	SESSION: IR track: machine learning for IR (II)
+	
+	Learning click models via probit bayesian inference
+	Yuchen Zhang, Dong Wang, Gang Wang, Weizhu Chen, Zhihua Zhang, Botao Hu, Li Zhang
+	Pages: 439-448
+	doi>10.1145/1871437.1871496
+	Full text: PDFPDF
+	
+
+Recent advances in click models have positioned them as an effective approach to the improvement of interpreting click data, and some typical works include UBM, DBN, CCM, etc. After formulating the knowledge of user search behavior into a set of model ...
+expand
+	Document allocation policies for selective searching of distributed indexes
+	Anagha Kulkarni, Jamie Callan
+	Pages: 449-458
+	doi>10.1145/1871437.1871497
+	Full text: PDFPDF
+	
+
+Indexes for large collections are often divided into shards that are distributed across multiple computers and searched in parallel to provide rapid interactive search. Typically, all index shards are searched for each query. For organizations ...
+expand
+	Rank learning for factoid question answering with linguistic and semantic constraints
+	Matthew W. Bilotti, Jonathan Elsas, Jaime Carbonell, Eric Nyberg
+	Pages: 459-468
+	doi>10.1145/1871437.1871498
+	Full text: PDFPDF
+	
+
+This work presents a general rank-learning framework for passage ranking within Question Answering (QA) systems using linguistic and semantic features. The framework enables query-time checking of complex linguistic and semantic constraints over keywords. ...
+expand
+	Learning to rank relevant and novel documents through user feedback
+	Abhimanyu Lad, Yiming Yang
+	Pages: 469-478
+	doi>10.1145/1871437.1871499
+	Full text: PDFPDF
+	
+
+We consider the problem of learning to rank relevant and novel documents so as to directly maximize a performance metric called Expected Global Utility (EGU), which has several desirable properties: (i) It measures retrieval performance in terms of relevant ...
+expand
+	SESSION: DB track: top-K and shortest path processing
+	
+	Set cover algorithms for very large datasets
+	Graham Cormode, Howard Karloff, Anthony Wirth
+	Pages: 479-488
+	doi>10.1145/1871437.1871501
+	Full text: PDFPDF
+	
+
+The problem of Set Cover - to find the smallest subcollection of sets that covers some universe - is at the heart of many data and analysis tasks. It arises in a wide range of settings, including operations research, machine learning, planning, data ...
+expand
+	The gist of everything new: personalized top-k processing over web 2.0 streams
+	Parisa Haghani, Sebastian Michel, Karl Aberer
+	Pages: 489-498
+	doi>10.1145/1871437.1871502
+	Full text: PDFPDF
+	
+
+Web 2.0 portals have made content generation easier than ever with millions of users contributing news stories in form of posts in weblogs or short textual snippets as in Twitter. Efficient and effective filtering solutions are key to allow users stay ...
+expand
+	Fast and accurate estimation of shortest paths in large graphs
+	Andrey Gubichev, Srikanta Bedathur, Stephan Seufert, Gerhard Weikum
+	Pages: 499-508
+	doi>10.1145/1871437.1871503
+	Full text: PDFPDF
+	
+
+Computing shortest paths between two given nodes is a fundamental operation over graphs, but known to be nontrivial over large disk-resident instances of graph data. While a number of techniques exist for answering reachability queries and approximating ...
+expand
+	Fast top-k simple shortest paths discovery in graphs
+	Jun Gao, Huida Qiu, Xiao Jiang, Tengjiao Wang, Dongqing Yang
+	Pages: 509-518
+	doi>10.1145/1871437.1871504
+	Full text: PDFPDF
+	
+
+With the wide applications of large scale graph data such as social networks, the problem of finding the top-k shortest paths attracts increasing attention. This paper focuses on the discovery of the top-k simple shortest paths (paths without ...
+expand
+	SESSION: IR track: IR evaluation
+	
+	Factors affecting click-through behavior in aggregated search interfaces
+	Shanu Sushmita, Hideo Joho, Mounia Lalmas, Robert Villa
+	Pages: 519-528
+	doi>10.1145/1871437.1871506
+	Full text: PDFPDF
+	
+
+An aggregated search interface is designed to integrate search results from different sources (web, image, video, blog, etc) into a single result page. This paper presents two user studies investigating factors affecting users click-through behavior ...
+expand
+	Web search solved?: all result rankings the same?
+	Hugo Zaragoza, B. Barla Cambazoglu, Ricardo Baeza-Yates
+	Pages: 529-538
+	doi>10.1145/1871437.1871507
+	Full text: PDFPDF
+	
+
+The objective of this work is to derive quantitative statements about what fraction of web search queries issued to the state-of-the-art commercial search engines lead to excellent results or, on the contrary, poor results. To be able to make such statements ...
+expand
+	Assessor error in stratified evaluation
+	William Webber, Douglas W. Oard, Falk Scholer, Bruce Hedin
+	Pages: 539-548
+	doi>10.1145/1871437.1871508
+	Full text: PDFPDF
+	
+
+Several important information retrieval tasks, including those in medicine, law, and patent review, have an authoritative standard of relevance, and are concerned about retrieval completeness. During the evaluation of retrieval effectiveness in these ...
+expand
+	CiteData: a new multi-faceted dataset for evaluating personalized search performance
+	Abhay Harpale, Yiming Yang, Siddharth Gopal, Daqing He, Zhen Yue
+	Pages: 549-558
+	doi>10.1145/1871437.1871509
+	Full text: PDFPDF
+	
+
+Personalized search systems have evolved to utilize heterogeneous features including document hyperlinks, category labels in various taxonomies and social tags in addition to free-text of the documents. Consequently, classifiers, PageRank algorithms ...
+expand
+	SESSION: KM track: information filtering and recommender systems (I)
+	
+	Learning a user-thread alignment manifold for thread recommendation in online forum
+	Jun Zhao, Jiajun Bu, Chun Chen, Ziyu Guan, Can Wang, Cheng Zhang
+	Pages: 559-568
+	doi>10.1145/1871437.1871511
+	Full text: PDFPDF
+	
+
+People are more and more willing to participate in online forums to share their knowledge and experience. However, it may not be easy for them to find their desired threads in online forums due to the information overload problem. Traditional recommendation ...
+expand
+	FacetCube: a framework of incorporating prior knowledge into non-negative tensor factorization
+	Yun Chi, Shenghuo Zhu
+	Pages: 569-578
+	doi>10.1145/1871437.1871512
+	Full text: PDFPDF
+	
+
+Non-negative tensor factorization (NTF) is a relatively new technique that has been successfully used to extract significant characteristics from polyadic data, such as data in social networks. Because these polyadic data have multiple dimensions (e.g., ...
+expand
+	Travel route recommendation using geotags in photo sharing sites
+	Takeshi Kurashima, Tomoharu Iwata, Go Irie, Ko Fujimura
+	Pages: 579-588
+	doi>10.1145/1871437.1871513
+	Full text: PDFPDF
+	
+
+The ability to create geotagged photos enables people to share their personal experiences as tourists at specific locations and times. Assuming that the collection of each photographer's geotagged photos is a sequence of visited locations, photo-sharing ...
+expand
+	Boosting social network connectivity with link revival
+	Yuan Tian, Qi He, Qiankun Zhao, Xingjie Liu, Wang-chien Lee
+	Pages: 589-598
+	doi>10.1145/1871437.1871514
+	Full text: PDFPDF
+	
+
+Online social networking platforms have become a popular channel of communications among people. However, most people can only keep in touch with a limited number of friends. This phenomenon results in a low-connectivity social network in terms of communications, ...
+expand
+	Power in unity: forming teams in large-scale community systems
+	Aris Anagnostopoulos, Luca Becchetti, Carlos Castillo, Aristides Gionis, Stefano Leonardi
+	Pages: 599-608
+	doi>10.1145/1871437.1871515
+	Full text: PDFPDF
+	
+
+The internet has enabled the collaboration of groups at a scale that was unseen before. A key problem for large collaboration groups is to be able to allocate tasks effectively. An effective task assignment method should consider both how fit ...
+expand
+	SESSION: IR track: social networks and text mining
+	
+	Who should I cite: learning literature search models from citation behavior
+	Steven Bethard, Dan Jurafsky
+	Pages: 609-618
+	doi>10.1145/1871437.1871517
+	Full text: PDFPDF
+	
+
+Scientists depend on literature search to find prior work that is relevant to their research ideas. We introduce a retrieval model for literature search that incorporates a wide variety of factors important to researchers, and learns the weights of each ...
+expand
+	A structured approach to query recommendation with social annotation data
+	Jiafeng Guo, Xueqi Cheng, Gu Xu, Huawei Shen
+	Pages: 619-628
+	doi>10.1145/1871437.1871518
+	Full text: PDFPDF
+	
+
+Query recommendation has been recognized as an important mean to help users search and also improve the usability of search engines. Existing approaches mainly focus on helping users refine their search queries and the recommendations typically stick ...
+expand
+	Using the past to score the present: extending term weighting models through revision history analysis
+	Ablimit Aji, Yu Wang, Eugene Agichtein, Evgeniy Gabrilovich
+	Pages: 629-638
+	doi>10.1145/1871437.1871519
+	Full text: PDFPDF
+	
+
+The generative process underlies many information retrieval models, notably statistical language models. Yet these models only examine one (current) version of the document, effectively ignoring the actual document generation process. We posit that a ...
+expand
+	Language pyramid and multi-scale text analysis
+	Shuang-Hong Yang, Hongyuan Zha
+	Pages: 639-648
+	doi>10.1145/1871437.1871520
+	Full text: PDFPDF
+	
+
+The classical Bag-of-Word (BOW) model represents a document as a histogram of word occurrence, losing the spatial information that is invaluable for many text analysis tasks. In this paper, we present the Language Pyramid (LaP) model, which ...
+expand
+	Latent interest-topic model: finding the causal relationships behind dyadic data
+	Noriaki Kawamae
+	Pages: 649-658
+	doi>10.1145/1871437.1871521
+	Full text: PDFPDF
+	
+
+This paper presents a hierarchical generative model that captures the latent relation of cause and effect underlying user behavioral-originated data such as papers, twitter and purchase history. Our proposel, the Latent Interest Topic model (LIT), introduces ...
+expand
+	SESSION: Industry track: IR applications
+	
+	PROSPECT: a system for screening candidates for recruitment
+	Amit Singh, Catherine Rose, Karthik Visweswariah, Vijil Chenthamarakshan, Nandakishore Kambhatla
+	Pages: 659-668
+	doi>10.1145/1871437.1871523
+	Full text: PDFPDF
+	
+
+Companies often receive thousands of resumes for each job posting and employ dedicated screeners to short list qualified applicants. In this paper, we present PROSPECT, a decision support tool to help these screeners shortlist resumes efficiently. Prospect ...
+expand
+	Active caching for similarity queries based on shared-neighbor information
+	Michael E. Houle, Vincent Oria, Umar Qasim
+	Pages: 669-678
+	doi>10.1145/1871437.1871524
+	Full text: PDFPDF
+	
+
+Novel applications such as recommender systems, uncertain databases, and multimedia databases are designed to process similarity queries that produce ranked lists of objects as their results. Similarity queries typically result in disk access latency ...
+expand
+	Searching consumer image collections using web-based concept expansion
+	Mark D. Wood, Alexander Loui, Stacie Hibino
+	Pages: 679-688
+	doi>10.1145/1871437.1871525
+	Full text: PDFPDF
+	
+
+As consumers accumulate more and more personal imagery, searching for specific images has become increasingly difficult. Consumers typically provide little or no annotations, and automated classifiers and concept tagging tools are limited in their scope ...
+expand
+	SESSION: DB track: information retrieval in databases
+	
+	Index structures for efficiently searching natural language text
+	Pirooz Chubak, Davood Rafiei
+	Pages: 689-698
+	doi>10.1145/1871437.1871527
+	Full text: PDFPDF
+	
+
+Many existing indexes on text work at the document granularity and are not effective in answering the class of queries where the desired answer is only a term or a phrase. In this paper, we study some of the index structures that are capable of answering ...
+expand
+	Efficient temporal keyword search over versioned text
+	Avishek Anand, Srikanta Bedathur, Klaus Berberich, Ralf Schenkel
+	Pages: 699-708
+	doi>10.1145/1871437.1871528
+	Full text: PDFPDF
+	
+
+Modern text analytics applications operate on large volumes of temporal text data such as Web archives, newspaper archives, blogs, wikis, and micro-blogs. In these settings, searching and mining needs to use constraints on the time dimension in addition ...
+expand
+	Result-size estimation for information-retrieval subqueries
+	Guido Sautter, Klemens Böhm, Andranik Khachatryan
+	Pages: 709-718
+	doi>10.1145/1871437.1871529
+	Full text: PDFPDF
+	
+
+Estimating the approximate result size of a query before its execution based on small summary statistics is important for query optimization in database systems and for other facets of query processing. This also holds for queries over text databases. ...
+expand
+	FACeTOR: cost-driven exploration of faceted query results
+	Abhijith Kashyap, Vagelis Hristidis, Michalis Petropoulos
+	Pages: 719-728
+	doi>10.1145/1871437.1871530
+	Full text: PDFPDF
+	
+
+Faceted navigation is being increasingly employed as an effective technique for exploring large query results on structured databases. This technique of mitigating information-overload leverages metadata of the query results to provide users with ...
+expand
+	A framework for evaluating database keyword search strategies
+	Joel Coffman, Alfred C. Weaver
+	Pages: 729-738
+	doi>10.1145/1871437.1871531
+	Full text: PDFPDF
+	
+
+With regard to keyword search systems for structured data, research during the past decade has largely focused on performance. Researchers have validated their work using ad hoc experiments that may not reflect real-world workloads. We illustrate the ...
+expand
+	SESSION: KM track: temporal, spatial and stream data mining
+	
+	Network growth and the spectral evolution model
+	Jérôme Kunegis, Damien Fay, Christian Bauckhage
+	Pages: 739-748
+	doi>10.1145/1871437.1871533
+	Full text: PDFPDF
+	
+
+We introduce and study the spectral evolution model, which characterizes the growth of large networks in terms of the eigenvalue decomposition of their adjacency matrices: In large networks, changes over time result in a change of a graph's spectrum, ...
+expand
+	Automatic detection of craters in planetary images: an embedded framework using feature selection and boosting
+	Wei Ding, Tomasz F. Stepinski, Lourenco Bandeira, Ricardo Vilalta, Youxi Wu, Zhenyu Lu, Tianyu Cao
+	Pages: 749-758
+	doi>10.1145/1871437.1871534
+	Full text: PDFPDF
+	
+
+Identifying impact craters on planetary surfaces is one fundamental task in planetary science. In this paper, we present an embedded framework on auto-detection of craters, using feature selection and boosting strategies. The paradigm aims at building ...
+expand
+	You are where you tweet: a content-based approach to geo-locating twitter users
+	Zhiyuan Cheng, James Caverlee, Kyumin Lee
+	Pages: 759-768
+	doi>10.1145/1871437.1871535
+	Full text: PDFPDF
+	
+
+We propose and evaluate a probabilistic framework for estimating a Twitter user's city-level location based purely on the content of the user's tweets, even in the absence of any other geospatial cues. By augmenting the massive human-powered sensing ...
+expand
+	Partial drift detection using a rule induction framework
+	Damon Sotoudeh, Aijun An
+	Pages: 769-778
+	doi>10.1145/1871437.1871536
+	Full text: PDFPDF
+	
+
+The major challenge in mining data streams is the issue of concept drift, the tendency of the underlying data generation process to change over time. In this paper, we propose a general rule learning framework that can efficiently handle concept-drifting ...
+expand
+	A method for discovering components of human rituals from streams of sensor data
+	Athanasios Bamis, Jia Fang, Andreas Savvides
+	Pages: 779-788
+	doi>10.1145/1871437.1871537
+	Full text: PDFPDF
+	
+
+This paper describes an algorithm for determining if an event occurs persistently within an interval where the interval is periodic but the event is not. The goal of the algorithm is to identify events with this property and also determine the minimum ...
+expand
+	SESSION: IR track: filtering and recommendation
+	
+	Two-tier similarity model for story link detection
+	Tadashi Nomoto
+	Pages: 789-798
+	doi>10.1145/1871437.1871539
+	Full text: PDFPDF
+	
+
+The paper presents a novel approach to story link detection, where the goal is to determine whether a pair of news stories are linked, i.e., talk about the same event. The present work marks a departure from the prior work in that we measure similarity ...
+expand
+	Selected new training documents to update user profile
+	Abdulmohsen Algarni, Yuefeng Li, Yue Xu
+	Pages: 799-808
+	doi>10.1145/1871437.1871540
+	Full text: PDFPDF
+	
+
+Relevance Feedback (RF) has been proven very effective for improving retrieval accuracy. Adaptive information filtering (AIF) technology has benefited from the improvements achieved in all the tasks involved over the last decades. A difficult problem ...
+expand
+	Collaborative filtering in social tagging systems based on joint item-tag recommendations
+	Jing Peng, Daniel Dajun Zeng, Huimin Zhao, Fei-yue Wang
+	Pages: 809-818
+	doi>10.1145/1871437.1871541
+	Full text: PDFPDF
+	
+
+Tapping into the wisdom of the crowd, social tagging can be considered an alternative mechanism - as opposed to Web search - for organizing and discovering information on the Web. Effective tag-based recommendation of information items, such as Web resources, ...
+expand
+	Collaborative future event recommendation
+	Einat Minkov, Ben Charrow, Jonathan Ledlie, Seth Teller, Tommi Jaakkola
+	Pages: 819-828
+	doi>10.1145/1871437.1871542
+	Full text: PDFPDF
+	
+
+We demonstrate a method for collaborative ranking of future events. Previous work on recommender systems typically relies on feedback on a particular item, such as a movie, and generalizes this to other items or other people. In contrast, we examine ...
+expand
+	Hybrid tag recommendation for social annotation systems
+	Jonathan Gemmell, Thomas Schimoler, Bamshad Mobasher, Robin Burke
+	Pages: 829-838
+	doi>10.1145/1871437.1871543
+	Full text: PDFPDF
+	
+
+Social annotation systems allow users to annotate resources with personalized tags and to navigate large and complex information spaces without the need to rely on predefined hierarchies. These systems help users organize and share their own resources, ...
+expand
+	SESSION: Industry track: databases and OLAP
+	
+	XML schema computations: schema compatibility testing and subschema extraction
+	Thomas Yau-tat Lee, David Wai-lok Cheung
+	Pages: 839-848
+	doi>10.1145/1871437.1871545
+	Full text: PDFPDF
+	
+
+In this paper, we propose new models and algorithms to perform practical computations on W3C XML Schemas, which are schema minimization, schema equivalence testing, subschema testing and subschema extraction. We have conducted experiments on an e-commerce ...
+expand
+	Visual cube and on-line analytical processing of images
+	Xin Jin, Jiawei Han, Liangliang Cao, Jiebo Luo, Bolin Ding, Cindy Xide Lin
+	Pages: 849-858
+	doi>10.1145/1871437.1871546
+	Full text: PDFPDF
+	
+
+On-Line Analytical Processing (OLAP) has shown great success in many industry applications, including sales, marketing, management, financial data analysis, etc. In this paper, we propose Visual Cube and multi-dimensional OLAP of image collections, such ...
+expand
+	Pattern discovery for large mixed-mode database
+	Andrew K.C. Wong, Bin Wu, Gene P.K. Wu, Keith C.C. Chan
+	Pages: 859-868
+	doi>10.1145/1871437.1871547
+	Full text: PDFPDF
+	
+
+In business and industry today, large databases with mixed data types (continuous and categorical) are very common. There are great needs to discover patterns from them for knowledge interpretation and understanding. In the past, for classification, ...
+expand
+	SESSION: KM track: data pre- and post-processing
+	
+	Constructing classification features using minimal predictive patterns
+	Iyad Batal, Milos Hauskrecht
+	Pages: 869-878
+	doi>10.1145/1871437.1871549
+	Full text: PDFPDF
+	
+
+Choosing good features to represent objects can be crucial to the success of supervised machine learning methods. Recently, there has been a great interest in applying data mining techniques to construct new classification features. The rationale behind ...
+expand
+	RankSVR: can preference data help regression?
+	Hwanjo Yu, Sungchul Kim, Seunghoon Na
+	Pages: 879-888
+	doi>10.1145/1871437.1871550
+	Full text: PDFPDF
+	
+
+In some regression applications (e.g., an automatic movie scoring system), a large number of ranking data is available in addition to the original regression data. This paper studies whether and how the ranking data can improve the accuracy of regression ...
+expand
+	Estimating accuracy for text classification tasks on large unlabeled data
+	Snigdha Chaturvedi, Tanveer A. Faruquie, L. Venkata Subramaniam, Mukesh K. Mohania
+	Pages: 889-898
+	doi>10.1145/1871437.1871551
+	Full text: PDFPDF
+	
+
+Rule based systems for processing text data encode the knowledge of a human expert into a rule base to take decisions based on interactions of the input data and the rule base. Similarly, supervised learning based systems can learn patterns present in ...
+expand
+	A probabilistic topic-connection model for automatic image annotation
+	Xin Chen, Xiaohua Hu, Zhongna Zhou, Caimei Lu, Gail Rosen, Tingting He, E. K. Park
+	Pages: 899-908
+	doi>10.1145/1871437.1871552
+	Full text: PDFPDF
+	
+
+The explosive increase of image data on Internet has made it an important, yet very challenging task to index and automatically annotate image data. To achieve that end, sophisticated algorithms and models have been proposed to study the correlation ...
+expand
+	Orientation distance-based discriminative feature extraction for multi-class classification
+	Bo Liu, Yanshan Xiao, Longbing Cao, Philip S. Yu
+	Pages: 909-918
+	doi>10.1145/1871437.1871553
+	Full text: PDFPDF
+	
+
+Feature extraction is an effective step in data mining and machine learning. While many feature extraction methods have been proposed for clustering, classification and regression, very limited work has been done on multi-class classification problems. ...
+expand
+	SESSION: KM track: information filtering and recommender systems (II)
+	
+	Evaluating, combining and generalizing recommendations with prerequisites
+	Aditya G. Parameswaran, Hector Garcia-Molina, Jeffrey D. Ullman
+	Pages: 919-928
+	doi>10.1145/1871437.1871555
+	Full text: PDFPDF
+	
+
+We consider the problem of recommending the best set of k items when there is an inherent ordering between items, expressed as a set of prerequisites (e.g., the movie 'Godfather I' is a prerequisite of 'Godfather II'). Since this general problem ...
+expand
+	Automatically suggesting topics for augmenting text documents
+	Robert West, Doina Precup, Joelle Pineau
+	Pages: 929-938
+	doi>10.1145/1871437.1871556
+	Full text: PDFPDF
+	
+
+We present a method for automated topic suggestion. Given a plain-text input document, our algorithm produces a ranking of novel topics that could enrich the input document in a meaningful way. It can thus be used to assist human authors, who often fail ...
+expand
+	Detecting product review spammers using rating behaviors
+	Ee-Peng Lim, Viet-An Nguyen, Nitin Jindal, Bing Liu, Hady Wirawan Lauw
+	Pages: 939-948
+	doi>10.1145/1871437.1871557
+	Full text: PDFPDF
+	
+
+This paper aims to detect users generating spam reviews or review spammers. We identify several characteristic behaviors of review spammers and model these behaviors so as to detect the spammers. In particular, we seek to model the following behaviors. ...
+expand
+	Classical music for rock fans?: novel recommendations for expanding user interests
+	Makoto Nakatsuji, Yasuhiro Fujiwara, Akimichi Tanaka, Toshio Uchiyama, Ko Fujimura, Toru Ishida
+	Pages: 949-958
+	doi>10.1145/1871437.1871558
+	Full text: PDFPDF
+	
+
+Most recommender algorithms produce types similar to those the active user has accessed before. This is because they measure user similarity only from the co-rating behaviors against items and compute recommendations by analyzing the items possessed ...
+expand
+	Improving one-class collaborative filtering by incorporating rich user information
+	Yanen Li, Jia Hu, ChengXiang Zhai, Ye Chen
+	Pages: 959-968
+	doi>10.1145/1871437.1871559
+	Full text: PDFPDF
+	
+
+One-Class Collaborative Filtering (OCCF) is an emerging setup in collaborative filtering in which only positive examples or implicit feedback can be observed. Compared with the traditional collaborative filtering setting where the data has ratings, OCCF ...
+expand
+	SESSION: IR track: user modeling and search personalization
+	
+	Personalized search by tag-based user profile and resource profile in collaborative tagging systems
+	Yi Cai, Qing Li
+	Pages: 969-978
+	doi>10.1145/1871437.1871561
+	Full text: PDFPDF
+	
+
+With the increase of resource-sharing web sites such as YouTube1 and Flickr2, personalized search becomes more important and challenging, as users demand higher retrieval quality. To achieve this goal, personalized search needs ...
+expand
+	A comparison of user and system query performance predictions
+	Claudia Hauff, Diane Kelly, Leif Azzopardi
+	Pages: 979-988
+	doi>10.1145/1871437.1871562
+	Full text: PDFPDF
+	
+
+Query performance prediction methods are usually applied to estimate the retrieval effectiveness of queries, where the evaluation is largely system sided. However, little work has been conducted to understand query performance prediction from the user's ...
+expand
+	The anatomy of a click: modeling user behavior on web information systems
+	Kunal Punera, Srujana Merugu
+	Pages: 989-998
+	doi>10.1145/1871437.1871563
+	Full text: PDFPDF
+	
+
+The ultimate goal of information retrieval science continues to be providing relevant information to users while placing minimal cognitive load on them. The retrieval and presentation of relevant information (say, search results) as well as any dynamic ...
+expand
+	Exploring online social activities for adaptive search personalization
+	Qihua Wang, Hongxia Jin
+	Pages: 999-1008
+	doi>10.1145/1871437.1871564
+	Full text: PDFPDF
+	
+
+The web has largely become a very social environment and will continue to become even more so. People are not only enjoying their social visibility on the Web but also increasingly participating in various social activities delivered through the Web. ...
+expand
+	Predicting short-term interests using activity-based search context
+	Ryen W. White, Paul N. Bennett, Susan T. Dumais
+	Pages: 1009-1018
+	doi>10.1145/1871437.1871565
+	Full text: PDFPDF
+	
+
+A query considered in isolation offers limited information about a searcher's intent. Query context that considers pre-query activity (e.g., previous queries and page visits), can provide richer information about search intentions. In this paper, we ...
+expand
+	SESSION: Industry track: web and social networks
+	
+	Probabilistic first pass retrieval for search advertising: from theory to practice
+	Hema Raghavan, Rukmini Iyer
+	Pages: 1019-1028
+	doi>10.1145/1871437.1871567
+	Full text: PDFPDF
+	
+
+Information retrieval in search advertising, as in other ad-hoc retrieval tasks, aims to find the most appropriate ranking of the ad documents of a corpus for a given query. In addition to ranking the ad documents, we also need to filter or threshold ...
+expand
+	Faceted search and browsing of audio content on spoken web
+	Mamadou Diao, Sougata Mukherjea, Nitendra Rajput, Kundan Srivastava
+	Pages: 1029-1038
+	doi>10.1145/1871437.1871568
+	Full text: PDFPDF
+	
+
+Spoken Web is a web of VoiceSites that can be accessed by a phone. The content in a VoiceSite is audio. Therefore Spoken Web provides an alternate to the World Wide Web (WWW) in developing regions where low Internet penetration and low literacy are barriers ...
+expand
+	Predicting product adoption in large-scale social networks
+	Rushi Bhatt, Vineet Chaoji, Rajesh Parekh
+	Pages: 1039-1048
+	doi>10.1145/1871437.1871569
+	Full text: PDFPDF
+	
+
+Online social networks offer opportunities to analyze user behavior and social connectivity and leverage resulting insights for effective online advertising. We study the adoption of a paid product by members of a large and well-connected Instant Messenger ...
+expand
+	SESSION: IR track: query analysis and feedback
+	
+	Reverted indexing for feedback and expansion
+	Jeremy Pickens, Matthew Cooper, Gene Golovchinsky
+	Pages: 1049-1058
+	doi>10.1145/1871437.1871571
+	Full text: PDFPDF
+	
+
+Traditional interactive information retrieval systems function by creating inverted lists, or term indexes. For every term in the vocabulary, a list is created that contains the documents in which that term occurs and its relative frequency within each ...
+expand
+	Improving verbose queries using subset distribution
+	Xiaobing Xue, Samuel Huston, W. Bruce Croft
+	Pages: 1059-1068
+	doi>10.1145/1871437.1871572
+	Full text: PDFPDF
+	
+
+Dealing with verbose (or long) queries poses a new challenge for information retrieval. Selecting a subset of the original query (a "sub-query") has been shown to be an effective method for improving these queries. In this paper, the distribution of ...
+expand
+	A unified optimization framework for robust pseudo-relevance feedback algorithms
+	Joshua V. Dillon, Kevyn Collins-Thompson
+	Pages: 1069-1078
+	doi>10.1145/1871437.1871573
+	Full text: PDFPDF
+	
+
+We present a flexible new optimization framework for finding effective, reliable pseudo-relevance feedback models that unifies existing complementary approaches in a principled way. The result is an algorithmic approach that not only brings together ...
+expand
+	Ranking related entities: components and analyses
+	Marc Bron, Krisztian Balog, Maarten de Rijke
+	Pages: 1079-1088
+	doi>10.1145/1871437.1871574
+	Full text: PDFPDF
+	
+
+Related entity finding is the task of returning a ranked list of homepages of relevant entities of a specified type that need to engage in a given relationship with a given source entity. We propose a framework for addressing this task and perform a ...
+expand
+	SESSION: KM track: semantic techniques
+	
+	Semantic tags generation and retrieval for online advertising
+	Roberto Mirizzi, Azzurra Ragone, Tommaso Di Noia, Eugenio Di Sciascio
+	Pages: 1089-1098
+	doi>10.1145/1871437.1871576
+	Full text: PDFPDF
+	
+
+One of the main problems in online advertising is to display ads which are relevant and appropriate w.r.t. what the user is looking for. Often search engines fail to reach this goal as they do not consider semantics attached to keywords. In this paper ...
+expand
+	MENTA: inducing multilingual taxonomies from wikipedia
+	Gerard de Melo, Gerhard Weikum
+	Pages: 1099-1108
+	doi>10.1145/1871437.1871577
+	Full text: PDFPDF
+	
+
+In recent years, a number of projects have turned to Wikipedia to establish large-scale taxonomies that describe orders of magnitude more entities than traditional manually built knowledge bases. So far, however, the multilingual nature of Wikipedia ...
+expand
+	Ontology emergence from folksonomies
+	Kaipeng Liu, Binxing Fang, Weizhe Zhang
+	Pages: 1109-1118
+	doi>10.1145/1871437.1871578
+	Full text: PDFPDF
+	
+
+The folksonomies built from the large-scale social annotations made by collaborating users are perfect data sources for bootstrapping Semantic Web applications. In this paper, we develop an ontology induction approach to harvest the emergent semantics ...
+expand
+	Multi-document topic segmentation
+	Minwoo Jeong, Ivan Titov
+	Pages: 1119-1128
+	doi>10.1145/1871437.1871579
+	Full text: PDFPDF
+	
+
+Multiple documents describing the same or closely related sets of events are common and often easy to obtain: for example, consider document clusters on a news aggregator site or multiple reviews of the same product or service. Even though each such ...
+expand
+	Meta-metadata: a metadata semantics language for collection representation applications
+	Andruid Kerne, Yin Qu, Andrew M. Webb, Sashikanth Damaraju, Nic Lupfer, Abhinav Mathur
+	Pages: 1129-1138
+	doi>10.1145/1871437.1871580
+	Full text: PDFPDF
+	
+
+Collecting, organizing, and thinking about diverse information resources is the keystone of meaningful digital information experiences, from research to education to leisure. Metadata semantics are crucial for organizing collections, yet their structural ...
+expand
+	SESSION: IR track: web search
+	
+	Clickthrough-based translation models for web search: from word models to phrase models
+	Jianfeng Gao, Xiaodong He, Jian-Yun Nie
+	Pages: 1139-1148
+	doi>10.1145/1871437.1871582
+	Full text: PDFPDF
+	
+
+Web search is challenging partly due to the fact that search queries and Web documents use different language styles and vocabularies. This paper provides a quantitative analysis of the language discrepancy issue, and explores the use of clickthrough ...
+expand
+	Temporal query log profiling to improve web search ranking
+	Alexander Kotov, Pranam Kolari, Lei Duan, Yi Chang
+	Pages: 1149-1158
+	doi>10.1145/1871437.1871583
+	Full text: PDFPDF
+	
+
+Temporal information can be leveraged and incorporated to improve web search ranking. In this work, we propose a method to improve the ranking of search results by identifying the fundamental properties of temporal behavior of low-quality hosts ...
+expand
+	Improving web search relevance and freshness with content previews
+	Siva Gurumurthy, Hang Su, Vasileios Kandylas, Vidhyashankar Venkataraman
+	Pages: 1159-1168
+	doi>10.1145/1871437.1871584
+	Full text: PDFPDF
+	
+
+Traditional web search engines find it challenging to achieve good search quality for recency-sensitive queries, as they are prone to delays in discovering, indexing and ranking new web pages. In this paper we introduce PreGen, an adaptive preview generation ...
+expand
+	Organizing query completions for web search
+	Alpa Jain, Gilad Mishne
+	Pages: 1169-1178
+	doi>10.1145/1871437.1871585
+	Full text: PDFPDF
+	
+
+All state-of-the-art web search engines implement an auto-completion mechanism - an assistive technology enabling users to effectively formulate their search queries by predicting the next characters or words that they are likely to type. Query completions ...
+expand
+	Selectively diversifying web search results
+	Rodrygo L.T. Santos, Craig Macdonald, Iadh Ounis
+	Pages: 1179-1188
+	doi>10.1145/1871437.1871586
+	Full text: PDFPDF
+	
+
+Search result diversification is a natural approach for tackling ambiguous queries. Nevertheless, not all queries are equally ambiguous, and hence different queries could benefit from different diversification strategies. A more lenient or more aggressive ...
+expand
+	SESSION: Industry track: text mining and analytics
+	
+	Building re-usable dictionary repositories for real-world text mining
+	Shantanu Godbole, Indrajit Bhattacharya, Ajay Gupta, Ashish Verma
+	Pages: 1189-1198
+	doi>10.1145/1871437.1871588
+	Full text: PDFPDF
+	
+
+Text mining, though still a nascent industry, has been growing quickly along with the awareness of the importance of unstructured data in business analytics, customer retention and extension, social media, and legal applications. There has been a recent ...
+expand
+	OpinionIt: a text mining system for cross-lingual opinion analysis
+	Honglei Guo, Huijia Zhu, Zhili Guo, Xiaoxun Zhang, Zhong Su
+	Pages: 1199-1208
+	doi>10.1145/1871437.1871589
+	Full text: PDFPDF
+	
+
+Opinion mining focuses on extracting customers' opinions from the reviews and predicting their sentiment orientation. Reviewers usually praise a product in some aspects and bemoan it in other aspects. With the business globalization, it is very important ...
+expand
+	Hierarchical service analytics for improving productivity in an enterprise service center
+	Chunye Wang, Ram Akella, Srikant Ramachandran
+	Pages: 1209-1218
+	doi>10.1145/1871437.1871590
+	Full text: PDFPDF
+	
+
+Modern day service centers are the building blocks for highly efficient and productive business systems in a knowledge economy. In these service systems, accurate and timely delivery of pertinent information to service representatives becomes the cornerstone ...
+expand
+	SESSION: IR track: scalability and efficiency
+	
+	VSEncoding: efficient coding and fast decoding of integer lists via dynamic programming
+	Fabrizio Silvestri, Rossano Venturini
+	Pages: 1219-1228
+	doi>10.1145/1871437.1871592
+	Full text: PDFPDF
+	
+
+Encoding lists of integers efficiently is important for many applications in different fields. Adjacency lists of large graphs are usually encoded to save space and to improve decoding speed. Inverted indexes of Information Retrieval systems keep the ...
+expand
+	Efficient term proximity search with term-pair indexes
+	Hao Yan, Shuming Shi, Fan Zhang, Torsten Suel, Ji-Rong Wen
+	Pages: 1229-1238
+	doi>10.1145/1871437.1871593
+	Full text: PDFPDF
+	
+
+There has been a large amount of research on early termination techniques in web search and information retrieval. Such techniques return the top-k documents without scanning and evaluating the full inverted lists of the query terms. Thus, they ...
+expand
+	Improved index compression techniques for versioned document collections
+	Jinru He, Junyuan Zeng, Torsten Suel
+	Pages: 1239-1248
+	doi>10.1145/1871437.1871594
+	Full text: PDFPDF
+	
+
+Current Information Retrieval systems use inverted index structures for efficient query processing. Due to the extremely large size of many data sets, these index structures are usually kept in compressed form, and many techniques for optimizing compressed ...
+expand
+	Building efficient multi-threaded search nodes
+	Carolina Bonacic, Carlos García, Mauricio Marin, Manuel Prieto-Matias, Francisco Tirado
+	Pages: 1249-1258
+	doi>10.1145/1871437.1871595
+	Full text: PDFPDF
+	
+
+Search nodes are single-purpose components of large Web search engines and their efficient implementation is critical to sustain thousands of queries per second and guarantee individual query response times within a fraction of a second. Current technology ...
+expand
+	Real-time memory efficient data redundancy removal algorithm
+	Vikas K. Garg, Ankur Narang, Souvik Bhattacherjee
+	Pages: 1259-1268
+	doi>10.1145/1871437.1871596
+	Full text: PDFPDF
+	
+
+Data intensive computing has become a central theme in research community and industry. There is an ever growing need to process and analyze massive amounts of data from diverse sources such as telecom call data records, telescope imagery, online transaction ...
+expand
+	POSTER SESSION: Poster session 1: DB track
+	
+	Search-log anonymization and advertisement: are they mutually exclusive?
+	Thorben Burghardt, Klemens Böhm, Achim Guttmann, Chris Clifton
+	Pages: 1269-1272
+	doi>10.1145/1871437.1871598
+	Full text: PDFPDF
+	
+
+The revenue of search-engine providers strongly depends on targeted advertisement. Targeted advertisement is becoming more reliant on personal data. This puts user privacy at risk. One way to improve privacy is to anonymize search logs, but this reduces ...
+expand
+	Automated interaction in social networks with datalog
+	Royi Ronen, Oded Shmueli
+	Pages: 1273-1276
+	doi>10.1145/1871437.1871599
+	Full text: PDFPDF
+	
+
+The Query Network [12] is a model for query-based social networks automation features, motivated by the rise of social networks as a central internet application. This work generalizes the model to consist of a proposal query and an acceptance ...
+expand
+	Towards a provenance framework for sub-image processing for astronomical data
+	Johnson Mwebaze, John McFarland, Danny Booxhorn, Edwin Valentijn
+	Pages: 1277-1280
+	doi>10.1145/1871437.1871600
+	Full text: PDFPDF
+	
+
+While there has been advances in observational equipment that generate huge high quality images, the processing of these images remains a major bottleneck. We show that provenance data collected during the processing of data can be reused to perform ...
+expand
+	Open user schema guided evaluation of streaming RDF queries
+	Zhihong Chong, Guilin Qi, Hu Shu, Jiajia Bao, Weiwei Ni, Aoying Zhou
+	Pages: 1281-1284
+	doi>10.1145/1871437.1871601
+	Full text: PDFPDF
+	
+
+Performance and scalability are two issues that are becoming increasingly pressing as RDF data model is applied to real-world applications. Because neither vertical nor flat structures of RDF storage can handle frequent schema updates and meanwhile avoid ...
+expand
+	SUMMA: subgraph matching in massive graphs
+	Shijie Zhang, Shirong Li, Jiong Yang
+	Pages: 1285-1288
+	doi>10.1145/1871437.1871602
+	Full text: PDFPDF
+	
+
+Graphs can represent a large number of data types, e.g., online social networks, internet links, procedure dependency graphs, etc. The need for indexing massive graphs is an urgent research problem of great practical importance. The main challenge is ...
+expand
+	Automatically weighting tags in XML collection
+	Dexi Liu, Changxuan Wan, Lei Chen, Xiping Liu
+	Pages: 1289-1292
+	doi>10.1145/1871437.1871603
+	Full text: PDFPDF
+	
+
+In XML retrieval, nodes with different tags play different roles in XML documents and then tags should be reflected in the relevance ranking. An automatic method is proposed in this paper to infer the weights of tags. We first investigate 15 features ...
+expand
+	Skyline query processing for uncertain data
+	Mohamed E. Khalefa, Mohamed F. Mokbel, Justin J. Levandoski
+	Pages: 1293-1296
+	doi>10.1145/1871437.1871604
+	Full text: PDFPDF
+	
+
+Recently, several research efforts have addressed answering skyline queries efficiently over large datasets. However, this research lacks methods to compute these queries over uncertain data, where uncertain values are represented as a range. ...
+expand
+	FD-buffer: a buffer manager for databases on flash disks
+	Sai Tung On, Yinan Li, Bingsheng He, Ming Wu, Qiong Luo, Jianliang Xu
+	Pages: 1297-1300
+	doi>10.1145/1871437.1871605
+	Full text: PDFPDF
+	
+
+We design and implement FD-Buffer, a buffer manager for database systems running on flash-based disks. Unlike magnetic disks, flash media has an inherent read-write asymmetry: writes involve expensive erase operations and as a result are usually much ...
+expand
+	Efficiently querying archived data using Hadoop
+	Rajeev Gupta, Himanshu Gupta, Ullas Nambiar, Mukesh Mohania
+	Pages: 1301-1304
+	doi>10.1145/1871437.1871606
+	Full text: PDFPDF
+	
+
+The need to analyze structured data for various business intelligence applications such as customer churn analysis, social network analysis, telecom network monitoring etc., is well known. However, the potential size to which such data will scale in ...
+expand
+	Evaluation of top-k queries in peer-to-peer networks using threshold algorithms
+	Ioannis Chrysakis, Constantinos Chalkidis, Dimitris Plexousakis
+	Pages: 1305-1308
+	doi>10.1145/1871437.1871607
+	Full text: PDFPDF
+	
+
+In p2p networks, top-k query processing can provide a lot of advantages both in time and bandwidth consumption. Several algorithms have been proposed for the evaluation of top-k queries. A large percentage of them follow the Threshold Approach. We focus ...
+expand
+	A metamodel approach to flexible semantic web service discovery
+	Roberto De Virgilio, Devis Bianchini
+	Pages: 1309-1312
+	doi>10.1145/1871437.1871608
+	Full text: PDFPDF
+	
+
+In this paper we describe an approach for service discovery supported by semantic annotations. We propose a metamodel representation of both the WSDL documents and the associated semantic annotations. Based on this metamodel, effective service discovery ...
+expand
+	On top-k social web search
+	Peifeng Yin, Wang-Chien Lee, Ken C.K. Lee
+	Pages: 1313-1316
+	doi>10.1145/1871437.1871609
+	Full text: PDFPDF
+	
+
+To enhance the quality of document search, recent research studies have started to exploit the social networks of users by considering social influence (SI), measurement of the affinity between a query user and the publisher of a retrieved document, ...
+expand
+	Quantifying uncertainty in multi-dimensional cardinality estimations
+	Andranik Khachatryan, Klemens Boehm
+	Pages: 1317-1320
+	doi>10.1145/1871437.1871610
+	Full text: PDFPDF
+	
+
+We propose a method for predicting the cardinality distribution of a multi-dimensional query. Compared to conventional 'point-based' estimates, distribution-based estimates enable the query optimizer to predict the cost of a query plan more accurately, ...
+expand
+	Approximate membership localization (AML) for web-based join
+	Zhixu Li, Laurianne Sitbon, Liwei Wang, Xiaofang Zhou, Xiaoyong Du
+	Pages: 1321-1324
+	doi>10.1145/1871437.1871611
+	Full text: PDFPDF
+	
+
+In this paper, we propose a search-based approach to join two tables in the absence of clean join attributes. Non-structured documents from the web are used to express the correlations between a given query and a reference list. To implement this approach, ...
+expand
+	An efficient data-centric storage scheme considering storage and query hot-spots in sensor networks
+	Yonghun Park, Dongmin Seo, Jonghyeon Yun, Christopher T. Ryu, Jaesoo Yoo
+	Pages: 1325-1328
+	doi>10.1145/1871437.1871612
+	Full text: PDFPDF
+	
+
+In wireless sensor networks, various schemes have been proposed to efficiently store and process sensed data. Among them, the Data-Centric Storage (DCS) scheme is one of the most well-known. The DCS scheme distributes data regions and stores the data ...
+expand
+	Formal approach and automated tool for constructing ontology from object-oriented database model
+	Fu Zhang, Z. M. Ma, Xing Wang, Yu Wang
+	Pages: 1329-1332
+	doi>10.1145/1871437.1871613
+	Full text: PDFPDF
+	
+
+Extracting domain knowledge from databases can facilitate the development of Web ontologies. In this paper, a formal approach and an automated tool for constructing ontologies from Object-oriented database models (OODMs) are developed. The approach and ...
+expand
+	(k,P)-anonymity: towards pattern-preserving anonymity of time-series data
+	Xuan Shang, Ke Chen, Lidan Shou, Gang Chen, Tianlei Hu
+	Pages: 1333-1336
+	doi>10.1145/1871437.1871614
+	Full text: PDFPDF
+	
+
+The challenges with privacy protection of time series are mainly due to the complex nature of the data and the queries performed on them. We study the anonymization of time series while trying to support complex queries, such as range and pattern similarity ...
+expand
+	Concurrent atomic protocols for making and changing decisions in social networks
+	Royi Ronen, Oded Shmueli
+	Pages: 1337-1340
+	doi>10.1145/1871437.1871615
+	Full text: PDFPDF
+	
+
+We study a novel data management scenario, in which social networks participants use protocols in order to manage their activities and the ever-growing data available to them in the network. In particular, we study protocols which operate on a ...
+expand
+	Extending dictionary-based entity extraction to tolerate errors
+	Guoliang Li, Dong Deng, Jianhua Feng
+	Pages: 1341-1344
+	doi>10.1145/1871437.1871616
+	Full text: PDFPDF
+	
+
+Entity extraction (also known as entity recognition) extracts entities (e.g., person names, locations, companies) from text. Approximate (dictionary-based) entity extraction is a recent trend to improve extraction quality, which extracts substrings in ...
+expand
+	Yet another write-optimized DBMS layer for flash-based solid state storage
+	Hongchan Roh, Daewook Lee, Sanghyun Park
+	Pages: 1345-1348
+	doi>10.1145/1871437.1871617
+	Full text: PDFPDF
+	
+
+Flash-based Solid State Storage (flashSSS) has write-oriented problems such as low write throughput, and limited life-time. Especially, flashSSDs have a characteristic vulnerable to random-writes, due to its control logic utilizing parallelism between ...
+expand
+	Print: a provenance model to support integration processes
+	Bruno Tomazela, Carmem S. Hara, Ricardo R. Ciferri, Cristina D.A. Ciferri
+	Pages: 1349-1352
+	doi>10.1145/1871437.1871618
+	Full text: PDFPDF
+	
+
+In some integration applications, users are allowed to import data from heterogeneous sources, but are not allowed to update source data directly. Imported data may be inconsistent, and even when inconsistencies are detected and solved, these changes ...
+expand
+	OLAP-based query recommendation
+	Carlos Garcia-Alvarado, Zhibo Chen, Carlos Ordonez
+	Pages: 1353-1356
+	doi>10.1145/1871437.1871619
+	Full text: PDFPDF
+	
+
+Query recommendation is an invaluable tool for enabling users to speed up their searches. In this paper, we present algorithms for generating query suggestions, assuming no previous knowledge of the collection. We developed an online OLAP algorithm to ...
+expand
+	Selective data acquisition for probabilistic K-NN query
+	Yu-Chieh Lin, De-Nian Yang, Ming-Syan Chen
+	Pages: 1357-1360
+	doi>10.1145/1871437.1871620
+	Full text: PDFPDF
+	
+
+Recently, management of uncertain data draws lots of attention to consider the granularity of devices and noises in collection and delivery of data. Previous works directly model and handle uncertain data to find the required results. However, when data ...
+expand
+	Support elements in graph structured schema reintegration
+	Xun Sun, Rachel A. Pottinger, Michael K. Lawrence
+	Pages: 1361-1364
+	doi>10.1145/1871437.1871621
+	Full text: PDFPDF
+	
+
+Manipulating graph-structured schemas (ontologies, models, etc.) requires the result to remain fully connected. In certain cases, e.g., calculating the difference of two schemas, support structures may be needed in the result. We describe our engine ...
+expand
+	BP-tree: an efficient index for similarity search in high-dimensional metric spaces
+	Jurandy Almeida, Ricardo da S. Torres, Neucimar J. Leite
+	Pages: 1365-1368
+	doi>10.1145/1871437.1871622
+	Full text: PDFPDF
+	
+
+Similarity search in high-dimensional metric spaces is a key operation in many applications, such as multimedia databases, image retrieval, object recognition, and others. The high dimensionality of the data requires special index structures to facilitate ...
+expand
+	Query optimization for ontology-based information integration
+	Yingjie Li, Jeff Heflin
+	Pages: 1369-1372
+	doi>10.1145/1871437.1871623
+	Full text: PDFPDF
+	
+
+In recent years, there has been an explosion of publicly available RDF and OWL data sources. In order to effectively and quickly answer queries in such an environment, we present an approach to identifying the potentially relevant Semantic Web data sources ...
+expand
+	Data aspects in a relational database
+	Curtis Dyreson, Omar U. Florez
+	Pages: 1373-1376
+	doi>10.1145/1871437.1871624
+	Full text: PDFPDF
+	
+
+Data has cross-cutting concerns such as versioning, privacy, and reliability. In this paper we sketch support such concerns by adapting the aspect-oriented programming (AOP) paradigm to data. Our goal, shared by AOP, is to re-engineer applications ...
+expand
+	A hierarchical approach to reachability query answering in very large graph databases
+	Saikat K. Dey, Hasan Jamil
+	Pages: 1377-1380
+	doi>10.1145/1871437.1871625
+	Full text: PDFPDF
+	
+
+The cost of reachability query computation using traditional algorithms such as depth first search or transitive closure has been found to be prohibitive and unacceptable in massive graphs such as biological interaction networks, or pathways. Contemporary ...
+expand
+	Computing the top-k maximal answers in a join of ranked lists
+	Mirit Shalem, Yaron Kanza
+	Pages: 1381-1384
+	doi>10.1145/1871437.1871626
+	Full text: PDFPDF
+	
+
+Complex search tasks that utilize information from several data sources, are answered by integrating the results of distinct basic search queries. In such integration, each basic query returns a ranked list of items, and the main task is to compute the ...
+expand
+	PruSM: a prudent schema matching approach for web forms
+	Thanh Hoang Nguyen, Hoa Nguyen, Juliana Freire
+	Pages: 1385-1388
+	doi>10.1145/1871437.1871627
+	Full text: PDFPDF
+	
+
+There has been a substantial increase in the number of Web data sources whose contents are hidden and can only be accessed through form interfaces. To leverage this data, several applications have emerged that aim to automate and simplify the access ...
+expand
+	Anonymizing data with quasi-sensitive attribute values
+	Pu Shi, Li Xiong, Benjamin C.M. Fung
+	Pages: 1389-1392
+	doi>10.1145/1871437.1871628
+	Full text: PDFPDF
+	
+
+We study the problem of anonymizing data with quasi-sensitive attributes. Quasi-sensitive attributes are not sensitive by themselves, but certain values or their combinations may be linked to external knowledge to reveal indirect sensitive information ...
+expand
+	POSTER SESSION: Poster session 2: IR track
+	
+	Exploiting site-level information to improve web search
+	Andrei Broder, Evgeniy Gabrilovich, Vanja Josifovski, George Mavromatis, Donald Metzler, Jane Wang
+	Pages: 1393-1396
+	doi>10.1145/1871437.1871630
+	Full text: PDFPDF
+	
+
+Ranking Web search results has long evolved beyond simple bag-of-words retrieval models. Modern search engines routinely employ machine learning ranking that relies on exogenous relevance signals. Yet the majority of current methods still evaluate each ...
+expand
+	Exploration-exploitation tradeoff in interactive relevance feedback
+	Maryam Karimzadehgan, ChengXiang Zhai
+	Pages: 1397-1400
+	doi>10.1145/1871437.1871631
+	Full text: PDFPDF
+	
+
+We study an interesting optimization problem in interactive feedback that aims at optimizing the tradeoff between presenting search results with the highest immediate utility to a user (but not necessarily most useful for collecting feedback information) ...
+expand
+	Ranking social bookmarks using topic models
+	Morgan Harvey, Ian Ruthven, Mark Carman
+	Pages: 1401-1404
+	doi>10.1145/1871437.1871632
+	Full text: PDFPDF
+	
+
+Ranking of resources in social tagging systems is a difficult problem due to the inherent sparsity of the data and the vocabulary problems introduced by having a completely unrestricted lexicon. In this paper we propose to use hidden topic models as ...
+expand
+	A fine-grained taxonomy of tables on the web
+	Eric Crestan, Patrick Pantel
+	Pages: 1405-1408
+	doi>10.1145/1871437.1871633
+	Full text: PDFPDF
+	
+
+We propose a classification taxonomy over a large crawl of HTML tables on the Web, focusing primarily on those tables that express structured knowledge. The taxonomy separates tables into two top-level classes: a) those used for layout purposes, including ...
+expand
+	Challenges in personalized authority flow based ranking of social media
+	Hassan Sayyadi, John Edmonds, Vagelis Hristidis, Louiqa Raschid
+	Pages: 1409-1412
+	doi>10.1145/1871437.1871634
+	Full text: PDFPDF
+	
+
+As the social interaction of Internet users increases, so does the need to effectively rank social media. We study the challenges of personalized ranking of blog posts. Web search techniques are inadequate since social media lack many of the characteristics ...
+expand
+	A new mathematics retrieval system
+	Shahab Kamali, Frank Wm. Tompa
+	Pages: 1413-1416
+	doi>10.1145/1871437.1871635
+	Full text: PDFPDF
+	
+
+The Web contains a large collection of documents, some with mathematical expressions. Because mathematical expressions are objects with complex structures and rather few distinct symbols, conventional text retrieval systems are not very successful in ...
+expand
+	Explore click models for search ranking
+	Dong Wang, Weizhu Chen, Gang Wang, Yuchen Zhang, Botao Hu
+	Pages: 1417-1420
+	doi>10.1145/1871437.1871636
+	Full text: PDFPDF
+	
+
+Recent advances in click model have positioned it as an effective approach to estimate document relevance based on user behavior in web search. Yet, few works have been conducted to explore the use of click model to help web search ranking. In ...
+expand
+	Generating advertising keywords from video content
+	Michael J. Welch, Junghoo Cho, Walter Chang
+	Pages: 1421-1424
+	doi>10.1145/1871437.1871637
+	Full text: PDFPDF
+	
+
+With the proliferation of online distribution methods for videos, content owners require easier and more effective methods for monetization through advertising. Matching advertisements with related content has a significant impact on the effectiveness ...
+expand
+	Web page classification on child suitability
+	Carsten Eickhoff, Pavel Serdyukov, Arjen P. de Vries
+	Pages: 1425-1428
+	doi>10.1145/1871437.1871638
+	Full text: PDFPDF
+	
+
+Children spend significant amounts of time on the Internet. Recent studies showed, that during these periods they are often not under adult supervision. This work presents an automatic approach to identifying suitable web pages for children based on ...
+expand
+	Rough sets based reasoning and pattern mining for a two-stage information filtering system
+	Xujuan Zhou, Yuefeng Li, Peter David Bruza, Yue Xu, Raymond Y.K. Lau
+	Pages: 1429-1432
+	doi>10.1145/1871437.1871639
+	Full text: PDFPDF
+	
+
+This paper presents a novel two-stage information filtering model which combines the merits of term-based and pattern- based approaches to effectively filter sheer volume of infor- mation. In particular, the first filtering stage is supported by a novel ...
+expand
+	A late fusion approach to cross-lingual document re-ranking
+	Dong Zhou, Séamus Lawless, Jinming Min, Vincent Wade
+	Pages: 1433-1436
+	doi>10.1145/1871437.1871640
+	Full text: PDFPDF
+	
+
+The field of information retrieval still strives to develop models which allow semantic information to be integrated in the ranking process to improve performance in comparison to standard bag-of-words based models. Cross-lingual information retrieval ...
+expand
+	Learning to generate summary as structured output
+	Hiroya Takamura, Manabu Okumura
+	Pages: 1437-1440
+	doi>10.1145/1871437.1871641
+	Full text: PDFPDF
+	
+
+We propose to use a structured output learning for summary generation based on the maximum coverage problem. Our method learns a function that outputs the benefit of each conceptual unit in the document cluster for this summarization model. In the training, ...
+expand
+	Group ranking with application to image retrieval
+	Ou Wu, Weiming Hu, Bing Li
+	Pages: 1441-1444
+	doi>10.1145/1871437.1871642
+	Full text: PDFPDF
+	
+
+Many existing ranking-related information processing applications can be summarized into one theoretical problem called group ranking (GR). A simple average-ranking approach is usually applied to GR. Although the approach seems reasonable, no theoretical ...
+expand
+	Unifying explicit and implicit feedback for collaborative filtering
+	Nathan N. Liu, Evan W. Xiang, Min Zhao, Qiang Yang
+	Pages: 1445-1448
+	doi>10.1145/1871437.1871643
+	Full text: PDFPDF
+	
+
+Most collaborative filtering algorithms are based on certain statistical models of user interests built from either explicit feedback (eg: ratings, votes) or implicit feedback (eg: clicks, purchases). Explicit feedbacks are more precise but more difficult ...
+expand
+	Directly optimizing evaluation measures in learning to rank based on the clonal selection algorithm
+	Qiang He, Jun Ma, Shuaiqiang Wang
+	Pages: 1449-1452
+	doi>10.1145/1871437.1871644
+	Full text: PDFPDF
+	
+
+One fundamental issue of learning to rank is the choice of loss function to be optimized. Although the evaluation measures used in Information Retrieval (IR) are ideal ones, in many cases they can't be used directly because they do not satisfy the smooth ...
+expand
+	Query model refinement using word graphs
+	Yunping Huang, Le Sun, Jian-Yun Nie
+	Pages: 1453-1456
+	doi>10.1145/1871437.1871645
+	Full text: PDFPDF
+	
+
+Pseudo relevance feedback method is an effective method for query model refinement. Most existing pseudo relevance feedback methods only take into consideration the term distribution of the feedback documents, but omit the term's context information. ...
+expand
+	Building recommendation systems using peer-to-peer shared content
+	Yuval Shavitt, Ela Weinsberg, Udi Weinsberg
+	Pages: 1457-1460
+	doi>10.1145/1871437.1871646
+	Full text: PDFPDF
+	
+
+Peer-to-Peer (p2p) networks are used for sharing content by millions of users. Often, meta-data used for searching is missing or wrong, making it difficult for users to find content. Moreover, searching for new content is almost impossible. Recommender ...
+expand
+	Threshold behavior of incentives in social networks
+	Nagaraj Kota, Y. Narahari
+	Pages: 1461-1464
+	doi>10.1145/1871437.1871647
+	Full text: PDFPDF
+	
+
+The advent of large scale online social networks has resulted in a spurt of studies on the user participation in the networks. We consider a query incentive model on social networks, where user's queries are answered through her friendship network and ...
+expand
+	Image retrieval at memory's edge: known image search based on user-drawn sketches
+	Michael Springmann, Ihab Al Kabary, Heiko Schuldt
+	Pages: 1465-1468
+	doi>10.1145/1871437.1871648
+	Full text: PDFPDF
+	
+
+With the increasingly growing size of digital image collections, known image search is gaining more and more importance. Especially in collections where individual objects are not tagged with metadata describing their content, content-based image retrieval ...
+expand
+	Utilizing re-finding for personalized information retrieval
+	Sarah K. Tyler, Jian Wang, Yi Zhang
+	Pages: 1469-1472
+	doi>10.1145/1871437.1871649
+	Full text: PDFPDF
+	
+
+Individuals often use search engines to return to web pages they have previously visited. This behaviour, called re-finding, accounts for about 38% of all queries. While researchers have shown how re-finding differs from traditionally studied new-findings, ...
+expand
+	User behavior driven ranking without editorial judgments
+	Taesup Moon, Georges Dupret, Shihao Ji, Ciya Liao, Zhaohui Zheng
+	Pages: 1473-1476
+	doi>10.1145/1871437.1871650
+	Full text: PDFPDF
+	
+
+We explore the potential of using users click-through logs where no editorial judgment is available to improve the ranking function of a vertical search engine. We base our analysis on the Cumulate Relevance Model, a user behavior model recently ...
+expand
+	Alignment of short length parallel corpora with an application to web search
+	Jitendra Ajmera, Hema Swetha Koppula, Krishna P. Leela, Shibnath Mukherjee, Mehul Parsana
+	Pages: 1477-1480
+	doi>10.1145/1871437.1871651
+	Full text: PDFPDF
+	
+
+With evolving Web, short length parallel corpora is becoming very common and some of these include user queries, web snippets etc. This paper concerns situations where short length parallel corpora has to be analyzed in order to find meaningful unit-alignment. ...
+expand
+	A feature-word-topic model for image annotation
+	Cam-Tu Nguyen, Natsuda Kaothanthong, Xuan-Hieu Phan, Takeshi Tokuyama
+	Pages: 1481-1484
+	doi>10.1145/1871437.1871652
+	Full text: PDFPDF
+	
+
+Image annotation is to automatically associate semantic labels with images in order to obtain a more convenient way for indexing and searching images on the Web. This paper proposes a novel method for image annotation based on feature-word and word-topic ...
+expand
+	Weighting common syntactic structures for natural language based information retrieval
+	Chang Liu, Hui Wang, Sally McClean, Epaminondas Kapetanios, Denis Carroll
+	Pages: 1485-1488
+	doi>10.1145/1871437.1871653
+	Full text: PDFPDF
+	
+
+Natural Language Processing (NLP) techniques are believed to hold the potential to assist "bag-of-words" Information Retrieval (IR) in terms of retrieval accuracy. In this paper, we report a natural language based IR approach where the common syntactic ...
+expand
+	Ranking with auxiliary data
+	Bo Long, Yi Chang, Srinivas Vadrevu, Shuang Hong Yang, Zhaohui Zheng
+	Pages: 1489-1492
+	doi>10.1145/1871437.1871654
+	Full text: PDFPDF
+	
+
+Learning to rank arises in many information retrieval applications, ranging from Web search engine, online advertising to recommendation system. In learning to rank, the performance of a ranking function heavily depends on the number of labeled examples ...
+expand
+	Using various term dependencies according to their utilities
+	Lixin Shi, Jian-Yun Nie
+	Pages: 1493-1496
+	doi>10.1145/1871437.1871655
+	Full text: PDFPDF
+	
+
+In this paper, we propose a model to integrate term dependencies. Different from previous studies, each pair of terms is assigned a different weight of dependency according to their utility to IR. The experiments show that our model can significantly ...
+expand
+	Modeling reformulation using passage analysis
+	Xiaobing Xue, W. Bruce Croft, David A. Smith
+	Pages: 1497-1500
+	doi>10.1145/1871437.1871656
+	Full text: PDFPDF
+	
+
+Query reformulation modifies the original query with the aim of better matching the vocabulary of the relevant documents, and consequently improving ranking effectiveness. Previous techniques typically generate words and phrases related to the original ...
+expand
+	Online learning for recency search ranking using real-time user feedback
+	Taesup Moon, Lihong Li, Wei Chu, Ciya Liao, Zhaohui Zheng, Yi Chang
+	Pages: 1501-1504
+	doi>10.1145/1871437.1871657
+	Full text: PDFPDF
+	
+
+Traditional machine-learned ranking algorithms for web search are trained in batch mode, which assume static relevance of documents for a given query. Although such a batch-learning framework has been tremendously successful in commercial search engines, ...
+expand
+	Expert identification in community question answering: exploring question selection bias
+	Aditya Pal, Joseph A. Konstan
+	Pages: 1505-1508
+	doi>10.1145/1871437.1871658
+	Full text: PDFPDF
+	
+
+Community Question Answering (CQA) services enables users to ask and answer questions. In these communities, there are typically a small number of experts amongst the large population of users. We study which questions a user select for answering and ...
+expand
+	On the relationship between novelty and popularity of user-generated content
+	David Carmel, Haggai Roitman, Elad Yom-Tov
+	Pages: 1509-1512
+	doi>10.1145/1871437.1871659
+	Full text: PDFPDF
+	
+
+This work deals with the task of predicting the popularity of user-generated content. We demonstrate how the novelty of newly published content plays an important role in affecting its popularity. We study three dimensions of novelty: contemporaneous ...
+expand
+	Focused crawling using navigational rank
+	Shicong Feng, Li Zhang, Yuhong Xiong, Conglei Yao
+	Pages: 1513-1516
+	doi>10.1145/1871437.1871660
+	Full text: PDFPDF
+	
+
+The goal of focused crawling is to use limited resources to effectively discover web pages related to a specific topic rather than downloading all accessible web documents. The major challenge in focused crawling is how to effectively determine each ...
+expand
+	TAER: time-aware entity retrieval-exploiting the past to find relevant entities in news articles
+	Gianluca Demartini, Malik Muhammad Saad Missen, Roi Blanco, Hugo Zaragoza
+	Pages: 1517-1520
+	doi>10.1145/1871437.1871661
+	Full text: PDFPDF
+	
+
+Retrieving entities instead of just documents has become an important task for search engines. In this paper we study entity retrieval for news applications, and in particular the importance of the news trail history (i.e., past related articles) in ...
+expand
+	Demographic information flows
+	Ingmar Weber, Alejandro Jaimes
+	Pages: 1521-1524
+	doi>10.1145/1871437.1871662
+	Full text: PDFPDF
+	
+
+In advertising and content relevancy prediction it is important to understand whether, over time, information that reaches one demographic group spreads to others. In this paper we analyze the query log of a large U.S. web search engine to determine ...
+expand
+	Detecting periodic changes in search intentions in a search engine
+	Masaya Murata, Hiroyuki Toda, Yumiko Matsuura, Ryoji Kataoka, Takayoshi Mochizuki
+	Pages: 1525-1528
+	doi>10.1145/1871437.1871663
+	Full text: PDFPDF
+	
+
+Information needs expressed by using the same query for a search engine might be totally different, whether on week days or weekends, or during the day or at night. For queries having no temporal changes in search intentions, the same search results ...
+expand
+	Recommendation based on object typicality
+	Yi Cai, Ho-fung Leung, Qing Li, Jie Tang, Juanzi Li
+	Pages: 1529-1532
+	doi>10.1145/1871437.1871664
+	Full text: PDFPDF
+	
+
+Current recommendation methods are mainly classified into content-based, collaborative filtering and hybrid methods. These methods are based on similarity measurements among items or users. In this paper, we investigate recommendation systems from a ...
+expand
+	Selecting keywords for content based recommendation
+	Christian Wartena, Wout Slakhorst, Martin Wibbels
+	Pages: 1533-1536
+	doi>10.1145/1871437.1871665
+	Full text: PDFPDF
+	
+
+The continued growth of online content makes personalized recommendation an increasingly important tool for media consumption. While collaborative filtering techniques have shown to be very successful in stable collections, content based approaches are ...
+expand
+	Structural annotation of search queries using pseudo-relevance feedback
+	Michael Bendersky, W. Bruce Croft, David A. Smith
+	Pages: 1537-1540
+	doi>10.1145/1871437.1871666
+	Full text: PDFPDF
+	
+
+Marking up queries with annotations such as part-of-speech tags, capitalization, and segmentation, is an important part of many approaches to query processing and understanding. Due to their brevity and idiosyncratic structure, search queries pose a ...
+expand
+	Search as if you were in your home town: geographic search by regional context and dynamic feature-space selection
+	Makoto P. Kato, Hiroaki Ohshima, Satoshi Oyama, Katsumi Tanaka
+	Pages: 1541-1544
+	doi>10.1145/1871437.1871667
+	Full text: PDFPDF
+	
+
+We propose a query-by-example geographic object search method for users that do not know well about the place they are in. Geographic objects, such as restaurants, are often retrieved using an attribute-based or keyword query. These queries, however, ...
+expand
+	Topic aspect analysis for multi-document summarization
+	Chao Shen, Dingding Wang, Tao Li
+	Pages: 1545-1548
+	doi>10.1145/1871437.1871668
+	Full text: PDFPDF
+	
+
+Query-based multi-document summarization aims to create a short summary given a collection of documents and a query. Most of the existing methods treat the query as one single sentence and rank the sentences in the documents based on their similarities ...
+expand
+	Finding unusual review patterns using unexpected rules
+	Nitin Jindal, Bing Liu, Ee-Peng Lim
+	Pages: 1549-1552
+	doi>10.1145/1871437.1871669
+	Full text: PDFPDF
+	
+
+In recent years, opinion mining attracted a great deal of research attention. However, limited work has been done on detecting opinion spam (or fake reviews). The problem is analogous to spam in Web search [1, 9 11]. However, review spam is harder to ...
+expand
+	Visual-semantic graphs: using queries to reduce the semantic gap in web image retrieval
+	Barbara Poblete, Benjamin Bustos, Marcelo Mendoza, Juan Manuel Barrios
+	Pages: 1553-1556
+	doi>10.1145/1871437.1871670
+	Full text: PDFPDF
+	
+
+We explore the application of a graph representation to model similarity relationships that exist among images found on the Web. The resulting similarity-induced graph allows us to model in a unified way different types of content-based similarities, ...
+expand
+	Novel local features with hybrid sampling technique for image retrieval
+	Leszek Kaliciak, Dawei Song, Nirmalie Wiratunga, Jeff Pan
+	Pages: 1557-1560
+	doi>10.1145/1871437.1871671
+	Full text: PDFPDF
+	
+
+In image retrieval, most existing approaches that incorporate local features produce high dimensional vectors, which lead to a high computational and data storage cost. Moreover, when it comes to the retrieval of generic real-life images, randomly generated ...
+expand
+	Expected browsing utility for web search evaluation
+	Emine Yilmaz, Milad Shokouhi, Nick Craswell, Stephen Robertson
+	Pages: 1561-1564
+	doi>10.1145/1871437.1871672
+	Full text: PDFPDF
+	
+
+Most information retrieval evaluation metrics are designed to measure the satisfaction of the user given the results returned by a search engine. In order to evaluate user satisfaction, most of these metrics have underlying user models, which ...
+expand
+	Community-based topic modeling for social tagging
+	Daifeng Li, Bing He, Ying Ding, Jie Tang, Cassidy Sugimoto, Zheng Qin, Erjia Yan, Juanzi Li, Tianxi Dong
+	Pages: 1565-1568
+	doi>10.1145/1871437.1871673
+	Full text: PDFPDF
+	
+
+Exploring community is fundamental for uncovering the connections between structure and function of complex networks and for practical applications in many disciplines such as biology and sociology. In this paper, we propose a TTR-LDA-Community model ...
+expand
+	Discriminative factored prior models for personalized content-based recommendation
+	Lanbo Zhang, Yi Zhang
+	Pages: 1569-1572
+	doi>10.1145/1871437.1871674
+	Full text: PDFPDF
+	
+
+Most existing content-based filtering approaches including Rocchio, Language Models, SVM, Logistic Regression, Neural Networks, etc. learn user profiles independently without capturing the similarity among users. The Bayesian hierarchical models learn ...
+expand
+	Fast query expansion using approximations of relevance models
+	Marc-Allen Cartright, James Allan, Victor Lavrenko, Andrew McGregor
+	Pages: 1573-1576
+	doi>10.1145/1871437.1871675
+	Full text: PDFPDF
+	
+
+Pseudo-relevance feedback (PRF) improves search quality by expanding the query using terms from high-ranking documents from an initial retrieval. Although PRF can often result in large gains in effectiveness, running two queries is time consuming, limiting ...
+expand
+	Mining rules to explain activities in videos
+	Omar U. Florez, Curtis Dyreson
+	Pages: 1577-1580
+	doi>10.1145/1871437.1871676
+	Full text: PDFPDF
+	
+
+We present a novel approach to mining dependency rules that explain the scenes present during a video sequence. The approach first characterizes activities based on their most important events. Next, an HMM-based approach finds the mixture components ...
+expand
+	Online stratified sampling: evaluating classifiers at web-scale
+	Paul N. Bennett, Vitor R. Carvalho
+	Pages: 1581-1584
+	doi>10.1145/1871437.1871677
+	Full text: PDFPDF
+	
+
+Deploying a classifier to large-scale systems such as the web requires careful feature design and performance evaluation. Evaluation is particularly challenging because these large collections frequently change. In this paper we adapt stratified sampling ...
+expand
+	Routing questions to appropriate answerers in community question answering services
+	Baichuan Li, Irwin King
+	Pages: 1585-1588
+	doi>10.1145/1871437.1871678
+	Full text: PDFPDF
+	
+
+Community Question Answering (CQA) service provides a platform for increasing number of users to ask and answer for their own needs but unanswered questions still exist within a fixed period. To address this, the paper aims to route questions to the ...
+expand
+	Learning to rank with groups
+	Yuan Lin, Hongfei Lin, Zheng Ye, Song Jin, Xiaoling Sun
+	Pages: 1589-1592
+	doi>10.1145/1871437.1871679
+	Full text: PDFPDF
+	
+
+An essential issue in document retrieval is ranking, and the documents are ranked by their expected relevance to a given query. Multiple labels are used to represent different level of relevance for documents to a given query, and the corresponding label ...
+expand
+	Optimizing unified loss for web ranking specialization
+	Fan Li, Xin Li, Jiang Bian, Zhaohui Zheng
+	Pages: 1593-1596
+	doi>10.1145/1871437.1871680
+	Full text: PDFPDF
+	
+
+In this paper, we proposed a novel divide-and-conquer approach to optimize the overall relevance in an unified framework for query clustering and query-based ranking. In our model, latent topics and specialized ranking models are learned iteratively ...
+expand
+	Hypergraph-based multilevel matrix approximation for text information retrieval
+	Haw-ren Fang, Yousef Saad
+	Pages: 1597-1600
+	doi>10.1145/1871437.1871681
+	Full text: PDFPDF
+	
+
+In Latent Semantic Indexing (LSI), a collection of documents is often pre-processed to form a sparse term-document matrix, followed by a computation of a low-rank approximation to the data matrix. A multilevel framework based on hypergraph coarsening ...
+expand
+	A peer-selection algorithm for information retrieval
+	Yosi Mass, Yehoshua Sagiv, Michal Shmueli-Scheuer
+	Pages: 1601-1604
+	doi>10.1145/1871437.1871682
+	Full text: PDFPDF
+	
+
+A novel method for creating collection summaries is developed, and a fully decentralized peer-selection algorithm is described. This algorithm finds the most promising peers for answering a given query. Specifically, peers publish per-term synopses of ...
+expand
+	Exploring domain-specific term weight in archived question search
+	Zhao-Yan Ming, Tat-Seng Chua, Gao Cong
+	Pages: 1605-1608
+	doi>10.1145/1871437.1871683
+	Full text: PDFPDF
+	
+
+Community Question Answering services, e.g., Yahoo! Answers, have accumulated large archives of question answer (QA) pairs for information and answer retrieval. An effective question retrieval model is essential to increase the accessibility of the QA ...
+expand
+	Multi-information fusion for uncertain semantic representations of videos
+	Bo Lu, Guoren Wang, Xiaofeng Gong
+	Pages: 1609-1612
+	doi>10.1145/1871437.1871684
+	Full text: PDFPDF
+	
+
+Concept-Based Semantic Video Retrieval(CBSVR) usually uses semantic representations of videos to handle user's retrieval requests. It is obvious that the accuracy of semantic video retrieval depends on results of concept detectors, but the detection ...
+expand
+	POSTER SESSION: Poster session 3: KM track
+	
+	A topical link model for community discovery in textual interaction graph
+	Guoqing Zheng, Jinwen Guo, Lichun Yang, Shengliang Xu, Shenghua Bao, Zhong Su, Dingyi Han, Yong Yu
+	Pages: 1613-1616
+	doi>10.1145/1871437.1871686
+	Full text: PDFPDF
+	
+
+This paper is concerned with community discovery in textual interaction graph, where the links between entities are indicated by textual documents. Specifically, we propose a Topical Link Model(TLM), which leverages Hierarchical Dirichlet Process(HDP) ...
+expand
+	Taxonomic clustering of web service for efficient discovery
+	Sourish Dasgupta, Satish Bhat, Yugyung Lee
+	Pages: 1617-1620
+	doi>10.1145/1871437.1871687
+	Full text: PDFPDF
+	
+
+The World Wide Web (WWW) has become a major platform for hosting, discovering, and composing web services. Web service clustering is a technique for efficiently facilitating web service discovery. Most web service clustering approaches are based on suitable ...
+expand
+	Active learning in parallel universes
+	Nicolas Cebron, Michael R. Berthold
+	Pages: 1621-1624
+	doi>10.1145/1871437.1871688
+	Full text: PDFPDF
+	
+
+This work addresses two challenges in combination: learning with a very limited number of labeled training examples (active learning) and learning in the presence of multiple views for each object where the global model to be learned is spread out over ...
+expand
+	TAGME: on-the-fly annotation of short text fragments (by wikipedia entities)
+	Paolo Ferragina, Ugo Scaiella
+	Pages: 1625-1628
+	doi>10.1145/1871437.1871689
+	Full text: PDFPDF
+	
+
+We designed and implemented TAGME, a system that is able to efficiently and judiciously augment a plain-text with pertinent hyperlinks to Wikipedia pages. The specialty of TAGME with respect to known systems [5,8] is that it may annotate texts which ...
+expand
+	Adaptive outlierness for subspace outlier ranking
+	Emmanuel Müller, Matthias Schiffer, Thomas Seidl
+	Pages: 1629-1632
+	doi>10.1145/1871437.1871690
+	Full text: PDFPDF
+	
+
+Outlier mining is an important data analysis task to distinguish exceptional outliers from regular objects. However, in recent applications traditional outlier mining approaches miss outliers as they are hidden in subspace projections. In this work, ...
+expand
+	Understanding retweeting behaviors in social networks
+	Zi Yang, Jingyi Guo, Keke Cai, Jie Tang, Juanzi Li, Li Zhang, Zhong Su
+	Pages: 1633-1636
+	doi>10.1145/1871437.1871691
+	Full text: PDFPDF
+	
+
+Retweeting is an important action (behavior) on Twitter, indicating the behavior that users re-post microblogs of their friends. While much work has been conducted for mining textual content that users generate or analyzing the social network structure, ...
+expand
+	Mapping web pages to database records via link paths
+	Tim Weninger, Fabio Fumarola, Jiawei Han, Donato Malerba
+	Pages: 1637-1640
+	doi>10.1145/1871437.1871692
+	Full text: PDFPDF
+	
+
+In this paper we propose a new knowledge management task which aims to map Web pages to their corresponding records in a structured database. For example, the DBLP database contains records for many computer scientists, and most of these persons have ...
+expand
+	Personalized recommender system based on item taxonomy and folksonomy
+	Huizhi Liang, Yue Xu, Yuefeng Li, Richi Nayak
+	Pages: 1641-1644
+	doi>10.1145/1871437.1871693
+	Full text: PDFPDF
+	
+
+Item folksonomy or tag information is popularly available on the web now. However, since tags are arbitrary words given by users, they contain a lot of noise such as tag synonyms, semantic ambiguities and personal tags. Such noise brings difficulties ...
+expand
+	Communication motifs: a tool to characterize social communications
+	Qiankun Zhao, Yuan Tian, Qi He, Nuria Oliver, Ruoming Jin, Wang-Chien Lee
+	Pages: 1645-1648
+	doi>10.1145/1871437.1871694
+	Full text: PDFPDF
+	
+
+Social networks mediate not only the relations between entities, but also the patterns of information propagation among them and their communication behavior. In this paper, we extensively study the temporal annotations (e.g., time stamps and ...
+expand
+	Improving taxonomies for large-scale hierarchical classifiers of web documents
+	Kiyoshi Nitta
+	Pages: 1649-1652
+	doi>10.1145/1871437.1871695
+	Full text: PDFPDF
+	
+
+We focused on taxonomy modification algorithms for gradually improving the relevance performances of large-scale hierarchical classifiers of web documents. Considering the research results of Tang et al. [5,4], who took the same approach, we investigated ...
+expand
+	PTM: probabilistic topic mapping model for mining parallel document collections
+	Duo Zhang, Jimeng Sun, ChengXiang Zhai, Abhijit Bose, Nikos Anerousis
+	Pages: 1653-1656
+	doi>10.1145/1871437.1871696
+	Full text: PDFPDF
+	
+
+Many applications generate a large volume of parallel document collections. A parallel document collection consists of two sets of documents where the documents in each set correspond to each other and form semantic pairs (e.g., pairs of problem and ...
+expand
+	Hierarchical auto-tagging: organizing Q&A knowledge for everyone
+	Kyosuke Nishida, Ko Fujimura
+	Pages: 1657-1660
+	doi>10.1145/1871437.1871697
+	Full text: PDFPDF
+	
+
+We propose a hierarchical auto-tagging system, TagHats, to improve users' knowledge sharing. Our system assigns three different levels of tags to Q&A documents: category, theme, and keyword. Multiple category tags can organize a document according ...
+expand
+	Extracting structured information from Wikipedia articles to populate infoboxes
+	Dustin Lange, Christoph Böhm, Felix Naumann
+	Pages: 1661-1664
+	doi>10.1145/1871437.1871698
+	Full text: PDFPDF
+	
+
+Roughly every third Wikipedia article contains an infobox - a table that displays important facts about the subject in attribute-value form. The schema of an infobox, i.e., the attributes that can be expressed for a concept, is defined by an infobox ...
+expand
+	Automatic metadata extraction from multilingual enterprise content
+	Melike Şah, Vincent Wade
+	Pages: 1665-1668
+	doi>10.1145/1871437.1871699
+	Full text: PDFPDF
+	
+
+Enterprises provide professionally authored content about their products/services in different languages for use in web sites and customer care. For customer care, personalization/personalized information delivery is becoming important since it re-encourages ...
+expand
+	Intelligent sales forecasting engine using genetic algorithms
+	M. Vijayalakshmi, Bernard Menezes, Rohit Menon, Aniket Divecha, Rajesh Ravindran, Kamal Mehta
+	Pages: 1669-1672
+	doi>10.1145/1871437.1871700
+	Full text: PDFPDF
+	
+
+Times series techniques have been extensively used for Sales forecasting. Research has established that a combination forecast works better than a single forecast. Our research attempts to design an Intelligent Forecasting Engine which will use a combination ...
+expand
+	Identifying new categories in community question answering archives: a topic modeling approach
+	Yajie Miao, Chunping Li, Jie Tang, Lili Zhao
+	Pages: 1673-1676
+	doi>10.1145/1871437.1871701
+	Full text: PDFPDF
+	
+
+Community Question Answering (CQA) services have evolved into a popular way of information seeking and providing. User-posted questions in CQA are generally organized into hierarchical categories. In this paper, we define and study a novel problem which ...
+expand
+	An effective approach for mining mobile user habits
+	Huanhuan Cao, Tengfei Bao, Qiang Yang, Enhong Chen, Jilei Tian
+	Pages: 1677-1680
+	doi>10.1145/1871437.1871702
+	Full text: PDFPDF
+	
+
+The user interaction with the mobile device plays an important role in user habit understanding, which is crucial for improving context-aware services. In this paper, we propose to mine the associations between user interactions and contexts captured ...
+expand
+	Mining networks with shared items
+	Jun Sese, Mio Seki, Mutsumi Fukuzaki
+	Pages: 1681-1684
+	doi>10.1145/1871437.1871703
+	Full text: PDFPDF
+	
+
+Recent advances in data processing have enabled the generation of large and complex graphs. Many researchers have developed techniques to investigate informative structures within these graphs. However, the vertices and edges of most real-world graphs ...
+expand
+	Learning sentiment classification model from labeled features
+	Yulan He
+	Pages: 1685-1688
+	doi>10.1145/1871437.1871704
+	Full text: PDFPDF
+	
+
+We propose a novel framework where an initial classifier is learned by incorporating prior information extracted from an existing sentiment lexicon. Preferences on expectations of sentiment labels of those lexicon words are expressed using generalized ...
+expand
+	Embedding tolerance relations in formal concept analysis: an application in information fusion
+	Mehdi Kaytoue, Zainab Assaghir, Amedeo Napoli, Sergei O. Kuznetsov
+	Pages: 1689-1692
+	doi>10.1145/1871437.1871705
+	Full text: PDFPDF
+	
+
+This paper shows how to embed a similarity relation between complex descriptions in concept lattices. We formalize similarity by a tolerance relation: objects are grouped within a same concept when having similar descriptions, extending the ability of ...
+expand
+	Online learning for multi-task feature selection
+	Haiqin Yang, Irwin King, Michael R. Lyu
+	Pages: 1693-1696
+	doi>10.1145/1871437.1871706
+	Full text: PDFPDF
+	
+
+Multi-task feature selection (MTFS) is an important tool to learn the explanatory features across multiple related tasks. Previous MTFS methods fulfill this task in batch-mode training. This makes them inefficient when data come in sequence or when the ...
+expand
+	Exploiting user interests for collaborative filtering: interests expansion via personalized ranking
+	Qi Liu, Enhong Chen, Hui Xiong, Chris H.Q. Ding
+	Pages: 1697-1700
+	doi>10.1145/1871437.1871707
+	Full text: PDFPDF
+	
+
+In real applications, a given user buys or rates an item based on his/her interests. Learning to leverage this interest information is often critical for recommender systems. However, in existing recommender systems, the information about latent user ...
+expand
+	K-farthest-neighbors-based concept boundary determination for support vector data description
+	Yanshan Xiao, Bo Liu, Longbing Cao
+	Pages: 1701-1704
+	doi>10.1145/1871437.1871708
+	Full text: PDFPDF
+	
+
+Support vector data description (SVDD) is very useful for one-class classification. However, it incurs high time complexity in handling large scale data. In this paper, we propose a novel and efficient method, named K-Farthest-Neighbors-based Concept ...
+expand
+	Relational feature engineering of natural language processing
+	Hamidreza Kobdani, Hinrich Schütze, Andre Burkovski, Wiltrud Kessler, Gunther Heidemann
+	Pages: 1705-1708
+	doi>10.1145/1871437.1871709
+	Full text: PDFPDF
+	
+
+We present a new framework for feature engineering of natural language processing that is based on a relational data model of text. It includes fast and flexible methods for implementing and extracting new features and thereby reduces the effort of creating ...
+expand
+	Transfer incremental learning for pattern classification
+	Zhenfeng Zhu, Xingquan Zhu, Yue-Fei Guo, Xiangyang Xue
+	Pages: 1709-1712
+	doi>10.1145/1871437.1871710
+	Full text: PDFPDF
+	
+
+Traditional machine learning methods, such as Support Vector Machines (SVMs), usually assume that training and test data share the same distributions. Due to the inherent dynamic data nature, it is often observed that (1) the volumes of the training ...
+expand
+	Learning ontology resolution for document representation and its applications in text mining
+	Lidong Bing, Bai Sun, Shan Jiang, Yan Zhang, Wai Lam
+	Pages: 1713-1716
+	doi>10.1145/1871437.1871711
+	Full text: PDFPDF
+	
+
+It is well known that synonymous and polysemous terms often bring in some noises when calculating the similarity between documents. Existing ontology-based document representation methods are static, hence, the chosen semantic concept set for representing ...
+expand
+	Supervised identification and linking of concept mentions to a domain-specific ontology
+	Gabor Melli, Martin Ester
+	Pages: 1717-1720
+	doi>10.1145/1871437.1871712
+	Full text: PDFPDF
+	
+
+We propose a pipelined supervised learning approach named SDOI to the task of interlinking the concepts mentioned within a document to the concepts within an ontology. Concept mention identification is performed by training a sequential tagging model. ...
+expand
+	Relevance-index size tradeoff in contextual advertising
+	Pavan Kumar GM, Krishna P. Leela, Mehul Parsana, Sachin Garg
+	Pages: 1721-1724
+	doi>10.1145/1871437.1871713
+	Full text: PDFPDF
+	
+
+In Contextual advertising, textual ads relevant to the content in a webpage are embedded in the page. Content keywords are extracted offline by crawling webpages and then stored in an index for fast serving. Given a page, ad selection involves index ...
+expand
+	CasJoin: a cascade chain for text similarity joins
+	Xiaoxun Zhang, Zhili Guo, Honglei Guo, Huijia Zhu, Zhong Su
+	Pages: 1725-1728
+	doi>10.1145/1871437.1871714
+	Full text: PDFPDF
+	
+
+We are concerned with the problem of similarity joins of text data, where the task is to find all pairs of documents above an expected similarity. Such a problem often serves as an indispensable step in many web applications. A crucial issue is to preclude ...
+expand
+	Learning naïve bayes transfer classifier throughclass-wise test distribution estimation
+	Jeong-Woo Son, Seong-Bae Park, Hyun-Je Song
+	Pages: 1729-1732
+	doi>10.1145/1871437.1871715
+	Full text: PDFPDF
+	
+
+Text classification is a well-known problem for various applications. For last decades, it is beleived that a large corpus is one of the most important aspects for better classification. However, even though a great number of documents is available for ...
+expand
+	Top-Eye: top-k evolving trajectory outlier detection
+	Yong Ge, Hui Xiong, Zhi-hua Zhou, Hasan Ozdemir, Jannite Yu, K. C. Lee
+	Pages: 1733-1736
+	doi>10.1145/1871437.1871716
+	Full text: PDFPDF
+	
+
+The increasing availability of large-scale location traces creates unprecedent opportunities to change the paradigm for identifying abnormal moving activities. Indeed, various aspects of abnormality of moving patterns have recently been exploited, such ...
+expand
+	Multi task learning on multiple related networks
+	Prakash Mandayam Comar, Pang-ning Tan, Anil Kumar Jain
+	Pages: 1737-1740
+	doi>10.1145/1871437.1871717
+	Full text: PDFPDF
+	
+
+With the rapid proliferation of online social networks, the need for newer class of learning algorithm to simultaneously deal with multiple related networks has become increasingly important. This paper proposes an approach for multi-task learning in ...
+expand
+	Building a semantic representation for personal information
+	Jinyoung Kim, Anton Bakalov, David A. Smith, W. Bruce Croft
+	Pages: 1741-1744
+	doi>10.1145/1871437.1871718
+	Full text: PDFPDF
+	
+
+A typical collection of personal information contains many documents and mentions many concepts (e.g., person names, events, etc.). In this environment, associative browsing between these concepts and documents can be useful as a complement for search. ...
+expand
+	Affinity-driven prediction and ranking of products in online product review sites
+	Hui Li, Sourav S. Bhowmick, Aixin Sun
+	Pages: 1745-1748
+	doi>10.1145/1871437.1871719
+	Full text: PDFPDF
+	
+
+Large online product review websites (e.g., Epinions, Blippr)to various types of products. Typically, each product in these sites is associated with a group of members who have provided ratings and comments on it. These people form a product ...
+expand
+	Topic-driven web search result organization by leveraging wikipedia semantic knowledge
+	Xianpei Han, Jun Zhao
+	Pages: 1749-1752
+	doi>10.1145/1871437.1871720
+	Full text: PDFPDF
+	
+
+Effective organization of web search results can greatly improve the utility of search engine and enhance the quality of search results. However, the organization of search results is difficult because the sub-topics of a query are usually not explicitly ...
+expand
+	Fast dimension reduction for document classification based on imprecise spectrum analysis
+	Hu Guan, Bin Xiao, Jingyu Zhou, Minyi Guo, Tao Yang
+	Pages: 1753-1756
+	doi>10.1145/1871437.1871721
+	Full text: PDFPDF
+	
+
+This paper proposes an algorithm called Imprecise Spectrum Analysis (ISA) to carry out fast dimension reduction for document classification. ISA is designed based on the one-sided Jacobi method for Singular Value Decomposition (SVD). To speedup dimension ...
+expand
+	Manifold ranking with sink points for update summarization
+	Pan Du, Jiafeng Guo, Jin Zhang, Xueqi Cheng
+	Pages: 1757-1760
+	doi>10.1145/1871437.1871722
+	Full text: PDFPDF
+	
+
+Update summarization aims to create a summary over a topic-related multi-document dataset based on the assumption that the user has already read a set of earlier documents of the same topic. Beyond the problems (i.e., topic relevance, salience, and diversity ...
+expand
+	Construction of a sentimental word dictionary
+	Eduard C. Dragut, Clement Yu, Prasad Sistla, Weiyi Meng
+	Pages: 1761-1764
+	doi>10.1145/1871437.1871723
+	Full text: PDFPDF
+	
+
+The Web has plenty of reviews, comments and reports about products, services, government policies, institutions, etc. The opinions expressed in these reviews influence how people regard these entities. For example, a product with consistently good reviews ...
+expand
+	Exploiting novelty, coverage and balance for topic-focused multi-document summarization
+	Xuan Li, Yi-Dong Shen, Liang Du, Chen-Yan Xiong
+	Pages: 1765-1768
+	doi>10.1145/1871437.1871724
+	Full text: PDFPDF
+	
+
+Novelty, coverage and balance are important requirements in topic-focused summarization, which to a large extent determine the quality of a summary. In this paper, we propose a novel method that incorporates these requirements into a sentence ranking ...
+expand
+	Context modeling for ranking and tagging bursty features in text streams
+	Wayne Xin Zhao, Jing Jiang, Jing He, Dongdong Shan, Hongfei Yan, Xiaoming Li
+	Pages: 1769-1772
+	doi>10.1145/1871437.1871725
+	Full text: PDFPDF
+	
+
+Bursty features in text streams are very useful in many text mining applications. Most existing studies detect bursty features based purely on term frequency changes without taking into account the semantic contexts of terms, and as a result the detected ...
+expand
+	Comparison of six aggregation strategies to compute users' trustworthiness
+	Pierpaolo Dondio, Stephen Barrett
+	Pages: 1773-1776
+	doi>10.1145/1871437.1871726
+	Full text: PDFPDF
+	
+
+The decision to grant trust in virtual societies is often an evidence based process. The evidence for such decision derives from a diverse set, where mutual relationships and contradictions might occur. This paper compares and evaluates six aggregation ...
+expand
+	Visualization and clustering of crowd video content in MPCA subspace
+	Haiping Lu, How-Lung Eng, Myo Thida, Konstantinos N. Plataniotis
+	Pages: 1777-1780
+	doi>10.1145/1871437.1871727
+	Full text: PDFPDF
+	
+
+This paper presents a novel approach for the visualization and clustering of crowd video contents by using multilinear principal component analysis (MPCA). In contrast to feature-point-based approach and frame-based dimensionality reduction approach, ...
+expand
+	ANITA: a narrative interpretation of taxonomies for their adaptation to text collections
+	Mario Cataldi, K. Selçuk Candan, Maria Luisa Sapino
+	Pages: 1781-1784
+	doi>10.1145/1871437.1871728
+	Full text: PDFPDF
+	
+
+Taxonomies embody formalized knowledge and define aggregations between concepts/categories in a given domain, facilitating the organization of the data and making the contents easily accessible to the users. Since taxonomies have significant roles in ...
+expand
+	Yes we can: simplex volume maximization for descriptive web-scale matrix factorization
+	Christian Thurau, Kristian Kersting, Christian Bauckhage
+	Pages: 1785-1788
+	doi>10.1145/1871437.1871729
+	Full text: PDFPDF
+	
+
+Matrix factorization methods are among the most common techniques for detecting latent components in data. Popular examples include the Singular Value Decomposition or Non-negative Matrix Factorization. Unfortunately, most methods suffer from high computational ...
+expand
+	Incorporating terminology evolution for query translation in text retrieval with association rules
+	Amal C. Kaluarachchi, Aparna S. Varde, Srikanta Bedathur, Gerhard Weikum, Jing Peng, Anna Feldman
+	Pages: 1789-1792
+	doi>10.1145/1871437.1871730
+	Full text: PDFPDF
+	
+
+Time-stamped documents such as newswire articles, blog posts and other web-pages are often archived online. When these archives cover long spans of time, the terminology within them could undergo significant changes. Hence, when users pose queries pertaining ...
+expand
+	Exploiting co-occurrence and information quality metrics to recommend tags in web 2.0 applications
+	Fabiano Muniz Belém, Eder Ferreira Martins, Jussara Marques Almeida, Marcos André Gonçalves, Gisele Lobo Pappa
+	Pages: 1793-1796
+	doi>10.1145/1871437.1871731
+	Full text: PDFPDF
+	
+
+This work addresses the task of recommending high quality tags by exploiting not only previously assigned tags, but also terms extracted from other textual features (e.g., title and description) associated with the target object.To estimate the quality ...
+expand
+	Elusive vandalism detection in wikipedia: a text stability-based approach
+	Qinyi Wu, Danesh Irani, Calton Pu, Lakshmish Ramaswamy
+	Pages: 1797-1800
+	doi>10.1145/1871437.1871732
+	Full text: PDFPDF
+	
+
+The open collaborative nature of wikis encourages participation of all users, but at the same time exposes their content to vandalism. The current vandalism-detection techniques, while effective against relatively obvious vandalism edits, prove to be ...
+expand
+	Feature subspace transformations for enhancing k-means clustering
+	Anirban Chatterjee, Sanjukta Bhowmick, Padma Raghavan
+	Pages: 1801-1804
+	doi>10.1145/1871437.1871733
+	Full text: PDFPDF
+	
+
+Unsupervised classification typically concerns identifying clusters of similar entities in an unlabeled dataset. Popular methods include clustering based on (i) distance-based metrics between the entities in the feature space (K-Means), and (ii) combinatorial ...
+expand
+	On bootstrapping recommender systems
+	Nadav Golbandi, Yehuda Koren, Ronny Lempel
+	Pages: 1805-1808
+	doi>10.1145/1871437.1871734
+	Full text: PDFPDF
+	
+
+Recommender systems perform much better on users for which they have more information. This gives rise to a problem of satisfying users new to a system. The problem is even more acute considering that some of these hard to profile new users judge the ...
+expand
+	Using Wikipedia categories for compact representations of chemical documents
+	Benjamin Köhncke, Wolf-Tilo Balke
+	Pages: 1809-1812
+	doi>10.1145/1871437.1871735
+	Full text: PDFPDF
+	
+
+Today, Web pages are usually accessed using text search engines, whereas documents stored in the deep Web are accessed through domain-specific Web portals. These portals rely on external knowledge bases, respectively ontologies, mapping documents to ...
+expand
+	Efficient wikipedia-based semantic interpreter by exploiting top-k processing
+	Jong Wook Kim, Ashwin Kashyap, Dekai Li, Sandilya Bhamidipati
+	Pages: 1813-1816
+	doi>10.1145/1871437.1871736
+	Full text: PDFPDF
+	
+
+Proper representation of the meaning of texts is crucial to enhancing many data mining and information retrieval tasks, including clustering, computing semantic relatedness between texts, and searching. Representing of texts in the concept space derived ...
+expand
+	A study of rumor control strategies on social networks
+	Rudra M. Tripathy, Amitabha Bagchi, Sameep Mehta
+	Pages: 1817-1820
+	doi>10.1145/1871437.1871737
+	Full text: PDFPDF
+	
+
+In this paper we study and evaluate rumor-like methods for combating the spread of rumors on a social network. We model rumor spread as a diffusion process on a network and suggest the use of an "anti-rumor" process similar to the rumor process. We study ...
+expand
+	Domain-independent entity coreference in RDF graphs
+	Dezhao Song, Jeff Heflin
+	Pages: 1821-1824
+	doi>10.1145/1871437.1871738
+	Full text: PDFPDF
+	
+
+In this paper, we present a novel entity coreference algorithm for Semantic Web instances. The key issues include how to locate context information and how to utilize the context appropriately. To collect context information, we select a neighborhood ...
+expand
+	Opinion digger: an unsupervised opinion miner from unstructured product reviews
+	Samaneh Moghaddam, Martin Ester
+	Pages: 1825-1828
+	doi>10.1145/1871437.1871739
+	Full text: PDFPDF
+	
+
+Mining customer reviews (opinion mining) has emerged as an interesting new research direction. Most of the reviewing websites such as Epinions.com provide some additional information on top of the review text and overall rating, including a set of predefined ...
+expand
+	Combining link and content for collective active learning
+	Lixin Shi, Yuhang Zhao, Jie Tang
+	Pages: 1829-1832
+	doi>10.1145/1871437.1871740
+	Full text: PDFPDF
+	
+
+In this paper, we study a novel problem Collective Active Learning, in which we aim to select a batch set of "informative" instances from a networking data set to query the user in order to improve the accuracy of the learned classification model. ...
+expand
+	Classifying sentiment in microblogs: is brevity an advantage?
+	Adam Bermingham, Alan F. Smeaton
+	Pages: 1833-1836
+	doi>10.1145/1871437.1871741
+	Full text: PDFPDF
+	
+
+Microblogs as a new textual domain offer a unique proposition for sentiment analysis. Their short document length suggests any sentiment they contain is compact and explicit. However, this short length coupled with their noisy nature can pose difficulties ...
+expand
+	Identifying hotspots on the real-time web
+	Krishna Yeswanth Kamath, James Caverlee
+	Pages: 1837-1840
+	doi>10.1145/1871437.1871742
+	Full text: PDFPDF
+	
+
+We study the problem of automatically identifying ``hotspots'' on the real-time web. Concretely, we propose to identify highly-dynamic ad-hoc collections of users -- what we refer to as crowds -- in massive social messaging systems like Twitter and Facebook. ...
+expand
+	Discovery of numerous specific topics via term co-occurrence analysis
+	Omid Madani, Jiye Yu
+	Pages: 1841-1844
+	doi>10.1145/1871437.1871743
+	Full text: PDFPDF
+	
+
+We describe efficient techniques for construction of large term co-occurrence graphs, and investigate an application to the discovery of numerous fine-grained (specific) topics. A topic is a small dense subgraph discovered by a random walk initiated ...
+expand
+	Digging for knowledge with information extraction: a case study on human gene-disease associations
+	Markus Bundschus, Anna Bauer-Mehren, Volker Tresp, Laura Furlong, Hans-Peter Kriegel
+	Pages: 1845-1848
+	doi>10.1145/1871437.1871744
+	Full text: PDFPDF
+	
+
+We present the information extraction system Text2SemRel. The system (semi-) automatically constructs knowledge bases from textual data consisting of facts about entities using semantic relations. An integral part of the system is a graph-based ...
+expand
+	Towards query log based personalization using topic models
+	Mark J. Carman, Fabio Crestani, Morgan Harvey, Mark Baillie
+	Pages: 1849-1852
+	doi>10.1145/1871437.1871745
+	Full text: PDFPDF
+	
+
+We investigate the utility of topic models for the task of personalizing search results based on information present in a large query log. We define generative models that take both the user and the clicked document into account when estimating the probability ...
+expand
+	Choosing your own adventure: automatic taxonomy generation to permit many paths
+	Xiaoguang Qi, Dawei Yin, Zhenzhen Xue, Brian D. Davison
+	Pages: 1853-1856
+	doi>10.1145/1871437.1871746
+	Full text: PDFPDF
+	
+
+A taxonomy organizes concepts or topics in a hierarchical structure and can be created manually or via automated systems. A major drawback of taxonomies is that they require users to have the same view of the topics as the taxonomy creator. Users who ...
+expand
+	Robust prediction from multiple heterogeneous data sources with partial information
+	Mohammad S. Aziz, Chandan K. Reddy
+	Pages: 1857-1860
+	doi>10.1145/1871437.1871747
+	Full text: PDFPDF
+	
+
+Significant research efforts for robust integration of information from multiple sources are being pursued at a rapid pace. However, the information in heterogeneous sources is often incomplete and hence making the maximum use of all the available information ...
+expand
+	Collaboration analytics: mining work patterns from collaboration activities
+	Qihua Wang, Hongxia Jin, Yan Liu
+	Pages: 1861-1864
+	doi>10.1145/1871437.1871748
+	Full text: PDFPDF
+	
+
+People are increasingly using more and more social softwares, generating flooding communications. User analytics may be performed to mine a person's activities on different social systems and extract patterns, be it interest patterns, social patterns, ...
+expand
+	Adapting cost-sensitive learning for reject option
+	Jun Du, Eileen A. Ni, Charles X. Ling
+	Pages: 1865-1868
+	doi>10.1145/1871437.1871749
+	Full text: PDFPDF
+	
+
+Traditional cost-sensitive learning algorithms always deterministically predict examples as either positive or negative (in binary setting), to minimize the total misclassification cost. However, in more advanced real-world settings, the algorithms can ...
+expand
+	SKIF: a data imputation framework for concept drifting data streams
+	Peng Zhang, Xingquan Zhu, Jianlong Tan, Li Guo
+	Pages: 1869-1872
+	doi>10.1145/1871437.1871750
+	Full text: PDFPDF
+	
+
+Missing data commonly occurs in many applications. While many data imputation methods exist to handle the missing data problem for large scale databases, when applied to concept drifting data streams, these methods face some common difficulties. First, ...
+expand
+	Detecting controversial events from twitter
+	Ana-Maria Popescu, Marco Pennacchiotti
+	Pages: 1873-1876
+	doi>10.1145/1871437.1871751
+	Full text: PDFPDF
+	
+
+Social media provides researchers with continuously updated information about developments of interest to large audiences. This paper addresses the task of identifying controversial events using Twitter as a starting point: we propose 3 models for this ...
+expand
+	Topic detection and organization of mobile text messages
+	Ye Tian, Wendong Wang, Xueli Wang, Jinghai Rao, Canfeng Chen, Jian Ma
+	Pages: 1877-1880
+	doi>10.1145/1871437.1871752
+	Full text: PDFPDF
+	
+
+How to organize and visualize big amount of text messages stored on one's mobile phone is a challenging problem, since they can hardly be organized by threads as we do for emails due to lack of necessary metadata such as "subject" and "reply-to". In ...
+expand
+	Unsupervised public health event detection for epidemic intelligence
+	Marco Fisichella, Avaré Stewart, Kerstin Denecke, Wolfgang Nejdl
+	Pages: 1881-1884
+	doi>10.1145/1871437.1871753
+	Full text: PDFPDF
+	
+
+Recent pandemics such as Swine Flu have caused concern for public health officials. Given the ever increasing pace at which infectious diseases can spread globally, officials must be prepared to react sooner and with greater epidemic intelligence gathering ...
+expand
+	Pattern based keyword extraction for contextual advertising
+	Kushal S. Dave, Vasudeva Varma
+	Pages: 1885-1888
+	doi>10.1145/1871437.1871754
+	Full text: PDFPDF
+	
+
+Contextual Advertising (CA) refers to the placement of ads that are contextually related to the web page content. The science of CA deals with the task of finding advertising keywords from web pages. We present a different candidate selection method ...
+expand
+	Mixture model label propagation
+	Mingmin Chi, Xisheng He, Shipeng Yu
+	Pages: 1889-1892
+	doi>10.1145/1871437.1871755
+	Full text: PDFPDF
+	
+
+Usually, we can use a classification or clustering machine learning algorithm to manage knowledge and information retrieval. If we have a small size of known information with a large scale of unknown data, a semi-supervised learning (SSL) algorithm ...
+expand
+	Regularization and feature selection for networked features
+	Hongliang Fei, Brian Quanz, Jun Huan
+	Pages: 1893-1896
+	doi>10.1145/1871437.1871756
+	Full text: PDFPDF
+	
+
+In the standard formalization of supervised learning problems, a datum is represented as a vector of features without prior knowledge about relationships among features. However, for many real world problems, we have such prior knowledge about structure ...
+expand
+	POSTER SESSION: Poster session 4: Industry track
+	
+	BagBoo: a scalable hybrid bagging-the-boosting model
+	Dmitry Yurievich Pavlov, Alexey Gorodilov, Cliff A. Brunk
+	Pages: 1897-1900
+	doi>10.1145/1871437.1871758
+	Full text: PDFPDF
+	
+
+In this paper, we introduce a novel machine learning approach for regression based on the idea of combining bagging and boosting that we call BagBoo. Our BagBoo model borrows its high accuracy potential from. Friedman's gradient boosting ...
+expand
+	Exploiting sequential relationships for familial classification
+	Lee S. Jensen, James G. Shanahan
+	Pages: 1901-1904
+	doi>10.1145/1871437.1871759
+	Full text: PDFPDF
+	
+
+The pervasive nature of the internet has caused a significant transformation in the field of genealogical research. This has impacted not only how research is conducted, but has also dramatically increased the number of people discovering their family ...
+expand
+	Massive structured data management solution
+	Ullas Nambiar, Rajeev Gupta, Himanshu Gupta, Mukesh Mohania
+	Pages: 1905-1908
+	doi>10.1145/1871437.1871760
+	Full text: PDFPDF
+	
+
+The need to analyze structured data for various business intelligence applications such as customer churn analysis, social network analysis, etc. is well known. However, the potential size to which such data will scale in future will make solutions that ...
+expand
+	Ranking of evolving stories through meta-aggregation
+	Juozas Gordevicius, Francisco J. Estrada, Hyun Chul Lee, Periklis Andritsos, Johann Gamper
+	Pages: 1909-1912
+	doi>10.1145/1871437.1871761
+	Full text: PDFPDF
+	
+
+In this paper we focus on the problem of ranking news stories within their historical context by exploiting their content similarity. We observe that news stories evolve and thus have to be ranked in a time and query dependent manner. We do this in two ...
+expand
+	Injecting domain knowledge into a granular database engine: a position paper
+	Dominik Ślezak, Graham Toppin
+	Pages: 1913-1916
+	doi>10.1145/1871437.1871762
+	Full text: PDFPDF
+	
+
+We discuss how to use techniques from such fields as text processing and knowledge management to better handle text attributes in the Infobright's RDBMS engine. Our approach leads to a rich interface for domain experts who wish to share their knowledge ...
+expand
+	Experiences with using SVM-based learning for multi-objective ranking
+	Linh Thai Nguyen, Wai Gen Yee, Roger Liew, Ophir Frieder
+	Pages: 1917-1920
+	doi>10.1145/1871437.1871763
+	Full text: PDFPDF
+	
+
+We describe our experiences in applying learning-to-rank techniques to improving the quality of search results of an online hotel reservation system. The search result quality factors we use are average booking position and distribution of margin in ...
+expand
+	Learning to blend rankings: a monotonic transformation to blend rankings from heterogeneous domains
+	Zhenzhen Kou, Yi Chang, Zhaohui Zheng, Hongyuan Zha
+	Pages: 1921-1924
+	doi>10.1145/1871437.1871764
+	Full text: PDFPDF
+	
+
+There have been great needs to develop effective methods for combining multiple rankings from heterogeneous domains into one single rank list arising from many recent web search applications, such as integrating web search results from multiple engines, ...
+expand
+	DEMONSTRATION SESSION: Demo session 1: IR
+	
+	EntityEngine: answering entity-relationship queries using shallow semantics
+	Xiaonan Li, Chengkai Li, Cong Yu
+	Pages: 1925-1926
+	doi>10.1145/1871437.1871766
+	Full text: PDFPDF
+	
+
+We introduce EntityEngine, a system for answering entity-relationship queries over text. Such queries combine SQL-like structures with IR-style keyword constraints and therefore, can be expressive and flexible in querying about entities and their relationships. ...
+expand
+	Facetedpedia: enabling query-dependent faceted search for wikipedia
+	Ning Yan, Chengkai Li, Senjuti B. Roy, Rakesh Ramegowda, Gautam Das
+	Pages: 1927-1928
+	doi>10.1145/1871437.1871767
+	Full text: PDFPDF
+	
+
+Facetedpedia is a faceted search system that dynamically discovers query-dependent faceted interfaces for Wikipedia search result articles. In this paper, we give an overview of Facetedpedia, present the system architecture and implementation ...
+expand
+	Discovering, ranking and annotating cross-document relationships between concepts
+	Wei Jin, Xin Wu
+	Pages: 1929-1930
+	doi>10.1145/1871437.1871768
+	Full text: PDFPDF
+	
+
+This paper presents CDRMiner, a system for automatically discovering, ranking and annotating cross-document links between concepts. Specifically, we focus on detecting hidden associations between two concepts and further generating annotations ...
+expand
+	WikiPop: personalized event detection system based on Wikipedia page view statistics
+	Marek Ciglan, Kjetil Nørvåg
+	Pages: 1931-1932
+	doi>10.1145/1871437.1871769
+	Full text: PDFPDF
+	
+
+In this paper, we describe WikiPop service, a system designed to detect significant increase of popularity of topics related to users' interests. We exploit Wikipedia page view statistics to identify concepts with significant increase of the interest ...
+expand
+	XReal: an interactive XML keyword searching
+	Zhifeng Bao, Jiaheng Lu, Tok Wang Ling
+	Pages: 1933-1934
+	doi>10.1145/1871437.1871770
+	Full text: PDFPDF
+	
+
+Keyword search over XML data usually brings irrelevant results especially when the keywords in a user query have ambiguities. We demonstrate a statistic-based approach to identify the search targets and constraints of a user query in the presence of ...
+expand
+	EUI: an embedded engine for understanding user intents from mobile devices
+	JongWoo Ha, Jung-Hyun Lee, Kyu-Sun Shim, SangKeun Lee
+	Pages: 1935-1936
+	doi>10.1145/1871437.1871771
+	Full text: PDFPDF
+	
+
+We design and implement a novel embedded software engine, called EUI, to understand user intents from usage data within mobile devices. By developing the EUI engine in mobile devices, we expect to move towards "proactive" devices for mobile personalized ...
+expand
+	TC-DCA: a system for text classification based on document's content allocation
+	Wenbo Li, Le Sun, Zhenzhong Zhang, Xue Jiang, Weiru Zhang
+	Pages: 1937-1938
+	doi>10.1145/1871437.1871772
+	Full text: PDFPDF
+	
+
+The text classification methods heavily depend on machine learning algorithms with abstract mathematic metrics, which obstruct the direct observation and intuitive understanding of the text-specific classification. In this paper, we model a document ...
+expand
+	Crawling the web for structured documents
+	Julián Urbano, Juan Loréns, Yorgos Andreadakis, Mónica Marrero
+	Pages: 1939-1940
+	doi>10.1145/1871437.1871773
+	Full text: PDFPDF
+	
+
+Structured Information Retrieval is gaining a lot of interest in recent years, as this kind of information is becoming an invaluable asset for professional communities such as Software Engineering. Most of the research has focused on XML documents, with ...
+expand
+	Connecting the local and the online in information management
+	Gabriella Kazai, Natasa Milic-Frayling, Tim Haughton, Natalia Manola, Katerina Iatropoulou, Antonis Lempesis, Paolo Manghi, Marko Mikulicic
+	Pages: 1941-1942
+	doi>10.1145/1871437.1871774
+	Full text: PDFPDF
+	
+
+With the popularity of social media sites, digital content is increasingly stored and managed online. At the same time, the desktop and local storage continues to provide a personal environment in which users perform their daily tasks. Thus, to accomplish ...
+expand
+	DEMONSTRATION SESSION: Demo session 2: KM and DB
+	
+	LiquidXML: adaptive XML content redistribution
+	Jesús Camacho-Rodríguez, Asterios Katsifodimos, Ioana Manolescu, Alexandra Roatis
+	Pages: 1943-1944
+	doi>10.1145/1871437.1871776
+	Full text: PDFPDF
+	
+
+We propose to demonstrate LiquidXML, a platform for managing large corpora of XML documents in large-scale P2P networks. All LiquidXML peers may publish XML documents to be shared with all the network peers. The challenge then is to efficiently (re-)distribute ...
+expand
+	Brown dwarf: a P2P data-warehousing system
+	Katerina Doka, Dimitrios Tsoumakos, Nectarios Koziris
+	Pages: 1945-1946
+	doi>10.1145/1871437.1871777
+	Full text: PDFPDF
+	
+
+In this demonstration we present the Brown Dwarf, a distributed system designed to efficiently store, query and update multidimensional data. Deployed on any number of commodity nodes, our system manages to distribute large volumes of data over ...
+expand
+	RDFViewS: a storage tuning wizard for RDF applications
+	François Goasdoué, Konstantinos Karanasos, Julien Leblay, Ioana Manolescu
+	Pages: 1947-1948
+	doi>10.1145/1871437.1871778
+	Full text: PDFPDF
+	
+
+In recent years, the significant growth of RDF data used in numerous applications has made its efficient and scalable manipulation an important issue. In this paper, we present RDFViewS, a system capable of choosing the most suitable views to materialize, ...
+expand
+	WS-GraphMatching: a web service tool for graph matching
+	Qiong Cheng, Mitsunori Ogihara, Jinpeng Wei, Alexander Zelikovsky
+	Pages: 1949-1950
+	doi>10.1145/1871437.1871779
+	Full text: PDFPDF
+	
+
+Some emerging applications deal with graph data and relie on graph matching and mining. The service-oriented graph matching and mining tool has been required. In this demo we present the web service tool WS-GraphMatching which supports the efficient ...
+expand
+	FALCON: seamless access to meeting data from the inbox and calendar
+	Peter Bjellerup, Karl J. Cama, Mukundan Desikan, Yi Guo, Ajinkya G. Kale, Jennifer C. Lai, Nizar Lethif, Jie Lu, Mercan Topkara, Stephan H. Wissel
+	Pages: 1951-1952
+	doi>10.1145/1871437.1871780
+	Full text: PDFPDF
+	
+
+We present a system that supports seamless access to information contained in recorded meetings from the cornerstone points of a knowledge worker's daily life: mailbox and calendar. The solution supports granular search of meeting content from an enterprise ...
+expand
+	SPac: a distributed, peer-to-peer, secure and privacy-aware social space
+	Angela Bonifati, Hui (Wendy) Wang, Ruilin Liu
+	Pages: 1953-1954
+	doi>10.1145/1871437.1871781
+	Full text: PDFPDF
+	
+
+To support privacy-aware management of data in social spaces, the user personal data needs to be stored at each user device, and shared only with a trusted subset of other users. To date, social spaces only have fairly limited access control capabilities, ...
+expand
+	SEQUEL: query completion via pattern mining on multi-column structural data
+	Chuancong Gao, Qingyan Yang, Jianyong Wang
+	Pages: 1955-1956
+	doi>10.1145/1871437.1871782
+	Full text: PDFPDF
+	
+
+In this demonstration, we propose an interactive query completion system on structural data like DBLP, called SEQUEL. It is novel in several aspects: with patterns mined on the structural data using newly devised algorithm, SEQUEL offers high-utility ...
+expand
+	MI-WDIS: web data integration system for market intelligence
+	Zhongmin Yan, Qingzhong Li, Shidong Zhang, Zhaohui Peng, Yongquan Dong, Yanhui Ding, Yongxin Zhang, Xiuxing Xu
+	Pages: 1957-1958
+	doi>10.1145/1871437.1871783
+	Full text: PDFPDF
+	
+
+As an important supporting technology of Market Intelligence (MI), Web data integration is facing new challenges, such as the integrity of data acquisition, the quality of data extraction and data consolidation. To solve such problems, we propose an ...
+expand
+	i-SEE: integrated stream execution environment over on-line data streams
+	Se Jung Shin, Hong Kyu Park, Ho Jin Woo, Won Suk Lee
+	Pages: 1959-1960
+	doi>10.1145/1871437.1871784
+	Full text: PDFPDF
+	
+
+The primary objective of various data stream applications is to monitor the on-going variations of data elements newly generated in data streams, so that appropriate services can be delivered to users timely. Basically, such monitoring activities can ...
+expand
+	Summarizing biological literature with BioSumm
+	Elena Baralis, Alessandro Fiori
+	Pages: 1961-1962
+	doi>10.1145/1871437.1871785
+	Full text: PDFPDF
+	
+
+BioSumm is a summarization environment that supports user queries on online repositories of scientific publications by providing abstract descriptions of focused document groups. The summarization approach is driven by a grading function which evaluates ...
+expand
+	Exploring and visualizing academic social networks
+	Veselin Ganev, Zhaochen Guo, Diego Serrano, Denilson Barbosa, Eleni Stroulia
+	Pages: 1963-1964
+	doi>10.1145/1871437.1871786
+	Full text: PDFPDF
+	
+
+We demonstrate the ReaSoN portal, consisting of interactive web-based tools for visualizing, exploring, querying, and integrating academic social networks. We describe how these networks are automatically extracted from bibliographic and citation databases, ...
+expand
+	WORKSHOP SESSION: Co-located workshop summaries
+	
+	Summary of the 4th workshop on analytics for noisy unstructured text data (AND)
+	Roberto Basili, Daniel Lopresti, Christoph Ringlestetter, Shourya Roy, Klaus U. Schulz, L. Venkata Subramaniam
+	Pages: 1965-1966
+	doi>10.1145/1871437.1871788
+	Full text: PDFPDF
+	
+	3rd BooksOnline workshop: research advances in large digital book repositories and complementary media
+	Gabriella Kazai, Peter Brusilovsky
+	Pages: 1967-1968
+	doi>10.1145/1871437.1871789
+	Full text: PDFPDF
+	
+
+The goal of the 3rd BooksOnline Workshop is to bring together researchers and industry practitioners in information retrieval, digital libraries, e-books, human computer interaction, publishing industry, and online book services to foster progress on ...
+expand
+	Report on the second international workshop on cloud data management (CloudDB 2010)
+	Xiaofeng Meng, Ying Chen, Jiaheng Lu, Jianliang Xu
+	Pages: 1969-1970
+	doi>10.1145/1871437.1871790
+	Full text: PDFPDF
+	
+	DTMBIO workshop summary
+	Hagit Shatkay, Doheon Lee, Min Song, Shamkant Navathe
+	Pages: 1971-1972
+	doi>10.1145/1871437.1871791
+	Full text: PDFPDF
+	
+	DOLAP 2010 workshop summary
+	Carlos Ordonez, Il-Yeol Song
+	Pages: 1973-1974
+	doi>10.1145/1871437.1871792
+	Full text: PDFPDF
+	
+
+The ACM DOLAP workshop presents research on data warehousing and On-Line Analytical Processing (OLAP). The program has three interesting sessions on modeling, query processing and new trends, as well as a keynote talk on OLAP query processing and a panel ...
+expand
+	Third workshop on exploiting semantic annotations in information retrieval (ESAIR): CIKM 2010 workshop
+	Jaap Kamps, Jussi Karlgren, Ralf Schenkel
+	Pages: 1975-1976
+	doi>10.1145/1871437.1871793
+	Full text: PDFPDF
+	
+
+There is an increasing amount of structure on the Web as a result of modern Web languages, user tagging and annotation, and emerging robust NLP tools. These meaningful, semantic, annotations hold the promise to significantly enhance information access, ...
+expand
+	3rd international workshop on patent information retrieval (PaIR'10)
+	Mihai Lupu, John Tait, Katja Mayer, Christopher Harris
+	Pages: 1977-1978
+	doi>10.1145/1871437.1871794
+	Full text: PDFPDF
+	
+
+The 3rd International Workshop on Patent Information Retrieval builds on the experiences of the first two workshops, to provide its participants an exciting, scientifically challenging and interactive event, where the specific issues of patent retrieval ...
+expand
+	PIKM 2010: ACM workshop for ph.d. students in information and knowledge management
+	Anisoara Nica, Aparna S. Varde
+	Pages: 1979-1980
+	doi>10.1145/1871437.1871795
+	Full text: PDFPDF
+	
+
+The PIKM workshop focuses on papers consisting mainly of the Ph.D. dissertation proposals of doctoral students. A wide range of topics on any area in databases, information retrieval and knowledge management are presented at this workshop. The areas ...
+expand
+	Overview of the 2nd international workshop on search and mining user-generated contents
+	Jose Carlos Cortizo, Francisco M. Carrero, Ivan Cantador, Jose Antonio Troyano, Paolo Rosso
+	Pages: 1981-1982
+	doi>10.1145/1871437.1871796
+	Full text: PDFPDF
+	
+
+This overview introduces the aim of the SMUC 2010 workshop, as well as the list of papers presented in the workshop.
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

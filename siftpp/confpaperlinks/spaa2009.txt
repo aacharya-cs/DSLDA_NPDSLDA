@@ -1,0 +1,629 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the twenty-first annual symposium on Parallelism in algorithms and architectures
+General Chairs: 	Friedhelm Meyer auf der Heide 	University of Paderborn, Germany)
+Program Chairs: 	Michael A. Bender 	Stony Brook University and Tokutek, Inc., USA
+Publication of:
+· Conference
+SPAA 09 21st ACM Symposium on Parallelism in Algorithms and Architectures
+Calgary, AB, Canada — August 11 - 13, 2009
+ACM New York, NY, USA ©2009
+	
+Proceedings of the twenty-first annual symposium on Parallelism in algorithms and architectures 	Published by ACM 2009 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 425
+· Downloads (12 Months): 1,938
+· Citation Count: 147
+
+
+	
+Tools and Resources
+
+    Buy this Proceeding in Print
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+    Upcoming Conference:
+        SPAA '12
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to tabbed view
+
+Abstract | Source Materials | Authors | References | Cited By | Index Terms | Publication | Reviews | Comments | Table of Contents
+top of pageABSTRACT
+
+This volume contains the 35 regular papers and eight brief announcements that were selected for presentation at the 21st ACM Symposium on Parallelism in Algorithms and Architectures (SPAA'09), held on August 11-13, 2009, in Calgary, Alberta, Canada. The volume also includes the two abstracts of the keynote addresses by Sarita Adve and Bruce Hendrickson and the three abstracts of the presentations by Yahoo! Research, Facebook, and Google. These last three presentations appeared in an invited session on industrial applications. The industrial session and the two keynotes addresses were organized in collaboration with PODC, which this year was co-located with SPAA.
+
+The 43 contributed presentations were selected by the program committee after a preliminary electronic meeting and an all-day phone meeting that took place on April 14, 2009. These presentations were chosen from 129 submissions (114 regular submissions and 15 brief announcements). In keeping with the tradition of previous years, a selection of papers has been invited to appear in a special issue of the Theory of Computing Systems dedicated to SPAA 2009. The paper "Reducers and Other Cilk++ Hyperobjects" by Matteo Frigo, Pablo Halpern, Charles E. Leiserson, and Stephen Lewin-Berlin was selected for the Best Paper Award.
+
+The mix of papers reflects the unique nature of SPAA in bringing together the theory and practice of parallel computing. The technical papers in this volume are to be considered preliminary versions, and authors are generally expected to publish polished and complete versions in archival scientific journals. The brief announcements were chosen based on their perceived interest, with the goal that they serve as foundation for further advances in parallelism in computing. Extended versions of the brief announcements may be published later in other conferences or journals.
+
+The program committee would like to thank the authors who submitted papers and the external reviewers who helped us in the review process. The names of these external reviewers appear later in the proceedings.
+
+top of pageSOURCE MATERIALS
+FRONT MATTER
+PDFPDF  (title page, copyright, welcome, contents, organization, sponsors)
+BACK MATTER
+PDFPDF  (author index)
+
+top of pageAUTHORS
+
+General Chairs
+
+
+    Author image not provided 	 Friedhelm Meyer auf der Heide
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1979-2009
+    Publication count	104
+    Citation Count	551
+    Available for download	24
+    Downloads (6 Weeks)	59
+    Downloads (12 Months)	305
+    View colleagues of Friedhelm Meyer auf der Heide
+Program Chairs
+
+
+    Author image not provided 	 Michael A. Bender
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1985-2011
+    Publication count	94
+    Citation Count	803
+    Available for download	30
+    Downloads (6 Weeks)	141
+    Downloads (12 Months)	867
+    View colleagues of Michael A. Bender
+
+top of pageREFERENCES
+References are not available
+top of pageCITED BY
+Citings are not available
+top of pageINDEX TERMS
+Index Terms are not available
+top of pagePUBLICATION
+Title 	SPAA 09 21st ACM Symposium on Parallelism in Algorithms and Architectures
+	Calgary, AB, Canada — August 11 - 13, 2009
+Pages	358
+Sponsors 	SIGACT ACM Special Interest Group on Algorithms and Computation Theory
+	SIGOPS ACM Special Interest Group on Operating Systems
+	ACM Association for Computing Machinery
+Publisher	ACM New York, NY, USA
+ISBN	978-1-60558-606-9
+Order Number	417090
+Conference 	SPAAACM Symposium on Parallel Algorithms and Architectures SPAA logo
+Paper Acceptance Rate 35 of 114 submissions, 31%
+Overall Acceptance Rate 514 of 1,522 submissions, 34%
+	
+Year 	Submitted 	Accepted 	Rate
+SPAA '95 	101 	31 	31%
+SPAA '96 	106 	39 	37%
+SPAA '97 	97 	32 	33%
+SPAA '98 	84 	30 	36%
+SPAA '99 	90 	26 	29%
+SPAA '00 	45 	24 	53%
+SPAA '01 	93 	34 	37%
+SPAA '03 	106 	38 	36%
+SPAA '05 	100 	36 	36%
+SPAA '06 	102 	46 	45%
+SPAA '07 	130 	37 	28%
+SPAA '08 	128 	36 	28%
+SPAA '09 	114 	35 	31%
+SPAA '10 	110 	35 	32%
+SPAA '11 	116 	35 	30%
+Overall 	1,522 	514 	34%
+top of pageREVIEWS
+
+Reviews are not available for this item
+Computing Reviews logo
+
+    Access critical reviews of computing literature.
+    Become a reviewer for Computing Reviews
+
+top of pageCOMMENTS
+
+Be the first to comment To Post a comment please sign in or create a free Web account
+top of pageTable of Contents
+Proceedings of the twenty-first annual symposium on Parallelism in algorithms and architectures
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Multiprocessor scheduling
+	Cynthia Phillips
+	
+	Speed scaling of processes with arbitrary speedup curves on a multiprocessor
+	Ho Leung Chan, Jeff Edmonds, Kirk Pruhs
+	Pages: 1-10
+	doi>10.1145/1583991.1583994
+	Full text: PDFPDF
+	
+
+We consider the setting of a multiprocessor where the speeds of the m processors can be individually scaled. Jobs arrive over time and have varying degrees of parallelizability. A nonclairvoyant scheduler must assign the jobs to processors, and ...
+expand
+	The bell is ringing in speed-scaled multiprocessor scheduling
+	Gero Greiner, Tim Nonner, Alexander Souza
+	Pages: 11-18
+	doi>10.1145/1583991.1583996
+	Full text: PDFPDF
+	
+
+This paper investigates the problem of scheduling jobs on multiple speed-scaled processors without migration, i.e., we have constant α > 1 such that running a processor at speed s results in energy consumption s#945; ...
+expand
+	Mapping filtering streaming applications with communication costs
+	Kunal Agrawal, Anne Benoit, Fanny Dufossé, Yves Robert
+	Pages: 19-28
+	doi>10.1145/1583991.1583997
+	Full text: PDFPDF
+	
+
+In this paper, we explore the problem of mapping filtering streaming applications on large-scale homogeneous platforms, with a particular emphasis on communication models and their impact. Filtering application are streaming applications where each node ...
+expand
+	Scheduling to minimize staleness and stretch in real-time data warehouses
+	Mohammad Hossein Bateni, Lukasz Golab, Mohammad Taghi Hajiaghayi, Howard Karloff
+	Pages: 29-38
+	doi>10.1145/1583991.1583998
+	Full text: PDFPDF
+	
+
+We study scheduling algorithms for loading data feeds into real time data warehouses, which are used in applications such as IP network monitoring, online financial trading, and credit card fraud detection. In these applications, the warehouse collects ...
+expand
+	SESSION: Brief Announcements I
+	Kirk Pruhs
+	
+	Brief announcement: parameterized maximum and average degree approximation in topic-based publish-subscribe overlay network design
+	Melih Onus, Andréa W. Richa
+	Pages: 39-40
+	doi>10.1145/1583991.1584000
+	Full text: PDFPDF
+	
+
+Designing an overlay network for publish/subscribe communication in a system where nodes may subscribe to many different topics of interest is of fundamental importance. For scalability and efficiency, it is important to keep the degree of the nodes ...
+expand
+	Brief announcement: selfishness in transactional memory
+	Raphael P. Eidenbenz, Roger Wattenhofer
+	Pages: 41-42
+	doi>10.1145/1583991.1584002
+	Full text: PDFPDF
+	
+
+In order to be efficient with selfish programmers, a multicore transactional memory (TM) system must be designed such that it is compatible with good programming incentives (GPI), i.e., writing efficient code for the overall system coincides with writing ...
+expand
+	At-most-once semantics in asynchronous shared memory
+	Sotirios Kentros, Aggelos Kiayias, Nicolas Nicolaou, Alexander A. Shvartsman
+	Pages: 43-44
+	doi>10.1145/1583991.1584003
+	Full text: PDFPDF
+	
+
+This paper investigates the feasibility of implementing at-most-once access semantics in a model where a collection of actions is to be performed by failure-prone, asynchronous shared-memory processes. We introduce the At-Most-Once problem for ...
+expand
+	SESSION: Keynote talk
+	Maurice Herlihy
+	
+	Memory models: a case for rethinking parallel languages and hardware
+	Sarita V. Adve
+	Pages: 45-45
+	doi>10.1145/1583991.1584005
+	Full text: PDFPDF
+	
+
+The era of parallel computing for the masses is here, but writing correct parallel programs remains a challenge--popular parallel environments offer no analogs for the concepts of structured and safe sequential programming. The memory model forms the ...
+expand
+	SESSION: Invited session on industrial applications of algorithms
+	Marcos Aguilera
+	
+	The life and times of a zookeeper
+	Flavio P. Junqueira, Benjamin C. Reed
+	Pages: 46-46
+	doi>10.1145/1583991.1584007
+	Full text: PDFPDF
+	
+
+A distributed application may comprise a range of processors, from two to thousands. For the processors of an application comprising many different machines to work together, they must often coordinate. Coordination may be as simple as agreeing upon ...
+expand
+	Cassandra: a structured storage system on a P2P network
+	Avinash Lakshman, Prashant Malik
+	Pages: 47-47
+	doi>10.1145/1583991.1584009
+	Full text: PDFPDF
+	
+
+Cassandra is a distributed storage system for managing structured data that is designed to scale to a very large size across many commodity servers, with no single point of failure. Reliability at massive scale is a very big challenge. Outages in the ...
+expand
+	Pregel: a system for large-scale graph processing - "ABSTRACT"
+	Grzegorz Malewicz, Matthew H. Austern, Aart J.C. Bik, James C. Dehnert, Ilan Horn, Naty Leiser, Grzegorz Czajkowski
+	Pages: 48-48
+	doi>10.1145/1583991.1584010
+	Full text: PDFPDF
+	
+	SESSION: Transactional memory I
+	Victor Luchangco
+	
+	Towards transactional memory semantics for C++
+	Tatiana Shpeisman, Ali-Reza Adl-Tabatabai, Robert Geva, Yang Ni, Adam Welc
+	Pages: 49-58
+	doi>10.1145/1583991.1584012
+	Full text: PDFPDF
+	
+
+Transactional memory (TM) eliminates many problems associated with lock-based synchronization. Over recent years, much progress has been made in software and hardware implementation techniques for TM. However, before transactional memory can be integrated ...
+expand
+	On avoiding spare aborts in transactional memory
+	Idit Keidar, Dmitri Perelman
+	Pages: 59-68
+	doi>10.1145/1583991.1584013
+	Full text: PDFPDF
+	
+
+This paper takes a step toward developing a theory for understanding aborts in transactional memory systems (TMs). Existing TMs may abort many transactions that could, in fact, commit without violating correctness. We call such unnecessary aborts spare ...
+expand
+	Inherent limitations on disjoint-access parallel implementations of transactional memory
+	Hagit Attiya, Eshcar Hillel, Alessia Milani
+	Pages: 69-78
+	doi>10.1145/1583991.1584015
+	Full text: PDFPDF
+	
+
+Transactional memory (TM) is a promising approach for designing concurrent data structures, and it is essential to develop better understanding of the formal properties that can be achieved by TM implementations. Two fundamental properties of TM implementations ...
+expand
+	SESSION: Concurrency mechanisms
+	Jeremy Fineman
+	
+	Reducers and other Cilk++ hyperobjects
+	Matteo Frigo, Pablo Halpern, Charles E. Leiserson, Stephen Lewin-Berlin
+	Pages: 79-90
+	doi>10.1145/1583991.1584017
+	Full text: PDFPDF
+	
+
+This paper introduces hyperobjects, a linguistic mechanism that allows different branches of a multithreaded program to maintain coordinated local views of the same nonlocal variable. We have identified three kinds of hyperobjects that seem to be useful ...
+expand
+	Beyond nested parallelism: tight bounds on work-stealing overheads for parallel futures
+	Daniel Spoonhower, Guy E. Blelloch, Phillip B. Gibbons, Robert Harper
+	Pages: 91-100
+	doi>10.1145/1583991.1584019
+	Full text: PDFPDF
+	
+
+Work stealing is a popular method of scheduling fine-grained parallel tasks. The performance of work stealing has been extensively studied, both theoretically and empirically, but primarily for the restricted class of nested-parallel (or fully strict) ...
+expand
+	Scalable reader-writer locks
+	Yossi Lev, Victor Luchangco, Marek Olszewski
+	Pages: 101-110
+	doi>10.1145/1583991.1584020
+	Full text: PDFPDF
+	
+
+We present three new reader-writer lock algorithms that scale under high read-only contention. Many previous reader-writer locks suffer significant degradation when many readers attempt to acquire the lock concurrently, even though they are all allowed ...
+expand
+	The weakest failure detector for wait-free dining under eventual weak exclusion
+	Srikanth Sastry, Scott M. Pike, Jennifer L. Welch
+	Pages: 111-120
+	doi>10.1145/1583991.1584021
+	Full text: PDFPDF
+	
+
+Dining philosophers is a classic scheduling problem for local mutual exclusion on arbitrary conflict graphs. We establish necessary conditions to solve wait-free dining under eventual weak exclusion in message-passing systems with crash faults. Wait-free ...
+expand
+	SESSION: Brief announcements: performance of parallel algorithm
+	Jeremy Fineman
+	
+	Brief announcement: low depth cache-oblivious sorting
+	Guy E. Blelloch, Phillip B. Gibbons, Harsha Vardhan Simhadri
+	Pages: 121-123
+	doi>10.1145/1583991.1584024
+	Full text: PDFPDF
+	
+
+Cache-oblivious algorithms have the advantage of achieving good sequential cache complexity across all levels of a multi-level cache hierarchy, regardless of the specifics (cache size and cache line size) of each level. In this paper, we describe cache-oblivious ...
+expand
+	Brief announcement: a lower bound for depth-restricted work stealing
+	Jim Sukha
+	Pages: 124-126
+	doi>10.1145/1583991.1584025
+	Full text: PDFPDF
+	
+
+Work stealing is a common technique used in the runtime schedulers of parallel languages such as Cilk and parallel libraries such as Intel Threading Building Blocks (TBB). Depth-restricted work stealing is a restriction of Cilk-like work stealing in ...
+expand
+	Brief announcement: TeraByte TokuSampleSort sorts 1TB in 197s
+	Bradley C. Kuszmaul
+	Pages: 127-129
+	doi>10.1145/1583991.1584026
+	Full text: PDFPDF
+	
+
+The tx2500 disk cluster at MIT Lincoln Labortory sorted a terabyte (1010 100-byte records) in 197s using an "Indy" sort, and in 297s using a "Daytona" sort. The sort employed a parallel sample sort, and ran on 400 nodes, each containing a ...
+expand
+	SESSION: Keynote talk
+	Cynthia Phillips
+	
+	Emerging challenges and opportunities in parallel computing: the cretaceous redux?
+	Bruce Hendrickson
+	Pages: 130-130
+	doi>10.1145/1583991.1584029
+	Full text: PDFPDF
+	
+
+Despite decades of activity, parallel computing remains immature. Like much of computer science, advances in the field are driven by a mixture of theoretical insights and technological advances. But in parallel computing, the gap between theory and practice ...
+expand
+	SESSION: Graph labeling/coloring
+	Kirk Pruhs
+	
+	On randomized representations of graphs using short labels
+	Pierre Fraigniaud, Amos Korman
+	Pages: 131-137
+	doi>10.1145/1583991.1584031
+	Full text: PDFPDF
+	
+
+Informative labeling schemes consist in labeling the nodes of graphs so that queries regarding any two nodes (e.g., are the two nodes adjacent?) can be answered by inspecting merely the labels of the corresponding nodes. Typically, the main goal of such ...
+expand
+	Weak graph colorings: distributed algorithms and applications
+	Fabian Kuhn
+	Pages: 138-144
+	doi>10.1145/1583991.1584032
+	Full text: PDFPDF
+	
+
+We study deterministic, distributed algorithms for two weak variants of the standard graph coloring problem. We consider defective colorings, i.e., colorings where nodes of a color class may induce a graph of maximum degree d for some parameter d>0. ...
+expand
+	Routing without ordering
+	Bernadette Charron-Bost, Antoine Gaillard, Jennifer Welch, Josef Widder
+	Pages: 145-153
+	doi>10.1145/1583991.1584034
+	Full text: PDFPDF
+	
+
+We analyze the correctness and the complexity of two well-known routing algorithms, introduced by Gafni and Bertsekas (1981): By reversing the directions of some edges, these algorithms transform an arbitrary directed acyclic input graph into an output ...
+expand
+	On the complexity of the regenerator placement problem in optical networks
+	Michele Flammini, Alberto Marchetti Spaccamela, Gianpiero Monaco, Luca Moscardelli, Shmuel Zaks
+	Pages: 154-162
+	doi>10.1145/1583991.1584035
+	Full text: PDFPDF
+	
+
+Placement of regenerators in optical networks has attracted the attention of recent research works in optical networks. In this problem we are given a network, with an underlying topology of a graph G, and with a set of requests that correspond ...
+expand
+	SESSION: Brief announcements: algorithms meets hardware
+	Tatiana Shpeisman
+	
+	Brief announcement: performance potential of an easy-to-program PRAM-on-chip prototype versus state-of-the-art processor
+	George C. Caragea, A. Beliz Saybasili, Xingzhi Wen, Uzi Vishkin
+	Pages: 163-165
+	doi>10.1145/1583991.1584038
+	Full text: PDFPDF
+	
+
+We compare the Paraleap FPGA computer, a 64-processor hardware prototype of the PRAM-driven XMT architecture, with an Intel Core 2 Duo processor and show that Paraleap outperforms the Intel processor by up to 13.89x in terms of cycle counts. The comparison ...
+expand
+	Brief announcement: the impact of classical electronics constraints on a solid-state logical qubit memory
+	James E. Levy, Anand Ganti, Cynthia A. Phillips, Benjamin R. Hamlet, Andrew J. Landahl, Thomas M. Gurrieri, Robert D. Carr, Malcolm S. Carroll
+	Pages: 166-168
+	doi>10.1145/1583991.1584039
+	Full text: PDFPDF
+	
+
+We present and analyze an architecture for a logical qubit memory that is tolerant of faults in the processing of silicon double quantum dot (DQD) qubits. A highlight of our analysis is an in-depth consideration of the constraints faced when integrating ...
+expand
+	SESSION: Network organization and design
+	Christian Scheideler
+	
+	Finding similar users in social networks: extended abstract
+	Aviv Nisgav, Boaz Patt-Shamir
+	Pages: 169-177
+	doi>10.1145/1583991.1584042
+	Full text: PDFPDF
+	
+
+We consider a system where users wish to find similar users. To model similarity, we assume the existence of a set of queries, and two users are deemed similar if their answers to these queries are (mostly) identical: each user has a vector of preferences, ...
+expand
+	A randomized, o(log w)-depth 2 smoothing network
+	Marios Mavronicolas, Thomas Sauerwald
+	Pages: 178-187
+	doi>10.1145/1583991.1584043
+	Full text: PDFPDF
+	
+
+A K-smoothing network is a distributed, low-contention data structure where tokens arrive arbitrarily on w input wires and reach w output wires via their completely asynchronous propagation through the network. The maximum discrepancy among the numbers ...
+expand
+	Field-split parallel architecture for high performance multi-match packet classification using FPGAs
+	Weirong Jiang, Viktor K. Prasanna
+	Pages: 188-196
+	doi>10.1145/1583991.1584044
+	Full text: PDFPDF
+	
+
+Multi-match packet classification is a critical function in network intrusion detection systems (NIDS), where all matching rules for a packet need to be reported. Most of the previous work is based on ternary content addressable memories (TCAMs) which ...
+expand
+	Distributed algorithms for QoS load balancing
+	Heiner Ackermann, Simon Fischer, Martin Hoefer, Marcel Schöngens
+	Pages: 197-203
+	doi>10.1145/1583991.1584046
+	Full text: PDFPDF
+	
+
+We consider a dynamic load balancing scenario in which users allocate resources in a non-cooperative and selfish fashion. The perceived performance of a resource for a user decreases with the number of users that allocate the resource. In our dynamic, ...
+expand
+	SESSION: Transactional memory II
+	Tatiana Shpeisman
+	
+	NZTM: nonblocking zero-indirection transactional memory
+	Fuad Tabba, Mark Moir, James R. Goodman, Andrew W. Hay, Cong Wang
+	Pages: 204-213
+	doi>10.1145/1583991.1584048
+	Full text: PDFPDF
+	
+
+This paper introduces NZTM, a nonblocking, zero-indirection, object-based, hybrid transactional memory system. NZTM comprises a nonblocking software transactional memory (STM) system that can exploit best-effort hardware transactional memory (HTM) if ...
+expand
+	Optimizing transactions for captured memory
+	Aleksandar Dragojevic, Yang Ni, Ali-Reza Adl-Tabatabai
+	Pages: 214-222
+	doi>10.1145/1583991.1584049
+	Full text: PDFPDF
+	
+
+In this paper, we identify transaction-local memory as a major source of overhead from compiler instrumentation in software transactional memory (STM). Transaction-local memory is memory allocated inside a transaction, which cannot escape (i.e., is captured ...
+expand
+	A lightweight in-place implementation for software thread-level speculation
+	Cosmin E. Oancea, Alan Mycroft, Tim Harris
+	Pages: 223-232
+	doi>10.1145/1583991.1584050
+	Full text: PDFPDF
+	
+
+Thread-level speculation (TLS) is a technique that allows parts of a sequential program to be executed in parallel. TLS ensures the parallel program's behaviour remains true to the language's original sequential semantics; for example, allowing multiple ...
+expand
+	SESSION: High-performance parallel computation
+	Vitus Leung
+	
+	Parallel sparse matrix-vector and matrix-transpose-vector multiplication using compressed sparse blocks
+	Aydin Buluç, Jeremy T. Fineman, Matteo Frigo, John R. Gilbert, Charles E. Leiserson
+	Pages: 233-244
+	doi>10.1145/1583991.1584053
+	Full text: PDFPDF
+	
+
+This paper introduces a storage format for sparse matrices, called compressed sparse blocks (CSB), which allows both Ax and A,x to be computed efficiently in parallel, where A is an n×n sparse ...
+expand
+	Communication-optimal parallel and sequential Cholesky decomposition: extended abstract
+	Grey Ballard, James Demmel, Olga Holtz, Oded Schwartz
+	Pages: 245-252
+	doi>10.1145/1583991.1584054
+	Full text: PDFPDF
+	
+
+Numerical algorithms have two kinds of costs: arithmetic and communication, by which we mean either moving data between levels of a memory hierarchy (in the sequential case) or over a network connecting processors (in the parallel case). Communication ...
+expand
+	Dynamic external hashing: the limit of buffering
+	Zhewei Wei, Ke Yi, Qin Zhang
+	Pages: 253-259
+	doi>10.1145/1583991.1584055
+	Full text: PDFPDF
+	
+
+Hash tables are one of the most fundamental data structures in computer science, in both theory and practice. They are especially useful in external memory, where their query performance approaches the ideal cost of just one disk access. Knuth [16] gave ...
+expand
+	SESSION: Local distributed computation
+	Victor Luchangco
+	
+	An optimal local approximation algorithm for max-min linear programs
+	Patrik Floréen, Joel Kaasinen, Petteri Kaski, Jukka Suomela
+	Pages: 260-269
+	doi>10.1145/1583991.1584058
+	Full text: PDFPDF
+	
+
+In a max-min LP, the objective is to maximise ω subject to Ax ≤ 1, Cx ≥ ω1, and x ≥ 0 for nonnegative matrices A and C. We present a local algorithm (constant-time ...
+expand
+	Gradient clock synchronization in dynamic networks
+	Fabian Kuhn, Thomas Locher, Rotem Oshman
+	Pages: 270-279
+	doi>10.1145/1583991.1584059
+	Full text: PDFPDF
+	
+
+Over the last years, large-scale decentralized computer networks such as peer-to-peer and mobile ad hoc networks have become increasingly prevalent. The topologies of many of these networks are often highly dynamic. This is especially true for ad hoc ...
+expand
+	SESSION: Fault tolerance and reliability
+	Fabian Kuhn
+	
+	Remote storage with byzantine servers
+	Marcos K. Aguilera, Ram Swaminathan
+	Pages: 280-289
+	doi>10.1145/1583991.1584062
+	Full text: PDFPDF
+	
+
+We consider the problem of providing byzantine-tolerant storage in distributed systems where client-server links are much thinner and slower than server-server links. We provide storage algorithms that are unique in two ways. First, our algorithms take ...
+expand
+	Locally scalable randomized consensus for synchronous crash failures
+	Bogdan S. Chlebus, Dariusz R. Kowalski
+	Pages: 290-299
+	doi>10.1145/1583991.1584063
+	Full text: PDFPDF
+	
+
+We consider bit communication complexity of binary consensus in synchronous message passing systems with processes prone to crashes. A distributed algorithm is locally scalable when each process contributes to the complexity measure an amount ...
+expand
+	A DoS-resilient information system for dynamic data management
+	Matthias Baumgart, Christian Scheideler, Stefan Schmid
+	Pages: 300-309
+	doi>10.1145/1583991.1584064
+	Full text: PDFPDF
+	
+
+Denial of service (DoS) attacks are arguably one of the most cumbersome problems in the Internet. This paper presents a distributed information system (over a set of completely connected servers) called Chameleon which is robust to DoS attacks ...
+expand
+	Classifying peer-to-peer network coding schemes
+	Christian Ortolf, Christian Schindelhauer, Arne Vater
+	Pages: 310-318
+	doi>10.1145/1583991.1584066
+	Full text: PDFPDF
+	
+
+Modern peer-to-peer file sharing systems distribute large files among peers using block partitioning. Blocks can be redistributed by a peer even before the whole file is available which highly decreases the distribution time. All peer-to-peer networks ...
+expand
+	SESSION: Scheduling and resource management
+	Vitus Leung
+	
+	Buffer management for colored packets with deadlines
+	Yossi Azar, Uriel Feige, Iftah Gamzu, Thomas Moscibroda, Prasad Raghavendra
+	Pages: 319-327
+	doi>10.1145/1583991.1584068
+	Full text: PDFPDF
+	
+
+We consider buffer management of unit packets with deadlines for a multi-port device with reconfiguration overhead. The goal is to maximize the throughput of the device, i.e., the number of packets delivered by their deadline. For a single port or with ...
+expand
+	Competitive buffer management for multi-queue switches in qos networks using packet buffering algorithms
+	Koji Kobayashi, Shuichi Miyazaki, Yasuo Okabe
+	Pages: 328-336
+	doi>10.1145/1583991.1584070
+	Full text: PDFPDF
+	
+
+The online buffer management problem formulates the problem of queuing policies of network switches supporting QoS (Quality of Service) guarantee. We focus on multi-queue switches in QoS networks proposed by Azar et al. They introduced so-called "the ...
+expand
+	Approximation algorithms for time-constrained scheduling on line networks
+	Harald Räcke, Adi Rosén
+	Pages: 337-346
+	doi>10.1145/1583991.1584071
+	Full text: PDFPDF
+	
+
+We consider the problem of time-constrained scheduling of packets in a communication network. Each packet has, in addition to its source and its destination, a release time and a deadline. The goal of an algorithm is to maximize the number of packets ...
+expand
+	Power-aware online file allocation in mobile ad hoc networks: [extended abstract]
+	Jan Mehler, Friedhelm Meyer auf der Heide
+	Pages: 347-356
+	doi>10.1145/1583991.1584072
+	Full text: PDFPDF
+	
+
+This paper extends the online file allocation problem of Bartal et al. to the following scenario: An indivisible file consisting of multiple units is stored on a network of stationary servers which are connected to a mobile ad hoc network. We model the ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

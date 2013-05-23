@@ -1,0 +1,8 @@
+insidecity
+mountain
+opencountry
+street
+tallbuilding
+coast
+forest
+highway

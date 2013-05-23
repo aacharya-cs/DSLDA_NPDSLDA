@@ -1,0 +1,6 @@
+solver_type MCSVM_CS
+nr_class 2
+label 1 -1
+nr_feature 13
+bias -1
+w

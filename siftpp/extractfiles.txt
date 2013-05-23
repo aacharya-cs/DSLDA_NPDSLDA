@@ -1,0 +1,1 @@
+find /lusr/u/ayan/Documents/ONRATLCODE/mccfiles/savedfiles/Ayans/ -type f -iname "*.jpg" > ayahoo_pathnames.txt 

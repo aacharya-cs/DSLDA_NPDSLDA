@@ -1,0 +1,14 @@
+library(ggplot2)
+library(reshape)
+png("p1_0_5.png");
+df <- read.table("means_conf_05", header=TRUE, sep="\t")
+dfc <- melt(df, id = "p3")
+se <- read.table("errors_conf_05", header=TRUE, sep="\t")
+sec<- melt(se, id = "p3")
+dfcc<- merge(dfc, sec, by=c("p3", "variable"))
+pd <- position_dodge(.05)
+  ggplot(data=dfcc,aes(x=p3,y=value.x,colour=factor(variable))) + 
+  geom_errorbar(aes(ymin=value.x-value.y, ymax=value.x+value.y), width=.1, position=pd) + geom_point() + geom_line() +
+ggtitle("Variation of Accuracy with %of Labels\nTooth Growth in Guinea Pigs")
+
+

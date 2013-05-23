@@ -1,0 +1,1943 @@
+ACM DL 	
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 31st annual international ACM SIGIR conference on Research and development in information retrieval
+General Chairs: 	Tat-Seng Chua 	National University of Singapore
+	Mun-Kew Leong 	National Library Board, Singapore
+Program Chairs: 	Syung Hyon Myaeng 	Information and Communications University, Korea
+	Douglas W. Oard 	University of Maryland, College Park, USA
+	Fabrizio Sebastiani 	Consiglio Nazionale delle Ricerche, Italy
+	
+Proceedings of the 31st annual international ACM SIGIR conference on Research and development in information retrieval 	Published by ACM 2008 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 1,234
+· Downloads (12 Months): 12,114
+· Citation Count: 1,616
+
+Publication of:
+· Conference
+SIGIR '08 The 31st Annual International ACM SIGIR Conference
+Singapore, Singapore — July 20 - 24, 2008
+ACM New York, NY, USA ©2008
+
+	
+Tools and Resources
+
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+    Upcoming Conference:
+        ECIR '12
+
+Share:
+|
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Source Materials	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the 31st annual international ACM SIGIR conference on Research and development in information retrieval
+Table of Contents
+previousprevious proceeding |next proceeding next
+	Delighting Chinese users: the Google China experience
+	Kai-Fu Lee
+	Pages: 1-1
+	doi>10.1145/1390334.1390335
+	Full text: PDFPDF
+	
+
+Google entered China market as a late-comer in late-2005, with no local employees, an inadequate product line, and small market share. This talk will discuss Google China's efforts to build up a team, learn about local user needs, apply its global innovation ...
+expand
+	Guilt by association as a search principle
+	Limsoon Wong
+	Pages: 2-2
+	doi>10.1145/1390334.1390336
+	Full text: PDFPDF
+	
+
+The exploitation of fundamental invariants is among the most elegant solutions to many computational problems in a wide variety of domains. One of the more powerful approaches to exploit invariants is the principle of "guilt by association". In particular, ...
+expand
+	SESSION: User interaction models
+	
+	On iterative intelligent medical search
+	Gang Luo, Chunqiang Tang
+	Pages: 3-10
+	doi>10.1145/1390334.1390338
+	Full text: PDFPDF
+	
+
+Searching for medical information on the Web has become highly popular, but it remains a challenging task because searchers are often uncertain about their exact medical situations and unfamiliar with medical terminology. To address this challenge, we ...
+expand
+	Effective and efficient user interaction for long queries
+	Giridhar Kumaran, James Allan
+	Pages: 11-18
+	doi>10.1145/1390334.1390339
+	Full text: PDFPDF
+	
+
+Handling long queries can involve either pruning the query to retain only the important terms (reduction), or expanding the query to include related concepts (expansion). While automatic techniques to do so exist, roughly 25% performance improvements ...
+expand
+	How do users find things with PubMed?: towards automatic utility evaluation with user simulations
+	Jimmy Lin, Mark D. Smucker
+	Pages: 19-26
+	doi>10.1145/1390334.1390340
+	Full text: PDFPDF
+	
+
+In the context of document retrieval in the biomedical domain, this paper explores the complex relationship between the quality of initial query results and the overall utility of an interactive retrieval system. We demonstrate that a content-similarity ...
+expand
+	SESSION: Web search--1
+	
+	Towards breaking the quality curse.: a web-querying approach to web people search.
+	Dmitri V. Kalashnikov, Rabia Nuray-Turan, Sharad Mehrotra
+	Pages: 27-34
+	doi>10.1145/1390334.1390342
+	Full text: PDFPDF
+	
+
+Searching for people on the Web is one of the most common query types to the web search engines today. However, when a person name is queried, the returned webpages often contain documents related to several distinct namesakes who have the queried name. ...
+expand
+	An unsupervised framework for extracting and normalizing product attributes from multiple web sites
+	Tak-Lam Wong, Wai Lam, Tik-Shun Wong
+	Pages: 35-42
+	doi>10.1145/1390334.1390343
+	Full text: PDFPDF
+	
+
+We have developed an unsupervised framework for simultaneously extracting and normalizing attributes of products from multiple Web pages originated from different sites. Our framework is designed based on a probabilistic graphical model that can model ...
+expand
+	Enhancing web search by promoting multiple search engine use
+	Ryen W. White, Matthew Richardson, Mikhail Bilenko, Allison P. Heath
+	Pages: 43-50
+	doi>10.1145/1390334.1390344
+	Full text: PDFPDF
+	
+
+Any given Web search engine may provide higher quality results than others for certain queries. Therefore, it is in users' best interest to utilize multiple search engines. In this paper, we propose and evaluate a framework that maximizes users' search ...
+expand
+	SESSION: Evaluation--1
+	
+	Score standardization for inter-collection comparison of retrieval systems
+	William Webber, Alistair Moffat, Justin Zobel
+	Pages: 51-58
+	doi>10.1145/1390334.1390346
+	Full text: PDFPDF
+	
+
+The goal of system evaluation in information retrieval has always been to determine which of a set of systems is superior on a given collection. The tool used to determine system ordering is an evaluation metric such as average precision, which computes ...
+expand
+	The good and the bad system: does the test collection predict users' effectiveness?
+	Azzah Al-Maskari, Mark Sanderson, Paul Clough, Eija Airio
+	Pages: 59-66
+	doi>10.1145/1390334.1390347
+	Full text: PDFPDF
+	
+
+Test collections are extensively used in the evaluation of information retrieval systems. Crucial to their use is the degree to which results from them predict user effectiveness. At first, past studies did not substantiate a relationship between system ...
+expand
+	Retrieval sensitivity under training using different measures
+	Ben He, Craig Macdonald, Iadh Ounis
+	Pages: 67-74
+	doi>10.1145/1390334.1390348
+	Full text: PDFPDF
+	
+
+Various measures, such as binary preference (bpref), inferred average precision (infAP), and binary normalised discounted cumulative gain (nDCG) have been proposed as alternatives to mean average precision (MAP) for being less sensitive to the relevance ...
+expand
+	SESSION: Collaborative filtering
+	
+	Attack resistant collaborative filtering
+	Bhaskar Mehta, Wolfgang Nejdl
+	Pages: 75-82
+	doi>10.1145/1390334.1390350
+	Full text: PDFPDF
+	
+
+The widespread deployment of recommender systems has lead to user feedback of varying quality. While some users faithfully express their true opinion, many provide noisy ratings which can be detrimental to the quality of the generated recommendations. ...
+expand
+	EigenRank: a ranking-oriented approach to collaborative filtering
+	Nathan N. Liu, Qiang Yang
+	Pages: 83-90
+	doi>10.1145/1390334.1390351
+	Full text: PDFPDF
+	
+
+A recommender system must be able to suggest items that are likely to be preferred by the user. In most systems, the degree of preference is represented by a rating score. Given a database of users' past ratings on a set of items, traditional collaborative ...
+expand
+	Personalized active learning for collaborative filtering
+	Abhay S. Harpale, Yiming Yang
+	Pages: 91-98
+	doi>10.1145/1390334.1390352
+	Full text: PDFPDF
+	
+
+Collaborative Filtering (CF) requires user-rated training examples for statistical inference about the preferences of new users. Active learning strategies identify the most informative set of training examples through minimum interactions with the users. ...
+expand
+	SESSION: Learning to rank--1
+	
+	A boosting algorithm for learning bipartite ranking functions with partially labeled data
+	Massih Reza Amini, Tuong Vinh Truong, Cyril Goutte
+	Pages: 99-106
+	doi>10.1145/1390334.1390354
+	Full text: PDFPDF
+	
+
+This paper presents a boosting based algorithm for learning a bipartite ranking function (BRF) with partially labeled data. Until now different attempts had been made to build a BRF in a transductive setting, in which the test points are given ...
+expand
+	Directly optimizing evaluation measures in learning to rank
+	Jun Xu, Tie-Yan Liu, Min Lu, Hang Li, Wei-Ying Ma
+	Pages: 107-114
+	doi>10.1145/1390334.1390355
+	Full text: PDFPDF
+	
+
+One of the central issues in learning to rank for information retrieval is to develop algorithms that construct ranking models by directly optimizing evaluation measures used in information retrieval such as Mean Average Precision (MAP) and Normalized ...
+expand
+	Query dependent ranking using K-nearest neighbor
+	Xiubo Geng, Tie-Yan Liu, Tao Qin, Andrew Arnold, Hang Li, Heung-Yeung Shum
+	Pages: 115-122
+	doi>10.1145/1390334.1390356
+	Full text: PDFPDF
+	
+
+Many ranking models have been proposed in information retrieval, and recently machine learning techniques have also been applied to ranking model construction. Most of the existing methods do not take into consideration the fact that significant differences ...
+expand
+	SESSION: High-performance & high dimensional indexing
+	
+	Asymmetric distance estimation with sketches for similarity search in high-dimensional spaces
+	Wei Dong, Moses Charikar, Kai Li
+	Pages: 123-130
+	doi>10.1145/1390334.1390358
+	Full text: PDFPDF
+	
+
+Efficient similarity search in high-dimensional spaces is important to content-based retrieval systems. Recent studies have shown that sketches can effectively approximate L1 distance in high-dimensional spaces, and that filtering with ...
+expand
+	ResIn: a combination of results caching and index pruning for high-performance web search engines
+	Gleb Skobeltsyn, Flavio Junqueira, Vassilis Plachouras, Ricardo Baeza-Yates
+	Pages: 131-138
+	doi>10.1145/1390334.1390359
+	Full text: PDFPDF
+	
+
+Results caching is an efficient technique for reducing the query processing load, hence it is commonly used in real search engines. This technique, however, bounds the maximum hit rate due to the large fraction of singleton queries, which is an important ...
+expand
+	Reorganizing compressed text
+	Nieves R. Brisaboa, Antonio Fariña, Susana Ladra, Gonzalo Navarro
+	Pages: 139-146
+	doi>10.1145/1390334.1390360
+	Full text: PDFPDF
+	
+
+Recent research has demonstrated beyond doubts the benefits of compressing natural language texts using word-based statistical semistatic compression. Not only it achieves extremely competitive compression rates, but also direct search on the compressed ...
+expand
+	SESSION: User adaptation & personalization
+	
+	User adaptation: good results from poor systems
+	Catherine L. Smith, Paul B. Kantor
+	Pages: 147-154
+	doi>10.1145/1390334.1390362
+	Full text: PDFPDF
+	
+
+Several recent studies have found only a weak relationship between the performance of a retrieval system and the "success" achievable by human searchers. We hypothesize that searchers are successful precisely because they alter their behavior. To explore ...
+expand
+	Exploring folksonomy for personalized search
+	Shengliang Xu, Shenghua Bao, Ben Fei, Zhong Su, Yong Yu
+	Pages: 155-162
+	doi>10.1145/1390334.1390363
+	Full text: PDFPDF
+	
+
+As a social service in Web 2.0, folksonomy provides the users the ability to save and organize their bookmarks online with "social annotations" or "tags". Social annotations are high quality descriptors of the web pages' topics as well as good indicators ...
+expand
+	To personalize or not to personalize: modeling queries with variation in user intent
+	Jaime Teevan, Susan T. Dumais, Daniel J. Liebling
+	Pages: 163-170
+	doi>10.1145/1390334.1390364
+	Full text: PDFPDF
+	
+
+In most previous work on personalized search algorithms, the results for all queries are personalized in the same manner. However, as we show in this paper, there is a lot of variation across queries in the benefits that can be achieved through personalization. ...
+expand
+	SESSION: Clustering--1
+	
+	The opposite of smoothing: a language model approach to ranking query-specific document clusters
+	Oren Kurland
+	Pages: 171-178
+	doi>10.1145/1390334.1390366
+	Full text: PDFPDF
+	
+
+Exploiting information induced from (query-specific) clustering of top-retrieved documents has long been proposed as means for improving precision at the very top ranks of the returned results. We present a novel language model approach to ranking query-specific ...
+expand
+	Enhancing text clustering by leveraging Wikipedia semantics
+	Jian Hu, Lujun Fang, Yang Cao, Hua-Jun Zeng, Hua Li, Qiang Yang, Zheng Chen
+	Pages: 179-186
+	doi>10.1145/1390334.1390367
+	Full text: PDFPDF
+	
+
+Most traditional text clustering methods are based on "bag of words" (BOW) representation based on frequency statistics in a set of documents. BOW, however, ignores the important information on the semantic relationships between key ...
+expand
+	Knowledge transformation from word space to document space
+	Tao Li, Chris Ding, Yi Zhang, Bo Shao
+	Pages: 187-194
+	doi>10.1145/1390334.1390368
+	Full text: PDFPDF
+	
+
+In most IR clustering problems, we directly cluster the documents, working in the document space, using cosine similarity between documents as the similarity measure. In many real-world applications, however, we usually have knowledge on the word side ...
+expand
+	SESSION: Multilingual & crosslingual retrieval
+	
+	A study of learning a merge model for multilingual information retrieval
+	Ming-Feng Tsai, Yu-Ting Wang, Hsin-Hsi Chen
+	Pages: 195-202
+	doi>10.1145/1390334.1390370
+	Full text: PDFPDF
+	
+
+This paper proposes a learning approach for the merging process in multilingual information retrieval (MLIR). To conduct the learning approach, we also present a large number of features that may influence the MLIR merging process; these features are ...
+expand
+	Bilingual topic aspect classification with a few training examples
+	Yejun Wu, Douglas W. Oard
+	Pages: 203-210
+	doi>10.1145/1390334.1390371
+	Full text: PDFPDF
+	
+
+This paper explores topic aspect (i.e., subtopic or facet) classification for English and Chinese collections. The evaluation model assumes a bilingual user who has found documents on a topic and identified a few passages in each language on aspects ...
+expand
+	Crosslingual location search
+	Tanuja Joshi, Joseph Joy, Tobias Kellner, Udayan Khurana, A Kumaran, Vibhuti Sengar
+	Pages: 211-218
+	doi>10.1145/1390334.1390372
+	Full text: PDFPDF
+	
+
+Address geocoding, the process of finding the map location for a structured postal address, is a relatively well-studied problem. In this paper we consider the more general problem of crosslingual location search, where the queries are not limited to ...
+expand
+	SESSION: Relevance feedback
+	
+	A study of methods for negative relevance feedback
+	Xuanhui Wang, Hui Fang, ChengXiang Zhai
+	Pages: 219-226
+	doi>10.1145/1390334.1390374
+	Full text: PDFPDF
+	
+
+Negative relevance feedback is a special case of relevance feedback where we do not have any positive example; this often happens when the topic is difficult and the search results are poor. Although in principle any standard relevance feedback technique ...
+expand
+	A bayesian logistic regression model for active relevance feedback
+	Zuobing Xu, Ram Akella
+	Pages: 227-234
+	doi>10.1145/1390334.1390375
+	Full text: PDFPDF
+	
+
+Relevance feedback, which traditionally uses the terms in the relevant documents to enrich the user's initial query, is an effective method for improving retrieval performance. The traditional relevance feedback algorithms lead to overfitting because ...
+expand
+	A cluster-based resampling method for pseudo-relevance feedback
+	Kyung Soon Lee, W. Bruce Croft, James Allan
+	Pages: 235-242
+	doi>10.1145/1390334.1390376
+	Full text: PDFPDF
+	
+
+Typical pseudo-relevance feedback methods assume the top-retrieved documents are relevant and use these pseudo-relevant documents to expand terms. The initial retrieval set can, however, contain a great deal of noise. In this paper, we present a cluster-based ...
+expand
+	Selecting good expansion terms for pseudo-relevance feedback
+	Guihong Cao, Jian-Yun Nie, Jianfeng Gao, Stephen Robertson
+	Pages: 243-250
+	doi>10.1145/1390334.1390377
+	Full text: PDFPDF
+	
+
+Pseudo-relevance feedback assumes that most frequent terms in the pseudo-feedback documents are useful for the retrieval. In this study, we re-examine this assumption and show that it does not hold in reality - many expansion terms identified in traditional ...
+expand
+	SESSION: Learning to rank--2
+	
+	Learning to rank with partially-labeled data
+	Kevin Duh, Katrin Kirchhoff
+	Pages: 251-258
+	doi>10.1145/1390334.1390379
+	Full text: PDFPDF
+	
+
+Ranking algorithms, whose goal is to appropriately order a set of objects/documents, are an important component of information retrieval systems. Previous work on ranking algorithms has focused on cases where only labeled data is available for training ...
+expand
+	Learning to rank with SoftRank and Gaussian processes
+	John Guiver, Edward Snelson
+	Pages: 259-266
+	doi>10.1145/1390334.1390380
+	Full text: PDFPDF
+	
+
+In this paper we address the issue of learning to rank for document retrieval using Thurstonian models based on sparse Gaussian processes. Thurstonian models represent each document for a given query as a probability distribution in a score space; these ...
+expand
+	Learning to rank at query-time using association rules
+	Adriano A. Veloso, Humberto M. Almeida, Marcos A. Gonçalves, Wagner Meira Jr.
+	Pages: 267-274
+	doi>10.1145/1390334.1390381
+	Full text: PDFPDF
+	
+
+Some applications have to present their results in the form of ranked lists. This is the case of many information retrieval applications, in which documents must be sorted according to their relevance to a given query. This has led the interest of the ...
+expand
+	Learning to rank with ties
+	Ke Zhou, Gui-Rong Xue, Hongyuan Zha, Yong Yu
+	Pages: 275-282
+	doi>10.1145/1390334.1390382
+	Full text: PDFPDF
+	
+
+Designing effective ranking functions is a core problem for information retrieval and Web search since the ranking functions directly impact the relevance of the search results. The problem has been the focus of much of the research at the intersection ...
+expand
+	SESSION: Summarization
+	
+	Query-sensitive mutual reinforcement chain and its application in query-oriented multi-document summarization
+	Furu Wei, Wenjie Li, Qin Lu, Yanxiang He
+	Pages: 283-290
+	doi>10.1145/1390334.1390384
+	Full text: PDFPDF
+	
+
+Sentence ranking is the issue of most concern in document summarization. Early researchers have presented the mutual reinforcement principle (MR) between sentence and term for simultaneous key phrase and salient sentence extraction in generic single-document ...
+expand
+	Comments-oriented document summarization: understanding documents with readers' feedback
+	Meishan Hu, Aixin Sun, Ee-Peng Lim
+	Pages: 291-298
+	doi>10.1145/1390334.1390385
+	Full text: PDFPDF
+	
+
+Comments left by readers on Web documents contain valuable information that can be utilized in different information retrieval tasks including document search, visualization, and summarization. In this paper, we study the problem of comments-oriented ...
+expand
+	Multi-document summarization using cluster-based link analysis
+	Xiaojun Wan, Jianwu Yang
+	Pages: 299-306
+	doi>10.1145/1390334.1390386
+	Full text: PDFPDF
+	
+
+The Markov Random Walk model has been recently exploited for multi-document summarization by making use of the link relationships between sentences in the document set, under the assumption that all the sentences are indistinguishable from each other. ...
+expand
+	Multi-document summarization via sentence-level semantic analysis and symmetric matrix factorization
+	Dingding Wang, Tao Li, Shenghuo Zhu, Chris Ding
+	Pages: 307-314
+	doi>10.1145/1390334.1390387
+	Full text: PDFPDF
+	
+
+Multi-document summarization aims to create a compressed summary while retaining the main characteristics of the original set of documents. Many approaches use statistics and machine learning techniques to extract sentences from documents. In this paper, ...
+expand
+	SESSION: Exploratory search & filtering
+	
+	Algorithmic mediation for collaborative exploratory search
+	Jeremy Pickens, Gene Golovchinsky, Chirag Shah, Pernilla Qvarfordt, Maribeth Back
+	Pages: 315-322
+	doi>10.1145/1390334.1390389
+	Full text: PDFPDF
+	
+
+We describe a new approach to information retrieval: algorithmic mediation for intentional, synchronous collaborative exploratory search. Using our system, two or more users with a common information need search together, simultaneously. The collaborative ...
+expand
+	Exploiting correlated keywords to improve approximate information filtering
+	Christian Zimmer, Christos Tryfonopoulos, Gerhard Weikum
+	Pages: 323-330
+	doi>10.1145/1390334.1390390
+	Full text: PDFPDF
+	
+
+Information filtering, also referred to as publish/subscribe, complements one-time searching since users are able to subscribe to information sources and be notified whenever new documents of interest are published. In approximate information filtering ...
+expand
+	SESSION: Web-search--2
+	
+	A user browsing model to predict search engine click data from past observations.
+	Georges E. Dupret, Benjamin Piwowarski
+	Pages: 331-338
+	doi>10.1145/1390334.1390392
+	Full text: PDFPDF
+	
+
+Search engine click logs provide an invaluable source of relevance information but this information is biased because we ignore which documents from the result list the users have actually seen before and after they clicked. Otherwise, we could estimate ...
+expand
+	Learning query intent from regularized click graphs
+	Xiao Li, Ye-Yi Wang, Alex Acero
+	Pages: 339-346
+	doi>10.1145/1390334.1390393
+	Full text: PDFPDF
+	
+
+This work presents the use of click graphs in improving query intent classifiers, which are critical if vertical search and general-purpose search services are to be offered in a unified user interface. Previous works on query classification have primarily ...
+expand
+	Retrieval and feedback models for blog feed search
+	Jonathan L. Elsas, Jaime Arguello, Jamie Callan, Jaime G. Carbonell
+	Pages: 347-354
+	doi>10.1145/1390334.1390394
+	Full text: PDFPDF
+	
+
+Blog feed search poses different and interesting challenges from traditional ad hoc document retrieval. The units of retrieval, the blogs, are collections of documents, the blog posts. In this work we adapt a state-of-the-art federated search model to ...
+expand
+	SESSION: Multimedia retrieval
+	
+	Learning to reduce the semantic gap in web image retrieval and annotation
+	Changhu Wang, Lei Zhang, Hong-Jiang Zhang
+	Pages: 355-362
+	doi>10.1145/1390334.1390396
+	Full text: PDFPDF
+	
+
+We study in this paper the problem of bridging the semantic gap between low-level image features and high-level semantic concepts, which is the key hindrance in content-based image retrieval. Piloted by the rich textual information of Web images, the ...
+expand
+	A lattice-based approach to query-by-example spoken document retrieval
+	Tee Kiah Chia, Khe Chai Sim, Haizhou Li, Hwee Tou Ng
+	Pages: 363-370
+	doi>10.1145/1390334.1390397
+	Full text: PDFPDF
+	
+
+Recent efforts on the task of spoken document retrieval (SDR) have made use of speech lattices: speech lattices contain information about alternative speech transcription hypotheses other than the 1-best transcripts, and this information can improve ...
+expand
+	SESSION: Query analysis & models--1
+	
+	A few examples go a long way: constructing query models from elaborate query formulations
+	Krisztian Balog, Wouter Weerkamp, Maarten de Rijke
+	Pages: 371-378
+	doi>10.1145/1390334.1390399
+	Full text: PDFPDF
+	
+
+We address a specific enterprise document search scenario, where the information need is expressed in an elaborate manner. In our scenario, information needs are expressed using a short query (of a few keywords) together with examples of key reference ...
+expand
+	A unified and discriminative model for query refinement
+	Jiafeng Guo, Gu Xu, Hang Li, Xueqi Cheng
+	Pages: 379-386
+	doi>10.1145/1390334.1390400
+	Full text: PDFPDF
+	
+
+This paper addresses the issue of query refinement, which involves reformulating ill-formed search queries in order to enhance relevance of search results. Query refinement typically includes a number of tasks such as spelling error correction, ...
+expand
+	Query expansion using gaze-based feedback on the subdocument level
+	Georg Buscher, Andreas Dengel, Ludger van Elst
+	Pages: 387-394
+	doi>10.1145/1390334.1390401
+	Full text: PDFPDF
+	
+
+We examine the effect of incorporating gaze-based attention feedback from the user on personalizing the search process. Employing eye tracking data, we keep track of document parts the user read in some way. We use this information on the subdocument ...
+expand
+	SESSION: Non-topicality
+	
+	Affective feedback: an investigation into the role of emotions in the information seeking process
+	Ioannis Arapakis, Joemon M. Jose, Philip D. Gray
+	Pages: 395-402
+	doi>10.1145/1390334.1390403
+	Full text: PDFPDF
+	
+
+User feedback is considered to be a critical element in the information seeking process, especially in relation to relevance assessment. Current feedback techniques determine content relevance with respect to the cognitive and situational levels of interaction ...
+expand
+	Optimizing relevance and revenue in ad search: a query substitution approach
+	Filip Radlinski, Andrei Broder, Peter Ciccolo, Evgeniy Gabrilovich, Vanja Josifovski, Lance Riedel
+	Pages: 403-410
+	doi>10.1145/1390334.1390404
+	Full text: PDFPDF
+	
+
+The primary business model behind Web search is based on textual advertising, where contextually relevant ads are displayed alongside search results. We address the problem of selecting these ads so that they are both relevant to the queries and profitable ...
+expand
+	A generation model to unify topic relevance and lexicon-based sentiment for opinion retrieval
+	Min Zhang, Xingyao Ye
+	Pages: 411-418
+	doi>10.1145/1390334.1390405
+	Full text: PDFPDF
+	
+
+Opinion retrieval is a task of growing interest in social life and academic research, which is to find relevant and opinionate documents according to a user's query. One of the key issues is how to combine a document's opinionate score (the ranking score ...
+expand
+	SESSION: Probabilistic models
+	
+	Discriminative probabilistic models for passage based retrieval
+	Mengqiu Wang, Luo Si
+	Pages: 419-426
+	doi>10.1145/1390334.1390407
+	Full text: PDFPDF
+	
+
+The approach of using passage-level evidence for document retrieval has shown mixed results when it is applied to a variety of test beds with different characteristics. One main reason of the inconsistent performance is that there exists no unified framework ...
+expand
+	A new probabilistic retrieval model based on the dirichlet compound multinomial distribution
+	Zuobing Xu, Ram Akella
+	Pages: 427-434
+	doi>10.1145/1390334.1390408
+	Full text: PDFPDF
+	
+
+The classical probabilistic models attempt to capture the Ad hoc information retrieval problem within a rigorous probabilistic framework. It has long been recognized that the primary obstacle to effective performance of the probabilistic models is the ...
+expand
+	TF-IDF uncovered: a study of theories and probabilities
+	Thomas Roelleke, Jun Wang
+	Pages: 435-442
+	doi>10.1145/1390334.1390409
+	Full text: PDFPDF
+	
+
+Interpretations of TF-IDF are based on binary independence retrieval, Poisson, information theory, and language modelling. This paper contributes a review of existing interpretations, and then, TF-IDF is systematically related to the probabilities P(q|d) ...
+expand
+	SESSION: Analysis of social networks
+	
+	Separate and inequal: preserving heterogeneity in topical authority flows
+	Lan Nie, Brian D. Davison
+	Pages: 443-450
+	doi>10.1145/1390334.1390411
+	Full text: PDFPDF
+	
+
+Web pages, like people, are often known by others in a variety of contexts. When those contexts are sufficiently distinct, a page's importance may be better represented by multiple domains of authority, rather than by one that indiscriminately mixes ...
+expand
+	BrowseRank: letting web users vote for page importance
+	Yuting Liu, Bin Gao, Tie-Yan Liu, Ying Zhang, Zhiming Ma, Shuyuan He, Hang Li
+	Pages: 451-458
+	doi>10.1145/1390334.1390412
+	Full text: PDFPDF
+	
+
+This paper proposes a new method for computing page importance, referred to as BrowseRank. The conventional approach to compute page importance is to exploit the link graph of the web and to build a model based on that graph. For instance, PageRank is ...
+expand
+	Exploring traversal strategy for web forum crawling
+	Yida Wang, Jiang-Ming Yang, Wei Lai, Rui Cai, Lei Zhang, Wei-Ying Ma
+	Pages: 459-466
+	doi>10.1145/1390334.1390413
+	Full text: PDFPDF
+	
+
+In this paper, we study the problem of Web forum crawling. Web forum has now become an important data source of many Web applications; while forum crawling is still a challenging task due to complex in-site link structures and login controls of most ...
+expand
+	SESSION: Question-answering
+	
+	Finding question-answer pairs from online forums
+	Gao Cong, Long Wang, Chin-Yew Lin, Young-In Song, Yueheng Sun
+	Pages: 467-474
+	doi>10.1145/1390334.1390415
+	Full text: PDFPDF
+	
+
+Online forums contain a huge amount of valuable user generated content. In this paper we address the problem of extracting question-answer pairs from forums. Question-answer pairs extracted from forums can be used to help Question Answering services ...
+expand
+	Retrieval models for question and answer archives
+	Xiaobing Xue, Jiwoon Jeon, W. Bruce Croft
+	Pages: 475-482
+	doi>10.1145/1390334.1390416
+	Full text: PDFPDF
+	
+
+Retrieval in a question and answer archive involves finding good answers for a user's question. In contrast to typical document retrieval, a retrieval model for this task can exploit question similarity as well as ranking the associated answers. In this ...
+expand
+	Predicting information seeker satisfaction in community question answering
+	Yandong Liu, Jiang Bian, Eugene Agichtein
+	Pages: 483-490
+	doi>10.1145/1390334.1390417
+	Full text: PDFPDF
+	
+
+Question answering communities such as Naver and Yahoo! Answers have emerged as popular, and often effective, means of information seeking on the web. By posting questions for other participants to answer, information seekers can obtain specific answers ...
+expand
+	SESSION: Query analysis & models--2
+	
+	Discovering key concepts in verbose queries
+	Michael Bendersky, W. Bruce Croft
+	Pages: 491-498
+	doi>10.1145/1390334.1390419
+	Full text: PDFPDF
+	
+
+Current search engines do not, in general, perform well with longer, more verbose queries. One of the main issues in processing these queries is identifying the key concepts that will have the most impact on effectiveness. In this paper, we develop and ...
+expand
+	Ambiguous queries: test collections need more sense
+	Mark Sanderson
+	Pages: 499-506
+	doi>10.1145/1390334.1390420
+	Full text: PDFPDF
+	
+
+Although there are many papers examining ambiguity in Information Retrieval, this paper shows that there is a whole class of ambiguous word that past research has barely explored. It is shown that the class is more ambiguous than other word types and ...
+expand
+	Automatically identifying localizable queries
+	Michael J. Welch, Junghoo Cho
+	Pages: 507-514
+	doi>10.1145/1390334.1390421
+	Full text: PDFPDF
+	
+
+Personalization of web search results as a technique for improving user satisfaction has received notable attention in the research community over the past decade. Much of this work focuses on modeling and establishing a profile for each user to aid ...
+expand
+	SESSION: Social tagging
+	
+	Real-time automatic tag recommendation
+	Yang Song, Ziming Zhuang, Huajing Li, Qiankun Zhao, Jia Li, Wang-Chien Lee, C. Lee Giles
+	Pages: 515-522
+	doi>10.1145/1390334.1390423
+	Full text: PDFPDF
+	
+
+Tags are user-generated labels for entities. Existing research on tag recommendation either focuses on improving its accuracy or on automating the process, while ignoring the efficiency issue. We propose a highly-automated novel framework for real-time ...
+expand
+	Efficient top-k querying over social-tagging networks
+	Ralf Schenkel, Tom Crecelius, Mouna Kacimi, Sebastian Michel, Thomas Neumann, Josiane X. Parreira, Gerhard Weikum
+	Pages: 523-530
+	doi>10.1145/1390334.1390424
+	Full text: PDFPDF
+	
+
+Online communities have become popular for publishing and searching content, as well as for finding and connecting to other users. User-generated content includes, for example, personal blogs, bookmarks, and digital photos. These items can be annotated ...
+expand
+	Social tag prediction
+	Paul Heymann, Daniel Ramage, Hector Garcia-Molina
+	Pages: 531-538
+	doi>10.1145/1390334.1390425
+	Full text: PDFPDF
+	
+
+In this paper, we look at the "social tag prediction" problem. Given a set of objects, and a set of tags applied to those objects by users, can we predict whether a given tag could/should be applied to a particular object? We investigated this question ...
+expand
+	SESSION: Clustering--2
+	
+	Spectral geometry for simultaneously clustering and ranking query search results
+	Ying Liu, Wenyuan Li, Yongjing Lin, Liping Jing
+	Pages: 539-546
+	doi>10.1145/1390334.1390427
+	Full text: PDFPDF
+	
+
+How best to present query search results is an important problem in search engines and information retrieval systems. When a single query retrieves many results, simply showing them as a long list will provide users with poor overview. Nowadays, ranking ...
+expand
+	A rank-aggregation approach to searching for optimal query-specific clusters
+	Oren Kurland, Carmel Domshlak
+	Pages: 547-554
+	doi>10.1145/1390334.1390428
+	Full text: PDFPDF
+	
+
+To improve the precision at the very top ranks of a document list presented in response to a query, researchers suggested to exploit information induced from clustering of documents highly ranked by some initial search. We propose a novel model ...
+expand
+	A comparative evaluation of different link types on enhancing document clustering
+	Xiaodan Zhang, Xiaohua Hu, Xiaohua Zhou
+	Pages: 555-562
+	doi>10.1145/1390334.1390429
+	Full text: PDFPDF
+	
+
+With a growing number of works utilizing link information in enhancing document clustering, it becomes necessary to make a comparative evaluation of the impacts of different link types on document clustering. Various types of links between text documents, ...
+expand
+	SESSION: Content analysis
+	
+	SpotSigs: robust and efficient near duplicate detection in large web collections
+	Martin Theobald, Jonathan Siddharth, Andreas Paepcke
+	Pages: 563-570
+	doi>10.1145/1390334.1390431
+	Full text: PDFPDF
+	
+
+Motivated by our work with political scientists who need to manually analyze large Web archives of news sites, we present SpotSigs, a new algorithm for extracting and matching signatures for near duplicate detection in large Web crawls. Our spot ...
+expand
+	Local text reuse detection
+	Jangwon Seo, W. Bruce Croft
+	Pages: 571-578
+	doi>10.1145/1390334.1390432
+	Full text: PDFPDF
+	
+
+Text reuse occurs in many different types of documents and for many different reasons. One form of reuse, duplicate or near-duplicate documents, has been a focus of researchers because of its importance in Web search. Local text reuse occurs when sentences, ...
+expand
+	TSCAN: a novel method for topic summarization and content anatomy
+	Chien Chin Chen, Meng Chang Chen
+	Pages: 579-586
+	doi>10.1145/1390334.1390433
+	Full text: PDFPDF
+	
+
+A topic is defined as a seminal event or activity along with all directly related events and activities. It is represented as a chronological sequence of documents by different authors published on the Internet. In this paper, we define a task called ...
+expand
+	SESSION: Learning models for IR
+	
+	A new rank correlation coefficient for information retrieval
+	Emine Yilmaz, Javed A. Aslam, Stephen Robertson
+	Pages: 587-594
+	doi>10.1145/1390334.1390435
+	Full text: PDFPDF
+	
+
+In the field of information retrieval, one is often faced with the problem of computing the correlation between two ranked lists. The most commonly used statistic that quantifies this correlation is Kendall's Τ. Often times, in the information ...
+expand
+	Learning from labeled features using generalized expectation criteria
+	Gregory Druck, Gideon Mann, Andrew McCallum
+	Pages: 595-602
+	doi>10.1145/1390334.1390436
+	Full text: PDFPDF
+	
+
+It is difficult to apply machine learning to new domains because often we lack labeled problem instances. In this paper, we provide a solution to this problem that leverages domain knowledge in the form of affinities between input features and classes. ...
+expand
+	A simple and efficient sampling method for estimating AP and NDCG
+	Emine Yilmaz, Evangelos Kanoulas, Javed A. Aslam
+	Pages: 603-610
+	doi>10.1145/1390334.1390437
+	Full text: PDFPDF
+	
+
+We consider the problem of large scale retrieval evaluation. Recently two methods based on random sampling were proposed as a solution to the extensive effort required to judge tens of thousands of documents. While the first method proposed by ...
+expand
+	A general optimization framework for smoothing language models on graph structures
+	Qiaozhu Mei, Duo Zhang, ChengXiang Zhai
+	Pages: 611-618
+	doi>10.1145/1390334.1390438
+	Full text: PDFPDF
+	
+
+Recent work on language models for information retrieval has shown that smoothing language models is crucial for achieving good retrieval performance. Many different effective smoothing methods have been proposed, which mostly implement various heuristics ...
+expand
+	SESSION: Text classification
+	
+	Deep classification in large-scale text hierarchies
+	Gui-Rong Xue, Dikan Xing, Qiang Yang, Yong Yu
+	Pages: 619-626
+	doi>10.1145/1390334.1390440
+	Full text: PDFPDF
+	
+
+Most classification algorithms are best at categorizing the Web documents into a few categories, such as the top two levels in the Open Directory Project. Such a classification method does not give very detailed topic-related class information for the ...
+expand
+	Topic-bridged PLSA for cross-domain text classification
+	Gui-Rong Xue, Wenyuan Dai, Qiang Yang, Yong Yu
+	Pages: 627-634
+	doi>10.1145/1390334.1390441
+	Full text: PDFPDF
+	
+
+In many Web applications, such as blog classification and new-sgroup classification, labeled data are in short supply. It often happens that obtaining labeled data in a new domain is expensive and time consuming, while there may be plenty of labeled ...
+expand
+	trNon-greedy active learning for text categorization using convex ansductive experimental design
+	Kai Yu, Shenghuo Zhu, Wei Xu, Yihong Gong
+	Pages: 635-642
+	doi>10.1145/1390334.1390442
+	Full text: PDFPDF
+	
+
+In this paper we propose a non-greedy active learning method for text categorization using least-squares support vector machines (LSSVM). Our work is based on transductive experimental design (TED), an active learning formulation that effectively explores ...
+expand
+	Classifiers without borders: incorporating fielded text from neighboring web pages
+	Xiaoguang Qi, Brian D. Davison
+	Pages: 643-650
+	doi>10.1145/1390334.1390443
+	Full text: PDFPDF
+	
+
+Accurate web page classification often depends crucially on information gained from neighboring pages in the local web graph. Prior work has exploited the class labels of nearby pages to improve performance. In contrast, in this work we utilize a weighted ...
+expand
+	SESSION: Evaluation--2
+	
+	Evaluation over thousands of queries
+	Ben Carterette, Virgil Pavlu, Evangelos Kanoulas, Javed A. Aslam, James Allan
+	Pages: 651-658
+	doi>10.1145/1390334.1390445
+	Full text: PDFPDF
+	
+
+Information retrieval evaluation has typically been performed over several dozen queries, each judged to near-completeness. There has been a great deal of recent work on evaluation over much smaller judgment sets: how to select the best set of documents ...
+expand
+	Novelty and diversity in information retrieval evaluation
+	Charles L.A. Clarke, Maheedhar Kolla, Gordon V. Cormack, Olga Vechtomova, Azin Ashkan, Stefan Büttcher, Ian MacKinnon
+	Pages: 659-666
+	doi>10.1145/1390334.1390446
+	Full text: PDFPDF
+	
+
+Evaluation measures act as objective functions to be optimized by information retrieval systems. Such objective functions must accurately reflect user requirements, particularly when tuning IR systems and learning ranking functions. Ambiguity in queries ...
+expand
+	Relevance assessment: are judges exchangeable and does it matter
+	Peter Bailey, Nick Craswell, Ian Soboroff, Paul Thomas, Arjen P. de Vries, Emine Yilmaz
+	Pages: 667-674
+	doi>10.1145/1390334.1390447
+	Full text: PDFPDF
+	
+
+We investigate to what extent people making relevance judgements for a reusable IR test collection are exchangeable. We consider three classes of judge: "gold standard" judges, who are topic originators and are experts in a particular information seeking ...
+expand
+	Intuition-supporting visualization of user's performance based on explicit negative higher-order relevance
+	Heikki Keskustalo, Kalervo Järvelin, Ari Pirkola, Jaana Kekäläinen
+	Pages: 675-682
+	doi>10.1145/1390334.1390448
+	Full text: PDFPDF
+	
+
+Modeling the beyond-topical aspects of relevance are currently gaining popularity in IR evaluation. For example, the discounted cumulated gain (DCG) measure implicitly models some aspects of higher-order relevance via diminishing the value of relevant ...
+expand
+	POSTER SESSION: Posters group 1: evaluation, text collections and user/personalized IR
+	
+	Relevance judgments between TREC and Non-TREC assessors
+	Azzah Al-Maskari, Mark Sanderson, Paul Clough
+	Pages: 683-684
+	doi>10.1145/1390334.1390450
+	Full text: PDFPDF
+	
+
+This paper investigates the agreement of relevance assessments between official TREC judgments and those generated from an interactive IR experiment. Results show that 63% of documents judged relevant by our users matched official TREC judgments. Several ...
+expand
+	Evaluation measures for preference judgments
+	Ben Carterette, Paul N. Bennett
+	Pages: 685-686
+	doi>10.1145/1390334.1390451
+	Full text: PDFPDF
+	
+
+There has been recent interest in collecting user or assessor preferences, rather than absolute judgments of relevance, for the evaluation or learning of ranking algorithms. Since measures like precision, recall, and DCG are defined over absolute judgments, ...
+expand
+	Exploring evaluation metrics: GMAP versus MAP
+	Sri Devi Ravana, Alistair Moffat
+	Pages: 687-688
+	doi>10.1145/1390334.1390452
+	Full text: PDFPDF
+	
+
+In retrieval experiments, an effectiveness metrics is used to generate a score for each system-topic pair being tested. It is then usual to average the system-topic scores to obtain a system score, which is used for the purpose of system comparison. ...
+expand
+	A new interpretation of average precision
+	Stephen Robertson
+	Pages: 689-690
+	doi>10.1145/1390334.1390453
+	Full text: PDFPDF
+	
+
+We consider the question of whether Average Precision, as a measure of retrieval effectiveness, can be regarded as deriving from a model of user searching behaviour. It turns out that indeed it can be so regarded, under a very simple stochastic model ...
+expand
+	Comparing metrics across TREC and NTCIR:: the robustness to pool depth bias
+	Tetsuya Sakai
+	Pages: 691-692
+	doi>10.1145/1390334.1390454
+	Full text: PDFPDF
+	
+	Relevance thresholds in system evaluations
+	Falk Scholer, Andrew Turpin
+	Pages: 693-694
+	doi>10.1145/1390334.1390455
+	Full text: PDFPDF
+	
+
+We introduce and explore the concept of an individual's relevance threshold as a way of reconciling differences in outcomes between batch and user experiments.
+expand
+	Precision-at-ten considered redundant
+	William Webber, Alistair Moffat, Justin Zobel, Tetsuya Sakai
+	Pages: 695-696
+	doi>10.1145/1390334.1390456
+	Full text: PDFPDF
+	
+
+Information retrieval systems are compared using evaluation metrics, with researchers commonly reporting results for simple metrics such as precision-at-10 or reciprocal rank together with more complex ones such as average precision or discounted cumulative ...
+expand
+	Structuring collections with Scatter/Gather extensions
+	Omar Alonso, Justin Talbot
+	Pages: 697-698
+	doi>10.1145/1390334.1390457
+	Full text: PDFPDF
+	
+
+A major component of sense-making is organizing--grouping, labeling, and summarizing--the data at hand in order to form a useful mental model, a necessary precursor to identifying missing information and to reasoning about the data. Previous work has ...
+expand
+	Text collections for FIRE
+	Prasenjit Majumder, Mandar Mitra, Dipasree Pal, Ayan Bandyopadhyay, Samaresh Maiti, Sukanya Mitra, Aparajita Sen, Sukomal Pal
+	Pages: 699-700
+	doi>10.1145/1390334.1390458
+	Full text: PDFPDF
+	
+
+The aim of the Forum for Information Retrieval Evaluation (FIRE) is to create a Cranfield-like evaluation framework in the spirit of TREC, CLEF and NTCIR, for Indian Language Information Retrieval. For the first year, six Indian languages have been selected: ...
+expand
+	A longitudinal study of real-time search assistance adoption
+	Peter Anick, Raj Gopal Kantamneni
+	Pages: 701-702
+	doi>10.1145/1390334.1390459
+	Full text: PDFPDF
+	
+
+We present findings from a log based study designed to track the adoption of features of a new real-time query refinement interface deployed on the Yahoo search engine. Several trends from the first four months are noted and discussed.
+expand
+	TopicRank: bringing insight to users
+	Ivan Berlocher, Kyung-il Lee, Kono Kim
+	Pages: 703-704
+	doi>10.1145/1390334.1390460
+	Full text: PDFPDF
+	
+	Talking the talk vs. walking the walk: salience of information needs in querying vs. browsing
+	Mikhail Bilenko, Ryen W. White, Matthew Richardson, G. Craig Murray
+	Pages: 705-706
+	doi>10.1145/1390334.1390461
+	Full text: PDFPDF
+	
+
+Traditional information retrieval models assume that users express their information needs via text queries (i.e., their "talk"). In this poster, we consider Web browsing behavior outside of interactions with retrieval systems (i.e., users' ...
+expand
+	Exploring mouse movements for inferring query intent
+	Qi Guo, Eugene Agichtein
+	Pages: 707-708
+	doi>10.1145/1390334.1390462
+	Full text: PDFPDF
+	
+
+Clickthrough on search results have been successfully used to infer user interest and preferences, but are often noisy and potentially ambiguous. We explore the potential of a complementary, more sensitive signal -mouse movements- in providing insights ...
+expand
+	Emulating query-biased summaries using document titles
+	Hideo Joho, David Hannah, Joemon M. Jose
+	Pages: 709-710
+	doi>10.1145/1390334.1390463
+	Full text: PDFPDF
+	
+
+Generating query-biased summaries can take up a large part of the response time of interactive information retrieval (IIR) systems. This paper proposes to use document titles as an alternative to queries in the generation of summaries. The use of document ...
+expand
+	Hierarchical naive bayes models for representing user profiles
+	J. F. Huete, L. M. de Campos, J. M. Fernandez-Luna, M. A. Rueda-Morales
+	Pages: 711-712
+	doi>10.1145/1390334.1390464
+	Full text: PDFPDF
+	
+
+In this paper, we show how a user profile can be enhanced when a more detailed description of the products is included. Two main assumptions have been considered: the first implies that the set of features used to describe an item can be organized into ...
+expand
+	A topical PageRank based algorithm for recommender systems
+	Liyan Zhang, Kai Zhang, Chunping Li
+	Pages: 713-714
+	doi>10.1145/1390334.1390465
+	Full text: PDFPDF
+	
+
+In this paper, we propose a Topical PageRank based algorithm for recommender systems, which aim to rank products by analyzing previous user-item relationships, and recommend top-rank items to potentially interested users. We evaluate our algorithm on ...
+expand
+	The impact of history length on personalized search
+	Yangbo Zhu, Jamie Callan, Jaime Carbonell
+	Pages: 715-716
+	doi>10.1145/1390334.1390466
+	Full text: PDFPDF
+	
+
+Personalized search is a promising way to better serve different users' information needs. Search history is one of the major information sources for search personalization. We investigated the impact of history length on the effectiveness of personalized ...
+expand
+	User preference choices for complex question answering
+	Mingfang Wu, Falk Scholer, Andrew Turpin
+	Pages: 717-718
+	doi>10.1145/1390334.1390467
+	Full text: PDFPDF
+	
+
+Question answering systems increasingly need to deal with complex information needs that require more than simple factoid answers. The evaluation of such systems is usually carried out using precision- or recall-based system performance metrics. Previous ...
+expand
+	Towards personalized distributed information retrieval
+	Mark J. Carman, Fabio Crestani
+	Pages: 719-720
+	doi>10.1145/1390334.1390468
+	Full text: PDFPDF
+	
+
+Our aim is to investigate if and how the performance of Distributed Information Retrieval (DIR) systems can be improved through personalization. Toward this aim we are building a testbed of document collections and corresponding personalized relevance ...
+expand
+	Task-aware search personalization
+	Julia Luxenburger, Shady Elbassuoni, Gerhard Weikum
+	Pages: 721-722
+	doi>10.1145/1390334.1390469
+	Full text: PDFPDF
+	
+
+Search personalization has been pursued in many ways, in order to provide better result rankings and better overall search experience to individual users [5]. However, blindly applying personalization to all user queries, for example, by a background ...
+expand
+	POSTER SESSION: Posters group 2: blog, tagging, opinion analysis and web IR
+	
+	Personal vs non-personal blogs: initial classification experiments
+	Erik Elgersma, Maarten de Rijke
+	Pages: 723-724
+	doi>10.1145/1390334.1390471
+	Full text: PDFPDF
+	
+
+We address the task of separating personal from non-personal blogs, and report on a set of baseline experiments where we compare the performance on a small set of features across a set of five classifiers. We show that with a limited set of features ...
+expand
+	Exploiting subjectivity analysis in blogs to improve political leaning categorization
+	Maojin Jiang, Shlomo Argamon
+	Pages: 725-726
+	doi>10.1145/1390334.1390472
+	Full text: PDFPDF
+	
+
+In this paper, we address a relatively new and interesting text categorization problem: classify a political blog as either liberal or conservative, based on its political leaning. Our subjectivity analysis based method is twofold: 1) we ...
+expand
+	Ranking opinionated blog posts using OpinionFinder
+	Ben He, Craig Macdonald, Iadh Ounis
+	Pages: 727-728
+	doi>10.1145/1390334.1390473
+	Full text: PDFPDF
+	
+
+The aim of an opinion finding system is not just to retrieve relevant documents, but to also retrieve documents that express an opinion towards the query target entity. In this work, we propose a way to use and integrate an opinion-identification toolkit, ...
+expand
+	Searching blogs and news: a study on popular queries
+	Aixin Sun, Meishan Hu, Ee-Peng Lim
+	Pages: 729-730
+	doi>10.1145/1390334.1390474
+	Full text: PDFPDF
+	
+
+Blog/news search engines are very important channels to reach information about the real-time happenings. In this paper, we study the popular queries collected over one year period and compare their search results returned by a blog search engine (i.e., ...
+expand
+	Aggregated click-through data in a homogeneous user community
+	Mingfang Wu, Andrew Turpin, Justin Zobel
+	Pages: 731-732
+	doi>10.1145/1390334.1390475
+	Full text: PDFPDF
+	
+
+There are many proposed methods for using clickthrough data for common queries to improve the quality of search results returned for that query. In this study we examine the search behaviour of users in a close-knit community on such queries. We argue ...
+expand
+	To tag or not to tag -: harvesting adjacent metadata in large-scale tagging systems
+	Adriana Budura, Sebastian Michel, Philippe Cudré-Mauroux, Karl Aberer
+	Pages: 733-734
+	doi>10.1145/1390334.1390476
+	Full text: PDFPDF
+	
+
+We present HAMLET, a suite of principles, scoring models and algorithms to automatically propagate metadata along edges in a document neighborhood. As a showcase scenario we consider tag prediction in community-based Web 2.0 tagging applications. Experiments ...
+expand
+	Exploring question subjectivity prediction in community QA
+	Baoli Li, Yandong Liu, Ashwin Ram, Ernest V. Garcia, Eugene Agichtein
+	Pages: 735-736
+	doi>10.1145/1390334.1390477
+	Full text: PDFPDF
+	
+
+In this paper we begin to investigate how to automatically determine the subjectivity orientation of questions posted by real users in community question answering (CQA) portals. Subjective questions seek answers containing private states, such ...
+expand
+	On the evolution of the yahoo! answers QA community
+	Yandong Liu, Eugene Agichtein
+	Pages: 737-738
+	doi>10.1145/1390334.1390478
+	Full text: PDFPDF
+	
+
+While question answering communities have been gaining popularity for several years, we wonder if the increased popularity actually improves or degrades the user experience. In addition, automatic QA systems, which utilize different sources such as search ...
+expand
+	Detecting synonyms in social tagging systems to improve content retrieval
+	Maarten Clements, Arjen P. de Vries, Marcel J.T. Reinders
+	Pages: 739-740
+	doi>10.1145/1390334.1390479
+	Full text: PDFPDF
+	
+
+Collaborative tagging used in online social content systems is naturally characterized by many synonyms, causing low precision retrieval. We propose a mechanism based on user preference profiles to identify synonyms that can be used to retrieve more ...
+expand
+	SOPING: a Chinese customer review mining system
+	Chao Zhou, Guang Qiu, Kangmiao Liu, Jiajun Bu, Mingcheng Qu, Chun Chen
+	Pages: 741-742
+	doi>10.1145/1390334.1390480
+	Full text: PDFPDF
+	
+
+With the booming development of the Web, popular Chinese forums enable people to find experienced customers' reviews for products. In order to get an all-around opinion about one product, users need to go through plenty of web pages, which is time-consuming ...
+expand
+	Combining learn-based and lexicon-based techniques for sentiment detection without using labeled examples
+	Songbo Tan, Yuefen Wang, Xueqi Cheng
+	Pages: 743-744
+	doi>10.1145/1390334.1390481
+	Full text: PDFPDF
+	
+
+In this work, we propose a novel scheme for sentiment classification (without labeled examples) which combines the strengths of both "learn-based" and "lexicon-based" approaches as follows: we first use a lexicon-based technique to label a portion of ...
+expand
+	Semi-supervised spam filtering: does it work?
+	Mona Mojdeh, Gordon V. Cormack
+	Pages: 745-746
+	doi>10.1145/1390334.1390482
+	Full text: PDFPDF
+	
+
+The results of the 2006 ECML/PKDD Discovery Challenge suggest that semi-supervised learning methods work well for spam filtering when the source of available labeled examples differs from those to be classified. We have attempted to reproduce these results ...
+expand
+	Limits of opinion-finding baseline systems
+	Craig Macdonald, Ben He, Iadh Ounis, Ian Soboroff
+	Pages: 747-748
+	doi>10.1145/1390334.1390483
+	Full text: PDFPDF
+	
+
+In opinion-finding, the retrieval system is tasked with retrieving not just relevant documents, but which also express an opinion towards the query target entity. Most opinion-finding systems are based on a two-stage approach, where initially the system ...
+expand
+	Web query translation via web log mining
+	Rong Hu, Weizhu Chen, Peng Bai, Yansheng Lu, Zheng Chen, Qiang Yang
+	Pages: 749-750
+	doi>10.1145/1390334.1390484
+	Full text: PDFPDF
+	
+
+This paper describes a method to automatically acquire query translation pairs by mining web click-through data. The extraction requires no crawling or Chinese words segmentation, and can capture popular translations. Experimental results on a real click-through ...
+expand
+	Analyzing web text association to disambiguate abbreviation in queries
+	Xing Wei, Fuchun Peng, Benoit Dumoulin
+	Pages: 751-752
+	doi>10.1145/1390334.1390485
+	Full text: PDFPDF
+	
+
+We introduce a statistical model for abbreviation disambiguation in Web search, based on analysis of Web data resources, including anchor text, click log and query log. By combining evidence from multiple sources, we are able to accurately disambiguate ...
+expand
+	Bloggers as experts: feed distillation using expert retrieval models
+	Krisztian Balog, Maarten de Rijke, Wouter Weerkamp
+	Pages: 753-754
+	doi>10.1145/1390334.1390486
+	Full text: PDFPDF
+	
+
+We address the task of (blog) feed distillation: to find blogs that are principally devoted to a given topic. The task may be viewed as an association finding task, between topics and bloggers. Under this view, it resembles the expert finding task, for ...
+expand
+	Search effectiveness with a breadth-first crawl
+	Dennis Fetterly, Nick Craswell, Vishwa Vinay
+	Pages: 755-756
+	doi>10.1145/1390334.1390487
+	Full text: PDFPDF
+	
+
+Previous scalability experiments found that early precision improves as collection size increases. However, that was under the assumption that a collection's documents are all sampled with uniform probability from the same population. We contrast this ...
+expand
+	Guide focused crawler efficiently and effectively using on-line topical importance estimation
+	Ziyu Guan, Can Wang, Chun Chen, Jiajun Bu, Junfeng Wang
+	Pages: 757-758
+	doi>10.1145/1390334.1390488
+	Full text: PDFPDF
+	
+
+Focused crawling is a critical technique for topical resource discovery on the Web. We propose a new frontier prioritizing algorithm, namely, the OTIE (On-line Topical Importance Estimation) algorithm, which efficiently and effectively combines link-based ...
+expand
+	Web page retrieval in ubiquitous sensor environments
+	Takuya Maekawa, Yutaka Yanagisawa, Yasushi Sakurai, Yasue Kishino, Koji Kamei, Takeshi Okadome
+	Pages: 759-760
+	doi>10.1145/1390334.1390489
+	Full text: PDFPDF
+	
+
+This paper proposes new concept of query free web search for daily living. We ordinarily benefit from additional information about our daily activities that we are currently engaged in. When washing a coffee maker, for example, we receive the benefit ...
+expand
+	Automatic document prior feature selection for web retrieval
+	Jie Peng, Craig Macdonald, Iadh Ounis
+	Pages: 761-762
+	doi>10.1145/1390334.1390490
+	Full text: PDFPDF
+	
+
+Document prior features, such as Pagerank and URL depth, can improve the retrieval effectiveness of Web Information Retrieval (IR) systems. However, not all queries equally benefit from the application of a document prior feature. This paper aims to ...
+expand
+	Using parsimonious language models on web data
+	Rianne Kaptein, Rongmei LI, Djoerd Hiemstra, Jaap Kamps
+	Pages: 763-764
+	doi>10.1145/1390334.1390491
+	Full text: PDFPDF
+	
+
+In this paper we explore the use of parsimonious language models for web retrieval. These models are smaller thus more efficient than the standard language models and are therefore well suited for large-scale web retrieval. We have conducted experiments ...
+expand
+	Query preprocessing: improving web search through a Vietnamese word tokenization approach
+	Doan Nguyen
+	Pages: 765-766
+	doi>10.1145/1390334.1390492
+	Full text: PDFPDF
+	
+
+In this poster paper, we propose a novel approach to improve web search relevancy by tokenizing a Vietnamese query text prior submitting it to a search engine. Evaluations demonstrate its effectiveness and practical value.
+expand
+	POSTER SESSION: Posters group 3: multimedia and domain specific IR
+	
+	AdImage: video advertising by image matching and ad scheduling optimization
+	Wei-Shing Liao, Kuan-Ting Chen, Winston H. Hsu
+	Pages: 767-768
+	doi>10.1145/1390334.1390494
+	Full text: PDFPDF
+	
+
+With the prevalence of recording devices and the ease of media sharing, consumers are embracing huge amounts of Internet videos. There arise the needs for effective video advertisement systems following their phenomenal success in text. We propose a ...
+expand
+	Bag-of-visual-words expansion using visual relatedness for video indexing
+	Yu-Gang Jiang, Chong-Wah Ngo
+	Pages: 769-770
+	doi>10.1145/1390334.1390495
+	Full text: PDFPDF
+	
+
+Bag-of-visual-words (BoW) has been popular for visual classification in recent years. In this paper, we propose a novel BoW expansion method to alleviate the effect of visual word correlation problem. We achieve this by diffusing the weights of visual ...
+expand
+	A word shape coding method for camera-based document images
+	Linlin Li, Chew Lim Tan
+	Pages: 771-772
+	doi>10.1145/1390334.1390496
+	Full text: PDFPDF
+	
+
+This paper reports a word shape coding method to facilitate retrieval of camera-based document images without OCR. Due to perspective distortion, many reported word shape coding methods fail on camera-based images. In this paper, the problem is addressed ...
+expand
+	Term clouds as surrogates for user generated speech
+	Manos Tsagkias, Martha Larson, Maarten de Rijke
+	Pages: 773-774
+	doi>10.1145/1390334.1390497
+	Full text: PDFPDF
+	
+
+User generated spoken audio remains a challenge for Automatic Speech Recognition (ASR) technology and content-based audio surrogates derived from ASR-transcripts must be error robust. An investigation of the use of term clouds as surrogates for podcasts ...
+expand
+	A faceted interface for multimedia search
+	Robert Villa, Nicholas Gildea, Joemon M. Jose
+	Pages: 775-776
+	doi>10.1145/1390334.1390498
+	Full text: PDFPDF
+	
+
+With the rapid increase in online video services, video retrieval systems are becoming increasingly important search tools to many users in many different fields. In this poster we present a novel video retrieval interface, which supports the creation ...
+expand
+	WISA: a novel web image semantic analysis system
+	Hongtao Xu, Xiangdong Zhou, Lan Lin
+	Pages: 777-778
+	doi>10.1145/1390334.1390499
+	Full text: PDFPDF
+	
+
+We present a novel Web Image Semantic Analysis (WISA) system, which explores the problem of adaptively modeling the distributions of the semantic labels of the web image on its surrounding text. To deal with this problem, we employ a new piecewise penalty ...
+expand
+	One-button search extracts wider interests: an empirical study with video bookmarking search
+	Masayuki Okamoto, Masaaki Kikuchi, Tomohiro Yamasaki
+	Pages: 779-780
+	doi>10.1145/1390334.1390500
+	Full text: PDFPDF
+	
+
+This poster presents an overview of the characteristics of a one-button information retrieval interface with closed captions from TV watching activities, which is intended to lighten the burden of remembering and entering query terms while watching TV. ...
+expand
+	Product retrieval for grocery stores
+	Petteri Nurmi, Eemil Lagerspetz, Wray Buntine, Patrik Floréen, Joonas Kukkonen
+	Pages: 781-782
+	doi>10.1145/1390334.1390501
+	Full text: PDFPDF
+	
+
+We introduce a grocery retrieval system that maps shopping lists written in natural language into actual products in a grocery store. We have developed the system using nine months of shopping basket data from a large Finnish supermarket. To evaluate ...
+expand
+	A reranking model for genomics aspect search
+	Qinmin Hu, Xiangji Huang
+	Pages: 783-784
+	doi>10.1145/1390334.1390502
+	Full text: PDFPDF
+	
+
+In this paper, we propose a reranking model to improve the aspect-level performance in the biomedical domain. This model iteratively computes the maximum hidden aspect for every retrieved passage and then reranks these passages from aspect subsets. The ...
+expand
+	Improving biomedical document retrieval using domain knowledge
+	Shuguang Wang, Milos Hauskrecht
+	Pages: 785-786
+	doi>10.1145/1390334.1390503
+	Full text: PDFPDF
+	
+
+Research articles typically introduce new results or findings and relate them to knowledge entities of immediate relevance. However, a large body of context knowledge related to the results is often not explicitly mentioned in the article. To overcome ...
+expand
+	Kleio: a knowledge-enriched information retrieval system for biology
+	Chikashi Nobata, Philip Cotter, Naoaki Okazaki, Brian Rea, Yutaka Sasaki, Yoshimasa Tsuruoka, Jun'ichi Tsujii, Sophia Ananiadou
+	Pages: 787-788
+	doi>10.1145/1390334.1390504
+	Full text: PDFPDF
+	
+
+Kleio is an advanced information retrieval (IR) system developed at the UK National Centre for Text Mining (NaCTeM)1. The system offers textual and metadata searches across MEDLINE and provides enhanced searching functionality by leveraging ...
+expand
+	Enhancing keyword-based botanical information retrieval with information extraction
+	Xiaoya Tang
+	Pages: 789-790
+	doi>10.1145/1390334.1390505
+	Full text: PDFPDF
+	
+
+Keyword-based retrieval matches search terms and documents via term co-occurrence. Such an approach does not allow matching based on the specific plant characteristic descriptions that are often used in botanical text retrieval. This study applies information ...
+expand
+	How medical expertise influences web search interaction
+	Ryen W. White, Susan Dumais, Jaime Teevan
+	Pages: 791-792
+	doi>10.1145/1390334.1390506
+	Full text: PDFPDF
+	
+
+Domain expertise can have an important influence on how people search. In this poster we present findings from a log-based study into how medical domain experts search the Web for information related to their expertise, as compared with non-experts. ...
+expand
+	Generating diverse katakana variants based on phonemic mapping
+	Kazuhiro Seki, Hiroyuki Hattori, Kuniaki Uehara
+	Pages: 793-794
+	doi>10.1145/1390334.1390507
+	Full text: PDFPDF
+	
+
+In Japanese, it is quite common for the same word to be written in several different ways. This is especially true for katakana words which are typically used for transliterating foreign languages. This ambiguity becomes critical for automatic processing ...
+expand
+	Exploiting sequential dependencies for expert finding
+	Pavel Serdyukov, Henning Rode, Djoerd Hiemstra
+	Pages: 795-796
+	doi>10.1145/1390334.1390508
+	Full text: PDFPDF
+	
+
+We propose an expert finding method based on assumption of sequential dependence between a candidate expert and the query terms in the scope of a document. We assume that the strength of relation of a candidate to the document's content depends on its ...
+expand
+	Modeling expert finding as an absorbing random walk
+	Pavel Serdyukov, Henning Rode, Djoerd Hiemstra
+	Pages: 797-798
+	doi>10.1145/1390334.1390509
+	Full text: PDFPDF
+	
+
+We introduce a novel approach to expert finding based on multi-step relevance propagation from documents to related candidates. Relevance propagation is modeled with an absorbing random walk. The evaluation on the two official Enterprise TREC data sets ...
+expand
+	A scalable assistant librarian: hierarchical subject classification of books
+	Steven P. Crain, Jian Huang, Hongyuan Zha
+	Pages: 799-800
+	doi>10.1145/1390334.1390510
+	Full text: PDFPDF
+	
+
+In this paper, we discuss our work in progress towards a scalable hierarchical classification system for books using the Library of Congress subject hierarchy. We examine the characteristics of this domain which make the problem very challenging, and ...
+expand
+	Information retrieval on bug locations by learning co-located bug report clusters
+	Ing-Xiang Chen, Hojun Jaygarl, Cheng-Zen Yang, Ping-Jung Wu
+	Pages: 801-802
+	doi>10.1145/1390334.1390511
+	Full text: PDFPDF
+	
+
+Bug locating usually involves intensive search activities and incurs unpredictable cost of labor and time. An issue of information retrieval on bug locations is particularly addressed to facilitate identifying bugs from software code. In this paper, ...
+expand
+	Summarization of compressed text images: an experience on Indic script documents
+	Utpal Garain
+	Pages: 803-804
+	doi>10.1145/1390334.1390512
+	Full text: PDFPDF
+	
+
+Automatic summarization of JBIG2 coded textual images is discussed. Compressed images are partially decompressed to compute relevant features. The feature extraction method is free from using any character recognition module. Summary sentences are ranked. ...
+expand
+	POSTER SESSION: Posters group 4: theory and IR models
+	
+	A method for transferring retrieval scores between collections with non-overlapping vocabularies
+	Fernando D. Diaz
+	Pages: 805-806
+	doi>10.1145/1390334.1390514
+	Full text: PDFPDF
+	
+
+We present a method for projecting retrieval scores across two corpora with a shared, parallel corpus.
+expand
+	Improving relevance feedback in language modeling with score regularization
+	Fernando D. Diaz
+	Pages: 807-808
+	doi>10.1145/1390334.1390515
+	Full text: PDFPDF
+	
+
+We demonstrate that regularization can improve feedback in a language modeling framework.
+expand
+	Theoretical bounds on and empirical robustness of score regularization to different similarity measures
+	Fernando D. Diaz
+	Pages: 809-810
+	doi>10.1145/1390334.1390516
+	Full text: PDFPDF
+	
+
+We present theoretical bounds and empirical robustness of score regularization given changes in the similarity measure.
+expand
+	A study of query length
+	Avi Arampatzis, Jaap Kamps
+	Pages: 811-812
+	doi>10.1145/1390334.1390517
+	Full text: PDFPDF
+	
+
+We analyse query length, and fit power-law and Poisson distributions to four different query sets. We provide a practical model for query length, based on the truncation of a Poisson distribution for short queries and a power-law distribution for longer ...
+expand
+	Don't have a stemmer?: be un+concern+ed
+	Paul McNamee, Charles Nicholas, James Mayfield
+	Pages: 813-814
+	doi>10.1145/1390334.1390518
+	Full text: PDFPDF
+	
+
+The choice of indexing terms used to represent documents crucially determines how e ective subsequent retrieval will be. IR systems commonly use rule-based stemmers to normalize surface word forms to combat the problem of not finding documents that contain ...
+expand
+	Parsimonious concept modeling
+	Edgar Meij, Dolf Trieschnigg, Maarten de Rijke, Wessel Kraaij
+	Pages: 815-816
+	doi>10.1145/1390334.1390519
+	Full text: PDFPDF
+	
+	Parsimonious relevance models
+	Edgar Meij, Wouter Weerkamp, Krisztian Balog, Maarten de Rijke
+	Pages: 817-818
+	doi>10.1145/1390334.1390520
+	Full text: PDFPDF
+	
+
+We describe a method for applying parsimonious language models to re-estimate the term probabilities assigned by relevance models. We apply our method to six topic sets from test collections in five different genres. Our parsimonious relevance models ...
+expand
+	Author-topic evolution analysis using three-way non-negative Paratucker
+	Wei Peng, Tao Li
+	Pages: 819-820
+	doi>10.1145/1390334.1390521
+	Full text: PDFPDF
+	
+
+Analyzing three-way data has attracted a lot of attention recently due to the intrinsic rich structures in real-world datasets. The PARATUCKER model has been proposed to combine the axis capabilities of the Parafac model and the structural generality ...
+expand
+	Exploiting proximity feature in bigram language model for information retrieval
+	Seung-Hoon Na, Jungi Kim, In-Su Kang, Jong-Hyeok Lee
+	Pages: 821-822
+	doi>10.1145/1390334.1390522
+	Full text: PDFPDF
+	
+
+Language modeling approaches have been effectively dealing with the dependency among query terms based on N-gram such as bigram or trigram models. However, bigram language models suffer from adjacency-sparseness problem which means that dependent terms ...
+expand
+	Measuring concept relatedness using language models
+	Dolf Trieschnigg, Edgar Meij, Maarten de Rijke, Wessel Kraaij
+	Pages: 823-824
+	doi>10.1145/1390334.1390523
+	Full text: PDFPDF
+	
+
+Over the years, the notion of concept relatedness has attracted considerable attention. A variety of approaches, based on ontology structure, information content, association, or context have been proposed to indicate the relatedness of abstract ideas. ...
+expand
+	Query-drift prevention for robust query expansion
+	Liron Zighelnic, Oren Kurland
+	Pages: 825-826
+	doi>10.1145/1390334.1390524
+	Full text: PDFPDF
+	
+
+Pseudo-feedback-based automatic query expansion yields effective retrieval performance on average, but results in performance inferior to that of using the original query for many information needs. We address an important cause of this robustness ...
+expand
+	Adaptive label-driven scaling for latent semantic indexing
+	Xiaojun Quan, Enhong Chen, Qiming Luo, Hui Xiong
+	Pages: 827-828
+	doi>10.1145/1390334.1390525
+	Full text: PDFPDF
+	
+
+This paper targets on enhancing Latent Semantic Indexing (LSI) by exploiting category labels. Specifically, in the term-document matrix, the vector for each term either appearing in labels or semantically close to labels is scaled before performing Singular ...
+expand
+	Fixed-threshold SMO for Joint Constraint Learning Algorithm of Structural SVM
+	Changki Lee, HyunKi Kim, Myung-Gil Jang
+	Pages: 829-830
+	doi>10.1145/1390334.1390526
+	Full text: PDFPDF
+	
+
+In this paper, we describe a fixed-threshold sequential minimal optimization (FSMO) for a joint constraint learning algorithm of structural classification SVM problems. Because FSMO uses the fact that the joint constraint formulation of structural SVM ...
+expand
+	Posterior probabilistic clustering using NMF
+	Chris Ding, Tao Li, Dijun Luo, Wei Peng
+	Pages: 831-832
+	doi>10.1145/1390334.1390527
+	Full text: PDFPDF
+	
+
+We introduce the posterior probabilistic clustering (PPC), which provides a rigorous posterior probability interpretation for Nonnegative Matrix Factorization (NMF) and removes the uncertainty in clustering assignment. Furthermore, PPC is closely related ...
+expand
+	On document splitting in passage detection
+	Nazli Goharian, Saket S.R. Mengle
+	Pages: 833-834
+	doi>10.1145/1390334.1390528
+	Full text: PDFPDF
+	
+
+Passages can be hidden within a text to circumvent their disallowed transfer. Such release of compartmentalized information is of concern to all corporate and governmental organization. We explore the methodology to detect such hidden passages within ...
+expand
+	Learning with support vector machines for query-by-multiple-examples
+	Dell Zhang, Wee Sun Lee
+	Pages: 835-836
+	doi>10.1145/1390334.1390529
+	Full text: PDFPDF
+	
+
+We explore an alternative Information Retrieval paradigm called Query-By-Multiple-Examples (QBME) where the information need is described not by a set of terms but by a set of documents. Intuitive ideas for QBME include using the centroid of these documents ...
+expand
+	Question classification with semantic tree kernel
+	Yan Pan, Yong Tang, Luxin Lin, Yemin Luo
+	Pages: 837-838
+	doi>10.1145/1390334.1390530
+	Full text: PDFPDF
+	
+
+Question Classification plays an important role in most Question Answering systems. In this paper, we exploit semantic features in Support Vector Machines (SVMs) for Question Classification. We propose a semantic tree kernel to incorporate semantic similarity ...
+expand
+	Generalising multiple capture-recapture to non-uniform sample sizes
+	Paul Thomas
+	Pages: 839-840
+	doi>10.1145/1390334.1390531
+	Full text: PDFPDF
+	
+
+Algorithms in distributed information retrieval often rely on accurate knowledge of the size of a collection. The "multiple capture-recapture" method of Shokouhi et al. is one of the more reliable algorithms for determining collection size, but it relies ...
+expand
+	Predicting when browsing context is relevant to search
+	Mandar Rahurkar, Silviu Cucerzan
+	Pages: 841-842
+	doi>10.1145/1390334.1390532
+	Full text: PDFPDF
+	
+
+We investigate a representative case of sudden information need change of Web users. By analyzing search engine query logs, we show that the majority of queries submitted by users after browsing documents in the news domain are related to the most recently ...
+expand
+	POSTER SESSION: Posters group 5: structured IR, ranking, classification and filtering
+	
+	XML-aided phrase indexing for hypertext documents
+	Miro Lehtonen, Antoine Doucet
+	Pages: 843-844
+	doi>10.1145/1390334.1390534
+	Full text: PDFPDF
+	
+
+We combine techniques of XML Mining and Text Mining for the benefit of Information Retrieval. By manipulating the word sequence according to the XML structure of the marked-up text, we strengthen phrase boundaries so that they are more obvious to the ...
+expand
+	Proximity-aware scoring for XML retrieval
+	Andreas Broschart, Ralf Schenkel
+	Pages: 845-846
+	doi>10.1145/1390334.1390535
+	Full text: PDFPDF
+	
+
+Proximity-aware scoring functions lead to significant effectiveness improvements for text retrieval. For XML IR, we can sometimes enhance the retrieval quality by exploiting knowledge about the document structure combined with established text IR methods. ...
+expand
+	Locating relevant text within XML documents
+	Jaap Kamps, Marijn Koolen, Mounia Lalmas
+	Pages: 847-848
+	doi>10.1145/1390334.1390536
+	Full text: PDFPDF
+	
+
+Traditional document retrieval has shown to be a competitive approach in XML element retrieval, which is counter-intuitive since the element retrieval task requests all and only relevant document parts to be retrieved. This paper conducts a comparative ...
+expand
+	A flexible extension of XPath to improve XML querying
+	Ernesto Damiani, Stefania Marrara, Gabriella Pasi
+	Pages: 849-850
+	doi>10.1145/1390334.1390537
+	Full text: PDFPDF
+	
+
+This work presents a flexible XML selection language, FleXPath which allows the formulation of flexible constraints on both structure and content of XML documents. Some experimental results, obtained with a preliminary prototype, are described ...
+expand
+	Combining document- and paragraph-based entity ranking
+	Henning Rode, Pavel Serdyukov, Djoerd Hiemstra
+	Pages: 851-852
+	doi>10.1145/1390334.1390538
+	Full text: PDFPDF
+	
+
+We study entity ranking on the INEX entity track and propose a simple graph-based ranking approach that enables to combine scores on document and paragraph level. The combined approach improves the retrieval results not only on the INEX testset, but ...
+expand
+	Re-ranking search results using document-passage graphs
+	Michael Bendersky, Oren Kurland
+	Pages: 853-854
+	doi>10.1145/1390334.1390539
+	Full text: PDFPDF
+	
+
+We present a novel passage-based approach to re-ranking documents in an initially retrieved list so as to improve precision at top ranks. While most work on passage-based document retrieval ranks a document based on the query similarity of its ...
+expand
+	Utilizing phrase based semantic information for term dependency
+	Yang Xu, Fan Ding, Bin Wang
+	Pages: 855-856
+	doi>10.1145/1390334.1390540
+	Full text: PDFPDF
+	
+
+Previous work on term dependency has not taken into account semantic information underlying query phrases. In this work, we study the impact of utilizing phrase based concepts for term dependency. We use Wikipedia to separate important and less important ...
+expand
+	Inferring the most important types of a query: a semantic approach
+	David Vallet, Hugo Zaragoza
+	Pages: 857-858
+	doi>10.1145/1390334.1390541
+	Full text: PDFPDF
+	
+
+In this paper we present a technique for ranking the most important types or categories for a given query. Rather than trying to find the category of the query, known as query categorization, our approach seeks to find the most important types related ...
+expand
+	On multiword entity ranking in peer-to-peer search
+	Yuval Merhav, Ophir Frieder
+	Pages: 859-860
+	doi>10.1145/1390334.1390542
+	Full text: PDFPDF
+	
+
+Previously [2], we postulated the advantage of using entity extraction to implement a new Peer-to-Peer (P2P) search framework for reducing network traffic and providing a trade off between precision and recall. We now propose an entity ranking method ...
+expand
+	Site-based dynamic pruning for query processing in search engines
+	Ismail Sengor Altingovde, Engin Demir, Fazli Can, Özgür Ulusoy
+	Pages: 861-862
+	doi>10.1145/1390334.1390543
+	Full text: PDFPDF
+	
+
+Web search engines typically index and retrieve at the page level. In this study, we investigate a dynamic pruning strategy that allows the query processor to first determine the most promising websites and then proceed with the similarity computations ...
+expand
+	Exploiting MDS Projections for Cross-language IR
+	Rafael E. Banchs, Andreas Kaltenbrunner
+	Pages: 863-864
+	doi>10.1145/1390334.1390544
+	Full text: PDFPDF
+	
+
+In this paper, we describe some preliminary work on using monolingual projections of document collections for performing cross-language information retrieval tasks. The proposed methodology uses multidimensional scaling for projecting the vector-space ...
+expand
+	Local approximation of PageRank and reverse PageRank
+	Ziv Bar-Yossef, Li-Tal Mashiach
+	Pages: 865-866
+	doi>10.1145/1390334.1390545
+	Full text: PDFPDF
+	
+
+We consider the problem of approximating the PageRank of a target node using only local information provided by a link server. We prove that local approximation of PageRank is feasible if and only if the graph has low in-degree and admits fast PageRank ...
+expand
+	Improving text classification accuracy using topic modeling over an additional corpus
+	Somnath Banerjee
+	Pages: 867-868
+	doi>10.1145/1390334.1390546
+	Full text: PDFPDF
+	
+
+The World Wide Web has many document repositories that can act as valuable sources of additional data for various machine learning tasks. In this paper, we propose a method of improving text classification accuracy by using such an additional corpus ...
+expand
+	An algorithm for text categorization
+	Anestis Gkanogiannis, Theodore Kalamboukis
+	Pages: 869-870
+	doi>10.1145/1390334.1390547
+	Full text: PDFPDF
+	
+
+A novel and efficient learning algorithm is proposed for the binary linear classification problem. The algorithm is trained using the Rocchio's relevance feedback technique and builds a classifier by the intermediate hyperplane of two common tangent ...
+expand
+	Hypergraph partitioning for document clustering: a unified clique perspective
+	Tianming Hu, Hui Xiong, Wenjun Zhou, Sam Yuan Sung, Hangzai Luo
+	Pages: 871-872
+	doi>10.1145/1390334.1390548
+	Full text: PDFPDF
+	
+
+Hypergraph partitioning has been considered as a promising method to address the challenges of high dimensionality in document clustering. With documents modeled as vertices and the relationship among documents captured by the hyperedges, the goal of ...
+expand
+	Pagerank based clustering of hypertext document collections
+	Konstantin Avrachenkov, Vladimir Dobrynin, Danil Nemirovsky, Son Kim Pham, Elena Smirnova
+	Pages: 873-874
+	doi>10.1145/1390334.1390549
+	Full text: PDFPDF
+	
+
+Clustering hypertext document collection is an important task in Information Retrieval. Most clustering methods are based on document content and do not take into account the hyper-text links. Here we propose a novel PageRank based clustering (PRC) algorithm ...
+expand
+	An alignment-based pattern representation model for information extraction
+	Seokhwan Kim, Minwoo Jeong, Gary Geunbae Lee
+	Pages: 875-876
+	doi>10.1145/1390334.1390550
+	Full text: PDFPDF
+	
+	Relational distance-based collaborative filtering
+	Wei Zhang
+	Pages: 877-878
+	doi>10.1145/1390334.1390551
+	Full text: PDFPDF
+	
+
+In this paper, we present a novel hybrid recommender system called RelationalCF, which integrate content and demographic information into a collaborative filtering framework by using relational distance computation approaches without the effort ...
+expand
+	DEMONSTRATION SESSION: Demonstrations
+	
+	Minexml: bridging unstructured query with structured resources via mediated query
+	Keng Hoon Gan, Phang Keat Keong, Saravadee Sae Tan, Tang Enya Kong
+	Pages: 879-879
+	doi>10.1145/1390334.1390553
+	Full text: PDFPDF
+	
+	Clustering search results for mobile terminals
+	Michiko Yasukawa, Hidetoshi Yokoo
+	Pages: 880-880
+	doi>10.1145/1390334.1390554
+	Full text: PDFPDF
+	
+
+Mobile terminals such as cell phones are much more restricted in terms of input/output functionality and, therefore, some special techniques must be incorporated to enable them to be easily used for Web searching. Further, searching for a location name ...
+expand
+	Refining search results with facet landscapes
+	Mark Sifer, Jian Lin
+	Pages: 881-881
+	doi>10.1145/1390334.1390555
+	Full text: PDFPDF
+	
+	Ice-tea: an interactive cross-language search engine with translation enhancement
+	Dan Wu, Daqing He
+	Pages: 882-882
+	doi>10.1145/1390334.1390556
+	Full text: PDFPDF
+	
+	Cross-lingual search over 22 european languages
+	Blaž Fortuna, Jan Rupnik, Boštjan Pajntar, Marko Grobelnik, Dunja Mladenič
+	Pages: 883-883
+	doi>10.1145/1390334.1390557
+	Full text: PDFPDF
+	
+
+In this paper we present a system for cross-lingual information retrieval, which can handle tens of languages and millions of documents. Functioning of the system is demonstrated on corpus of European Legislation (22 languages, more than 400,000 documents ...
+expand
+	Social recommendations at work
+	Tom Crecelius, Mouna Kacimi, Sebastian Michel, Thomas Neumann, Josiane X. Parreira, Ralf Schenkel, Gerhard Weikum
+	Pages: 884-884
+	doi>10.1145/1390334.1390558
+	Full text: PDFPDF
+	
+
+Online communities have become popular for publishing and searching content, and also for connecting to other users. User-generated content includes, for example, personal blogs, bookmarks, and digital photos. Items can be annotated and rated by different ...
+expand
+	Bilkent news portal: a personalizable system with new event detection and tracking capabilities
+	Fazli Can, Seyit Kocberber, Ozgur Baglioglu, Suleyman Kardas, Huseyin Cagdas Ocalan, Erkan Uyar
+	Pages: 885-885
+	doi>10.1145/1390334.1390559
+	Full text: PDFPDF
+	
+	Geographic IR and visualization in time and space
+	Ray R. Larson
+	Pages: 886-886
+	doi>10.1145/1390334.1390560
+	Full text: PDFPDF
+	
+
+This demonstration will show how graphical geospatial query specifications can be used to obtain sets of georeferenced data ranked by probability of relevance, and displayed geographically and temporally in a geospatial browser with temporal support.
+expand
+	Fine-grained relevance feedback for XML retrieval
+	Hanglin Pan, Ralf Schenkel, Gerhard Weikum
+	Pages: 887-887
+	doi>10.1145/1390334.1390561
+	Full text: PDFPDF
+	
+
+This demonstration presents an XML IR system that allows users to give feedback of different granularities and types, using Dempster-Shafer theory of evidence to compute expanded and reweighted queries.
+expand
+	Dynamic visualization of music classification systems
+	Kris West, J. Stephen Downie, Xiao Hu, M. Cameron Jones
+	Pages: 888-888
+	doi>10.1145/1390334.1390562
+	Full text: PDFPDF
+	
+	From concepts to implementation and visualization: tools from a team-based approach to ir
+	Uma Murthy, Ricardo da Silva Torres, Edward A. Fox, Logambigai Venkatachalam, Seungwon Yang, Marcos A. Gonçalves
+	Pages: 889-889
+	doi>10.1145/1390334.1390563
+	Full text: PDFPDF
+	
+
+Researchers have been studying and developing teaching materials for information retrieval (IR), such as [3]. Toolkits also have been built that provide hands-on experience to students. For example, IR-Toolbox [4] is an effort to close the gap between ...
+expand
+	SESSION: Doctoral consortiums
+	
+	Exploiting XML structure to improve information retrieval in peer-to-peer systems
+	Judith Winter
+	Pages: 890-890
+	doi>10.1145/1390334.1390565
+	Full text: PDFPDF
+	
+
+With the advent of XML as a standard for representation and exchange of structured documents, a growing amount of XML-documents are being stored in Peer-to-Peer (P2P) networks. Cur¬rent research on P2P search engines proposes the use of Informa¬tion ...
+expand
+	Affective feedback: an investigation into the role of emotions in the information seeking process
+	Ioannis Arapakis
+	Pages: 891-891
+	doi>10.1145/1390334.1390566
+	Full text: PDFPDF
+	
+
+User feedback is considered to be a critical element in the information seeking process. An important aspect of the feedback cycle is relevance assessment that has progressively become a popular practice in web searching activities and interactive information ...
+expand
+	Exploring and measuring dependency trees for informationretrieval
+	Chang Liu
+	Pages: 892-892
+	doi>10.1145/1390334.1390567
+	Full text: PDFPDF
+	
+
+Natural language processing techniques are believed to hold a tremendous potential to supplement the purely quantitative methods of text information retrieval. This has led to the emergence of a large number of NLP-based IR research projects over the ...
+expand
+	The search for expertise: to the documents and beyond
+	Pavel Serdyukov
+	Pages: 893-893
+	doi>10.1145/1390334.1390568
+	Full text: PDFPDF
+	
+	Task detection for activity-based desktop search
+	Sergey Chernov
+	Pages: 894-894
+	doi>10.1145/1390334.1390569
+	Full text: PDFPDF
+	
+
+The desktop search tools provide powerful query capabilities and result presentation techniques. However, they do not take the user context into account. We propose to exploit collected information about user activities with desktop files and applications ...
+expand
+	Using a mediated query approach for matching unstructured query with structured resources
+	Keng Hoon Gan
+	Pages: 895-895
+	doi>10.1145/1390334.1390570
+	Full text: PDFPDF
+	
+	Understanding system implementation and user behavior in a collaborative information seeking environment
+	Chirag Shah
+	Pages: 896-896
+	doi>10.1145/1390334.1390571
+	Full text: PDFPDF
+	
+	Biomedical cross-language information retrieval
+	Dolf Trieschnigg
+	Pages: 897-897
+	doi>10.1145/1390334.1390572
+	Full text: PDFPDF
+	
+	Towards a combined model for search and navigation of annotated documents
+	Edgar Meij
+	Pages: 898-898
+	doi>10.1145/1390334.1390573
+	Full text: PDFPDF
+	
+	Context and linking in retrieval from personal digital archives
+	Liadh Kelly
+	Pages: 899-899
+	doi>10.1145/1390334.1390574
+	Full text: PDFPDF
+	
+
+Advances in digital capture and storage technologies mean that it is now possible to capture and store one's entire life experiences in personal digital archives. These vast personal archives (or Human Digital Memories (HDMs)) pose new challenges and ...
+expand
+	Extending language modeling techniques to models of search and browsing activity in a digital library
+	G. Craig Murray
+	Pages: 900-900
+	doi>10.1145/1390334.1390575
+	Full text: PDFPDF
+	
+
+Users searching for information in a digital library or on the WWW can be modeled as individuals moving through a semantic space by issuing queries and clicking on hyperlinks. As they go, they emit a stream of interaction data. Most of it is linguistic ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

@@ -1,0 +1,468 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 2005 international symposium on Physical design
+General Chairs: 	Patrick Groeneveld 	Eindhoven University
+Program Chairs: 	Lou Scheffer 	Cadence
+Publication of:
+· Conference
+ISPD '05 International Symposium on Physical Design 2005
+San Francisco, CA, USA — April 02 - 05, 2005
+ACM New York, NY, USA ©2005
+	
+Proceedings of the 2005 international symposium on Physical design 	Published by ACM 2005 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 209
+· Downloads (12 Months): 1,106
+· Citation Count: 387
+
+
+	
+Tools and Resources
+
+    Buy this Proceeding in Print
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Source Materials	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the 2005 international symposium on Physical design
+Table of Contents
+previousprevious proceeding |next proceeding next
+	The death of logic synthesis
+	Rajeev Madhavan
+	Pages: 1 - 1
+	doi>10.1145/1055137.1055138
+	Full text: PdfPdf
+	
+	SESSION: Routing techniques
+	R. Nijssen
+	
+	A diagnostic method for detecting and assessing the impact of physical design optimizations on routing
+	Robert Lembach, Rafael A. Arce-Nazario, Donald Eisenmenger, Cory Wood
+	Pages: 2 - 6
+	doi>10.1145/1055137.1055141
+	Full text: PdfPdf
+	
+
+In this paper, we describe a method to independently audit a physical design to identify inefficiencies detrimental to high quality routing. The method provides an exhaustive review of netlist structures having many possible equivalent solutions, such ...
+expand
+	An efficient tile-based ECO router with routing graph reduction and enhanced global routing flow
+	Jin-Yih Li, Yih-Lang Li
+	Pages: 7 - 13
+	doi>10.1145/1055137.1055142
+	Full text: PdfPdf
+	
+
+Engineering Change Order (ECO) routing is frequently requested in the later design stage for the purpose of delay and noise optimization. ECO routing is complicated by huge existing obstacles and the requests for various design rules. Tile-based ...
+expand
+	Routing of analog busses with parasitic symmetry
+	Lars Schreiner, Markus Olbrich, Erich Barke, Volker Meyer zu Bexten
+	Pages: 14 - 19
+	doi>10.1145/1055137.1055143
+	Full text: PdfPdf
+	
+
+This paper presents a new methodology for routing net bundles like busses and paired nets maintaining parasitic symmetry. It is mainly devoted to analog signal interconnect and can also be used for critical digital busses or clock signals. The PARasitic ...
+expand
+	Coupling aware timing optimization and antenna avoidance in layer assignment
+	Di Wu, Jiang Hu, Rabi Mahapatra
+	Pages: 20 - 27
+	doi>10.1145/1055137.1055144
+	Full text: PdfPdf
+	
+
+The sustained progress of VLSI technology has altered the landscape of routing which is a major physical design stage. For timing driven routings, traditional approaches which consider only wire self capacitance become inadequate since the wire delay ...
+expand
+	Fast and accurate rectilinear steiner minimal tree algorithm for VLSI design
+	Chris Chu, Yiu-Chung Wong
+	Pages: 28 - 35
+	doi>10.1145/1055137.1055145
+	Full text: PdfPdf
+	
+
+In this paper, we present a very fast and accurate rectilinear Steiner minimal tree (RSMT) algorithm called FLUTE. The algorithm is an extension of the wirelength estimation approach by fast lookup table [1]. The main contribution of this paper is a ...
+expand
+	A global routing method for 2-layer ball grid array packages
+	Yukiko Kubo, Atsushi Takahashi
+	Pages: 36 - 43
+	doi>10.1145/1055137.1055146
+	Full text: PdfPdf
+	
+
+In current VLSI circuits, there can be hundreds of required I/O pins. BGA(Ball Grid Array) packaging is commonly used to realize the huge number of connections between VLSI and PCB. In this paper, we propose a global routing method for two-layer BGA ...
+expand
+	SESSION: Geometric programming and clocks
+	A. B. Kahng
+	
+	Geometric programming for circuit optimization
+	Stephen P. Boyd, Seung Jean Kim
+	Pages: 44 - 46
+	doi>10.1145/1055137.1055148
+	Full text: PdfPdf
+	
+
+This tutorial concerns a method for solving a variety of circuit sizing and optimization problems, which is based on formulating the problem as a geometric program (GP), or a generalized geometric program (GGP). These nonlinear, constrained optimization ...
+expand
+	Delay insertion method in clock skew scheduling
+	Baris Taskin, Ivan S. Kourtev
+	Pages: 47 - 54
+	doi>10.1145/1055137.1055149
+	Full text: PdfPdf
+	
+
+This paper describes a delay insertion method that improves the efficiency of clock skew scheduling. Clock skew scheduling is performed on synchronous circuits in order to improve the performance of a circuit; most often by permitting the circuit to ...
+expand
+	Improved algorithms for link-based non-tree clock networks for skew variability reduction
+	Anand Rajaram, David Z. Pan, Jiang Hu
+	Pages: 55 - 62
+	doi>10.1145/1055137.1055150
+	Full text: PdfPdf
+	
+
+In the nanometer VLSI technology, the variation effects like manufacturing variation, power supply noise, temperature etc. become very significant. As one of the most vital nets in any synchronous VLSI chip, the Clock Distribution Network (CDN) is especially ...
+expand
+	SESSION: Power, buffering and open source
+	C. Chen
+	
+	Effects of on-chip inductance on power distribution grid
+	Atsushi Muramatsu, Masanori Hashimoto, Hidetoshi Onodera
+	Pages: 63 - 69
+	doi>10.1145/1055137.1055152
+	Full text: PdfPdf
+	
+
+With increase of clock frequency, on-chip wire inductance starts to play an important role in power/ground distribution analysis, although it has not been considered so far. We perform a case study work that evaluates relation between decoupling capacitance ...
+expand
+	A fast algorithm for power grid design
+	Jaskirat Singh, Sachin S. Sapatnekar
+	Pages: 70 - 77
+	doi>10.1145/1055137.1055153
+	Full text: PdfPdf
+	
+
+This paper presents an efficient heuristic algorithm to design a power distribution network of a chip by employing a successive partitioning and grid refinement scheme. In an iterative procedure, the chip area is recursively bipartitioned, and the wire ...
+expand
+	Simultaneous buffer insertion and wire sizing considering systematic CMP variation and random leff variation
+	Lei He, Andrew Kahng, King Ho Tam, Jinjun Xiong
+	Pages: 78 - 85
+	doi>10.1145/1055137.1055154
+	Full text: PdfPdf
+	
+
+This paper studies the impacts of Chemical Mechanical Polishing (CMP)-induced systematic variation and random channel length (Leff) variation of transistors on interconnect design. We first construct a table look-up based interconnect RC parasitic ...
+expand
+	An efficient surface-based low-power buffer insertion algorithm
+	Rajeev R. Rao, David Blaauw, Dennis Sylvester, Charles J. Alpert, Sani Nassif
+	Pages: 86 - 93
+	doi>10.1145/1055137.1055155
+	Full text: PdfPdf
+	
+
+Buffer insertion is an important technique used to achieve timing closure in high performance VLSI designs. As the number of buffers in ASIC designs has increased with process scaling, the power con-sumption of buffers has become a critical concern. ...
+expand
+	Early research experience with OpenAccess gear: an open source development environment for physical design
+	Zhong Xiu, David A. Papa, Philip Chong, Christoph Albrecht, Andreas Kuehlmann, Rob A. Rutenbar, Igor L. Markov
+	Pages: 94 - 100
+	doi>10.1145/1055137.1055156
+	Full text: PdfPdf
+	
+
+Physical design EDA research in academia has historically been based on infrastructure developed independently by individual contributors. This has led to fragmentation in the community, where interaction, data interchange and comparison of results between ...
+expand
+	A new era for CAD
+	Gary Smith
+	Pages: 101 - 101
+	doi>10.1145/1055137.1055139
+	Full text: PdfPdf
+	
+
+It would not be inaccurate to call the 1990s the Cream Puff era of semiconductors. Plain old vanilla CMOS ruled the land. Other contenders, such as GAAS and Silicon on Insulator, played minor roles in the market place. The RTL Methodology drove EDA tool ...
+expand
+	SESSION: Keynote and tutorial on the history and future of physical design
+	D. Kirkpatrick
+	
+	Challenges of analog/mixed-signal SoC design and verification
+	Jue-Hsien Chern
+	Pages: 102 - 102
+	doi>10.1145/1055137.1055158
+	Full text: PdfPdf
+	
+	Tutorial on DFM for physical design
+	Andrzej Strojwas
+	Pages: 103 - 103
+	doi>10.1145/1055137.1055159
+	Full text: PdfPdf
+	
+	SESSION: Floorplanning
+	J. Cong
+	
+	Modern floorplanning based on fast simulated annealing
+	Tung-Chieh Chen, Yao-Wen Chang
+	Pages: 104 - 112
+	doi>10.1145/1055137.1055161
+	Full text: PdfPdf
+	
+
+Unlike classical floorplanning that usually handles only block packing to minimize silicon area, modern VLSI floorplanning typically needs to pack blocks within a fixed die (outline) and additionally considers the packing with block positions and interconnect ...
+expand
+	Multi-bend bus driven floorplanning
+	Jill H. Y. Law, Evangeline F. Y. Young
+	Pages: 113 - 120
+	doi>10.1145/1055137.1055162
+	Full text: PdfPdf
+	
+
+In this paper, the problem of bus-driven floorplanning is addressed. Given a set of blocks and the bus specification (the width of each bus and the blocks that the bus need to go through), we will generate a floorplan solution such that all the buses ...
+expand
+	Floorplan assisted data rate enhancement through wire pipelining: a real assessment
+	Mario R. Casu, Luca Macchiarulo
+	Pages: 121 - 128
+	doi>10.1145/1055137.1055163
+	Full text: PdfPdf
+	
+
+The recent shift towards wire pipelining (WP) mandated by technological factors has attracted attention towards latency-controlled floorplanning. However, no systematic study has been published so far that takes into account block and logic delay limitations. ...
+expand
+	Are floorplan representations important in digital design?
+	Hayward H. Chan, Saurabh N. Adya, Igor L. Markov
+	Pages: 129 - 136
+	doi>10.1145/1055137.1055164
+	Full text: PdfPdf
+	
+
+Research in floorplanning and block-packing has generated a variety of data structures to represent spatial configurations of circuit modules. Much of this work focuses on the geometry of module shapes and seeks tighter packing, as well as improvements ...
+expand
+	SESSION: Technology mapping
+	X. Yang
+	
+	An efficient technology mapping algorithm targeting routing congestion under delay constraints
+	Rupesh S. Shelar, Prashant Saxena, Xinning Wang, Sachin S. Sapatnekar
+	Pages: 137 - 144
+	doi>10.1145/1055137.1055166
+	Full text: PdfPdf
+	
+
+Routing congestion has become a serious concern in today's VLSI designs. In this paper, we propose a technology mapping algorithm that minimizes routing congestion under delay constraints. The algorithm employs a dynamic programming framework in the ...
+expand
+	Wire length prediction-based technology mapping and fanout optimization
+	Qinghua Liu, Malgorzata Marek-Sadowska
+	Pages: 145 - 151
+	doi>10.1145/1055137.1055167
+	Full text: PdfPdf
+	
+
+In modern VLSI systems early wire optimization is essential in achieving required performance, routability, and power. The cost functions optimized during traditional logic synthesis do not capture interconnect effects, which may lead to sub-optimal ...
+expand
+	Mapping algorithm for large-scale field programmable analog array
+	Faik Baskaya, Sasank Reddy, Sung Kyu Lim, Tyson Hall, David V. Anderson
+	Pages: 152 - 158
+	doi>10.1145/1055137.1055168
+	Full text: PdfPdf
+	
+
+Modern advances in reconfigurable analog technologies are allowing field-programmable analog arrays (FPAAs) to dramatically grow in size, flexibility, and usefulness. With these advances, analog circuits and systems can be programmable, reconfigurable, ...
+expand
+	SESSION: Advanced techniques and technologies
+	M. Marek-Sadowska
+	
+	Fast interval-valued statistical interconnect modeling and reduction
+	James D. Ma, Rob A. Rutenbar
+	Pages: 159 - 166
+	doi>10.1145/1055137.1055170
+	Full text: PdfPdf
+	
+
+Correlated interval representations of range uncertainty offer an attractive solution for approximating computations on statistical quantities. The key idea is to use finite intervals to approximate the essential mass of a pdf as it moves through numerical ...
+expand
+	Thermal via placement in 3D ICs
+	Brent Goplen, Sachin Sapatnekar
+	Pages: 167 - 174
+	doi>10.1145/1055137.1055171
+	Full text: PdfPdf
+	
+
+As thermal problems become more evident, new physical design paradigms and tools are needed to alleviate them. Incorporating thermal vias into integrated circuits (ICs) is a promising way of mitigating thermal issues by lowering the thermal resistance ...
+expand
+	Technology migration technique for designs with strong RET-driven layout restrictions
+	Xin Yuan, Kevin W. McCullen, Fook-Luen Heng, Robert F. Walker, Jason Hibbeler, Robert J. Allen, Rani R. Narayan
+	Pages: 175 - 182
+	doi>10.1145/1055137.1055172
+	Full text: PdfPdf
+	
+
+Restrictive design rules (RDRs) have been introduced as a simplified layout optimization method to better enable resolution enhancement techniques in ultra-deep submicron designs (16). In this paper, we study the technology migration problem for designs ...
+expand
+	SESSION: Physical synthesis
+	P. H. Madden
+	
+	Insights and perspectives on physical synthesis
+	Shankar Krishnamoorthy
+	Pages: 183 - 183
+	doi>10.1145/1055137.1055174
+	Full text: PdfPdf
+	
+
+The advent of 90nm and 65nm technology nodes caused design teams to face a concurrent "3-on-1" assault of massive designs, significant increase in functional requirements, and substantial process modeling complexities. While existing solutions have done ...
+expand
+	Physical design tools for hierarchy
+	Paul Villarrubia
+	Pages: 184 - 184
+	doi>10.1145/1055137.1055175
+	Full text: PdfPdf
+	
+
+There are a number of factors that motivate the use of hierarchical physical design approaches for ASIC and mircroprocessor designs. While microprocessor designs have traditionally been done using hierarchy, the trend in ASIC designs is more recent. ...
+expand
+	SESSION: Placement
+	I. Markov
+	
+	Multilevel generalized force-directed method for circuit placement
+	Tony Chan, Jason Cong, Kenton Sze
+	Pages: 185 - 192
+	doi>10.1145/1055137.1055177
+	Full text: PdfPdf
+	
+
+Automatic circuit placement has received renewed interest recently given the rapid increase of circuit complexity, increase of interconnect delay, and potential sub-optimality of existing placement algorithms [13]. In this paper we present a generalized ...
+expand
+	Unified quadratic programming approach for mixed mode placement
+	Bo Yao, Hongyu Chen, Chung-Kuan Cheng, Nan-Chi Chou, Lung-Tien Liu, Peter Suaris
+	Pages: 193 - 199
+	doi>10.1145/1055137.1055178
+	Full text: PdfPdf
+	
+
+A complete placement system, UPlace, for mixed mode designs is presented, which consists of a force-directed global placement, and a zone-refinement based detailed placement. For global placement, a unified objective function capturing both wire length ...
+expand
+	A semi-persistent clustering technique for VLSI circuit placement
+	Charles Alpert, Andrew Kahng, Gi-Joon Nam, Sherief Reda, Paul Villarrubia
+	Pages: 200 - 207
+	doi>10.1145/1055137.1055179
+	Full text: PdfPdf
+	
+
+Placement is a critical component of today's physical synthesis flow with tremendous impact on the final performance of VLSI designs. However, it accounts for a significant portion of the over-all physical synthesis runtime. With complexity and netlist ...
+expand
+	Evaluation of placer suboptimality via zero-change netlist transformations
+	Andrew B. Kahng, Sherief Reda
+	Pages: 208 - 215
+	doi>10.1145/1055137.1055180
+	Full text: PdfPdf
+	
+
+In this paper we introduce the concept of zero-change transformations to quantify the suboptimality of existing placers. Given a netlist and its placement from a placer, we formally define a class of netlist transformations that produce different netlists ...
+expand
+	SESSION: 2005 ISPD placement contest
+	G.-J. Nam
+	
+	The ISPD2005 placement contest and benchmark suite
+	Gi-Joon Nam, Charles J. Alpert, Paul Villarrubia, Bruce Winter, Mehmet Yildiz
+	Pages: 216 - 220
+	doi>10.1145/1055137.1055182
+	Full text: PdfPdf
+	
+
+Without the MCNC and ISPD98 benchmarks, it would arguably not have been possible for the academic community to make consistent advances in physical design over the last decade. While still being used extensively in placement and floorplanning research, ...
+expand
+	FastPlace: an analytical placer for mixed-mode designs
+	Natarajan Viswanathan, Min Pan, Chris Chong-Nuen Chu
+	Pages: 221 - 223
+	doi>10.1145/1055137.1055183
+	Full text: PdfPdf
+	
+
+Modern designs often contain a combination of a large number of standard cells and macro blocks. Traditionally large macro blocks are handled at the floorplanning level, after which their positions are fixed. The standard cells are then handled during ...
+expand
+	Capo: robust and scalable open-source min-cut floorplacer
+	Jarrod A. Roy, David A. Papa, Saurabh N. Adya, Hayward H. Chan, Aaron N. Ng, James F. Lu, Igor L. Markov
+	Pages: 224 - 226
+	doi>10.1145/1055137.1055184
+	Full text: PdfPdf
+	
+
+In this invited note we describe Capo, an open-source software tool for cell placement, mixed-size placement and floorplanning with emphasis on routability. Capo is among the fastest academic placers and scales to millions of movable objects. This note ...
+expand
+	mPL6: a robust multilevel mixed-size placement engine
+	Tony F. Chan, Jason Cong, Michalis Romesis, Joseph R. Shinnerl, Kenton Sze, Min Xie
+	Pages: 227 - 229
+	doi>10.1145/1055137.1055185
+	Full text: PdfPdf
+	
+
+The most recent version of the mPL multilevel placement algorithm, mPL6, is reviewed. This version is derived from the mPL5 placer (ISPD05) and the Patoma floorplanner (ASPDAC05). It is also augmented by new techniques for detailed placement. As a result, ...
+expand
+	Recursive bisection placement: feng shui 5.0 implementation details
+	Ameya R. Agnihotri, Satoshi Ono, Patrick H. Madden
+	Pages: 230 - 232
+	doi>10.1145/1055137.1055186
+	Full text: PdfPdf
+	
+
+In this paper, we summarize circuit placement techniques and algorithms developed by the BLAC CAD research group; these have been integrated into our recursive bisection based placement tool feng shui. We also briefly describe current research ...
+expand
+	APlace: a general analytic placement framework
+	Andrew B. Kahng, Sherief Reda, Qinke Wang
+	Pages: 233 - 235
+	doi>10.1145/1055137.1055187
+	Full text: PdfPdf
+	
+
+We streamline and extend APlace, the general analytic placement engine based on ideas of Naylor et al. [7] and described in [3, 4, 5]. Previous work explored the adaptability of APlace to multiple contexts with good quality of results. For example, the ...
+expand
+	NTUplace: a ratio partitioning based placement algorithm for large-scale mixed-size designs
+	Tung-Chieh Chen, Tien-Chang Hsu, Zhe-Wei Jiang, Yao-Wen Chang
+	Pages: 236 - 238
+	doi>10.1145/1055137.1055188
+	Full text: PdfPdf
+	
+
+In this paper, we present a hierarchical ratio partitioning based placement algorithm for large-scale mixed-size designs. The placement algorithm consists of three steps: global placement, legalization,and detailed placement; it works in a hierarchical ...
+expand
+	mFAR: fixed-points-addition-based VLSI placement algorithm
+	Bo Hu, Yue Zeng, Malgorzata Marek-Sadowska
+	Pages: 239 - 241
+	doi>10.1145/1055137.1055189
+	Full text: PdfPdf
+	
+
+A placement problem can be formulated as a quadratic program with non-linear constraints. Those constraints make the problem hard. Omitting the constraints and solving the unconstraint problem results in placement with substantial cell overlaps. To remove ...
+expand
+	Kraftwerk: a versatile placement approach
+	Bernd Obermeier, Hans Ranke, Frank M. Johannes
+	Pages: 242 - 244
+	doi>10.1145/1055137.1055190
+	Full text: PdfPdf
+	
+
+During the ispd05 placement contest, we employed the force-directed approach Kraftwerk for global placement complemented by the network-flow based final placer DOMINO. These powerful and exible tools for standard cell placement can cope with various ...
+expand
+	Dragon2005: large-scale mixed-size placement tool
+	Taraneh Taghavi, Xiaojian Yang, Bo-Kyung choi
+	Pages: 245 - 247
+	doi>10.1145/1055137.1055191
+	Full text: PdfPdf
+	
+
+In this paper, we develop a mixed-size placement tool, Dragon2005, to solve large scale placement problems effectively. A top-down hierarchical approach based on min-cut partitioning and simulated annealing is used to place very large SoC-style designs ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

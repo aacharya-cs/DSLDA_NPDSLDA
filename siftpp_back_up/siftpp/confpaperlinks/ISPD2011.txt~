@@ -1,0 +1,437 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 2011 international symposium on Physical design
+General Chairs: 	Yao-Wen Chang 	National Taiwan University
+Program Chairs: 	Jiang Hu 	Texas A&M University
+Publication of:
+· Conference
+ISPD'11 International Symposium on Physical Design
+Santa Barbara, CA, USA — March 27 - 30, 2011
+ACM New York, NY, USA ©2011
+	
+Proceedings of the 2011 international symposium on Physical design 	Published by ACM 2011 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 246
+· Downloads (12 Months): 2,490
+· Citation Count: 11
+
+
+	
+Tools and Resources
+
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to tabbed view
+
+Abstract | Source Materials | Authors | References | Cited By | Index Terms | Publication | Reviews | Comments | Table of Contents
+top of pageABSTRACT
+
+It is our great pleasure to welcome you to the 2011 International Symposium on Physical Design (ISPD) held at Hotel Mar Monte, Santa Barbara, California. Evolving from a series of intermittent ACM/SIGDA Physical Design Workshops, ISPD has established itself as the premier forum for exchanging ideas and results on VLSI physical design. In the past, ISPD showcased seminal papers that advanced the state-of-the-art of physical design technology. In addition, the celebrated ISPD contests inspired numerous research studies that led to technical breakthroughs.
+
+This year's symposium continues its dedication to high-quality despite its small scale. Papers submitted from all over the world are carefully reviewed by highly experienced technical program committee members and external reviewers. After a rigorous selection procedure that involves vigorous discussions, only a small number of papers are accepted. These papers cover various aspects of physical design, from traditional placement and routing to issues related to the most leading-edge technology, such as variability and manufacturability. These papers are complemented by invited talks by prestigious speakers.
+
+The symposium begins with a keynote speech by Professor Massoud Pedram from University of Southern California. Professor Pedram is a highly accomplished and world-renowned scholar on electronic design automation as well as a former general chair of ISPD. His speech addresses power-efficiency of modern and future VLSI designs. A feature event in this year is the commemorative session for Professor Ernest Kuh, a groundbreaking researcher/educator on physical design and a Phil Kaufman Award recipient. We are delighted to have a talk by Professor Kuh and retrospections on his accomplishments by his former students and associate. Tuesday includes invited talks on 3D ICs, placement and DFM routing, given by speakers from Intel, Tezzaron, SpringSoft and Mentor Graphics. The physical design contest result is announced in the afternoon of Tuesday. This year's contest is a revisit to placement, a core physical design problem, with particular emphasis on routability, which is a growing challenge to sub-65nm technology chip designs. Along with the contest, a new set of industrial benchmarks are released and will facilitate scientific evaluations of related research results. Finally, Wednesday features invited talks on design for manufacturing by renowned academic scholar and industrial expert.
+
+top of pageSOURCE MATERIALS
+FRONT MATTER
+PDFPDF  (title page, copyright, welcome, contents, organization, sponsors)
+BACK MATTER
+PDFPDF  (author index)
+
+top of pageAUTHORS
+
+General Chairs
+
+
+    Author image not provided 	 Yao-Wen Chang
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1993-2011
+    Publication count	140
+    Citation Count	835
+    Available for download	113
+    Downloads (6 Weeks)	332
+    Downloads (12 Months)	2,213
+    View colleagues of Yao-Wen Chang
+Program Chairs
+
+
+    Author image not provided 	 Jiang Hu
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1999-2011
+    Publication count	96
+    Citation Count	387
+    Available for download	69
+    Downloads (6 Weeks)	216
+    Downloads (12 Months)	1,359
+    View colleagues of Jiang Hu
+
+top of pageREFERENCES
+References are not available
+top of pageCITED BY
+Citings are not available
+top of pageINDEX TERMS
+Index Terms are not available
+top of pagePUBLICATION
+Title 	ISPD'11 International Symposium on Physical Design
+	Santa Barbara, CA, USA — March 27 - 30, 2011
+Pages	184
+Sponsor 	SIGDA ACM Special Interest Group on Design Automation
+Publisher	ACM New York, NY, USA
+ISBN	978-1-4503-0550-1
+Order Number	478115
+Conference 	ISPDInternational Symposium on Physical Design ISPD logo
+Paper Acceptance Rate 18 of 43 submissions, 42%
+Overall Acceptance Rate 148 of 430 submissions, 34%
+	
+Year 	Submitted 	Accepted 	Rate
+ISPD '06 	72 	25 	35%
+ISPD '07 	65 	22 	34%
+ISPD '08 	60 	20 	33%
+ISPD '09 	60 	21 	35%
+ISPD '10 	70 	22 	31%
+ISPD '11 	43 	18 	42%
+ISPD '12 	60 	20 	33%
+Overall 	430 	148 	34%
+top of pageREVIEWS
+
+Reviews are not available for this item
+Computing Reviews logo
+
+    Access critical reviews of computing literature.
+    Become a reviewer for Computing Reviews
+
+top of pageCOMMENTS
+
+Be the first to comment To Post a comment please sign in or create a free Web account
+top of pageTable of Contents
+Proceedings of the 2011 international symposium on Physical design
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Keynote address
+	Yao-Wen Chang
+	
+	Robust design of power-efficient VLSI circuits
+	Massoud Pedram
+	Pages: 1-2
+	doi>10.1145/1960397.1960399
+	Full text: PDFPDF
+	
+
+Digital information management is the key enabler for the unparalleled rise in productivity and efficiency gains experienced by the world economies. Computing and information processing systems are important elements of the world's digital infrastructure ...
+expand
+	SESSION: Commemoration for Professor Ernest Kuh
+	Prashant Saxena
+	
+	Professor Ernest Kuh's talk
+	Ernest Kuh
+	Pages: 3-4
+	doi>10.1145/1960397.1960401
+	Full text: PDFPDF
+	
+
+I very much appreciate the honor given to me at this conference and wish to thank the organizers for their kindness. According to the preliminary program the invited talks include placement, routing, clock distribution, etc by well-known authors. Their ...
+expand
+	Placement and beyond in honor of Ernest S. Kuh
+	Chung-Kuan Cheng
+	Pages: 5-8
+	doi>10.1145/1960397.1960402
+	Full text: PDFPDF
+	
+
+Professor Kuh is a pioneer and giant in physical layout. In this talk, we will describe his influence in placement. His pioneering work from interval graph for one dimensional gate assignment, BBL (Building-Block Layout System for Custom Chip IC Design) ...
+expand
+	From academic ideas to practical physical design tools
+	Ren-Song Tsay
+	Pages: 9-12
+	doi>10.1145/1960397.1960403
+	Full text: PDFPDF
+	
+
+In this paper, the author discusses how ideas from academic research are adapted into making physical design tools that are both successful and practical. Excluding recent developments, the author uses his past experiences to review the thinking process ...
+expand
+	On old and new routing problems
+	Malgorzata Marek-Sadowska
+	Pages: 13-20
+	doi>10.1145/1960397.1960404
+	Full text: PDFPDF
+	
+
+The objective of this paper is to commemorate Professor Ernest S. Kuh's contributions to EDA and to bring attention to his research group's many accomplishments in physical design area. The focus is on routing and our goal is to trace the effects that ...
+expand
+	SESSION: Clock network synthesis and routing
+	Ganesh Venkataraman
+	
+	Grid-to-ports clock routing for high performance microprocessor designs
+	Haitong Tian, Wai-Chung Tang, Evangeline F.Y. Young, C.N. Sze
+	Pages: 21-28
+	doi>10.1145/1960397.1960406
+	Full text: PDFPDF
+	
+
+Clock distribution in VLSI designs is of crucial importance and it is also a major source of power dissipation of a system. For today's high performance microprocessors, clock signals are usually distributed by a global clock grid covering the whole ...
+expand
+	Cross link insertion for improving tolerance to variations in clock network synthesis
+	Tarun Mittal, Cheng-Kok Koh
+	Pages: 29-36
+	doi>10.1145/1960397.1960407
+	Full text: PDFPDF
+	
+
+Cross links have been used to reduce skew variations in clock trees. In earlier studies cross links are inserted between the sinks of DC-connected trees. In this paper, we propose a link insertion scheme that inserts cross links between internal nodes ...
+expand
+	Synthesis of low power clock trees for handling power-supply variations
+	Shashank Bujimalla, Cheng-Kok Koh
+	Pages: 37-44
+	doi>10.1145/1960397.1960408
+	Full text: PDFPDF
+	
+
+The International Symposium on Physical Design (ISPD) 2010 contest presents the challenge of synthesizing clock distribution networks that are tolerant to severe power-supply and wire-width variations. In particular, a robust clock network should satisfy ...
+expand
+	SESSION: Routing
+	Igor Markov
+	
+	RegularRoute: an efficient detailed router with regular routing patterns
+	Yanheng Zhang, Chris Chu
+	Pages: 45-52
+	doi>10.1145/1960397.1960410
+	Full text: PDFPDF
+	
+
+Detailed routing is an important phase of realizing exact routing paths for optimizing various design objectives and satisfying increasingly complicated design rules. In this paper, we propose RegularRoute, a fast detailed router trying to use regular ...
+expand
+	An enhanced global router with consideration of general layer directives
+	Tsung-Hsien Lee, Yen-Jung Chang, Ting-Chi Wang
+	Pages: 53-60
+	doi>10.1145/1960397.1960411
+	Full text: PDFPDF
+	
+
+In this paper we study a global routing problem that considers not only overflow and wirelength but also layer directives. A layer directive is often given to a timing-critical net for meeting target performance, and it specifies a range of consecutive ...
+expand
+	Obstacle-aware length-matching bus routing
+	Jin-Tai Yan, Zhi-Wei Chen
+	Pages: 61-68
+	doi>10.1145/1960397.1960412
+	Full text: PDFPDF
+	
+
+As clock frequency increases, signal propagation delay on PCBs is requested to meet the timing specification with very high accuracy. Generally speaking, the net length in a single layer can estimate the routing delay in a single-layer net. In this paper, ...
+expand
+	Co-optimization of droplet routing and pin assignment in disposable digital microfluidic biochips
+	Yang Zhao, Krishnendu Chakrabarty
+	Pages: 69-76
+	doi>10.1145/1960397.1960413
+	Full text: PDFPDF
+	
+
+The number of independent input pins used to control the electrodes in digital microfluidic "biochips" is an important cost-driver in the emerging market place, especially for disposable PCB devices that are being developed for clinical and point-of-care ...
+expand
+	SESSION: Physical design for 3D ICs
+	Azadeh Davoodi
+	
+	3DICs for tera-scale computing: a case study
+	Tanay Karnik, Dinesh Somasekhar, Shekhar Borkar
+	Pages: 77-78
+	doi>10.1145/1960397.1960415
+	Full text: PDFPDF
+	
+
+TSV-based 3D chip stacking and integration technology was proposed more than twelve years ago. Since then the concept has gained tremendous traction with significant advances in the technology and planned system prototypes. The IP portfolio in 3D process, ...
+expand
+	Advances in 3D integrated circuits
+	Robert Patti
+	Pages: 79-80
+	doi>10.1145/1960397.1960416
+	Full text: PDFPDF
+	
+
+In this paper, we describe the developments over the past several years in field of 3D integrated circuits. 3D integration offers far greater improvements than traditional semiconductor scaling can provide today. Considered part of the "More Than Moore" ...
+expand
+	Assembling 2D blocks into 3D chips
+	Johann Knechtel, Igor L. Markov, Jens Lienig
+	Pages: 81-88
+	doi>10.1145/1960397.1960417
+	Full text: PDFPDF
+	
+
+Three-dimensional ICs promise to significantly extend the scale of system integration and facilitate new-generation electronics. However, progress in commercial 3D ICs has been slow. In addition to technology-related difficulties, industry experts cite ...
+expand
+	SESSION: Placement and floorplanning
+	Inki Hong
+	
+	Automated placement for custom digital designs
+	Tung-Chieh Chen
+	Pages: 89-90
+	doi>10.1145/1960397.1960419
+	Full text: PDFPDF
+	
+
+Custom layouts of digital blocks are often used in mixed-signal designs in order to meet the critical performance requirements. Unlike traditional standard-cell based digital placement, custom-cell based digital placement may need to consider special ...
+expand
+	Quantifying academic placer performance on custom designs
+	Samuel I. Ward, David A. Papa, Zhuo Li, Cliff N. Sze, Charles J. Alpert, Earl Swartzlander
+	Pages: 91-98
+	doi>10.1145/1960397.1960420
+	Full text: PDFPDF
+	
+
+There have been significant prior efforts to quantify performance of academic placement algorithms, primarily by creating artificial test cases that attempt to mimic real designs, such as the PEKO benchmark containing known optimas [5]. The idea was ...
+expand
+	Regularity-constrained floorplanning for multi-core processors
+	Xi Chen, Jiang Hu, Ning Xu
+	Pages: 99-106
+	doi>10.1145/1960397.1960421
+	Full text: PDFPDF
+	
+
+Multi-core technology becomes a new engine that drives performance growth for both microprocessors and embedded computing. This trend asks chip floorplanners to consider regularity constraint since identical processing/memory cores are preferred to form ...
+expand
+	SESSION: Register clustering and placement
+	Salim Chowdhury
+	
+	Power-driven flip-flop merging and relocation
+	Shao-Huan Wang, Yu-Yi Liang, Tien-Yu Kuo, Wai-Kei Mak
+	Pages: 107-114
+	doi>10.1145/1960397.1960423
+	Full text: PDFPDF
+	
+
+We propose a power-driven flip-flop merging and relocation approach that can be applied after conventional timing-driven placement and before clock network synthesis. It targets to reduce the clock network size and thus the clock power consumption, as ...
+expand
+	INTEGRA: fast multi-bit flip-flop clustering for clock power saving based on interval graphs
+	Iris Hui-Ru Jiang, Chih-Long Chang, Yu-Ming Yang, Evan Y.-W. Tsai, Lancer S.-F. Chen
+	Pages: 115-122
+	doi>10.1145/1960397.1960424
+	Full text: PDFPDF
+	
+
+Clock power is the major contributor to dynamic power for modern IC design. A conventional single-bit flip-flop cell uses an inverter chain with a high drive strength to drive the clock signal. Clustering such cells and forming a multi-bit flip-flop ...
+expand
+	Obstacle-aware clock-tree shaping during placement
+	Dong-Jin Lee, Igor L. Markov
+	Pages: 123-130
+	doi>10.1145/1960397.1960425
+	Full text: PDFPDF
+	
+
+Traditional IC design flows optimize clock networks before signal-net routing and are limited by the quality of register placement. Existing publications also reflect this bias and focus mostly on clock routing. The few known techniques for register ...
+expand
+	Timing slack aware incremental register placement with non-uniform grid generation for clock mesh synthesis
+	Jianchao Lu, Xiaomi Mao, Baris Taskin
+	Pages: 131-138
+	doi>10.1145/1960397.1960426
+	Full text: PDFPDF
+	
+
+A novel clock mesh network synthesis approach is proposed in this paper which generates an improved mesh size with registers placed incrementally considering the timing slack on the data paths and the non-uniform grid wire placement. The primary objective ...
+expand
+	SESSION: DFM routing and routability-driven placement contest
+	Natarajan Viswanathan
+	
+	Impact of manufacturing on routing methodology at 32/22 nm
+	Alexander Volkov
+	Pages: 139-140
+	doi>10.1145/1960397.1960428
+	Full text: PDFPDF
+	
+
+As the IC industry accelerates adoption of the 45 nm and 32 nm process nodes, designers are facing significant new challenges in meeting quality and manufacturability targets. The new challenges of nanometer routing---including very large (1B transistor) ...
+expand
+	The ISPD-2011 routability-driven placement contest and benchmark suite
+	Natarajan Viswanathan, Charles J. Alpert, Cliff Sze, Zhuo Li, Gi-Joon Nam, Jarrod A. Roy
+	Pages: 141-146
+	doi>10.1145/1960397.1960429
+	Full text: PDFPDF
+	
+
+The last few years have seen significant advances in the quality of placement algorithms. This is in part due to the availability of large, challenging testcases by way of the ISPD-2005 [17] and ISPD-2006 [16] placement contests. These contests primarily ...
+expand
+	SESSION: Design for manufacturing
+	Martin D.F. Wong
+	
+	Vertical slit transistor based integrated circuits (veSTICs): feasibility study
+	Wojciech Maly
+	Pages: 147-148
+	doi>10.1145/1960397.1960431
+	Full text: PDFPDF
+	
+
+In this presentation feasibility of Vertical Slit Transistor Based Integrated Circuits (VeSTICs) is evaluated. VeSTICs paradigm has been conceived as a response to the rapidly growing complexity of the traditional CMOS-based approach to challenges posed ...
+expand
+	Litho and design: moore close than ever
+	Vivek Singh
+	Pages: 149-150
+	doi>10.1145/1960397.1960432
+	Full text: PDFPDF
+	
+
+As the gap between the lithography wavelength and critical feature size has continued to increase, the semiconductor industry has had to adjust. Previously, scaling along Moore's Law had relied on improvement in lithography equipment, occasionally by ...
+expand
+	E-beam lithography stencil planning and optimization with overlapped characters
+	Kun Yuan, David Z. Pan
+	Pages: 151-158
+	doi>10.1145/1960397.1960433
+	Full text: PDFPDF
+	
+
+Electronic Beam Lithography (EBL) is an emerging maskless nanolithography technology which directly writes the desired circuit pattern into wafer using e-beam, thus it overcomes the diffraction limit of light in current optical lithography system. However, ...
+expand
+	SESSION: Circuit optimization and modeling
+	Yiyu Shi
+	
+	More realistic power grid verification based on hierarchical current and power constraints
+	Chung-Kuan Cheng, Peng Du, Andrew B. Kahng, Grantham K.H. Pang, Yuanzhe Wang, Ngai Wong
+	Pages: 159-166
+	doi>10.1145/1960397.1960435
+	Full text: PDFPDF
+	
+
+Vectorless power grid verification algorithms, by solving linear programming (LP) problems under current constraints, enable worst-case voltage drop predictions at an early design stage. However, worst-case current patterns obtained by many existing ...
+expand
+	Lagrangian relaxation for gate implementation selection
+	Yi-Le Huang, Jiang Hu, Weiping Shi
+	Pages: 167-174
+	doi>10.1145/1960397.1960436
+	Full text: PDFPDF
+	
+
+In a typical circuit optimization flow, one essential decision is to select the implementation for each gate according to a cell library. An implementation implies specific gate size, threshold voltage, etc. The selection normally needs to handle multiple ...
+expand
+	Stochastic analog circuit behavior modeling by point estimation method
+	Fang Gong, Hao Yu, Lei He
+	Pages: 175-182
+	doi>10.1145/1960397.1960437
+	Full text: PDFPDF
+	
+
+Stochastic device parameter variations have dramatically increased beyond the scale of 65nm and can significantly lead to large mismatch for analog circuits. To estimate unknown analog circuit behavior in performance space under the given stochastic ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

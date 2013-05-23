@@ -1,0 +1,499 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 2006 international symposium on Physical design
+General Chair: 	Lou Scheffer 	Cadence
+Publication of:
+· Conference
+ISPD '06 International Symposium on Physical Design 2006
+San Jose, CA, USA — April 02 - 05, 2006
+ACM New York, NY, USA ©2006
+	
+Proceedings of the 2006 international symposium on Physical design 	Published by ACM 2006 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 165
+· Downloads (12 Months): 882
+· Citation Count: 238
+
+
+	
+Tools and Resources
+
+    Buy this Proceeding in Print
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to tabbed view
+
+Abstract | Source Materials | Authors | References | Cited By | Index Terms | Publication | Reviews | Comments | Table of Contents
+top of pageABSTRACT
+
+We welcome you to the 2006 International Symposium on Physical Design (ISPD). This is the 10th ISPD meeting; in the past decade, the symposium has evolved from a series of intermittent ACM/SIGDA Physical Design Workshops into the premier venue for this type of research. Paper selection for ISPD is always competitive, drawing in the best work from around the world. The scope of the symposium includes many aspects of physical layout design; the proceedings feature papers ranging from high-level exploration of solution spaces down to low level electrical analysis. Variability of device behavior, and the different ways in which circuits can fail, have become key concerns in physical design. Traditional topics such as placement and routing are also well represented.Over the years, ISPD has been home to a number of groundbreaking papers, and this year looks to be no exception. There were 72 papers submitted, of which only 25 were accepted. These excellent papers, and the talks by both the authors and the invited speakers, should make for an interesting and enjoyable program. In addition to the papers themselves, slides for most of the talks are also available through the symposium web site: http://www.ispd.cc.The symposium begins with a keynote talk by Ted Vucurevich, from Cadence. The talk presents a forward looking view of the challenges and opportunities in commercial computer-aided design. Monday also features invited talks on failure mechanisms for leading edge designs -- design tools must now account for these issues if we are to move forward with Moore's law. Tuesday features invited talks on how industry vendors are handling extremely large designs; additionally, we have the ISPD Placement Contest on this day, which is in some respects the academic response to large scale design. This is the second year for the placement contest; the first year was a rousing success, and we expect that this year will be even more interesting. The nine teams from last year are back for another round of competition; they are joined by two new teams. Wednesday features talks on modern clocking methods in industry designs, and concludes with talks on one of the fundamental areas of physical design -- placement.
+
+top of pageSOURCE MATERIALS
+FRONT MATTER
+PDFPDF  (title page, copyright, welcome, contents, organization, sponsors
+BACK MATTER
+PDFPDF  (placement context papers, author index)
+
+top of pageAUTHORS
+
+General Chair
+
+
+    Author image not provided 	 Lou Scheffer
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1979-2011
+    Publication count	24
+    Citation Count	71
+    Available for download	17
+    Downloads (6 Weeks)	35
+    Downloads (12 Months)	214
+    View colleagues of Lou Scheffer
+
+top of pageREFERENCES
+References are not available
+top of pageCITED BY
+Citings are not available
+top of pageINDEX TERMS
+Index Terms are not available
+top of pagePUBLICATION
+Title 	ISPD '06 International Symposium on Physical Design 2006
+	San Jose, CA, USA — April 02 - 05, 2006
+Pages	222
+Sponsors 	SIGDA ACM Special Interest Group on Design Automation
+	ACM Association for Computing Machinery
+Publisher	ACM New York, NY, USA
+ISBN	1-59593-299-2
+Order Number	477065
+Conference 	ISPDInternational Symposium on Physical Design ISPD logo
+Paper Acceptance Rate 25 of 72 submissions, 35%
+Overall Acceptance Rate 148 of 430 submissions, 34%
+	
+Year 	Submitted 	Accepted 	Rate
+ISPD '06 	72 	25 	35%
+ISPD '07 	65 	22 	34%
+ISPD '08 	60 	20 	33%
+ISPD '09 	60 	21 	35%
+ISPD '10 	70 	22 	31%
+ISPD '11 	43 	18 	42%
+ISPD '12 	60 	20 	33%
+Overall 	430 	148 	34%
+top of pageREVIEWS
+
+Reviews are not available for this item
+Computing Reviews logo
+
+    Access critical reviews of computing literature.
+    Become a reviewer for Computing Reviews
+
+top of pageCOMMENTS
+
+Be the first to comment To Post a comment please sign in or create a free Web account
+top of pageTable of Contents
+Proceedings of the 2006 international symposium on Physical design
+Table of Contents
+previousprevious proceeding |next proceeding next
+	Commercial CAD: challenges and opportunities
+	Ted Vucurevich
+	Pages: 1 - 1
+	doi>10.1145/1123008.1123009
+	Full text: PdfPdf
+	
+
+This talk will discuss the current state of commercial CAD, and speculate upon how it might evolve in both the near and longer term. In the near term, commercial CAD will concentrate on the familiar problems of the VLSI field - completing larger designs, ...
+expand
+	SESSION: Timing and variability
+	Janet M. Wang
+	
+	Robust extraction of spatial correlation
+	Jinjun Xiong, Vladimir Zolotov, Lei He
+	Pages: 2 - 9
+	doi>10.1145/1123008.1123011
+	Full text: PdfPdf
+	
+
+Increased variability of process parameters and recent progress in statistical static timing analysis make extraction of statistical characteristics of process variation and spatial correlation an important yet challenging problem in modern chip designs. ...
+expand
+	Timing analysis in presence of supply voltage and temperature variations
+	B. Lasbouygues, R. Wilson, N. Azemard, P. Maurine
+	Pages: 10 - 16
+	doi>10.1145/1123008.1123012
+	Full text: PdfPdf
+	
+
+In the nanometer era, the physical verification of CMOS digital circuit becomes a complex task. Designers must account of numerous new factors that impose a drastic change in validation and physical verification methods. One of these major changes in ...
+expand
+	Probabilistic evaluation of solutions in variability-driven optimization
+	Azadeh Davoodi, Ankur Srivastava
+	Pages: 17 - 24
+	doi>10.1145/1123008.1123013
+	Full text: PdfPdf
+	
+
+VLSI design optimization requires evaluation of different solutions, to compare superiority of one over the other. Typically, a solution is superior if it has a better associated timing and cost. In the presence of fabrication variability, the timing ...
+expand
+	SAMSON: a generalized second-order arnoldi method for reducing multiple source linear network with susceptance
+	Yiyu Shi, Hao Yu, Lei He
+	Pages: 25 - 32
+	doi>10.1145/1123008.1123014
+	Full text: PdfPdf
+	
+
+Power integrity analysis of in-package and on-chip power supply needs to consider a large number of ports and handle magnetic coupling that is better represented by susceptance. The existing moment matching methods are not able to accurately model both ...
+expand
+	Non-gaussian statistical parameter modeling for SSTA with confidence interval analysis
+	Lizheng Zhang, Jun Shao, Charlie Chung-Ping Chen
+	Pages: 33 - 38
+	doi>10.1145/1123008.1123015
+	Full text: PdfPdf
+	
+
+Most of the existing statistical static timing analysis (SSTA) algorithms assume that the process parameters of have been given with 100% confidence level or zero errors and are preferable Gaussian distributions. These assumptions are actually quite ...
+expand
+	SESSION: Failure is not an option
+	Andrew B. Kahng
+	
+	introduction to electromigration-aware physical design
+	Jens Lienig
+	Pages: 39 - 46
+	doi>10.1145/1123008.1123017
+	Full text: PdfPdf
+	
+
+Electromigration is increasingly relevant to the physical design of electronic circuits. It is caused by excessive current density stress in the interconnect. The ongoing reduction of circuit feature sizes has aggravated the problem over the last couple ...
+expand
+	IC failure mechanisms yesterday, today, tomorrow: implications from test to DFM
+	Anne Gattiker
+	Pages: 47 - 47
+	doi>10.1145/1123008.1123018
+	Full text: PdfPdf
+	
+
+The failure mechanisms that occur on manufactured ICs affect yield or, worse, shipped product quality level. The difference between the two is in whether or not detection occurs at test. In this talk, we look at the types of failure mechanisms that occur, ...
+expand
+	SESSION: Routing
+	Hardy K.-S. Leung
+	
+	An O(nlogn) algorithm for obstacle-avoiding routing tree construction in the λ-geometry plane
+	Zhe Feng, Yu Hu, Tong Jing, Xianlong Hong, Xiaodong Hu, Guiying Yan
+	Pages: 48 - 55
+	doi>10.1145/1123008.1123020
+	Full text: PdfPdf
+	
+
+Routing is one of the important phases in VLSI/ULSI physical design. The obstacle-avoiding rectilinear Steiner minimal tree (OARSMT) construction is an essential part of routing since macro cells, IP blocks, and pre-routed nets are often regarded as ...
+expand
+	An optimal jumper insertion algorithm for antenna avoidance/fixing on general routing trees with obstacles
+	Bor-Yiing Su, Yao-Wen Chang, Jiang Hu
+	Pages: 56 - 63
+	doi>10.1145/1123008.1123021
+	Full text: PdfPdf
+	
+
+We study in this paper the problem of jumper insertion on general routing (Steiner/spanning) trees with obstacles for antenna avoidance/fixing at the routing and/or post-layout stages. We formulate the jumper insertion for antenna avoidance/fixing as ...
+expand
+	NEMO: a new implicit connection graph-based gridless router with multi-layer planes and pseudo-tile propagation
+	Hsin-Yu Chen, Zhi-Da Lin
+	Pages: 64 - 71
+	doi>10.1145/1123008.1123022
+	Full text: PdfPdf
+	
+
+This study presents a new multilayer implicit connection graph-based gridless router called NEMO. Unlike the first implicit connection graph-based router that embeds all routing layers onto a routing plane, NEMO constructs a routing plane for ...
+expand
+	Prediction and reduction of routing congestion
+	Mehdi Saeedi, Morteza Saheb Zamani, Ali Jahanian
+	Pages: 72 - 77
+	doi>10.1145/1123008.1123023
+	Full text: PdfPdf
+	
+
+Routing congestion is a critical issue in deep submicron design technology and it becomes one of the most challenging problems in today's design flow. This paper presents a true probabilistic congestion prediction method based on router's intelligence ...
+expand
+	Seeing the forest and the trees: Steiner wirelength optimization in placemen
+	Jarrod A. Roy, James F. Lu, Igor L. Markov
+	Pages: 78 - 85
+	doi>10.1145/1123008.1123024
+	Full text: PdfPdf
+	
+
+We show how to optimize Steiner-tree Wirelength (StWL) in global and detail placement without a significant runtime penalty, making the use of Half-Perimeter Wirelength unnecessary. Given that StWL correlates with Routed Wirelength (rWL) much better ...
+expand
+	SESSION: Power and noise
+	Charlie Chen
+	
+	Floorplan and power/ground network co-synthesis for fast design convergence
+	Chen-Wei Liu, Yao-Wen Chang
+	Pages: 86 - 93
+	doi>10.1145/1123008.1123026
+	Full text: PdfPdf
+	
+
+As technology advances, the metal width decreases while the global wire length increases. This trend makes the resistance of the power wire increase substantially. Further, the threshold voltage scales nonlinearly, raising the ratio of the threshold ...
+expand
+	Noise driven in-package decoupling capacitor optimization for power integrity
+	Jun Chen, Lei He
+	Pages: 94 - 101
+	doi>10.1145/1123008.1123027
+	Full text: PdfPdf
+	
+
+The existing decoupling capacitance optimization approaches meet constraints on input impedance for package. In this paper, we show that using impedance as constraints leads to large overdesign and then develop a noise driven optimization algorithm for ...
+expand
+	Efficient decoupling capacitor planning via convex programming methods
+	Andrew B. Kahng, Bao Liu, Sheldon X.-D. Tan
+	Pages: 102 - 107
+	doi>10.1145/1123008.1123028
+	Full text: PdfPdf
+	
+
+Achieving P/G supply signal integrity is crucial to success of nanometer VLSI designs. Existing P/G network optimization techniques are dominated by sensitivity based approaches. In this paper, we propose two novel convex programming based approaches ...
+expand
+	High accurate pattern based precondition method for extremely large power/ground grid analysis
+	Jin Shi, Yici Cai, Sheldon X.-D. Tan, Xianlong Hong
+	Pages: 108 - 113
+	doi>10.1145/1123008.1123029
+	Full text: PdfPdf
+	
+
+In this paper, we propose more accurate power/ground network circuit model, which consider both via and ground bounce effects to improve the performance estimation accuracy of on-chip power distribution networks. On top of this, a new precondition iterative ...
+expand
+	Optimal partitioned fault-tolerant bus layout for reducing power in nanometer designs
+	Shanq-Jang Ruan, Edwin Naroska, Chun-Chih Chen
+	Pages: 114 - 119
+	doi>10.1145/1123008.1123030
+	Full text: PdfPdf
+	
+
+As technology scales down to nanometer dimensions, coupling capacitances between adjacent bus wires grow rapidly, and have a significant impact on power consumption and signal integrity of an integrated circuit. As buses are major components of a design, ...
+expand
+	SESSION: Optimized interconnect
+	Prashant Saxena
+	
+	Efficient generation of short and fast repeater tree topologies
+	Christoph Bartoschek, Stephan Held, Dieter Rautenbach, Jens Vygen
+	Pages: 120 - 127
+	doi>10.1145/1123008.1123032
+	Full text: PdfPdf
+	
+
+We present a very fast algorithm for topology generation of repeater trees. Based on the criticality of the individual sinks, which is estimated taking their required signal arrival times and their distance from the root of the repeater tree into account, ...
+expand
+	Fast buffer insertion considering process variations
+	Jinjun Xiong, Lei He
+	Pages: 128 - 135
+	doi>10.1145/1123008.1123033
+	Full text: PdfPdf
+	
+
+Advanced process technologies call for a proactive consideration of process variations in design to ensure high parametric timing yield. Despite of its popular use in almost any high performance IC designs nowadays, however, buffer insertion has not ...
+expand
+	Placement and routing optimization in the brain
+	Beth L. Chen, Dmitri B. Chklovskii
+	Pages: 136 - 141
+	doi>10.1145/1123008.1123034
+	Full text: PdfPdf
+	
+
+Given that brains and computers are similar in many respects, can vast experience in computer engineering help us understand brain design? Here we apply tools developed for physical design of computer chips to understand the layout of the nervous system. ...
+expand
+	SESSION: Chip-level timing and wiring
+	Patrick McGuinness
+	
+	Integrated retiming and simultaneous Vdd/Vth scaling for total power minimization
+	Mongkol Ekpanyapong, Sung Kyu Lim
+	Pages: 142 - 148
+	doi>10.1145/1123008.1123036
+	Full text: PdfPdf
+	
+
+The integration of retiming and simultaneous supply/threshold voltage scaling has a potential to enable more rigorous total power reduction. However, such integration is a highly complex task due to its enormous solution space. This paper presents the ...
+expand
+	Statistical clock tree routing for robustness to process variations
+	Uday Padmanabhan, Janet M. Wang, Jiang Hu
+	Pages: 149 - 156
+	doi>10.1145/1123008.1123037
+	Full text: PdfPdf
+	
+
+Advances in VLSI technology make clock skew more susceptible to process variations. Notwithstanding efficient zero skew routing algorithms, clock skew still limits post-manufacturing performance. Process-induced skew presents an ever-growing limitation ...
+expand
+	Variation tolerant buffered clock network synthesis with cross links
+	Anand Rajaram, David Z. Pan
+	Pages: 157 - 164
+	doi>10.1145/1123008.1123038
+	Full text: PdfPdf
+	
+
+Clock network synthesis is a key step in the ultra deep sub-micron (UDSM) VLSI Designs. Most existing clock network synthesis algorithms are designed for nominal operating condition, which are insufficient to address the growing problem of process, voltage ...
+expand
+	SESSION: Big designs and the ISPD06 placement contest
+	Bill Halpin
+	
+	Chip assembly: a new paradigm in hierarchical physical design
+	P. V. Srinivas
+	Pages: 165 - 165
+	doi>10.1145/1123008.1123040
+	Full text: PdfPdf
+	
+
+Design teams designing modern multi-million gate systems-on-chip (SoCs) are being adversely affected by the lack of desired chip assembly solutions in addition to the challenges due to variability in nanometer technologies. Abstractions, bad pin assignments, ...
+expand
+	Physical design challenges for multi-million gate SoC's: an STMicroelectronics perspective
+	F. Rémond
+	Pages: 166 - 166
+	doi>10.1145/1123008.1123041
+	Full text: PdfPdf
+	
+
+This talk addresses current and future physical design methodology evolution for large complex System-on-Chip like Set Top Box devices within STMicroelectronics. Set Top Boxes have become one of the fastest growing segments of home electronics market. ...
+expand
+	ISPD 2006 Placement Contest: Benchmark Suite and Results
+	Gi-Joon Nam
+	Pages: 167 - 167
+	doi>10.1145/1123008.1123042
+	Full text: PdfPdf
+	
+
+This talk introduces the new suite of ISPD 2006 placement benchmarks. These circuits are all directly derived from real industrial ASIC designs and represent today's mixed-size physical design constraints in terms of size and complexity. Compared to ...
+expand
+	SESSION: Industrial clocking
+	David Pan
+	
+	Clock tree design challenges for robust and low power design
+	Arjun Rajagopal
+	Pages: 168 - 168
+	doi>10.1145/1123008.1123044
+	Full text: PdfPdf
+	
+
+The clock distribution network generates and distributes clock signals across the design and it is critical for performance, while consuming a significant portion of the total power. Uncertainties in the clock network delays can reduce performance, yield ...
+expand
+	Clockless IC design using handshake technology
+	Ad Peeters
+	Pages: 169 - 169
+	doi>10.1145/1123008.1123045
+	Full text: PdfPdf
+	
+
+Handshake Solutions has developed a complete design flow for the design of clockless circuits based on Handshake Technology, which is an extremely disciplined asynchronous circuit style, based on distributed handshake control rather than a centralized ...
+expand
+	SESSION: Placement
+	Bill Swartz
+	
+	Solving hard instances of floorplacement
+	Aaron N. Ng, Igor L. Markov, Rajat Aggarwal, Venky Ramachandran
+	Pages: 170 - 177
+	doi>10.1145/1123008.1123047
+	Full text: PdfPdf
+	
+
+Physical Design of modern systems on chip is extremely challenging. Such digital integrated circuits often contain tens of millions of logic gates, intellectual property blocks, embedded memories and custom RTL blocks. At current and future technology ...
+expand
+	Integrating dynamic thermal via planning with 3D floorplanning algorithm
+	Zhuoyuan Li, Xianlong Hong, Qiang Zhou, Shan Zeng, Jinian Bian, Hannah Yang, Vijay Pitchumani, Chung-Kuan Cheng
+	Pages: 178 - 185
+	doi>10.1145/1123008.1123048
+	Full text: PdfPdf
+	
+
+Incorporating thermal vias into 3D ICs is a promising way to reduce circuit temperature by lowering down the thermal resistances between device layers. In this paper, we integrate dynamic thermal via planning into 3D floorplanning process. Our 3D floorplanning ...
+expand
+	Effective linear programming based placement methods
+	Sherief Reda, Amit Chowdhary
+	Pages: 186 - 191
+	doi>10.1145/1123008.1123049
+	Full text: PdfPdf
+	
+
+Linear programming (LP) based methods are attractive for solving the placement problem because of their ability to model Half-Perimeter Wirelength (HPWL) and timing. However, it has been technically difficult to model overlaps in LP. This difficulty ...
+expand
+	Improved method of cell placement with symmetry constraints for analog IC layout design
+	Shinichi Kouda, Chikaaki Kodama, Kunihiro Fujiyoshi
+	Pages: 192 - 199
+	doi>10.1145/1123008.1123050
+	Full text: PdfPdf
+	
+
+Recently, it is often required in high performance analog IC design that some cells are placed symmetrically to horizontal or vertical axis. Balasa et al. proposed a method of obtaining the closest placement satisfying the given symmetry constraints ...
+expand
+	Net cluster: a net-reduction based clustering preprocessing algorithm
+	Jianhua Li, Laleh Behjat
+	Pages: 200 - 205
+	doi>10.1145/1123008.1123051
+	Full text: PdfPdf
+	
+
+The complexity and size of digital circuits has grown exponentially and today's circuits can contain millions of logic elements. Clustering algorithms have become popular due to their ability to reduce the circuit sizes so that circuit layout can be ...
+expand
+	SESSION: Placement contest papers
+	
+	Satisfying whitespace requirements in top-down placement
+	Jarrod A. Roy, David A. Papa, Aaron N. Ng, Igor L. Markov
+	Pages: 206 - 208
+	doi>10.1145/1123008.1123053
+	Full text: PdfPdf
+	
+
+In this invited note we outline several algorithms and features appearing in Capo 10, free open-source software for congestion-driven standard cell placement, mixed-size placement and floorplanning. Capo scales on par with industry placers and has been ...
+expand
+	Dragon2006: blockage-aware congestion-controlling mixed-size placer
+	Taraneh Taghavi, Xiaojian Yang, Bo-Kyung choi, Maogang Wang, Majid Sarrafzadeh
+	Pages: 209 - 211
+	doi>10.1145/1123008.1123054
+	Full text: PdfPdf
+	
+
+In this paper, we develop a mixed-size placement tool, Dragon2006, to solve large scale placement problems effectively. A top-down hierarchical approach based on min-cut partitioning and simulated annealing is used to place very large SoC-style designs ...
+expand
+	mPL6: enhanced multilevel mixed-size placement
+	Tony F. Chan, Jason Cong, Joseph R Shinnerl, Kenton Sze, Min Xie
+	Pages: 212 - 214
+	doi>10.1145/1123008.1123055
+	Full text: PdfPdf
+	
+
+The multilevel placement package mPL6 combines improved implementations of the global placer mPL5 (ISPD05) and the XDP legalizer and detailed placer (ASPDAC06). It consistently produces robust, high-quality solutions to difficult instances of mixed-size ...
+expand
+	NTUplace2: a hybrid placer using partitioning and analytical techniques
+	Zhe-Wei Jiang, Tung-Chieh Cheny, Tien-Chang Hsuy, Hsin-Chen Chenz, Yao-Wen Changyz
+	Pages: 215 - 217
+	doi>10.1145/1123008.1123056
+	Full text: PdfPdf
+	
+
+In this paper, we present a hybrid placer, called NTUplace2, which integrates both the partitioning and the analytical (quadratic programming) placement techniques for large-scale mixed-size designs. Unlike most existing placers that minimize wirelength ...
+expand
+	A faster implementation of APlace
+	Andrew B. Kahng, Qinke Wang
+	Pages: 218 - 220
+	doi>10.1145/1123008.1123057
+	Full text: PdfPdf
+	
+
+APlace is a high quality, scalable analytical placer. This paper describes our recent efforts to improve APlace for speed and scalability. We explore various wirelength and density approximation functions. We speed up the placer using a hybrid usage ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

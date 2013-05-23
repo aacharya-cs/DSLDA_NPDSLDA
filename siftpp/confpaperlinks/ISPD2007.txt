@@ -1,0 +1,368 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 2007 international symposium on Physical design
+General Chairs: 	Patrick H. Madden 	SUNY Binghamton
+Program Chairs: 	David Z. Pan 	UT Austin
+Publication of:
+· Conference
+ISPD '07 International Symposium on Physical Design
+Austin, TX, USA — March 18 - 21, 2007
+ACM New York, NY, USA ©2007
+	
+	Published by ACM 2007 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 124
+· Downloads (12 Months): 872
+· Citation Count: 92
+
+
+	
+Tools and Resources
+
+    Buy this Proceeding in Print
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Source Materials	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the 2007 international symposium on Physical design
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Keynote talk
+	P. Madden
+	
+	Cell architecture: key physical design features and methodology
+	Jim Kahle
+	Pages: 1 - 1
+	doi>10.1145/1231996.1231998
+	Full text: PdfPdf
+	
+
+The Cell Broadband Engine™ is a high performance supercomputer on a chip. It is a 64-bit Power Processor compatible to Power Architecture applications and OS. This heterogeneous multi-core architecture sets a new performance standard for games ...
+expand
+	SESSION: Multicore and DFM
+	H. Onodera
+	
+	An 8-core, 64-thread, 64-bit power efficient sparc soc (niagara2)
+	Tim Johnson, Umesh Nawathe
+	Pages: 2 - 2
+	doi>10.1145/1231996.1232000
+	Full text: PdfPdf
+	
+
+This talk will provide an overview of the Niagara 2 architecture, its physical implementation, and the challenges faced with designing a 65nm SoC microprocessor. Details will also be shared with respect to Niagara 2's clocking scheme and unique design ...
+expand
+	Dummy fill density analysis with coupling constraints
+	Hua Xiang, Liang Deng, Ruchir Puri, Kai-Yuan Chao, Martin D.F. Wong
+	Pages: 3 - 10
+	doi>10.1145/1231996.1232001
+	Full text: PdfPdf
+	
+
+In modern VLSI manufacturing processes, dummy fills are widely used to adjust local metal density in order to improve layout uniformity and yield optimization. However, the introduction of a large amount of dummy features also affects wire electrical ...
+expand
+	Variability-driven formulation for simultaneous gate sizing and post-silicon tunability allocation
+	Vishal Khandelwal, Ankur Srivastava
+	Pages: 11 - 18
+	doi>10.1145/1231996.1232002
+	Full text: PdfPdf
+	
+
+Process variations cause design performance to become unpredictable in deep sub-micron technologies. Several statistical techniques (timing analysis, gate-sizing) have been proposed to counter these variations during design optimization. Another interesting ...
+expand
+	Is your layout density verification exact?: a fast exact algorithm for density calculation
+	Hua Xiang, Kai-Yuan Chao, Ruchir Puri, Martin D.F. Wong
+	Pages: 19 - 26
+	doi>10.1145/1231996.1232003
+	Full text: PdfPdf
+	
+
+As the device shapes keep shrinking, the designs are more sensitive to manufacturing processes. In order to improve performance predictability and yield, mask layout uniformity/evenness is highly desired, and it is usually measured by the feature density ...
+expand
+	Pattern sensitive placement for manufacturability
+	Shiyan Hu, Jiang Hu
+	Pages: 27 - 34
+	doi>10.1145/1231996.1232004
+	Full text: PdfPdf
+	
+
+When VLSI technology scales toward 45nm, the lithography wavelength stays at 193nm. This large gap results in strong refractive effects in lithography. Consequently, it is a huge challenge to reliably print layout features on wafers and ...
+expand
+	SESSION: Circuit analysis and optimization
+	R. Panda
+	
+	Worst-case delay analysis considering the variability of transistors and interconnects
+	Takayuki Fukuoka, Akira Tsuchiya, Hidetoshi Onodera
+	Pages: 35 - 42
+	doi>10.1145/1231996.1232006
+	Full text: PdfPdf
+	
+
+This paper discusses the condition that gives the statistical worst-casedelay of a stage under the fluctuation of interconnect structure and transistor performance. The delay of a stage is a function of many parameters such as drive strength of the gate, ...
+expand
+	Accurate power grid analysis with behavioral transistor network modeling
+	Anand Ramalingam, Giri V. Devarayanadurg, David Z. Pan
+	Pages: 43 - 50
+	doi>10.1145/1231996.1232007
+	Full text: PdfPdf
+	
+
+In this paper, we propose fast and efficient techniques to analyze the power grid with accurate modeling of the transistor network. The solution techniques currently available for power grid analysis rely on a model of representing the transistor network ...
+expand
+	Empire: an efficient and compact multiple-parameterized model order reduction method
+	Yiyu Shi, Lei He
+	Pages: 51 - 58
+	doi>10.1145/1231996.1232008
+	Full text: PdfPdf
+	
+
+In physical design and optimization for VLSI/ULSI, parameterized model order reduction can be used to handle large design objectives. In this paper we propose an efficient yet accurate parameterized model order reduction method EMPIRE for physical design ...
+expand
+	Repeater insertion for concurrent setup and hold time violations with power-delay trade-off
+	Salim Chowdhury, John Lillis
+	Pages: 59 - 66
+	doi>10.1145/1231996.1232009
+	Full text: PdfPdf
+	
+
+The traditional repeater insertion in an integrated circuit (IC) is aimed at eliminating cycle (setup) time violations at the worst process corner. Subsequently, special measures are adopted to remedy hold-time violations identified at the best process ...
+expand
+	Circuit optimization for leakage power reduction using multi-threshold voltages for high performance microprocessors
+	Jeegar Tilak Shah, Marius Evers, Jeff Trull, Alper Halbutogullari
+	Pages: 67 - 74
+	doi>10.1145/1231996.1232010
+	Full text: PdfPdf
+	
+
+A common concern as we scale down transistor threshold voltages while migrating to new process technologies is the requirement to achieve timing closure within a given power budget over various process corners. High performance microprocessors are designed ...
+expand
+	PANEL SESSION: Panel
+	
+	Rules vs tools: what's the right way to address IC manufacturing complexity?
+	Lou Scheffer, Lars Liebmann, Riko Rakojcic, David White
+	Pages: 75 - 76
+	doi>10.1145/1231996.1232012
+	Full text: PdfPdf
+	
+
+Modern IC manufacturing processes are enormously complex. There are at least two possible approaches for dealing with this. On the one hand, we can come up with a relatively small number of specific structures that are known to work. This simplifies ...
+expand
+	SESSION: Future interconnects
+	Y.-W. Chang
+	
+	Carbon nanotube interconnects
+	Azad Naeemi, James D. Meindl
+	Pages: 77 - 84
+	doi>10.1145/1231996.1232014
+	Full text: PdfPdf
+	
+
+Based on physical models, circuit models are presented for SWNTs, SWNT-bundles and MWNTs. These models can be used for circuit simulations and compact modeling. It is demonstrated that by customizing CNT interconnects at the local, semiglobal and global ...
+expand
+	Optical interconnects: a viable solution for interconnection beyond 10 gbit/sec
+	Ray T. Chen
+	Pages: 85 - 86
+	doi>10.1145/1231996.1232015
+	Full text: PdfPdf
+	
+
+The speed and complexity of integrated circuits are increasing rapidly as integrated circuit technology advances from very-large-scale integrated (VLSI) circuits to ultra-large-scale integrated (ULSI) circuits. As the number of devices per chip, the ...
+expand
+	SESSION: Placement
+	C. Chu
+	
+	X-architecture placement based on effective wire models
+	Tung-Chieh Chen, Yi-Lin Chuang, Yao-Wen Chang
+	Pages: 87 - 94
+	doi>10.1145/1231996.1232017
+	Full text: PdfPdf
+	
+
+In this paper, we derive the X-half-perimeter wirelength (XHPWL) model for X-architecture placement and explore the effects of three different wire models on X-architecture placement, including the Manhattan-half-perimeter wirelength (MHPWL) model, the ...
+expand
+	A morphing approach to address placement stability
+	Philip Chong, Christian Szegedy
+	Pages: 95 - 102
+	doi>10.1145/1231996.1232018
+	Full text: PdfPdf
+	
+
+Traditionally, research in global placement has focused on relatively few simple metrics, such as pure wirelength or routability estimates. However, in the real world today, designs are driven by not-so-simple issues such as timing and crosstalk. The ...
+expand
+	Mixed-size placement with fixed macrocells using grid-warping
+	Zhong Xiu, Rob A. Rutenbar
+	Pages: 103 - 110
+	doi>10.1145/1231996.1232019
+	Full text: PdfPdf
+	
+
+Grid-warping is a placement strategy based on a novel physical analogy: rather than move the gates to optimize their location, it elastically deforms a model of the 2-D chip surface on which the gates have been coarsely placed via a standard quadratic ...
+expand
+	An effective clustering algorithm for mixed-size placement
+	Jianhua Li, Laleh Behjat, Jie Huang
+	Pages: 111 - 118
+	doi>10.1145/1231996.1232020
+	Full text: PdfPdf
+	
+
+Placement is a crucial step for the VLSI circuit physical design and it has a deep impact on the overall circuit performance. Numerous clustering techniques have been proposed and applied to placement to deal with the increasing circuit sizes and complexity. ...
+expand
+	A stable fixed-outline floorplanning method
+	Song Chen, Takeshi Yoshimura
+	Pages: 119 - 126
+	doi>10.1145/1231996.1232021
+	Full text: PdfPdf
+	
+
+In this paper, we propose a stable fixed-outline floorplanning method(IARFP). An elaborated method for perturbing solutions, Insertion after Remove(IAR), is devised for the simulated annealing. The IAR operation uses the technique of enumerating positions ...
+expand
+	SESSION: Routing
+	J. Lienig
+	
+	Efficient obstacle-avoiding rectilinear steiner tree construction
+	Chung-Wei Lin, Szu-Yu Chen, Chi-Feng Li, Yao-Wen Chang, Chia-Lin Yang
+	Pages: 127 - 134
+	doi>10.1145/1231996.1232023
+	Full text: PdfPdf
+	
+
+Given a set of pins and a set of obstacles on a plane, an obstacle-avoiding rectilinear Steiner minimal tree (OARSMT) connects these pins, possibly through some additional points (called Steiner points), and avoids running through any obstacle to construct ...
+expand
+	Maze routing steiner trees with effective critical sink optimization
+	Renato F. Hentschke, Jaganathan Narasimham, Marcelo O. Johann, Ricardo L. Reis
+	Pages: 135 - 142
+	doi>10.1145/1231996.1232024
+	Full text: PdfPdf
+	
+
+This paper addresses the problem of generating good topologies of rectilinear Steiner trees using path search algorithms. We present AMAZE, a fast maze router based algorithm that employs selected techniques to build optimized steiner trees. A biasing ...
+expand
+	Semi-detailed bus routing with variation reduction
+	Fan Mo, Robert K. Brayton
+	Pages: 143 - 150
+	doi>10.1145/1231996.1232025
+	Full text: PdfPdf
+	
+
+A bus routing algorithm is presented which not only minimizes wire length but also selects the bits in the bus to avoid twisting and conflicts. The resulting bus routes are regular, thus having strong immunity to variations. Minimization for wire length/delay ...
+expand
+	Solving hard instances of FPGA routing with a congestion-optimal restrained-norm path search space
+	Keith So
+	Pages: 151 - 158
+	doi>10.1145/1231996.1232026
+	Full text: PdfPdf
+	
+
+The negotiated congestion mechanism forms the basis of most published FPGA routers today, with many routers projecting congestion and any other requirements onto a scalar search space to evaluate candidate paths. In this paper, we study the numerical ...
+expand
+	Algorithms for automatic length compensation of busses in analog integrated circuits
+	Matthew A. Smith, Lars A. Schreiner, Erich Barke, Volker Meyer zu Bexten
+	Pages: 159 - 166
+	doi>10.1145/1231996.1232027
+	Full text: PdfPdf
+	
+
+Algorithms for the length-compensation of bus geometries are presented. The algorithms are capable of automatically rerouting busses such that individual trace lengths are equalized, for an arbitrary number of traces, an arbitrary distribution of starting ...
+expand
+	SESSION: ISPD'07 global routing contest and placement contest updates
+	G.-J. Nam
+	
+	ISPD placement contest updates and ISPD 2007 global routing contest
+	Gi-Joon Nam, Mehmet Yildiz, David Z. Pan, Patrick H. Madden
+	Pages: 167 - 167
+	doi>10.1145/1231996.1232029
+	Full text: PdfPdf
+	
+
+In 2005 and 2006, ISPD successfully hosted two placement contests and released a total of 16 benchmark circuits. These benchmarks are all derived from real industrial circuits and present modern physical design challenges such as scalability, variety ...
+expand
+	SESSION: Statistical and physical design for manufacturability
+	P. Saxena
+	
+	The good, the bad, and the statistical
+	Noel Menezes
+	Pages: 168 - 168
+	doi>10.1145/1231996.1232031
+	Full text: PdfPdf
+	
+
+Recently, statistical static timing analysis (SSTA) has been proposed as a technique for mitigating the effects of parametric process variations on typical design metrics like performance and power (through circuit optimization). In spite of significant ...
+expand
+	Fear, uncertainty and statistics
+	Chandu Visweswariah
+	Pages: 169 - 169
+	doi>10.1145/1231996.1232032
+	Full text: PdfPdf
+	
+
+Statistics will provide the answer to our fear over the increasing uncertainty in chip performance. Our "confidence" in the correct operation of our integrated circuits will take on a new probabilistic meaning. This presentation will make the case for ...
+expand
+	Variation and litho driven physical implementation system
+	Shankar Krishnamoorthy
+	Pages: 170 - 170
+	doi>10.1145/1231996.1232033
+	Full text: PdfPdf
+	
+
+As 65nm ramps up towards production and 45nm test-chip trials get under-way, three critical design challenges have emerged: Variation-based timing closure Lithography-aware physical implementation Physical design capacity At ...
+expand
+	A DFM aware, space based router
+	David Cross, Eric Nequist, Lou Scheffer
+	Pages: 171 - 172
+	doi>10.1145/1231996.1232034
+	Full text: PdfPdf
+	
+
+The days when a router simply connected up the nets, obeying simple width and spacing rules, are long gone. While modern routers are still expected to connect things up correctly (albeit with a much more complex set of design rules), they are also expected ...
+expand
+	SESSION: Clock and interconnect
+	R. Mains
+	
+	Minimal skew clock embedding considering time variant temperature gradient
+	Hao Yu, Yu Hu, Chunchen Liu, Lei He
+	Pages: 173 - 180
+	doi>10.1145/1231996.1232036
+	Full text: PdfPdf
+	
+
+The existing temperature-aware clock embedding assumes a time-invariant temperature gradient. However, it is not solved how to find the worst-case temperature gradient leading to the worst case skew. In this paper, we develop a PErturbation based Clock ...
+expand
+	An efficent clustering algorithm for low power clock tree synthesis
+	Rupesh S. Shelar
+	Pages: 181 - 188
+	doi>10.1145/1231996.1232037
+	Full text: PdfPdf
+	
+
+Clocks are known to be major source of power consumption in digital circuits, especially in high performance microprocessors. With the technology scaling, the increasingly capacitive interconnects contribute to more than 40% of the local clock power. ...
+expand
+	A methodology for interconnect dimension determination
+	Jeff Cobb, Rajesh Garg, Sunil P. Khatri
+	Pages: 189 - 195
+	doi>10.1145/1231996.1232038
+	Full text: PdfPdf
+	
+
+The determination of metal wire dimensions and inter-layer dielectric thicknesses has become increasingly important in recent times, as wire delays have begun to dominate transistor delays. In this paper, we propose metrics to guide the determination ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

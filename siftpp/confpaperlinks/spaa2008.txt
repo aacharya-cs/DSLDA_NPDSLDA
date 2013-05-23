@@ -1,0 +1,663 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the twentieth annual symposium on Parallelism in algorithms and architectures
+General Chairs: 	Friedhelm Meyer auf der Heide 	University of Paderborn, Germany
+Program Chairs: 	Nir Shavit 	Tel-Aviv University, Israel, and Sun Labs, USA
+Publication of:
+· Conference
+SPAA 08 20th ACM Symposium on Parallelism in Algorithms and Architectures
+Munich, Germany — June 14 - 16, 2008
+ACM New York, NY, USA ©2008
+	
+Proceedings of the twentieth annual symposium on Parallelism in algorithms and architectures 	Published by ACM 2008 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 347
+· Downloads (12 Months): 1,601
+· Citation Count: 303
+
+
+	
+Tools and Resources
+
+    Buy this Proceeding in Print
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+    Upcoming Conference:
+        SPAA '12
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to tabbed view
+
+Abstract | Source Materials | Authors | References | Cited By | Index Terms | Publication | Reviews | Comments | Table of Contents
+top of pageABSTRACT
+
+This volume consists of papers that were presented at the 20th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA'07), held on June 14-16, 2008, in Munich, Germany. It was sponsored by the ACM Special Interest Groups on Algorithms and Computation Theory (SIGACT) and Computer Architecture (SIGARCH) and organized in cooperation with the European Association for Theoretical Computer Science (EATCS). Financial support was provided by the German Research Foundation (DFG), Akamai, Intel, and Sun Microsystems.
+
+The 36 regular presentations that appeared at the conference were selected by the program committee after an electronic discussion and a meeting of two days that took place at Sun Labs, Burlington, Massachusetts, on March 20-21. Of these papers, the paper "Utilizing Shared Data in Chip Multiprocessors with the Nahalal Architecture" by Zvika Guz, Idit Keidar, Avinoam Kolodny, and Uri Weiser was selected to receive the best paper award. Fourteen papers were selected by Jim Larus for the special track on "Hardware and Software Techniques for Multicore Programming".
+
+The regular presentations were selected out of 128 submitted abstracts. The mix of selected papers reflects the unique nature of SPAA in bringing together the theory and practice of parallel computing. SPAA defines parallelism very broadly to encompass any computational device or scheme that can perform multiple operations or tasks simultaneously or concurrently. This year, the selection of papers was closer to SPAA's roots, in that technical papers included a large number of papers on parallel and multicore algorithms and architectures. The technical papers in this volume are to be considered preliminary versions, and authors are generally expected to publish polished and complete versions in archival scientific journals.
+
+In addition to the regular presentations, this volume includes 13 brief announcements and the abstracts of 4 posters that were presented at the SPAA review sessions. The committee's decisions in accepting brief announcements and posters were based on the perceived interest of these contributions, with the goal that they serve as bases for further significant advances in parallelism in computing. Extended versions of the SPAA brief announcements and posters may be published later in other conferences or journals.
+
+Finally, this year, there were 6 invited talks by Kunle Olukotun, Arnold Rosenberg, Leslie Valiant, Hagit Attiya, Charles Leiserson, and Burton Smith, to celebrate SPAA's 20 th anniversary.
+
+top of pageSOURCE MATERIALS
+FRONT MATTER
+PDFPDF  (title page, copyright, welcome, contents, organization, sponsor)
+BACK MATTER
+PDFPDF  (author index)
+
+top of pageAUTHORS
+
+General Chairs
+
+
+    Author image not provided 	 Friedhelm Meyer auf der Heide
+
+    No contact information provided yet.
+    	
+     
+    View colleagues of Friedhelm Meyer auf der Heide
+Program Chairs
+
+
+    Author image not provided 	 Nir Shavit
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1986-2012
+    Publication count	96
+    Citation Count	1,326
+    Available for download	50
+    Downloads (6 Weeks)	341
+    Downloads (12 Months)	3,454
+    View colleagues of Nir Shavit
+
+top of pageREFERENCES
+References are not available
+top of pageCITED BY
+Citings are not available
+top of pageINDEX TERMS
+Index Terms are not available
+top of pagePUBLICATION
+Title 	SPAA 08 20th ACM Symposium on Parallelism in Algorithms and Architectures
+	Munich, Germany — June 14 - 16, 2008
+Pages	368
+Sponsors 	SIGACT ACM Special Interest Group on Algorithms and Computation Theory
+	SIGARCH ACM Special Interest Group on Computer Architecture
+	ACM Association for Computing Machinery
+Publisher	ACM New York, NY, USA
+ISBN	978-1-59593-973-9
+Order Number	417080
+Conference 	SPAAACM Symposium on Parallel Algorithms and Architectures SPAA logo
+Paper Acceptance Rate 36 of 128 submissions, 28%
+Overall Acceptance Rate 514 of 1,522 submissions, 34%
+	
+Year 	Submitted 	Accepted 	Rate
+SPAA '95 	101 	31 	31%
+SPAA '96 	106 	39 	37%
+SPAA '97 	97 	32 	33%
+SPAA '98 	84 	30 	36%
+SPAA '99 	90 	26 	29%
+SPAA '00 	45 	24 	53%
+SPAA '01 	93 	34 	37%
+SPAA '03 	106 	38 	36%
+SPAA '05 	100 	36 	36%
+SPAA '06 	102 	46 	45%
+SPAA '07 	130 	37 	28%
+SPAA '08 	128 	36 	28%
+SPAA '09 	114 	35 	31%
+SPAA '10 	110 	35 	32%
+SPAA '11 	116 	35 	30%
+Overall 	1,522 	514 	34%
+top of pageREVIEWS
+
+Reviews are not available for this item
+Computing Reviews logo
+
+    Access critical reviews of computing literature.
+    Become a reviewer for Computing Reviews
+
+top of pageCOMMENTS
+
+Be the first to comment To Post a comment please sign in or create a free Web account
+top of pageTable of Contents
+Proceedings of the twentieth annual symposium on Parallelism in algorithms and architectures
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Special track: multicores
+	Nir Shavit
+	
+	Utilizing shared data in chip multiprocessors with the Nahalal architecture
+	Zvika Guz, Idit Keidar, Avinoam Kolodny, Uri C. Weiser
+	Pages: 1-10
+	doi>10.1145/1378533.1378535
+	Full text: PDFPDF
+	
+
+This paper addresses a new cache organization in a Chip Multiprocessors (CMP) environment. We introduce Nahalal, an architecture whose novel floorplan topology partitions cached data according to its usage (shared versus private data), and thus enables ...
+expand
+	A consistency architecture for hierarchical shared caches
+	Edya Ladan-Mozes, Charles E. Leiserson
+	Pages: 11-22
+	doi>10.1145/1378533.1378536
+	Full text: PDFPDF
+	
+
+Hierarchical Cache Consistency (HCC) is a scalable cache-consistency architecture for chip multiprocessors in which caches are shared hierarchically. HCC's cache-consistency protocol is embedded in the message-routing network that interconnects the caches, ...
+expand
+	Combinable memory-block transactions
+	Guy E. Blelloch, Phillip B. Gibbons, S. Harsha Vardhan
+	Pages: 23-34
+	doi>10.1145/1378533.1378537
+	Full text: PDFPDF
+	
+
+This paper formalizes and studies combinable memory-block transactions (MBTs). The idea is to encode short programs that operate on a single cache/memory block and then to specify such a program with a memory request. The code is then executed ...
+expand
+	Parallelizing dynamic information flow tracking
+	Olatunji Ruwase, Phillip B. Gibbons, Todd C. Mowry, Vijaya Ramachandran, Shimin Chen, Michael Kozuch, Michael Ryan
+	Pages: 35-45
+	doi>10.1145/1378533.1378538
+	Full text: PDFPDF
+	
+
+Dynamic information flow tracking (DIFT) is an important tool for detecting common security attacks and memory bugs. A DIFT tool tracks the flow of information through a monitored program's registers and memory locations as the program executes, detecting ...
+expand
+	SESSION: Algorithms on graphs
+	Emmanuelle Lebhar
+	
+	What can be approximated locally?: case study: dominating sets in planar graphs
+	Christoph Lenzen, Yvonne Anne Oswald, Roger Wattenhofer
+	Pages: 46-54
+	doi>10.1145/1378533.1378540
+	Full text: PDFPDF
+	
+
+Whether local algorithms can compute constant approximations of NP-hard problems is of both practical and theoretical interest. So far, no algorithms achieving this goal are known, as either the approximation ratio or the running time exceed O(1), or ...
+expand
+	Distributed packing in planar graphs
+	Andrzej Czygrinow, Michal Hańckowiak, Wojciech Wawrzyniak
+	Pages: 55-61
+	doi>10.1145/1378533.1378541
+	Full text: PDFPDF
+	
+
+We give an efficient distributed algorithm that finds an almost optimal packing of a graph H in a planar graph G. The algorithm is deterministic and its running time is poly-logarithmic in the order of G.
+expand
+	Polylogarithmic network navigability using compact metrics with small stretch
+	Pierre Fraigniaud, Cyril Gavoille
+	Pages: 62-69
+	doi>10.1145/1378533.1378542
+	Full text: PDFPDF
+	
+
+Graph augmentation theory is a general framework for analyzing navigability in social networks. It is known that, for large classes of graphs, there exist augmentations of these graphs such that greedy routing according to the shortest path metric performs ...
+expand
+	SESSION: Broadcasting in networks
+	Andrea Pietracaprina
+	
+	Online multicast with egalitarian cost sharing
+	Moses Charikar, Howard Karloff, Claire Mathieu, Joseph (Seffi) Naor, Michael Saks
+	Pages: 70-76
+	doi>10.1145/1378533.1378544
+	Full text: PDFPDF
+	
+
+We consider a multicast game played by a set of selfish noncooperative players (i.e., nodes) on a rooted undirected graph. Players arrive one by one and each connects to the root by greedily choosing a path minimizing its cost; the cost of using an edge ...
+expand
+	Trade-offs between the size of advice and broadcasting time in trees
+	Emanuele G. Fusco, Andrzej Pelc
+	Pages: 77-84
+	doi>10.1145/1378533.1378545
+	Full text: PDFPDF
+	
+
+We study the problem of the amount of information required to perform fast broadcasting in tree networks. The source located at the root of a tree has to disseminate a message to all nodes. In each round each informed node can transmit to one child. ...
+expand
+	Cost sharing mechanisms for near-optimal traffic aggregation and network design
+	Baruch Awerbuch, Rohit Khandekar
+	Pages: 85-90
+	doi>10.1145/1378533.1378546
+	Full text: PDFPDF
+	
+
+A fundamental network design problem is the one of Traffic Aggregation or Network Design. The goal is to design a network which is able to support a unit flow for each commodity, at a time, between its source-sink pair, e.g., to support ...
+expand
+	On spreading recommendations via social gossip
+	Yaacov Fernandess, Dahlia Malkhi
+	Pages: 91-97
+	doi>10.1145/1378533.1378547
+	Full text: PDFPDF
+	
+
+This paper introduces and analyzes a variant of distributed gossip which is motivated by the sharing of recommendations in a social network. The social settings bear two implications on gossip. First, rumors fade after a few hops, and so does our gossip ...
+expand
+	SESSION: Brief announcements
+	Christof Fetzer
+	
+	Against lock-based semantics for transactional memory
+	Victor Luchangco
+	Pages: 98-100
+	doi>10.1145/1378533.1378549
+	Full text: PDFPDF
+	
+
+In this position paper, I argue that transactional memory should not be specified in terms of locks. In particular, the semantics of transactional memory in the face of nontransactional access, weak memory consistency guarantees and compiler transformations ...
+expand
+	A transactional approach to lock scalability
+	Amitabha Roy, Keir Fraser, Steven Hand
+	Pages: 101-103
+	doi>10.1145/1378533.1378550
+	Full text: PDFPDF
+	
+
+Most software transactional memory implementations execute code using fine-grained optimistic concurrency control. This does not perform well with low contention data structures where fine grained conflict detection means manipulating metadata for every ...
+expand
+	RaceTM: detecting data races using transactional memory
+	Shantanu Gupta, Florin Sultan, Srihari Cadambi, Franjo Ivancic, Martin Roetteler
+	Pages: 104-106
+	doi>10.1145/1378533.1378551
+	Full text: PDFPDF
+	
+
+Widespread emergence of multicore processors will spur development of parallel applications, exposing programmers to more hardware concurrency. Dependable multithreaded software will have to rely on the ability to dynamically detect data races, which ...
+expand
+	A first insight into object-aware hardware transactional memory
+	Behram Khan, Matthew Horsnell, Ian Rogers, Mikel Lujan, Andrew Dinn, Ian Watson
+	Pages: 107-109
+	doi>10.1145/1378533.1378552
+	Full text: PDFPDF
+	
+
+The contribution of this paper is the first Hardware Transactional Memory (HTM) where the object structure is recognized and harnessed. Our approach is similar to hardware support of paged virtual memory using a virtually addressed cache and a TLB, and ...
+expand
+	Safe open-nested transactions through ownership
+	Kunal Agrawal, I-Ting Angelina Lee, Jim Sukha
+	Pages: 110-112
+	doi>10.1145/1378533.1378553
+	Full text: PDFPDF
+	
+
+Researchers in transactional memory (TM) have proposed open-nested transactions for increasing concurrency. The idea is to ignore "low-level" memory operations of the open-nested transaction when detecting conflicts for its parent transaction, and instead ...
+expand
+	Leveraging non-blocking collective communication in high-performance applications
+	Torsten Hoefler, Peter Gottschling, Andrew Lumsdaine
+	Pages: 113-115
+	doi>10.1145/1378533.1378554
+	Full text: PDFPDF
+	
+
+Although overlapping communication with computation is an important mechanism for achieving high performance in parallel programs, developing applications that actually achieve good overlap can be difficult. Existing approaches are typically based on ...
+expand
+	Fractal communication in software data dependency graphs
+	Daniel Greenfield, Simon W. Moore
+	Pages: 116-118
+	doi>10.1145/1378533.1378555
+	Full text: PDFPDF
+	
+
+Communication is increasingly more costly than computation, but little work has been done on characterising the intrinsic communication behaviour of algorithms. We show that the dynamic data dependency graphs for a wide number of benchmarks exhibit multi-scale ...
+expand
+	SESSION: Graph algorithms
+	Danny Hendler
+	
+	Many random walks are faster than one
+	Noga Alon, Chen Avin, Michal Koucky, Gady Kozma, Zvi Lotker, Mark R. Tuttle
+	Pages: 119-128
+	doi>10.1145/1378533.1378557
+	Full text: PDFPDF
+	
+
+We pose a new and intriguing question motivated by distributed computing regarding random walks on graphs: How long does it take for several independent random walks, starting from the same vertex, to cover an entire graph? We study the cover time ...
+expand
+	Improved distributed approximate matching
+	Zvi Lotker, Boaz Patt-Shamir, Seth Pettie
+	Pages: 129-136
+	doi>10.1145/1378533.1378558
+	Full text: PDFPDF
+	
+
+We present improved algorithms for finding approximately optimal matchings in both weighted and unweighted graphs. For unweighted graphs, we give an algorithm providing >(1-ε-approximation in O(log n) time for any constant ε ...
+expand
+	Graph partitioning into isolated, high conductance clusters: theory, computation and applications to preconditioning
+	Ioannis Koutis, Gary L. Miller
+	Pages: 137-145
+	doi>10.1145/1378533.1378559
+	Full text: PDFPDF
+	
+
+We consider the problem of decomposing a weighted graph with n vertices into a collection P of vertex disjoint clusters such that, for all clusters C ε P, the graph induced by the vertices in C and the edges leaving ...
+expand
+	Finding strongly connected components in parallel using O(log2n) reachability queries
+	Warren Schudy
+	Pages: 146-151
+	doi>10.1145/1378533.1378560
+	Full text: PDFPDF
+	
+
+We give a randomized (Las-Vegas) parallel algorithm for computing strongly connected components of a graph with n vertices and m edges. The runtime is dominated by O(log2n) multi-source parallel reachability queries; i.e. O(log2n) ...
+expand
+	SESSION: Special track -- transactional memory
+	Panagiota Fatourou
+	
+	Automatic data partitioning in software transactional memories
+	Torvald Riegel, Christof Fetzer, Pascal Felber
+	Pages: 152-159
+	doi>10.1145/1378533.1378562
+	Full text: PDFPDF
+	
+
+We investigate to which extent data partitioning can help improve the performance of software transactional memory (STM). Our main idea is that the access patterns of the various data structures of an application might be sufficiently different so that ...
+expand
+	Checkpoints and continuations instead of nested transactions
+	Eric Koskinen, Maurice Herlihy
+	Pages: 160-168
+	doi>10.1145/1378533.1378563
+	Full text: PDFPDF
+	
+
+We present a mechanism for partially aborting transactions through the use of data structure checkpoints and control-flow continuations. In particular, we show that boosted transactions [9] already have built-in restoration points and afford a simple, ...
+expand
+	Adaptive transaction scheduling for transactional memory systems
+	Richard M. Yoo, Hsien-Hsin S. Lee
+	Pages: 169-178
+	doi>10.1145/1378533.1378564
+	Full text: PDFPDF
+	
+
+Transactional memory systems are expected to enable parallel programming at lower programming complexity, while delivering improved performance over traditional lock-based systems. Nonetheless, there are certain situations where transactional memory ...
+expand
+	SESSION: Brief announcements
+	Faith Ellen
+	
+	Operational analysis of processor speed scaling
+	Kai Shen, Alex Zhang, Terence Kelly, Christopher Stewart
+	Pages: 179-181
+	doi>10.1145/1378533.1378566
+	Full text: PDFPDF
+	
+
+This brief announcement presents a pair of performance laws that bound the change in aggregate job queueing time that results when the processor speed changes in a parallel computing system. Our laws require only lightweight passive external observations ...
+expand
+	A temperature-aware virtual submesh allocation scheme for noc-based manycore chips
+	Xiongfei Liao, Wu Jigang, Thambipillai Srikanthan
+	Pages: 182-184
+	doi>10.1145/1378533.1378567
+	Full text: PDFPDF
+	
+
+Various continuous and non-continuous submesh allocation schemes have been proposed for traditional mesh-connected multiprocessor systems. Discussions of these schemes are limited to issues such as fragmentation, system performance and algorithmic complexity. ...
+expand
+	Optimal speedup on a low-degree multi-core parallel architecture (LoPRAM)
+	Reza Dorrigiv, Alejandro López-Ortiz, Alejandro Salinger
+	Pages: 185-187
+	doi>10.1145/1378533.1378568
+	Full text: PDFPDF
+	
+
+Over the last five years, major microprocessor manufacturers have released plans for a rapidly increasing number of cores per microprossesor, with upwards of 64 cores by 2015. In this setting, a sequential RAM computer will no longer accurately reflect ...
+expand
+	Energy-optimal distributed algorithms for minimum spanning trees
+	Yongwook Choi, Maleq Khan, V.S. Anil Kumar, Gopal Pandurangan
+	Pages: 188-190
+	doi>10.1145/1378533.1378569
+	Full text: PDFPDF
+	
+
+Traditionally, the performance of distributed algorithms has been measured in terms of time and message complexity. Message complexity concerns the number of messages transmitted over all the edges during the course of the algorithm. However, in energy-constraint ...
+expand
+	Data replication in p2p environments
+	André Brinkmann, Sascha Effert
+	Pages: 191-193
+	doi>10.1145/1378533.1378570
+	Full text: PDFPDF
+	
+
+Current p2p environments are often based on Consistent Hashing as underlying distributed hash table (DHT). The drawback of Consistent Hashing for small or mid-sized environments is that it is not able to efficiently use the available storage capacity, ...
+expand
+	Graphical congestion games with linear latencies
+	Vittorio Bilò, Angelo Fanelli, Michele Flammini, Luca Moscardelli
+	Pages: 194-196
+	doi>10.1145/1378533.1378571
+	Full text: PDFPDF
+	
+
+We introduce a new general framework for the analysis of non cooperative games with limited social knowledge. Such an incomplete knowledge is modeled by means of a social graph G in which nodes represent players and there is an edge from i ...
+expand
+	SESSION: Special track -- multicore algorithms
+	Ravi Rajwar
+	
+	Fundamental parallel algorithms for private-cache chip multiprocessors
+	Lars Arge, Michael T. Goodrich, Michael Nelson, Nodari Sitchinava
+	Pages: 197-206
+	doi>10.1145/1378533.1378573
+	Full text: PDFPDF
+	
+
+In this paper, we study parallel algorithms for private-cache chip multiprocessors (CMPs), focusing on methods for foundational problems that are scalable with the number of cores. By focusing on private-cache CMPs, we show that we can design efficient ...
+expand
+	Cache-efficient dynamic programming algorithms for multicores
+	Rezaul Alam Chowdhury, Vijaya Ramachandran
+	Pages: 207-216
+	doi>10.1145/1378533.1378574
+	Full text: PDFPDF
+	
+
+We present cache-efficient chip multiprocessor (CMP) algorithms with good speed-up for some widely used dynamic programming algorithms. We consider three types of caching systems for CMPs: D-CMP with a private cache for each core, S-CMP ...
+expand
+	Scheduling strategies for optimistic parallel execution of irregular programs
+	Milind Kulkarni, Patrick Carribault, Keshav Pingali, Ganesh Ramanarayanan, Bruce Walter, Kavita Bala, L. Paul Chew
+	Pages: 217-228
+	doi>10.1145/1378533.1378575
+	Full text: PDFPDF
+	
+
+Recent application studies have shown that many irregular applications have a generalized data parallelism that manifests itself as iterative computations over worklists of different kinds. In general, there are complex dependencies between iterations. ...
+expand
+	SESSION: Parallel and distributed scheduling
+	Susanne Albers
+	
+	Fast distributed scheduling via primal-dual
+	Alessandro Panconesi, Mauro Sozio
+	Pages: 229-235
+	doi>10.1145/1378533.1378577
+	Full text: PDFPDF
+	
+
+In this paper we give an efficient distributed algorithm computing approximate solutions to a very general, and classical, scheduling problem. The approximation guarantee is within a constant factor of the optimum. By "efficient", we mean that the number ...
+expand
+	A primal-dual resource augmentation analysis of a constant approximate algorithm for stable coalitions in a cluster
+	Nedialko B. Dimitrov, Indrajit Roy
+	Pages: 236-245
+	doi>10.1145/1378533.1378578
+	Full text: PDFPDF
+	
+
+In this paper we study the following Cluster Profit Problem. Highly parallelizable requests are present on some network nodes. Each request is associated with a tuple (g, r). The requester is willing to pay kg if k machines execute ...
+expand
+	Improved approximations for multiprocessor scheduling under uncertainty
+	Christopher Y. Crutchfield, Zoran Dzunic, Jeremy T. Fineman, David R. Karger, Jacob H. Scott
+	Pages: 246-255
+	doi>10.1145/1378533.1378579
+	Full text: PDFPDF
+	
+
+This paper presents improved approximation algorithms for the problem of multiprocessor scheduling under uncertainty (SUU), in which the execution of each job may fail probabilistically. This problem is motivated by the increasing ...
+expand
+	Competitive non-migratory scheduling for flow time and energy
+	Tak-Wah Lam, Lap-Kei Lee, Isaac K. K. To, Prudence W. H. Wong
+	Pages: 256-264
+	doi>10.1145/1378533.1378580
+	Full text: PDFPDF
+	
+
+Energy usage has been an important concern in recent research on online scheduling. In this paper we extend the study of the tradeoff between flow time and energy from the single-processor setting [8, 6] to the multi-processor setting. Our main result ...
+expand
+	SESSION: Special track -- STM design and locks
+	Alexandra Fedorova
+	
+	Kicking the tires of software transactional memory: why the going gets tough
+	Richard M. Yoo, Yang Ni, Adam Welc, Bratin Saha, Ali-Reza Adl-Tabatabai, Hsien-Hsin S. Lee
+	Pages: 265-274
+	doi>10.1145/1378533.1378582
+	Full text: PDFPDF
+	
+
+Transactional Memory (TM) promises to simplify concurrent programming, which has been notoriously difficult but crucial in realizing the performance benefit of multi-core processors. Software Transaction Memory (STM), in particular, represents a body ...
+expand
+	RingSTM: scalable transactions with a single atomic instruction
+	Michael F. Spear, Maged M. Michael, Christoph von Praun
+	Pages: 275-284
+	doi>10.1145/1378533.1378583
+	Full text: PDFPDF
+	
+
+Existing Software Transactional Memory (STM) designs attach metadata to ranges of shared memory; subsequent runtime instructions read and update this metadata in order to ensure that an in-flight transaction's reads and writes remain correct. The overhead ...
+expand
+	Irrevocable transactions and their applications
+	Adam Welc, Bratin Saha, Ali-Reza Adl-Tabatabai
+	Pages: 285-296
+	doi>10.1145/1378533.1378584
+	Full text: PDFPDF
+	
+
+Transactional memory (TM) provides a safer, more modular, and more scalable alternative to traditional lock-based synchronization. Implementing high performance TM systems has recently been an active area of research. However, current TM systems provide ...
+expand
+	Dreadlocks: efficient deadlock detection
+	Eric Koskinen, Maurice Herlihy
+	Pages: 297-303
+	doi>10.1145/1378533.1378585
+	Full text: PDFPDF
+	
+
+We present Dreadlocks, an efficient new shared-memory spin lock that actively detects deadlocks. Instead of spinning on a Boolean value, each thread spins on the lock owner's per-thread digest, a compact representation of a portion of the lock's ...
+expand
+	SESSION: STM analysis and semantics
+	Pascal Felber
+	
+	On obstruction-free transactions
+	Rachid Guerraoui, Michal Kapalka
+	Pages: 304-313
+	doi>10.1145/1378533.1378587
+	Full text: PDFPDF
+	
+
+This paper studies obstruction-free software transactional memory systems (OFTMs). These systems are appealing, for they combine the atomicity property of transactions with a liveness property that ensures the commitment of every transaction that eventually ...
+expand
+	Practical weak-atomicity semantics for java stm
+	Vijay Menon, Steven Balensiefer, Tatiana Shpeisman, Ali-Reza Adl-Tabatabai, Richard L. Hudson, Bratin Saha, Adam Welc
+	Pages: 314-325
+	doi>10.1145/1378533.1378588
+	Full text: PDFPDF
+	
+
+As memory transactions have been proposed as a language-level replacement for locks, there is growing need for well-defined semantics. In contrast to database transactions, transaction memory (TM) semantics are complicated by the fact that programs may ...
+expand
+	Commit phase in timestamp-based stm
+	Rui Zhang, Zoran Budimlić, William N. Scherer, III
+	Pages: 326-335
+	doi>10.1145/1378533.1378589
+	Full text: PDFPDF
+	
+
+Timestamp-based Software Transactional Memory (STM)validation techniques use a global shared counter and timestamping of objects being written to reason about sequencing of transactions and their linearization points, while reducing the number of unnecessary ...
+expand
+	SESSION: Algorithms
+	Rajmohan Rajaraman
+	
+	Partial snapshot objects
+	Hagit Attiya, Rachid Guerraoui, Eric Ruppert
+	Pages: 336-343
+	doi>10.1145/1378533.1378591
+	Full text: PDFPDF
+	
+
+We introduce a generalization of the atomic snapshot object, which we call the partial snapshot object. This object stores a vector of values. Processes may write components of the vector individually or atomically read any subset of the components. ...
+expand
+	Communication in wireless networks with directional antennas
+	Ioannis Caragiannis, Christos Kaklamanis, Evangelos Kranakis, Danny Krizanc, Andreas Wiese
+	Pages: 344-351
+	doi>10.1145/1378533.1378592
+	Full text: PDFPDF
+	
+
+We study the problem of maintaining connectivity in a wireless network where the network nodes are equipped with directional antennas. Nodes correspond to points on the plane and each uses a directional antenna modeled by a sector with a given angle ...
+expand
+	Tight competitive ratios for parallel disk prefetching and caching
+	Wing-Kai Hon, Rahul Shah, Peter J. Varman, Jeffrey Scott Vitter
+	Pages: 352-361
+	doi>10.1145/1378533.1378593
+	Full text: PDFPDF
+	
+
+We consider the natural extension of the well-known single disk caching problem to the parallel disk I/O model (PDM) [17]. The main challenge is to achieve as much parallelism as possible and avoid I/O bottlenecks. We are given a fast memory (cache) ...
+expand
+	POSTER SESSION: Posters
+	
+	The adaptive transactional memory test platform: a tool for experimenting with transactional code for rock (poster)
+	Mark Moir, Kevin Moore, Dan Nussbaum
+	Pages: 362-362
+	doi>10.1145/1378533.1378595
+	Full text: PDFPDF
+	
+
+Sun has recently announced that its forthcoming multicore processor, code-named Rock, will support a form of hardware transactional memory (HTM). Our poster describes this feature, and presents the Adaptive Transactional Memory Test Platform ...
+expand
+	Improving software concurrency with hardware-assisted memory snapshot
+	JaeWoong Chung, Jiwon Seo, Woongki Baek, Chi CaoMinh, Austen McDonald, Christos Kozyrakis, Kunle Olukotun
+	Pages: 363-363
+	doi>10.1145/1378533.1378596
+	Full text: PDFPDF
+	
+
+We propose a hardware-assisted memory snapshot to improve software concurrency. It is built on top of the hardware resources for transactional memory and allows for easy development of system software modules such as concurrent garbage collector and ...
+expand
+	Distributed voronoi diagram computation in wireless sensor networks
+	Waleed Alsalih, Kamrul Islam, Yurai Núñez-Rodríguez, Henry Xiao
+	Pages: 364-364
+	doi>10.1145/1378533.1378597
+	Full text: PDFPDF
+	
+
+We present a distributed algorithm to compute the Voronoi Diagram (VD) of a wireless network in the plane. Our contribution is twofold: the complete VD is computed, as opposed to the approximate or the bounded VD, and the number of transmissions used ...
+expand
+	Directed transmission method, a fully asynchronous approach to solve sparse linear systems in parallel
+	Fei Wei, Huazhong Yang
+	Pages: 365-365
+	doi>10.1145/1378533.1378598
+	Full text: PDFPDF
+	
+
+There are many algorithms to solve large sparse linear systems in parallel; however, most of them acquire synchronization and thus are lack of scalability. In this paper, we propose a new distributed numerical algorithm, called Directed Transmission ...
+expand
+	Ased: availability, security, and debugging support usingtransactional memory
+	JaeWoong Chung, Woongki Baek, Nathan Grasso Bronson, Jiwon Seo, Christos Kozyrakis, Kunle Olukotun
+	Pages: 366-366
+	doi>10.1145/1378533.1378599
+	Full text: PDFPDF
+	
+
+We propose ASeD that uses the hardware resources of transactional memory systems for non transactional memory purpose. We show that the hardware components for register checkpointing, data versioning, and conflict detection can be reused as basic building ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

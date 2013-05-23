@@ -1,0 +1,377 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 2008 international symposium on Physical design
+General Chairs: 	David Z. Pan 	University of Texas at Austin
+Program Chairs: 	Gi-Joon Nam 	IBM Research
+Publication of:
+· Conference
+ISPD '08 International Symposium on Physical Design
+Portland, OR, USA — April 13 - 16, 2008
+ACM New York, NY, USA ©2008
+	
+Proceedings of the 2008 international symposium on Physical design 	Published by ACM 2008 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 147
+· Downloads (12 Months): 872
+· Citation Count: 109
+
+
+	
+Tools and Resources
+
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to single page view (no tabs)
+Abstract	Source Materials	Authors	References	Cited By	Index Terms	Publication	Reviews	Comments	Table of Contents
+Proceedings of the 2008 international symposium on Physical design
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Keynote address
+	David Z. Pan
+	
+	Design or manufacturing: which will be best for the future of the semiconductor roadmap?
+	Antun Domic
+	Pages: 1-1
+	doi>10.1145/1353629.1353631
+	Full text: PDFPDF
+	
+
+With the increasing interplay between physical design and manufacturing, the next five years will present major challenges for the semiconductor industry. EDA tools must evolve substantially to tackle the demands of increasingly complex designs, power ...
+expand
+	SESSION: Physical optimization techniques with buffering and gate sizing
+	Yegna Parasuram
+	
+	RUMBLE: an incremental, timing-driven, physical-synthesis optimization algorithm
+	David A. Papa, Tao Luo, Michael D. Moffitt, C. N. Sze, Zhuo Li, Gi-Joon Nam, Charles J. Alpert, Igor L. Markov
+	Pages: 2-9
+	doi>10.1145/1353629.1353633
+	Full text: PDFPDF
+	
+
+Physical synthesis tools are responsible for achieving timing closure. Starting with 130nm designs, multiple cycles are required to cross the chip, making latch placement critical to success. We present a new physical synthesis optimization for latch ...
+expand
+	Robust gate sizing via mean excess delay minimization
+	Jason Cong, John Lee, Lieven Vandenberghe
+	Pages: 10-14
+	doi>10.1145/1353629.1353634
+	Full text: PDFPDF
+	
+
+We introduce mean excess delay as a statistical measure of circuit delay in the presence of parameter variations. The β-mean excess delay is defined as the expected delay of the circuits that exceed the β-quantile of the delay, so it is always ...
+expand
+	Multi-scenario buffer insertion in multi-core processor designs
+	Yifang Liu, Jiang Hu, Weiping Shi
+	Pages: 15-22
+	doi>10.1145/1353629.1353635
+	Full text: PDFPDF
+	
+
+Recently, microprocessor industry is headed in the direction of multi-core designs in order to continue the chip performance growth. We investigate buffer insertion, which is a critical timing optimization technique, in the context of an industrial multi-core ...
+expand
+	Blockage and voltage island-aware dual-vdd buffered tree construction under fixed buffer locations
+	Bruce Tseng, Hung-Ming Chen
+	Pages: 23-30
+	doi>10.1145/1353629.1353636
+	Full text: PDFPDF
+	
+
+Due to the need of low power methodology in VLSI and SoC designs, voltage island architecture is attracting attentions in design community. However, the corresponding EDA tools development for voltage-island-aware buffered routing is still very few. ...
+expand
+	SESSION: Advances in placement
+	Hidetoshi Onodera
+	
+	Metal-density driven placement for cmp variation and routability
+	Tung-Chieh Chen, Minsik Cho, David Z. Pan, Yao-Wen Chang
+	Pages: 31-38
+	doi>10.1145/1353629.1353638
+	Full text: PDFPDF
+	
+
+In this paper, we propose the first metal-density driven placement algorithm to reduce CMP variation and achieve higher routability. Based on an analytical placement framework, we use a probabilistic routing model to estimate the wire density during ...
+expand
+	Highly efficient gradient computation for density-constrained analytical placement methods
+	Jason Cong, Guojie Luo
+	Pages: 39-46
+	doi>10.1145/1353629.1353639
+	Full text: PDFPDF
+	
+
+Recent analytical global placers use density constraints to approximate non-overlap constraints and show very successful results. In this paper we unify a wide range of density smoothing techniques that we call global smoothing, and present a highly ...
+expand
+	Abacus: fast legalization of standard cell circuits with minimal movement
+	Peter Spindler, Ulf Schlichtmann, Frank M. Johannes
+	Pages: 47-53
+	doi>10.1145/1353629.1353640
+	Full text: PDFPDF
+	
+
+Standard cell circuits consist of millions of standard cells, which have to be aligned overlap-free to the rows of the chip. Placement of these circuits is done in consecutive steps. First, a global placement is obtained by roughly spreading the cells ...
+expand
+	3-D floorplanning using labeled tree and dual sequences
+	Renshen Wang, Evangeline F. Y. Young, Yi Zhu, Fan Chung Graham, Ronald Graham, Chung-Kuan Cheng
+	Pages: 54-59
+	doi>10.1145/1353629.1353641
+	Full text: PDFPDF
+	
+
+3-D packing is an NP-hard problem with wide applications in microelectronic circuit design such as 3-D packaging, 3-D VLSI placement and dynamically reconfigurable FGPA design. We present a complete representation for general non-slicing 3-D floorplan ...
+expand
+	SESSION: Statistical and physical design for manufacturability -- act II
+	Hidetoshi Onodera
+	
+	Variations, margins, and statistics
+	Patrick McGuinness
+	Pages: 60-67
+	doi>10.1145/1353629.1353643
+	Full text: PDFPDF
+	
+
+Design margining is used to account for design uncertainties in the measurement of performance, and thereby ensures that actual manufactured parts will operate in within predicted bounds. As process and environmental variations become increasingly severe ...
+expand
+	Implications of device timing variability on full chip timing
+	Ed Grochowski, Murali Annavaram, Paul Reed
+	Pages: 68-68
+	doi>10.1145/1353629.1353644
+	Full text: PDFPDF
+	
+
+As process technologies continue to scale, the magnitude of within-die device parameter variations is expected to increase and may lead to significant timing variability. This talk presents a quantitative evaluation of how low level device timing variations ...
+expand
+	How to get real mad
+	Andrew B. Kahng
+	Pages: 69-69
+	doi>10.1145/1353629.1353645
+	Full text: PDFPDF
+	
+
+True manufacturing-aware design, or "MAD", is urgently needed in light of increasing pitch, variability, leakage and reliability challenges. This talk will present directions in physical design and performance analysis that comprise "real MAD" for 45nm ...
+expand
+	A robust approach to lithography friendly design implementation
+	Phiroze N. Parakh, Shankar Krishnamoorthy
+	Pages: 70-70
+	doi>10.1145/1353629.1353646
+	Full text: PDFPDF
+	
+
+A Lithography Friendly Design solution entails the creation of a single physical layout which satisfies design constraints while concurrently accounting for process and manufacturing variations. At 45nm and below, above and beyond exponential growth ...
+expand
+	SESSION: Interconnect synthesis and structured ASIC
+	Rob Rutenbar
+	
+	Fast interconnect synthesis with layer assignment
+	Zhuo Li, Charles J. Alpert, Shiyan Hu, Tuhin Muhmud, Stephen T. Quay, Paul G. Villarrubia
+	Pages: 71-77
+	doi>10.1145/1353629.1353648
+	Full text: PDFPDF
+	
+
+As technology scaling advances beyond 65 nanometer node, more devices can fit onto a chip, which implies continued growth of design size. The increased wire delay dominance due to finer wire widths makes design closure an increasingly challenging problem. ...
+expand
+	RF interconnects for communications on-chip
+	M.-C. Frank Chang, Eran Socher, Sai-Wang Tam, Jason Cong, Glenn Reinman
+	Pages: 78-83
+	doi>10.1145/1353629.1353649
+	Full text: PDFPDF
+	
+
+In this paper, we propose a new way of implementing on-chip global interconnect that would meet stringent challenges of core-to-core communications in latency, data rate, and re-configurability for future chip-microprocessors (CMP) with efficient area ...
+expand
+	Placement challenges for structured ASICs
+	Herman Schmit, Amit Gupta, Radu Ciobanu
+	Pages: 84-86
+	doi>10.1145/1353629.1353650
+	Full text: PDFPDF
+	
+
+The placement problem for structured ASICs combines aspects of the standard cell ASIC placement problem and FPGA placement. Similarities with ASIC placement include the number and size of the place-able objects and the need to consider buffering within ...
+expand
+	SESSION: Logic optimizations for physical synthesis
+	Andrew Kennings
+	
+	A framework for layout-level logic restructuring
+	Hosung (Leo) Kim, John Lillis
+	Pages: 87-94
+	doi>10.1145/1353629.1353652
+	Full text: PDFPDF
+	
+
+It is well known that optimizations made by traditional logic synthesis tools often correlate poorly with post-layout performance; this is largely a result of interconnect effects only visible after layout. As a result, several attempts at physically ...
+expand
+	Optimizing non-monotonic interconnect using functional simulation and logic restructuring
+	Stephen M. Plaza, Igor L. Markov, Valeria Bertacco
+	Pages: 95-102
+	doi>10.1145/1353629.1353653
+	Full text: PDFPDF
+	
+
+The relatively poor scaling of interconnect in modern digital circuits necessitates a number of design optimizations, which must typically be iterated several times to meet the specified performance objectives. Such iterations are often due to the difficulty ...
+expand
+	Reap what you sow: spare cells for post-silicon metal fix
+	Kai-hui Chang, Igor L. Markov, Valeria Bertacco
+	Pages: 103-110
+	doi>10.1145/1353629.1353654
+	Full text: PDFPDF
+	
+
+Post-silicon validation has recently become a major bottleneck in IC design. Several high profile IC designs have been taped-out with latent bugs, and forced the manufacturers to resort to additional design revisions. Such changes can be applied through ...
+expand
+	SESSION: Advances in routing
+	Yao-Wen Chang
+	
+	Optimal post-routing redundant via insertion
+	Kuang-Yao Lee, Cheng-Kok Koh, Ting-Chi Wang, Kai-Yuan Chao
+	Pages: 111-117
+	doi>10.1145/1353629.1353656
+	Full text: PDFPDF
+	
+
+Redundant via insertion is highly recommended for improving chip yield and reliability. In this paper, we study the problem of double-cut via insertion (DVI) in a post-routing stage, where a single via can have at most one redundant via inserted ...
+expand
+	Efficient multilayer routing based on obstacle-avoiding preferred direction steiner tree
+	Chih-Hung Liu, Yao-Hsin Chou, Shih-Yi Yuan, Sy-Yen Kuo
+	Pages: 118-125
+	doi>10.1145/1353629.1353657
+	Full text: PDFPDF
+	
+
+In IC design, rectilinear Steiner trees have been used to route signal nets by global and detail routers for a long time. Recently, there are more complicated processing conditions for routing to be considered, such as multiple routing layers, obstacles, ...
+expand
+	An O(nlogn) edge-based algorithm for obstacle-avoiding rectilinear steiner tree construction
+	Jieyi Long, Hai Zhou, Seda Ogrenci Memik
+	Pages: 126-133
+	doi>10.1145/1353629.1353658
+	Full text: PDFPDF
+	
+
+Obstacle-avoiding Steiner tree construction is a fundamental problem in VLSI physical design. In this paper, we provide a new approach for rectilinear Steiner tree construction in the presence of obstacles. We propose a novel algorithm, which generates ...
+expand
+	Non-slicing floorplanning-based crosstalk reduction on gridless track assignment for a gridless routing system with fast pseudo-tile extraction
+	Yu-Ning Chang, Yih-Lang Li, Wei-Tin Lin, Wen-Nai Cheng
+	Pages: 134-141
+	doi>10.1145/1353629.1353659
+	Full text: PDFPDF
+	
+
+Track assignment, which is an intermediate stage between global routing and detailed routing, provides a good platform for promoting performance, and for imposing additional constraints during routing, such as crosstalk. Gridless track assignment (GTA) ...
+expand
+	SESSION: Modern global routing issues and ISPD-08 global routing contest
+	Gi-Joon Nam
+	
+	Issues in global routing
+	William Swartz
+	Pages: 142-147
+	doi>10.1145/1353629.1353661
+	Full text: PDFPDF
+	
+
+In this paper, we present several shortcomings of current global routers and propose enhancements to remedy the problems. We propose that global routers incorporate aspects of both placement and detail routing in order to improve the quality of the global ...
+expand
+	The coming of age of (academic) global routing
+	Michael D. Moffitt, Jarrod A. Roy, Igor L. Markov
+	Pages: 148-155
+	doi>10.1145/1353629.1353662
+	Full text: PDFPDF
+	
+
+Wire routing, an important step in modern VLSI design, is increasingly responsible for timing closure and manufacturability. The CAD community has witnessed remarkable improvements in speed and quality of global routing algorithms in response to the ...
+expand
+	The ISPD global routing benchmark suite
+	Gi-Joon Nam, Cliff Sze, Mehmet Yildiz
+	Pages: 156-159
+	doi>10.1145/1353629.1353663
+	Full text: PDFPDF
+	
+
+This paper describes the ISPD global routing benchmark suite and related contests. Total 16 global routing benchmarks are produced from the ISPD placement contest benchmark suite using a variety of publicly available academic placement tools. The representative ...
+expand
+	SESSION: Electrical issues and clock network design in physical synthesis
+	Kai-Yuan (Kevin) Chao
+	
+	Statistical timing analysis considering spatially and temporally correlated dynamic power supply noise
+	Takashi Enami, Shinyu Ninomiya, Masanori Hashimoto
+	Pages: 160-167
+	doi>10.1145/1353629.1353665
+	Full text: PDFPDF
+	
+
+Power supply noise is becoming more and more influential on timing, though noise aware timing analysis has not been well established yet, because of several difficulties such as its dependency on input vectors and dynamic behavior. This paper proposes ...
+expand
+	Stress aware layout optimization
+	Vivek Joshi, Brian Cline, Dennis Sylvester, David Blaauw, Kanak Agarwal
+	Pages: 168-174
+	doi>10.1145/1353629.1353666
+	Full text: PDFPDF
+	
+
+Process-induced mechanical stress is used to enhance carrier transport and achieve higher drive currents in current CMOS technologies. In this paper, we study how stress-induced performance enhancements are affected by layout properties and suggest guidelines ...
+expand
+	Discrete buffer and wire sizing for link-based non-tree clock networks
+	Rupak Samanta, Jiang Hu, Peng Li
+	Pages: 175-181
+	doi>10.1145/1353629.1353667
+	Full text: PDFPDF
+	
+
+Clock network is a vulnerable victim of variations as well as a main power consumer in many integrated circuits. Recently, link-based non-tree clock network attracts people's attention due to its appealing tradeoff between variation tolerance and power ...
+expand
+	Activity and register placement aware gated clock network design
+	Weixiang Shen, Yici Cai, Xianlong Hong, Jiang Hu
+	Pages: 182-189
+	doi>10.1145/1353629.1353668
+	Full text: PDFPDF
+	
+
+Clock gating is one of the most effective techniques to reduce clock network power dissipation. Although it has already been studied considerably, most of the previous works are restricted to either logic level or clock routing stage. Due to the restriction, ...
+expand
+	SESSION: Physical design for bio-microfluidics
+	Prashant Saxena
+	
+	Automated design of digital microfluidic lab-on-chip under pin-count constraints
+	Tao Xu, Krishnendu Chakrabarty
+	Pages: 190-198
+	doi>10.1145/1353629.1353670
+	Full text: PDFPDF
+	
+
+Digital microfluidic biochips, as referred to as lab-on-a-chip, are revolutionizing DNA sequencing, immunoassays, and clinical diagnostics. Bioassays steps are mapped to a sequence of microfludic operations on a two dimensional array of electrodes. The ...
+expand
+	Physical design issues in biofluidic microchips
+	Tamal Mukherjee, Anton Pfeiffer, Steinar Hauan
+	Pages: 199-199
+	doi>10.1145/1353629.1353671
+	Full text: PDFPDF
+	
+
+Biotechnologists have started to exploit the semiconductor industry's planar microfabrication technology. This talk reviews the state of the art in planar biofluidic microdevices. Design aids needed for this emerging area are motivated. A place and route ...
+expand
+	A high-performance droplet router for digital microfluidic biochips
+	Minsik Cho, David Z. Pan
+	Pages: 200-206
+	doi>10.1145/1353629.1353672
+	Full text: PDFPDF
+	
+
+In this paper, we propose a high-performance droplet router for digital microfluidic biochip (DMFB) design. Due to recent advancements in bio-MEMS, the design complexity and the scale of a DMFB are expected to explode in near future, thus requiring strong ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+

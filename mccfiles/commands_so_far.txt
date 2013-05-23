@@ -1,0 +1,21 @@
+compile_mcc_ayahoo ([5], [5], [5], [5], 'ayahoo_classnames.txt', [0.1:0.1:0.5], [0.1:0.1:0.5], [140], 4, 0, 8, 4, 1, 2, '/lusr/u/ayan/MLDisk/ayahoo_files/', 'ayahoo_tenthbigrun');
+
+compile_mcc_ayahoo ([10], [5], [5], [5], 'ayahoo_classnames.txt', [0.1:0.1:0.5], [0.1:0.1:0.5], [200], 4, 0, 8, 4, 1, 2, '/lusr/u/ayan/MLDisk/ayahoo_files/', 'ayahoo_eleventhbigrun');
+
+compile_mcc_ayahoo ([10], [5], [5], [5], 'ayahoo_classnames.txt', [0.5:0.1:1.0], [0.5:0.1:1.0], [100:50:250], 4, 0, 8, 4, 1, 3, '/lusr/u/ayan/MLDisk/ayahoo_files/', 'ayahoo_thirteenthbigrun');
+
+compile_mcc_labelme ([5], [5], [5], [5], 'labelme_classnames.txt', [0.1:0.1:0.5], [0.1:0.1:0.5], [100, 150, 200], 4, 0, 8, 4, 1, 3, '/lusr/u/ayan/MLDisk/labelme_files/', 'labelme_twelvthbigrun'); .. running .. done
+
+compile_mcc_labelme ([10], [5], [5], [5], 'labelme_classnames.txt', [0.5:0.1:1.0], [0.5:0.1:1.0], [100:50:250], 4, 0, 8, 4, 1, 4, '/lusr/u/ayan/MLDisk/labelme_files/', 'labelme_thirteenthbigrun'); .. running .. done
+
+compile_mcc_labelme ([10], [5], [5], [5], 'labelme_classnames.txt', [0.1:0.1:0.5], [0.1:0.1:0.5], [80:20:240], 4, 0, 8, 4, 1, 4, '/lusr/u/ayan/MLDisk/labelme_files/', 'labelme_fourteenthbigrun'); .. failed running
+
+compile_mcc_labelme ([10], [5], [5], [5], 'labelme_classnames.txt', [0.5:0.1:0.8], [0.5:0.1:0.8], [100:20:250], 4, 0, 8, 4, 1, 4, '/lusr/u/ayan/MLDisk/labelme_files/', 'labelme_fifteenthbigrun');
+
+compile_mcc_labelme ([10], [5], [8], [8], 'labelme_classnames.txt', [0.1:0.1:0.5], [0.1:0.1:0.5], [80:20:250], 4, 0, 8, 4, 1, 4, '/lusr/u/ayan/MLDisk/labelme_files/', 'labelme_sixteenthbigrun');
+
+compile_mcc_labelme ([10], [5], [8], [8], 'labelme_classnames.txt', [0.1:0.1:0.5], [0.1:0.1:0.5], [80:20:250], 4, 0, 8, 4, 1, 4, '/lusr/u/ayan/MLDisk/labelme_files/', 'labelme_seventeenthbigrun');.. with epsilon = 0;
+
+compile_mcc_ayahoo ([10], [5], [8], [8], 'ayahoo_classnames.txt', [0.1:0.1:0.5], [0.1:0.1:0.5], [40:20:200], 4, 0, 8, 4, 1, 4, '/lusr/u/ayan/MLDisk/ayahoo_files/', 'ayahoo_eighteenthbigrun');.. with epsilon = 0;
+
+compile_mcc_ayahoo ([10], [5], [8], [8], 'ayahoo_classnames.txt', [0.1:0.1:0.5], [0.1:0.1:0.5], [40:20:200], 4, 0, 8, 4, 1, 4, '/lusr/u/ayan/MLDisk/ayahoo_files/', 'ayahoo_twentiethbigrun');

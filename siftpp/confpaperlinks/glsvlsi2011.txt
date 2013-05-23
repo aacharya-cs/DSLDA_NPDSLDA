@@ -1,0 +1,1028 @@
+ACM DL 	
+University Of Texas at Austin
+	
+
+SIGN IN   SIGN UP
+ 
+Proceedings of the 21st edition of the great lakes symposium on Great lakes symposium on VLSI
+General Chairs: 	David Atienza 	EPFL, Switzerland
+	Yuan Xie 	Penn State University, USA
+Program Chairs: 	Jose L. Ayala 	Federal University of Pernambuco, Brazil
+	Ken Stevens 	University of Utah, USA
+	
+Proceedings of the 21st edition of the great lakes symposium on Great lakes symposium on VLSI 	Published by ACM 2011 Proceeding
+Bibliometrics Data  Bibliometrics
+· Downloads (6 Weeks): 480
+· Downloads (12 Months): 4,576
+· Citation Count: 2
+
+Publication of:
+· Conference
+GLSVLSI'11 Great Lakes Symposium on VLSI 2011
+Lausanne, Switzerland — May 02 - 04, 2011
+ACM New York, NY, USA ©2011
+
+	
+Tools and Resources
+
+    TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+
+        Toc Alert via EmailEmail
+        Toc Alert via EmailRSS
+    Save to Binder
+    Export Formats:
+        BibTeX
+        EndNote
+        ACM Ref
+    Upcoming Conference:
+        GLSVLSI'12
+
+Share:
+Share on email Share on facebook Share on google Share on twitter Share on slashdot Share on reddit | More Sharing Services
+feedback Feedback | Switch to tabbed view
+
+Abstract | Source Materials | Authors | References | Cited By | Index Terms | Publication | Reviews | Comments | Table of Contents
+top of pageABSTRACT
+
+Welcome to the 21st edition of the Great Lakes Symposium on VLSI (GLSVLSI) 2011 held in the EPFL Campus, Lausanne, Switzerland. GLSVLSI is a premier venue for the dissemination of manuscripts of the highest quality in all areas related to VLSI, devices and system-level design. The venue of this year's GLSVLSI is EPFL, which is located right next to the "Great Lake" Lake Leman (also known as Lake Geneva). You will enjoy the beautiful Lake Geneva as well as the program over the three days of this year's GLSVLSI activity.
+
+As for the technical meeting, GLSVLSI 2011 was a resounding success: 207 papers were submitted, including authors from 36 different countries, of which 57 papers were accepted for oral presentation at the symposium (a 27% acceptance rate). With poster papers, a total of 78 papers will be presented at the symposium and published in the conference proceedings. The final technical program consists of 36 full presentations and 21 short presentations in 11 oral sessions and 21 posters in two poster sessions. GLSVLSI 2011 starts on Monday, May 2nd, in the morning with an exciting lineup of invited speakers on a broad range of issues related to VLSI design, including advances on magnetic memories for 2D and 3D SoC/System-in-Package design, quantum devices and optical computing, hardware security in VLSI, and programming tool chains for multi-core platforms. Then, the technical program continues until Wednesday, May 4th, in the evening and presents the latest industrial and academic research covering topics such as VLSI circuits, testing CAD, low power and emerging technologies/post-CMOS. The technical program of GLSVLSI 2011 includes two parallel tracks to allow longer presentations and discussions during the three days of the conference. Overall, there are nine regular sessions in the technical program.
+
+Moreover, the social program of GLSVLSI 2011 includes two special events this year. The first event consists of a guided visit and welcome reception at the Olympic Museum of Lausanne. During the guided visit, yielded sculptures and other artifacts coming from Greece related to the "Cradle of the Olympics," as well as medal sets, torches and costumes from past Olympic Games will be shown. An aperitif will be offered at the end in the pleasant terrace of the Olympic Museum overlooking the Lake Leman. Then, on Tuesday, May 3rd, a Cruise Gala Dinner will be the second social event, which will be held on a boat on the beautiful Lake Leman. It will leave from the charismatic port of Ouchy for a total duration of 3 hours and include a seated gastronomic dinner.
+
+top of pageSOURCE MATERIALS
+FRONT MATTER
+PDFPDF  (cd label, copyright, foreword, contents, organizing committee, program committee, sponsor)
+BACK MATTER
+PDFPDF  (author index)
+
+top of pageAUTHORS
+
+General Chairs
+
+
+    Author image not provided 	 David Atienza
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	2003-2012
+    Publication count	84
+    Citation Count	307
+    Available for download	47
+    Downloads (6 Weeks)	182
+    Downloads (12 Months)	1,566
+    View colleagues of David Atienza
+
+
+    Yuan Xie 	Yuan Xie
+
+    Yuan Xie's homepage
+    yuanxieatcse.psu.edu
+    	
+    Bibliometrics: publication history
+    Publication years	2000-2011
+    Publication count	139
+    Citation Count	689
+    Available for download	80
+    Downloads (6 Weeks)	626
+    Downloads (12 Months)	5,851
+    View colleagues of Yuan Xie
+Program Chairs
+
+
+    Author image not provided 	 Jose L. Ayala
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	2003-2011
+    Publication count	20
+    Citation Count	19
+    Available for download	7
+    Downloads (6 Weeks)	17
+    Downloads (12 Months)	486
+    View colleagues of Jose L. Ayala
+
+
+    Author image not provided 	 Ken Stevens
+
+    No contact information provided yet.
+    	
+    Bibliometrics: publication history
+    Publication years	1987-2011
+    Publication count	35
+    Citation Count	103
+    Available for download	9
+    Downloads (6 Weeks)	9
+    Downloads (12 Months)	64
+    View colleagues of Ken Stevens
+
+top of pageREFERENCES
+References are not available
+top of pageCITED BY
+Citings are not available
+top of pageINDEX TERMS
+Index Terms are not available
+top of pagePUBLICATION
+Title 	GLSVLSI'11 Great Lakes Symposium on VLSI 2011
+	Lausanne, Switzerland — May 02 - 04, 2011
+Pages	478
+Sponsors 	SIGDA ACM Special Interest Group on Design Automation
+In-Cooperations 	IEEE CASS
+	IEEE CEDA
+Publisher	ACM New York, NY, USA
+ISBN	978-1-4503-0667-6
+Order Number	477118
+Conference 	GLSVLSIGreat Lakes Symposium on VLSI GLSVLSI logo
+Paper Acceptance Rate 57 of 207 submissions, 28%
+Overall Acceptance Rate 444 of 1,494 submissions, 30%
+	
+Year 	Submitted 	Accepted 	Rate
+GLSVLSI '06 	219 	82 	37%
+GLSVLSI '07 	324 	68 	21%
+GLSVLSI '08 	220 	54 	25%
+GLSVLSI '09 	215 	62 	29%
+GLSVLSI '10 	165 	50 	30%
+GLSVLSI '11 	207 	57 	28%
+GLSVLSI '12 	144 	71 	49%
+Overall 	1,494 	444 	30%
+top of pageREVIEWS
+
+Reviews are not available for this item
+Computing Reviews logo
+
+    Access critical reviews of computing literature.
+    Become a reviewer for Computing Reviews
+
+top of pageCOMMENTS
+
+Be the first to comment To Post a comment please sign in or create a free Web account
+top of pageTable of Contents
+Proceedings of the 21st edition of the great lakes symposium on Great lakes symposium on VLSI
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Emerging technologies
+	
+	An arbiter based on-chip droop detector system
+	Jinwook Jang, Wayne Burleson
+	Pages: 1-6
+	doi>10.1145/1973009.1973011
+	Full text: PDFPDF
+	
+
+This paper presents a new design of supply droop detector system with a 10-20mV resolution at a very fast sampling rate (3GHz) in IBM 45nm SOI process. The detector system samples noisy supply voltage and stable reference voltages, and these sampled ...
+expand
+	A programmable and scalable technique to design spintronic logic circuits based on magnetic tunnel junctions
+	Shruti Patil, David J. Lilja
+	Pages: 7-12
+	doi>10.1145/1973009.1973012
+	Full text: PDFPDF
+	
+
+Exciting developments are taking place in the field of spintronics, particularly with the advances in the fabrication and characterization of devices such as Magnetic Tunnel Junctions (MTJ). The distinction of spintronic devices from conventional electronic ...
+expand
+	Logic synthesis for integrated optics
+	Christopher Condrat, Priyank Kalla, Steve Blair
+	Pages: 13-18
+	doi>10.1145/1973009.1973013
+	Full text: PDFPDF
+	
+
+As silicon photonics technology matures, optical devices will be available on a scale never before seen or utilized. It is therefore imperative to develop automated methods for synthesizing optical devices for large-scale designs. We present design and ...
+expand
+	Fine-grain reconfigurable logic cells based on double-gate CNTFETs
+	Kotb Jabeur, Natalya Yakymets, Ian O'Connor, Sébastien Le-Beux
+	Pages: 19-24
+	doi>10.1145/1973009.1973014
+	Full text: PDFPDF
+	
+
+This paper presents 2-inputs cells designed to perform reconfigurable operations in nanometric systems exploiting the ambipolar property of double-gate (DG) carbon nanotube (CNT) FETs. Previous work [1] described a dynamic logic cell generating only ...
+expand
+	RAMA: a self-assembled multiferroic magnetic QCA for low power systems
+	Mehdi Kabir, Mircea R. Stan, Stuart A. Wolf, Ryan B. Comes, Jiwei Lu
+	Pages: 25-30
+	doi>10.1145/1973009.1973015
+	Full text: PDFPDF
+	
+
+Recently, with the discovery of multiferroic materials, there has been a great interest in creating logic devices which exploit both magnetic and electric properties of these materials. This paper proposes a reconfigurable array of magnetic automata ...
+expand
+	SESSION: NoCs and routing
+	
+	VISION: a framework for voltage island aware synthesis of interconnection networks-on-chip
+	Nishit Ashok Kapadia, Sudeep Pasricha
+	Pages: 31-36
+	doi>10.1145/1973009.1973017
+	Full text: PDFPDF
+	
+
+High power dissipation has today become one of the major challenges in chip multiprocessor (CMP) design. Designers in recent years have proposed several techniques to alleviate the power challenge, one of which is the use of voltage islands (VIs) that ...
+expand
+	Rover: routing on via-configurable fabrics for standard-cell-like structured ASICs
+	Liang-Chi Lai, Hsih-Hang Chang, Rung-Bin Lin
+	Pages: 37-42
+	doi>10.1145/1973009.1973018
+	Full text: PDFPDF
+	
+
+In this paper we present a router called Rover for structured ASICs with via-configurable routing fabrics. We present a statistical approach to estimating available routing resource of a predefined routing fabric. We also introduce a concept called pseudo ...
+expand
+	Run-time energy management of manycore systems through reconfigurable interconnects
+	Jie Meng, Chao Chen, Ayse Kivilcim Coskun, Ajay Joshi
+	Pages: 43-48
+	doi>10.1145/1973009.1973019
+	Full text: PDFPDF
+	
+
+The active on-chip network channel width has a direct impact on the cache and memory access latency in manycore processors. A good choice of channel width improves the application performance and energy efficiency. In manycore systems, where workload ...
+expand
+	Congestion and track usage improvement of large FPGAs using metro-on-FPGA methodology
+	Mehdi Alipour, Mohammad Haji Seyed Javadi, Ali Jahanian
+	Pages: 49-54
+	doi>10.1145/1973009.1973020
+	Full text: PDFPDF
+	
+
+Asynchronous serial transceivers have been recently used for data multiplexing in large on-chip systems to alleviate the routing congestion and improve the routability. FPGAs have considerable potential for using the serial transmission but these links ...
+expand
+	Multi-objective topology synthesis and FPGA prototyping framework of application specific network-on-chip
+	Xinyu Li, Omar Hammami
+	Pages: 55-60
+	doi>10.1145/1973009.1973021
+	Full text: PDFPDF
+	
+
+Network-on-Chip (NoC) topology synthesis problem targets to generate NoC topology for multiple system design objectives such as performance and area. A multi-objective NoC synthesis and prototyping framework based on FPGA platform is proposed to design ...
+expand
+	SESSION: Circuit design I
+	
+	Efficient shift-adds design of digit-serial multiple constant multiplications
+	Levent Aksoy, Cristiano Lazzari, Eduardo Costa, Paulo Flores, José Monteiro
+	Pages: 61-66
+	doi>10.1145/1973009.1973023
+	Full text: PDFPDF
+	
+
+Bit-parallel realization of the multiplication of a variable by a set of constants using only addition, subtraction, and shift operations has been explored extensively over the years as large number of constant multiplications dominate the complexity ...
+expand
+	Accelerating Itoh-Tsujii multiplicative inversion algorithm for FPGAs
+	Sujoy Sinha Roy, Chester Rebeiro, Debdeep Mukhopadhyay
+	Pages: 67-72
+	doi>10.1145/1973009.1973024
+	Full text: PDFPDF
+	
+
+The Itoh-Tsujii multiplicative inversion algorithm (ITA) is the most efficient finite field inversion algorithm for hardware based implementations over extended binary fields. In this paper we propose a novel technique to reduce the computation time ...
+expand
+	FPGA implementation of binary edwards curve usingternary representation
+	Ayantika Chatterjee, Indranil Sengupta
+	Pages: 73-78
+	doi>10.1145/1973009.1973025
+	Full text: PDFPDF
+	
+
+Elliptic curve cryptography (ECC) has proven its superiority, since it was proposed in the domain of Public-Key Cryptography [1]. Further, Edwards curve adds a new paradigm to ECC in terms of speed and security against exceptional point attacks. This ...
+expand
+	Design of low-power multiple constant multiplications using low-complexity minimum depth operations
+	Levent Aksoy, Eduardo Costa, Paulo Flores, José Monteiro
+	Pages: 79-84
+	doi>10.1145/1973009.1973026
+	Full text: PDFPDF
+	
+
+Existing optimization algorithms for the multiplierless realization of multiple constant multiplications (MCM) typically target the minimization of the number of addition and subtraction operations. Since power dissipation is directly related to the ...
+expand
+	High performance technique for database applications using a hybrid GPU/CPU platform
+	M. Affan Zidan, Talal Bonny, Khaled N. Salama
+	Pages: 85-90
+	doi>10.1145/1973009.1973027
+	Full text: PDFPDF
+	
+
+Many database applications, such as sequence comparing, sequence searching, and sequence matching, etc, process large database sequences. we introduce a novel and efficient technique to improve the performance of database applications by using a Hybrid ...
+expand
+	Design and management of 3D-stacked NUCA cache for chip multiprocessors
+	Jongpil Jung, Kyungsu Kang, Chong-Min Kyung
+	Pages: 91-96
+	doi>10.1145/1973009.1973028
+	Full text: PDFPDF
+	
+
+Power and delay induced from long on-chip interconnections are becoming major issues of chip multiprocessor design. Both network-on-chip (NoC) and three-dimensional integration are promising ways to mitigate the interconnection problem. In this paper, ...
+expand
+	SESSION: Low power and temperature
+	
+	Design techniques to improve the device write margin for MRAM-based cache memory
+	Hongbin Sun, Chuanyin Liu, Nanning Zheng, Tai Min, Tong Zhang
+	Pages: 97-102
+	doi>10.1145/1973009.1973030
+	Full text: PDFPDF
+	
+
+As one promising non-volatile memory technology, magnetoresistive RAM (MRAM) based on magnetic tunneling junctions (MTJs) has recently attracted much attention. However, latest device research has discovered that, in order to maintain sufficient MTJ ...
+expand
+	DRAM energy reduction by prefetching-based memory traffic clustering
+	Yebin Lee, Soontae Kim
+	Pages: 103-108
+	doi>10.1145/1973009.1973031
+	Full text: PDFPDF
+	
+
+DRAMs consume a large portion of total system energy consumption. Thus, reducing DRAM energy consumption is able to prolong the lifetime of battery-operated embedded/portable systems. To this end, we propose DRAM energy-aware data prefetching scheme ...
+expand
+	A low-power TCAM design using mask-aware match-line (MAML) technique
+	Yen-Jen Chang, Tung-Chi Wu
+	Pages: 109-114
+	doi>10.1145/1973009.1973032
+	Full text: PDFPDF
+	
+
+The ternary content addressable memory (TCAM) is widely used in the network router to speed up the forwarding table lookup, but it usually consumes a large amount of power. This paper introduces a low-power TCAM design, in which we propose the mask-aware ...
+expand
+	Hardware-assisted dynamic power and thermal management in multi-core SoCs
+	George Kornaros, Dionisios Pnevmatikatos
+	Pages: 115-120
+	doi>10.1145/1973009.1973033
+	Full text: PDFPDF
+	
+
+The use of efficient and dynamic power dissipation management mechanisms is crucial in upcoming, complex and dynamic multi-core Systems-on-Chip. In such systems, static approaches are inadequate to capture the dynamic system behavior, while at the same ...
+expand
+	A 7T SRAM bit-cell for low-power embedded memories
+	Wasim Hussain, Shah M. Jahinuzzaman
+	Pages: 121-126
+	doi>10.1145/1973009.1973034
+	Full text: PDFPDF
+	
+
+With CMOS technology scaling, data stability and yield have become key concerns of low power embedded memories, which are realized using the static random access memory (SRAM). In this paper, we propose a seven transistor (7T) SRAM bit-cell to address ...
+expand
+	SESSION: Circuit design II
+	
+	A static-switching pulse domino technique for statistical power reduction of wide fan-in dynamic gates
+	Rahul Singh, Jae-Cheol Son, Ukrae Cho, Gunok Jung, Min-Su Kim, Hyoungwook Lee, Suhwan Kim
+	Pages: 127-132
+	doi>10.1145/1973009.1973036
+	Full text: PDFPDF
+	
+
+In wide fan-in dynamic domino gates, the two phase evaluate-precharge operation leads to high switching activity at the dynamic and the output nodes which introduces a significant power penalty. In this paper, we propose a pulse domino technique to reduce ...
+expand
+	A 45.6μ2 13.4μw 7.1v/v resolution sub-threshold based digital process-sensing circuit in 45nm CMOS
+	Basab Datta, Wayne Burleson
+	Pages: 133-138
+	doi>10.1145/1973009.1973037
+	Full text: PDFPDF
+	
+
+Process optimization and yield enhancement techniques rely on physical sensors to provide them with feedback to perform accurate process-characterization across the die. The increased susceptibility of circuit performance characteristics to parameter ...
+expand
+	A new balanced 4-moduli set {2k, 2n - 1, 2n + 1, 2n+1-1} and its reverse converter design for efficient fir filter implementation
+	Gayathri Chalivendra, Vinay Hanumaiah, Sarma Vrudhula
+	Pages: 139-144
+	doi>10.1145/1973009.1973038
+	Full text: PDFPDF
+	
+
+This paper presents a new four moduli residue number system of the form {2k, 2n-1, 2n+1-1}, n d k d 2n, which is an enhancement of the popular four-moduli set {2n,2n-1,2n,2n+1-1} ...
+expand
+	Towards robust nano-CMOS sense amplifier design: a dual-threshold versus dual-oxide perspective
+	Oghenekarho Okobiah, Saraju P. Mohanty, Elias Kougianos, Mahesh Poolakkaparambil
+	Pages: 145-150
+	doi>10.1145/1973009.1973039
+	Full text: PDFPDF
+	
+
+This paper presents research leading to robust nano-CMOS sense amplifier design by incorporating process variation early in the design process. The effects of process variation are analyzed on the performance of a conventional voltage sense amplifier ...
+expand
+	A design methodology for the automatic sizing of standard-cell libraries
+	Christian Pilato, Fabrizio Ferrandi, Davide Pandini
+	Pages: 151-156
+	doi>10.1145/1973009.1973040
+	Full text: PDFPDF
+	
+
+Current EDA tools are often based on standard-cell libraries for the design of modern complex systems-on-chip. In general, there are opposite trends to compact and extend the standard cell libraries, and to move towards custom libraries, highly optimized ...
+expand
+	SESSION: Asynchronous circuits
+	
+	Integration of behavioral synthesis and floorplanning for asynchronous circuits with bundled-data implementation
+	Naohiro Hamada, Hiroshi Saito
+	Pages: 157-162
+	doi>10.1145/1973009.1973042
+	Full text: PDFPDF
+	
+
+In this paper, we propose a synthesis method for asynchronous circuits with bundled-data implementation which iteratively applies behavioral synthesis and floorplanning to obtain an optimum circuit in terms of performance under given design constraints. ...
+expand
+	Coupling latency-insensitivity with variable-latency for better than worst case design: a RISC case study
+	Mario R. Casu, Stefano Colazzo, Paolo Mantovani
+	Pages: 163-168
+	doi>10.1145/1973009.1973043
+	Full text: PDFPDF
+	
+
+The gap between worst and typical case delays is bound to increase in nanometer scale technologies due to the spread in process manufacturing parameters. To still profit from scaling, designs should tolerate worst case delays seamlessly and with a minimum ...
+expand
+	Reconfigurable controllers for synchronization via wagging
+	James Sebastian Guido, Alexandre Yakovlev
+	Pages: 175-180
+	doi>10.1145/1973009.1973044
+	Full text: PDFPDF
+	
+
+Synchronization via wagging is a method by which a high bandwidth data signal can be partitioned into several lower bandwidth data signals in order to increase the synchronization time of a master-slave latch configuration, and by consequence the mean ...
+expand
+	Variation-immune quasi delay-insensitive implementation on nano-crossbar arrays
+	Masoud Zamani, Mehdi Baradaran Tahoori
+	Pages: 181-186
+	doi>10.1145/1973009.1973045
+	Full text: PDFPDF
+	
+
+Nano crossbar architectures are based on emerging nan- otechnology fabricated using self-assembly processes to reduce manufacturing costs and achieve higher levels of integration. An extreme parameter variation due to nondeterministic nanofabrication ...
+expand
+	SESSION: CAD
+	
+	An efficient algorithm for custom instruction enumeration
+	Chenglong Xiao, Emmanuel Casseau
+	Pages: 187-192
+	doi>10.1145/1973009.1973047
+	Full text: PDFPDF
+	
+
+In order to meet growing market demands in flexibility and performance, the use of extensible processors has been increased. Extensible processors extend the base instruction set of a general-purpose processor with a set of custom instructions. Custom ...
+expand
+	An approximation algorithm for cofactoring-based synthesis
+	Anna Bernasconi, Valentina Ciriani, Valentino Liberali, Gabriella Trucco, Tiziano Villa
+	Pages: 193-198
+	doi>10.1145/1973009.1973048
+	Full text: PDFPDF
+	
+
+Boolean functional decomposition techniques built on top of Shannon cofactoring have been discussed in various applications of logic synthesis targeting reductions in area, delay and power. In this paper we investigate a generalization of decomposition ...
+expand
+	Obstacle-avoiding and slew-constrained buffered clock tree synthesis for skew optimization
+	Feifei Niu, Qiang Zhou, Hailong Yao, Yici Cai, Jianlei Yang, C. N. Sze
+	Pages: 199-204
+	doi>10.1145/1973009.1973049
+	Full text: PDFPDF
+	
+
+Buered clock tree synthesis (CTS) is increasingly critical as VLSI technology continually scales down. Many researches have been done on this topic due to its key role in CTS, but current approaches either lack the obstacle-avoiding functionality or ...
+expand
+	New optimal layer assignment for bus-oriented escape routing
+	Jin-Tai Yan, Zhi-Wei Chen
+	Pages: 205-210
+	doi>10.1145/1973009.1973050
+	Full text: PDFPDF
+	
+
+In this paper, based on the optimal feature of a left-edge algorithm for interval packing, a modified left-edge algorithm is proposed to optimally solve the layer assignment problem for bus-oriented escape routing. Firstly, a set of assignment constraints ...
+expand
+	Acceleration of random-walk-based linear circuit analysis using importance sampling
+	Tetsuro Miyakawa, Koh Yamanaga, Hiroshi Tsutsui, Hiroyuki Ochi, Takashi Sato
+	Pages: 211-216
+	doi>10.1145/1973009.1973051
+	Full text: PDFPDF
+	
+
+This paper proposes an importance sampling (IS) technique based on quasi-zero-variance estimation for accelerating convergence of random-walk-based power grid analysis. In our approach, the alternative probability for IS is incrementally updated after ...
+expand
+	SESSION: Design of specific circuits
+	
+	A 65 nm CMOS low power RF front-end for L1/E1 GPS/Galileo signals
+	Gaetano Rivela, Pietro Scavini, Daniele Grasso, Antonino Calcagno, Maria Gabriella Castro, Giuseppe Di Chiara, Giuseppe Avellone, Giovanni Cali', Salvatore Scaccianoce
+	Pages: 217-222
+	doi>10.1145/1973009.1973053
+	Full text: PDFPDF
+	
+
+In this paper, we present a low-power RF front-end designed for L1/E1 GPS/Galileo, implemented on 65 nm CMOS technology. It draws 16mA on external voltage supply of 1.2V, with power consumption of less than 20mW. The chip could work also at 1.8V using ...
+expand
+	Simulation-based equivalence checking between SystemC models at different levels of abstraction
+	Daniel Große, Markus Groß, Ulrich Kühne, Rolf Drechsler
+	Pages: 223-228
+	doi>10.1145/1973009.1973054
+	Full text: PDFPDF
+	
+
+Today for System-on-Chips (SoCs) companies Electronic System Level(ESL) design is the established approach. Abstraction and standardized communication interfaces based on SystemC Transaction Level Modeling (TLM) have become the core component for ESL ...
+expand
+	Fast high-performance algorithms for multi-pin droplet routing in digital microfluidic biochips
+	Pranab Roy, Hafizur Rahaman, Parthasarathi Dasgupta
+	Pages: 229-234
+	doi>10.1145/1973009.1973055
+	Full text: PDFPDF
+	
+
+The use of microfluidics for building biochips is an emerging research area. A key challenge in this area is the droplet routing problem in the design of digital microfluidic biochips. It involves the scheduling of movement of a number of droplets in ...
+expand
+	A countermeasure against power analysis attacks for FSR-based stream ciphers
+	Shohreh Sharif Mansouri, Elena Dubrova
+	Pages: 235-240
+	doi>10.1145/1973009.1973056
+	Full text: PDFPDF
+	
+
+In this paper we analyze the power characteristics of Feedback Shift Registers (FSRs) and their e ect on FSR-based stream ciphers. We introduce a technique to isolate the switching activity of a stream cipher by equalizing the current drawn from the ...
+expand
+	Low jitter audio range PLL with ultra low power dissipation
+	Fu Luo, Godi Fischer
+	Pages: 241-246
+	doi>10.1145/1973009.1973057
+	Full text: PDFPDF
+	
+
+This paper presents the design of an ultra low power Phase-Locked Loop (PLL) intended for applications in the extended audio range. The PLL is well suited for battery operated systems, where small size and low power operation are crucially important. ...
+expand
+	SESSION: Design for variability
+	
+	Layout-aware variation evaluation of analog circuits and its validity on op-amp designs
+	Kota Shinohara, Mihoko Hidaka, Jing Li, Qing Dong, Bo Yang, Shigetoshi Nakatake
+	Pages: 247-252
+	doi>10.1145/1973009.1973059
+	Full text: PDFPDF
+	
+
+This paper presents a novel way to analyze the variation of analog circuits taking layout-dependent variation parameters into consideration. Focusing on 90nm process, we reveal Monte Carlo simulation based on independent parameters Vth ...
+expand
+	A linear programming approach for minimum NBTI vector selection
+	Farshad Firouzi, Saman Kiamehr, Mehdi B. Tahoori
+	Pages: 253-258
+	doi>10.1145/1973009.1973060
+	Full text: PDFPDF
+	
+
+Transistor aging is a serious reliability challenge for nanoscale CMOS technology which can significantly reduce the operation lifetime of VLSI chips. Negative Bias Temperature Instability (NBTI) is the major contributor to transistor aging which affect ...
+expand
+	Fitting standard cell performance to generalized Lambda distributions
+	André Lange, Joachim Haase, Hendrik T. Mau
+	Pages: 259-264
+	doi>10.1145/1973009.1973061
+	Full text: PDFPDF
+	
+
+It is well known that random fluctuations in integrated circuit manufacturing introduce variations in circuit performance. While a lot of effort has been spent on circuit variability, fitting performance parameter distributions has not been extensively ...
+expand
+	Stress aware switching activity driven low power design of critical paths in nanoscale CMOS circuits
+	Sudarshan Srinivasan, Bharath Phanibhushana, Arunkumar Vijayakumar, Sandip Kundu
+	Pages: 265-270
+	doi>10.1145/1973009.1973062
+	Full text: PDFPDF
+	
+
+Recent research on low power circuits make use of dual VT and strained silicon technologies. Low VT assignment on performance critical paths improves performance at the expense of leakage current. Strained silicon devices on the other hand ...
+expand
+	Simultaneous variation-aware architecture exploration and task scheduling for MPSoC energy minimization
+	Mahmoud Momtazpour, Mahboobeh Ghorbani, Maziar Goudarzi, Esmaeil Sanaei
+	Pages: 271-276
+	doi>10.1145/1973009.1973063
+	Full text: PDFPDF
+	
+
+In nanometer-scale process technologies, the effects of process variations are observed in Multiprocessor System-on-Chips (MPSoC) in terms of variations in frequencies and leakage powers among the processors on the same chip as well as across different ...
+expand
+	SESSION: Design for reliability
+	
+	Impact of positive bias temperature instability (PBTI) on 3T1D-DRAM cells
+	Nivard Aymerich, Shrikanth Ganapathy, Antonio Rubio, Ramon Canal, Antonio González
+	Pages: 277-282
+	doi>10.1145/1973009.1973065
+	Full text: PDFPDF
+	
+
+Memory circuits are playing a key role in complex multicore systems with both data and instructions storage and mailbox communication functions. There is a general concern that conventional SRAM cell based on the 6T structure could exhibit serious limitations ...
+expand
+	Redundancy in SAR ADCs
+	Albert H. Chang, Hae-Seung Lee, Duane S. Boning
+	Pages: 283-288
+	doi>10.1145/1973009.1973066
+	Full text: PDFPDF
+	
+
+In this paper, we discuss and analyze the effectiveness of redundancy (also known as digital error correction) and its relationship with DAC settling time, comparator delay, digital logic delay and sampling rate in successive-approximation-register (SAR) ...
+expand
+	A high sensitivity and process tolerant digital thermal sensing scheme for 3-D Ics
+	Basab Datta, Wayne Burleson
+	Pages: 289-294
+	doi>10.1145/1973009.1973067
+	Full text: PDFPDF
+	
+
+Thermal sensing is a pressing need in stacked 3-D chips with limited number of vertical heat conduits. In 3-D systems with active temperature control, the controller is reliant on sensors placed on individual planes to provide the necessary thermal feedback. ...
+expand
+	Buffering of frequent accesses for reduced cache aging
+	Andrea Calimera, Mirko Loghi, Enrico Macii, Massimo Poncino
+	Pages: 295-300
+	doi>10.1145/1973009.1973068
+	Full text: PDFPDF
+	
+
+Previous works have shown that typical power management knobs such as voltage scaling or power gating can also be exploited to reduce aging phenomena caused by Negative Bias Temperature Instability (NBTI). We propose a scheme for power-managed caches ...
+expand
+	Combined architecture and hardening techniques exploration for reliable embedded system design
+	Cristiana Bolchini, Antonio Miele, Christian Pilato
+	Pages: 301-306
+	doi>10.1145/1973009.1973069
+	Full text: PDFPDF
+	
+
+This paper proposes an approach for hardening embedded systems that combines the identification of the most convenient architecture and the set of application-level fault management techniques, fulfilling reliability requirements and maximizing performance. ...
+expand
+	Ordered coloring-based resource binding for datapaths with improved skew-adjustability
+	Mineo Kaneko, Keisuke Inoue
+	Pages: 307-312
+	doi>10.1145/1973009.1973070
+	Full text: PDFPDF
+	
+
+This paper proposes a novel high level synthesis for post-silicon skew adjustable datapaths. Our objective in high level synthesis is to maximize the "skew adjustability", i.e. the probability of the success of skew adjustment under delay variations. ...
+expand
+	SESSION: Circuit design III
+	
+	Power estimation of dividers implemented in FPGAs
+	Ruzica Jevtic, Bojan Jovanovic, Carlos Carreras
+	Pages: 313-318
+	doi>10.1145/1973009.1973072
+	Full text: PDFPDF
+	
+
+We present a methodology for power estimation of non-fractional divider cores implemented in FPGAs. The methodology takes into account the divider structure and the signal statistics at the inputs: mean, variance, and autocorrelation. An analytical model ...
+expand
+	Nanometer-scale standard cell library for enhanced redundant via1 insertion rate
+	Tsang-Chi Kan, Shih-Hsien Yang, Ting-Feng Chang, Shanq-Jang Ruan
+	Pages: 319-324
+	doi>10.1145/1973009.1973073
+	Full text: PDFPDF
+	
+
+Despite the rapid advances in process technology, via failure is still problematic in nanometer-scale semiconductor manufacturing. Adding redundant vias is the typical approach for improving yield and reliability. Standard cells are essential for increasing ...
+expand
+	Circuit design of a dual-versioning L1 data cache for optimistic concurrency
+	Azam Seyedi, Adrià Armejach, Adrián Cristal, Osman S. Unsal, Ibrahim Hur, Mateo Valero
+	Pages: 325-330
+	doi>10.1145/1973009.1973074
+	Full text: PDFPDF
+	
+
+This paper proposes a novel L1 data cache design with dual-versioning SRAM cells (dvSRAM) for chip multi-processors (CMP) that implement optimistic concurrency proposals. In this new cache architecture, each dvSRAM cell has two cells, a main cell and ...
+expand
+	Real-time address trace compression for emulated and real system-on-chip processor core debugging
+	Bojan Mihajlović, Željko Žilić
+	Pages: 331-336
+	doi>10.1145/1973009.1973075
+	Full text: PDFPDF
+	
+
+In the multicore era, capturing execution traces of processors is indispensable to debugging complex software. The inability to transfer vast amounts of trace data off-chip without significant slow-down has impeded the debugging of such software, in ...
+expand
+	Investigating modern layout representations for improved 3d design automation
+	Robert Fischbach, Jens Lienig, Johann Knechtel
+	Pages: 337-342
+	doi>10.1145/1973009.1973076
+	Full text: PDFPDF
+	
+
+The current trend towards 3D integration requires new layout representations specifically designed to take 3D-specific constraints into account and to facilitate efficient design algorithms. We observe that it is difficult to compare and evaluate these ...
+expand
+	POSTER SESSION: Poster session I
+	
+	Design and failure analysis of logic-compatible multilevel gain-cell-based dram for fault-tolerant VLSI systems
+	Pascal Andreas Meinerzhagen, Onur Andiç, Jürg Treichler, Andreas Peter Burg
+	Pages: 343-346
+	doi>10.1145/1973009.1973078
+	Full text: PDFPDF
+	
+
+This paper considers the problem of increasing the storage density in fault-tolerant VLSI systems which require only limited data retention times. To this end, the concept of storing many bits per memory cell is applied to area-efficient and fully logic-compatible ...
+expand
+	Power efficient partial product compression
+	Chiu-wei Pan, Zhao Wang, Yuanchen Song, Carl Sechen
+	Pages: 347-350
+	doi>10.1145/1973009.1973079
+	Full text: PDFPDF
+	
+
+We present a power efficient structure for partial product compression. Since the full-adder cell is a cornerstone for partial product compression, we determined what are the most power efficient full-adder cells for a wide range of delays. We then developed ...
+expand
+	Evaluation of FPGA routing architectures under process variation
+	Fatemeh Sadat Pourhashemi, Morteza Saheb Zamani
+	Pages: 351-354
+	doi>10.1145/1973009.1973080
+	Full text: PDFPDF
+	
+
+Uncertainty in performance of FPGAs is becoming an important issue due to increased process variations in nanometer regime. Therefore, it is vital to decrease the impact of variability in these devices. FPGA routing architecture enhancement can be an ...
+expand
+	High resolution MASH 2-2 Sigma Delta interface for capacitive accelerometers
+	Swathi Ramasahayam, Satyam Mandavilli
+	Pages: 355-358
+	doi>10.1145/1973009.1973081
+	Full text: PDFPDF
+	
+
+This paper describes the design of fourth order MASH ΣΔ interface for MEMS capacitive accelerometers which is capable of converting change in differential capacitance to a digital output. It employs a switched capacitor (SC) charge amplifier ...
+expand
+	Influence of metallic tubes on the reliability of CNTFET SRAMs: error mechanisms and countermeasures
+	Zhen Wang, Mark Karpovsky, Ajay Joshi
+	Pages: 359-362
+	doi>10.1145/1973009.1973082
+	Full text: PDFPDF
+	
+
+Carbon nanotubes (CNTs) are considered as a possible successor to the CMOS technology. The adoption of these nanodevices for designing large VLSI systems, however, is limited by the unreliable manufacturing process. In this paper, we investigate the ...
+expand
+	A new low power and area efficient semi-digital PLL architecture for low bandwidth applications
+	Markus Dietl, Puneet Sareen
+	Pages: 363-366
+	doi>10.1145/1973009.1973083
+	Full text: PDFPDF
+	
+
+Traditional PLL architecture uses one control voltage for both integrated and proportional part of the oscillator. Digital PLL architecture uses 2 control words for integrated and proportional part of the oscillator. In this paper, we describe a new ...
+expand
+	SIAR: splitting-graph-based interactive analog router
+	Fan Yang, Hailong Yao, Qiang Zhou, Yici Cai
+	Pages: 367-370
+	doi>10.1145/1973009.1973084
+	Full text: PDFPDF
+	
+
+As analog and mixed-signal (AMS) circuitry gains increasing portions in modern SoCs, automotive analog routing is becoming more and more important. This paper presents a fast real-time interactive analog router called SIAR based on a splitting graph. ...
+expand
+	A comparative study of state-of-the-art low-power CAM match-line sense amplifier designs
+	Anh Tuan Do, Xiaoliang Tan, Shoushun Chen, Zhi Hui Kong, Kiat Seng Yeo
+	Pages: 371-374
+	doi>10.1145/1973009.1973085
+	Full text: PDFPDF
+	
+
+Robust, high-performance and low-power match-line sense amplifier designs are urgently required to catch up with the new requirements of large-scale CAMs in nano-scale CMOS technologies. In this paper we evaluate the performance of four state-of-the-art ...
+expand
+	Sensitivity of neuromorphic circuits using nanoelectronic resistive switches to pulse synchronization
+	Arne Heittmann, Tobias G. Noll
+	Pages: 375-378
+	doi>10.1145/1973009.1973086
+	Full text: PDFPDF
+	
+
+This paper describes a neuromorphic circuit based on resistive switches arranged in a crossbar architecture. Using pulses as general signal representation the circuit in particular is sensitive to the degree of synchronization of the input pulses. In ...
+expand
+	A dual-core system solution for wearable health monitors
+	Frank Bouwens, Jos Huisken, Harmke De Groot, Martijn Bennebroek, Anteneh Abbo, Octavio Santana, Jef van Meerbergen, Antoine Fraboulet
+	Pages: 379-382
+	doi>10.1145/1973009.1973087
+	Full text: PDFPDF
+	
+
+This paper presents a system design study for wearable sensor devices intended for healthcare and lifestyle applications based on ECG, EEG and activity monitoring. In order to meet the low-power requirement of these applications, a dual-core signal processing ...
+expand
+	POSTER SESSION: Poster session II
+	
+	Robust signaling techniques for through silicon via bundles
+	Krishna C. Chillara, Jinwook Jang, Wayne P. Burleson
+	Pages: 383-386
+	doi>10.1145/1973009.1973089
+	Full text: PDFPDF
+	
+
+In high performance 3D ICs with increasing trend for multi-core and NoC architectures, signaling techniques play a crucial role in determining the overall performance of the system. In this work, we explored single ended and differential signaling techniques ...
+expand
+	Efficient realization of RTD-CMOS logic gates
+	Juan Núñez, María J. Avedillo, José M. Quintana
+	Pages: 387-390
+	doi>10.1145/1973009.1973090
+	Full text: PDFPDF
+	
+
+The incorporation of Resonant Tunnel Diodes (RTDs) into III/V transistor technologies has shown an improved circuit performance: higher circuit speed, reduced component count, and/or lowered power consumption. Currently, the incorporation of these devices ...
+expand
+	On residue removal in digital microfluidic biochips
+	Debasis Mitra, Sarmishtha Ghoshal, Hafizur Rahaman, Krishnendu Chakrabarty, Bhargab B. Bhattacharya
+	Pages: 391-394
+	doi>10.1145/1973009.1973091
+	Full text: PDFPDF
+	
+
+Multiplexing several assays in time on the same digital microfluidic biochip is often needed in several biochemical applications. Contamination may lead to undesirable mixing of the residue left by one assay with the droplets of the subsequent assay. ...
+expand
+	Repeater insertion in power-managed VLSI systems
+	Houman Zarrabi, Asim Al-Khalili, Yvon Savaria
+	Pages: 395-398
+	doi>10.1145/1973009.1973092
+	Full text: PDFPDF
+	
+
+In this paper, design space exploration methods for interconnect repeaters in DSM power-managed VLSI are proposed. These methods guarantee that the designed interconnects are energy-optimal, while they meet their performance objectives in all the system ...
+expand
+	Experimental demonstration of standby power reduction using voltage stacking in an 8Kb embedded FDSOI SRAM
+	Adam C. Cabe, Mircea R. Stan
+	Pages: 399-402
+	doi>10.1145/1973009.1973093
+	Full text: PDFPDF
+	
+
+Voltage stacking has been proposed as an efficient solution for power delivery in high performance processors, for 3D ICs, for pin-limited ICs, and for implicit sleep mode (standby) DC/DC conversion. In this paper we demonstrate voltage stacking for ...
+expand
+	Handling intra-die variations in PSTA
+	Luis Guerra e Silva, L. Miguel Silveira
+	Pages: 403-406
+	doi>10.1145/1973009.1973094
+	Full text: PDFPDF
+	
+
+For integrated circuit (IC) fabrication technologies of 45nm and below, the impact of process variability in circuit performance is extremely relevant. Parametric static timing analysis (PSTA) techniques, whereby delays are modeled as affine functions ...
+expand
+	Integrated logic synthesis using simulated annealing
+	Petra Färm, Elena Dubrova, Andreas Kuehlmann
+	Pages: 407-410
+	doi>10.1145/1973009.1973095
+	Full text: PDFPDF
+	
+
+Conventional logic synthesis flows are composed of three separate phases: technology independent optimization, technology mapping, and technology dependent optimization. A fundamental problem with such a three-phased approach is that the global logic ...
+expand
+	A geometric programming aided knowledge based approach for analog circuit synthesis and sizing
+	Supriyo Maji, Pradip Mandal
+	Pages: 411-414
+	doi>10.1145/1973009.1973096
+	Full text: PDFPDF
+	
+
+A knowledge based approach empowered by geometric programming (GP) for analog circuit synthesis and sizing is presented. Analog circuit performance specification is mapped to various building blocks of a circuit topology. Thereafter the topology is modified ...
+expand
+	Analyzing throughput of power and thermal-constraint multicore processor under NBTI effect
+	Shi-Qun Zheng, Ing-Chao Lin, Yen-Han Lee
+	Pages: 415-418
+	doi>10.1145/1973009.1973097
+	Full text: PDFPDF
+	
+
+NBTI (Negative Bias Temperature Instability) which can degrade the switching speed of PMOS transistors has become a major reliability challenge. In this paper, we investigate the throughput impact of NBTI on power and thermal-constraint multicore processors ...
+expand
+	Efficient method to compute minimum decision chains of Boolean functions
+	Mayler G.A. Martins, Vinicius Callegaro, Renato P. Ribas, Andre I. Reis
+	Pages: 419-422
+	doi>10.1145/1973009.1973098
+	Full text: PDFPDF
+	
+
+Every Boolean function has a unique property called Minimum Decision Chain (MDC). This paper proposes an effective way to compute this property for arbitrary functions. The proposed method is very efficient when compared to a more direct and intuitive ...
+expand
+	Time-mode reconstruction iir filters for ΣΔ phase modulation applications
+	Ali Ameri, Gordon W. Roberts
+	Pages: 423-426
+	doi>10.1145/1973009.1973099
+	Full text: PDFPDF
+	
+
+This paper presents the design of several low-pass IIR time-mode filters for use as reconstruction filters in digital-to-time conversion (DTC) applications. Previously, such reconstruction filters were implemented using phase-locked loops. The proposed ...
+expand
+	SESSION: SMECY: Smart Multi-core Embedded SYstems
+	
+	SMECY: smart multi-core embedded systems
+	Francois Pacull, Koen Bertels, Martin Danek, Giulio Urlini
+	Pages: 427-428
+	doi>10.1145/1973009.1973101
+	Full text: PDFPDF
+	
+
+SMECY project is an ambitious European initiative involving 29 partners across 9 countries to enable Europe to have a leader role in multi-core domain by developing new programming technologies enabling the exploitation of architectures offering hundreds ...
+expand
+	SESSION: Magnetic memory (MRAM), a new area for 2D and 3D SoC/SiP design
+	
+	Magnetic memory (MRAM), a new area for 2D and 3D SoC/SiP design
+	Lionel Torres, Weisheng Zhao
+	Pages: 429-430
+	doi>10.1145/1973009.1973103
+	Full text: PDFPDF
+	
+	Design of MRAM based logic circuits and its applications
+	Weisheng Zhao, Lionel Torres, Yoann Guillemenet, Luís Vitório Cargnini, Yahya Lakys, Jacques-Olivier Klein, Dafine Ravelosona, Gilles Sassatelli, Claude Chappert
+	Pages: 431-436
+	doi>10.1145/1973009.1973104
+	Full text: PDFPDF
+	
+
+As the fabrication technology node shrinks down to 90nm or below, high standby power becomes one of the major critical issues for CMOS logic circuits due to the high leakage currents. A number of non-volatile storage technologies such as FRAM, MRAM, ...
+expand
+	Instant power-on nonvolatile FPGA based on MTJ/MOS-hybrid circuitry
+	Takahiro Hanyu
+	Pages: 437-438
+	doi>10.1145/1973009.1973105
+	Full text: PDFPDF
+	
+	Enabling architectural innovations using non-volatile memory
+	Vijaykrishnan Narayanan, Vinay Saripalli, Karthik Swaminathan, Ravindhiran Mukundrajan, Guangyu Sun, Yuan Xie, Suman Datta
+	Pages: 439-444
+	doi>10.1145/1973009.1973106
+	Full text: PDFPDF
+	
+
+The emergence of non-volatile memory technologies such as Spin Torque Transfer Magneto-resistive Random Access Memory RAM and Phase Change Memories provide new opportunities for architectural innovations. While the zero off-state leakage, fast read access ...
+expand
+	Challenges for non-volatile memory & logic manufacturing utilizing magnetic tunnel junction on 300 mm wafer
+	Keizo Kinoshita
+	Pages: 445-446
+	doi>10.1145/1973009.1973107
+	Full text: PDFPDF
+	
+
+Manufacturing issues to realize non-volatile memory & logic devices with MTJ will be discussed. For memory application, we have two different goals in these days. Those are high-speed embedded memory and large-volume stand-alone memory, and each ...
+expand
+	SESSION: Hardware security in VLSI
+	
+	Hardware security in VLSI
+	Wayne Burleson, Yusuf Leblebici
+	Pages: 447-448
+	doi>10.1145/1973009.1973109
+	Full text: PDFPDF
+	
+
+This special session addresses the increasingly critical area of hardware security in VLSI. As computing becomes ubiquitous, most systems need to implement various layers of security, all of which rely on the security of the underlying hardware. At the ...
+expand
+	Integrated circuits metering for piracy protection and digital rights management: an overview
+	Farinaz Koushanfar
+	Pages: 449-454
+	doi>10.1145/1973009.1973110
+	Full text: PDFPDF
+	
+
+This paper presents an overview of hardware and Integrated Circuits (IC) metering methods. IC metering or hardware metering refers to tools, methodologies, and protocols that enable post-fabrication tracking of the ICs. Metering enables prevention and ...
+expand
+	Physically unclonable functions: manufacturing variability as an unclonable device identifier
+	Ingrid Verbauwhede, Roel Maes
+	Pages: 455-460
+	doi>10.1145/1973009.1973111
+	Full text: PDFPDF
+	
+
+CMOS process variations are considered a burden to IC developers since they introduce undesirable random variability between equally designed ICs. However, it was demonstrated that measuring this variability can also be profitable as a physically unclonable ...
+expand
+	The future of high-speed cryptography: new computing platforms and new ciphers
+	Tim Güneysu, Stefan Heyse, Christof Paar
+	Pages: 461-466
+	doi>10.1145/1973009.1973112
+	Full text: PDFPDF
+	
+
+Almost all of today's security systems rely on cryptographic primitives as core components which are usually considered the most trusted part of the system. The realization of these primitives on the underlying processing platform plays a crucial role ...
+expand
+	SESSION: Quantum devices and optical computing
+	
+	Quantum devices and optical computing: introduction
+	Braulio García-Cámara
+	Pages: 467-468
+	doi>10.1145/1973009.1973114
+	Full text: PDFPDF
+	
+
+Recent advances in computing have led to a further miniaturization of integrated systems. In addition, these new devices would be faster than current ones and capable to share a very high quantity of information. Unfortunately, electronics is physically ...
+expand
+	Optically leviting dielectrics in the quantum regime
+	Oriol Romero-Isart, Anika C. Panzer, J. Ignacio Cirac
+	Pages: 469-470
+	doi>10.1145/1973009.1973115
+	Full text: PDFPDF
+	
+
+The field of optical trapping and manipulation of small neutral particles using the radiation pressure force of lasers was originated in 1970 by the seminal experiment of Ashkin. Over the course of the next 40 years, the techniques of optical trapping ...
+expand
+	Quantum information processing beyond polarization encoding
+	Rainer Kaltenbaek
+	Pages: 471-472
+	doi>10.1145/1973009.1973116
+	Full text: PDFPDF
+	
+
+I will present recent research results in optical one-way quantum computation and quantum information processing that I have been involved in. The first topic is an optimization of how to use the limited resources available in typical quantum-optics ...
+expand
+	Solid state optical quantum memories
+	Hugues de Riedmatten
+	Pages: 473-474
+	doi>10.1145/1973009.1973117
+	Full text: PDFPDF
+	
+
+Quantum information science (QIS) aims at controlling quantum coherence effects in light and matter in order to enable new information processing capabilities that are not possible with classical resources. Quantum information can be encoded in photons ...
+expand
+	Deeply-scaled CMOS-integrated nanophotonic devices for next generation supercomputers
+	Solomon Assefa, Wiliam M.J. Green, Alexander Rylyakov, Clint Schow, Folker Horst, Yurü A. Vlasov
+	Pages: 475-476
+	doi>10.1145/1973009.1973118
+	Full text: PDFPDF
+	
+
+High-performance computing (HPC) systems capable of delivering Exaflops performance are envisioned to become a reality by the end of this decade. In order to provide the enormous communication bandwidth that is necessary, hundreds of millions of optical ...
+expand
+
+Powered by The ACM Guide to Computing Literature
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2012 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us
+
+Useful downloads: Adobe Acrobat    QuickTime    Windows Media Player    Real Player
+
